@@ -4,7 +4,8 @@
 
 ## Dataset
 本项目采用 PolyJoin [1] 的数据集构造方式进行训练集以及测试集的构造。
-
+训练集：https://pan.baidu.com/s/1pfnBO98TpR14WwNbA6S-oQ?pwd=rybg
+测试集：https://pan.baidu.com/s/1jXt8jxRO7gtGbmda5y0e7w?pwd=hj56
 PolyJoin 是一种用于在数据湖中发现多键语义可连接表的方法，它通过多键编码器和自监督学习技术来识别可以进行语义连接的表对。本项目借鉴了其数据集构造方法，用于训练和评估表连接分类器。
 
 ### 引用文献
