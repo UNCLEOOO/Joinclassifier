@@ -1,0 +1,871 @@
+import duckdb
+import json
+import logging
+import os
+import re
+from typing import Dict, List, Tuple, Any
+
+from transform_agent.agent.prompts_v2 import ANALYSIS_SYSTEM_PROMPT
+from transform_agent.agent.models import call_llm, LLMCallRecord
+
+# Import operator modules
+from transform_agent.agent.operators import (
+    GetLeftAnti, EditDistScan, EmbeddingScan,
+    TextNorm, ToDate, ToNumeric, FuzzyMap, SepSplit, Pivot, UnPivot,
+    ExactRatio, TokenRatio, Commit
+)
+
+logger = logging.getLogger("transform_agent")
+
+
+class PromptAgent:
+    def __init__(
+        self,
+        model="gpt-4o",
+        max_tokens=2500,
+        top_p=0.9,
+        temperature=0.1,
+    ):
+        self.model = model
+        self.max_tokens = max_tokens
+        self.top_p = top_p
+        self.temperature = temperature
+
+    def discovery_phase(self, duckdb_path: str, table1: str, table2: str,
+                       join_col1: str, join_col2: str) -> Dict[str, Any]:
+        """
+        Execute full discovery phase (GetLeftAnti + candidate scans).
+        Used only for the first iteration to get table overview.
+        """
+        logger.debug("Starting full discovery phase...")
+
+        get_left_anti = GetLeftAnti(duckdb_path)
+        left_anti_results = get_left_anti.execute(table1, table2, join_col1, join_col2)
+
+        logger.debug(f"Matched={left_anti_results['matched_count']}, "
+                     f"Unmatched: t1={left_anti_results['table1_total_unmatched']}, "
+                     f"t2={left_anti_results['table2_total_unmatched']}")
+
+        candidates = self.candidate_scan_phase(duckdb_path, table1, table2, join_col1, join_col2)
+
+        logger.debug(f"Discovery done: "
+                     f"{len(candidates['edit_distance_candidates'])} edit-dist, "
+                     f"{len(candidates['semantic_candidates'])} semantic")
+
+        return {
+            "left_anti": left_anti_results,
+            **candidates
+        }
+
+    def candidate_scan_phase(self, duckdb_path: str, table1: str, table2: str,
+                             join_col1: str, join_col2: str) -> Dict[str, Any]:
+        """
+        Execute only candidate scans (EditDistScan + EmbeddingScan).
+        Used for subsequent iterations after the first.
+        """
+        logger.debug("Starting candidate scan phase...")
+
+        # Guard: check column existence before scanning
+        cols1 = self._get_table_columns(duckdb_path, table1)
+        cols2 = self._get_table_columns(duckdb_path, table2)
+        if join_col1 not in cols1 or join_col2 not in cols2:
+            logger.warning(f"Candidate scan: join column missing "
+                          f"('{join_col1}' in table1={join_col1 in cols1}, "
+                          f"'{join_col2}' in table2={join_col2 in cols2}), returning empty")
+            return {"edit_distance_candidates": [], "semantic_candidates": []}
+
+        edit_dist_scan = EditDistScan(duckdb_path)
+        embedding_scan = EmbeddingScan(duckdb_path)
+
+        edit_candidates = edit_dist_scan.execute(
+            table1, table2, join_col1, join_col2, top_k=10
+        )
+
+        semantic_candidates = embedding_scan.execute(
+            table1, table2, join_col1, join_col2, top_k=10
+        )
+
+        logger.debug(f"Candidate scan done: "
+                     f"{len(edit_candidates)} edit-dist, "
+                     f"{len(semantic_candidates)} semantic")
+
+        return {
+            "edit_distance_candidates": edit_candidates,
+            "semantic_candidates": semantic_candidates
+        }
+
+    def llm_analysis_phase(self, discovery_results: Dict[str, Any],
+                          table1: str, table2: str, join_col1: str, join_col2: str,
+                          conversation_history: List[Dict[str, str]]) -> Tuple[Dict[str, Any], LLMCallRecord]:
+        """
+        Execute LLM analysis phase with multi-turn conversation.
+        Legacy method kept for external callers. Internally, run_new_workflow
+        builds prompts directly.
+        """
+        logger.debug("Starting LLM analysis phase...")
+
+        prompt = self._build_first_analysis_prompt(
+            discovery_results.get('left_anti', {}), discovery_results,
+            table1, table2, join_col1, join_col2
+        )
+        conversation_history.append({"role": "user", "content": prompt})
+
+        record = call_llm(
+            model=self.model,
+            messages=conversation_history,
+            temperature=self.temperature,
+            max_tokens=self.max_tokens,
+            top_p=self.top_p
+        )
+
+        response_text = record.response_text.strip()
+        conversation_history.append({"role": "assistant", "content": response_text})
+
+        try:
+            try:
+                analysis_result = json.loads(response_text)
+            except json.JSONDecodeError:
+                json_match = re.search(r'```json\s*(.*?)\s*```', response_text, re.DOTALL)
+                if json_match:
+                    analysis_result = json.loads(json_match.group(1))
+                else:
+                    raise ValueError(f"Cannot parse JSON from response: {response_text[:200]}")
+
+            logger.info(f"LLM analysis completed: {'1 recommendation' if analysis_result.get('recommendation') else 'commit/no recommendation'}")
+            return analysis_result, record
+
+        except Exception as e:
+            logger.error(f"Failed to parse LLM response: {e}")
+            return {"analysis": "Failed to parse", "recommendation": None}, record
+
+    def transformation_phase(self, duckdb_path: str, recommendations: List[Dict],
+                            table1: str, table2: str,
+                            applied_ops: set = None) -> Tuple[str, str, List[Dict]]:
+        """
+        Execute transformation phase based on LLM recommendations.
+        Skips duplicate operations that have already been applied.
+        Returns (table1, table2, actually_applied_ops).
+        """
+        logger.debug(f"Transformation phase: {len(recommendations)} recommendations")
+
+        # Structural operators don't take column_name as positional arg
+        STRUCTURAL_OPS = {'Pivot', 'UnPivot'}
+
+        current_table1 = table1
+        current_table2 = table2
+        actually_applied = []
+
+        for i, rec in enumerate(recommendations):
+            try:
+                operator_name = rec.get('operator')
+                table_target = rec.get('table', 'both')
+                column = rec.get('column')
+                parameters = rec.get('parameters', {})
+
+                # Build a fingerprint for dedup
+                op_key = (operator_name, table_target, column,
+                          json.dumps(parameters, sort_keys=True) if parameters else '')
+
+                if applied_ops is not None:
+                    if op_key in applied_ops:
+                        logger.debug(f"Skipping duplicate: {operator_name} on {table_target}.{column}")
+                        continue
+                    applied_ops.add(op_key)
+
+                logger.debug(f"Applying: {operator_name} on {table_target}.{column}")
+
+                operator_class = self._get_operator_class(operator_name)
+                if operator_class is None:
+                    logger.warning(f"Unknown operator: {operator_name}")
+                    continue
+
+                is_structural = operator_name in STRUCTURAL_OPS
+                applied = False
+
+                # For "both" with value-level ops, verify column exists in BOTH tables
+                # to prevent asymmetric application that breaks existing matches
+                if table_target == 'both' and not is_structural:
+                    cols1 = self._get_table_columns(duckdb_path, current_table1)
+                    cols2 = self._get_table_columns(duckdb_path, current_table2)
+                    if column not in cols1 or column not in cols2:
+                        logger.warning(f"Column '{column}' not found in both tables "
+                                      f"(table1={column in cols1}, table2={column in cols2}), "
+                                      f"rejecting 'both' operation to avoid asymmetric transform")
+                        continue
+
+                if table_target in ('table1', 'both'):
+                    # Check column existence for value-level operators
+                    if not is_structural:
+                        cols = self._get_table_columns(duckdb_path, current_table1)
+                        if column not in cols:
+                            logger.warning(f"Column '{column}' not found in table1, skipping")
+                        else:
+                            operator = operator_class(duckdb_path)
+                            current_table1 = operator.execute(current_table1, column, **parameters)
+                            logger.debug(f"Table1 transformed: {current_table1}")
+                            applied = True
+                    else:
+                        operator = operator_class(duckdb_path)
+                        current_table1 = operator.execute(current_table1, **parameters)
+                        logger.debug(f"Table1 transformed: {current_table1}")
+                        applied = True
+
+                if table_target in ('table2', 'both'):
+                    # Check column existence for value-level operators
+                    if not is_structural:
+                        cols = self._get_table_columns(duckdb_path, current_table2)
+                        if column not in cols:
+                            logger.warning(f"Column '{column}' not found in table2, skipping")
+                        else:
+                            operator = operator_class(duckdb_path)
+                            current_table2 = operator.execute(current_table2, column, **parameters)
+                            logger.debug(f"Table2 transformed: {current_table2}")
+                            applied = True
+                    else:
+                        operator = operator_class(duckdb_path)
+                        current_table2 = operator.execute(current_table2, **parameters)
+                        logger.debug(f"Table2 transformed: {current_table2}")
+                        applied = True
+
+                if applied:
+                    actually_applied.append({
+                        'operator': operator_name,
+                        'table': table_target,
+                        'column': column,
+                        'parameters': parameters,
+                    })
+
+            except Exception as e:
+                logger.error(f"Failed to apply transformation {i+1}: {e}")
+                continue
+
+        return current_table1, current_table2, actually_applied
+
+    def evaluation_phase(self, duckdb_path: str, table1: str, table2: str,
+                        join_col1: str, join_col2: str) -> Dict[str, float]:
+        """
+        Execute evaluation phase to assess join quality.
+        """
+        logger.debug("Starting evaluation phase...")
+
+        exact_ratio_calc = ExactRatio(duckdb_path)
+        token_ratio_calc = TokenRatio(duckdb_path)
+
+        exact_ratio = exact_ratio_calc.execute(table1, table2, join_col1, join_col2)
+        token_ratio = token_ratio_calc.execute(table1, table2, join_col1, join_col2)
+
+        logger.debug(f"Evaluation: ExactRatio={exact_ratio:.3f}, TokenRatio={token_ratio:.3f}")
+
+        return {
+            'exact_ratio': exact_ratio,
+            'token_ratio': token_ratio
+        }
+
+    def run_new_workflow(self, duckdb_path: str, table1: str, table2: str,
+                        join_col1: str, join_col2: str,
+                        max_iterations: int = 10, test_mode: bool = False,
+                        output_dir: str = None, pair_idx: int = 0) -> Dict[str, Any]:
+        """
+        Execute the three-phase workflow with multi-turn conversation and iteration control.
+
+        Stops after 2 consecutive iterations with no improvement, commits best result.
+        Saves conversation log JSON to output_dir.
+        """
+        logger.debug(f"Starting workflow (test_mode={test_mode})...")
+
+        best_score = 0.0
+        best_table1 = table1
+        best_table2 = table2
+        no_improvement_count = 0
+        iteration_history = []
+        current_table1 = table1
+        current_table2 = table2
+
+        # Multi-turn conversation history (persists across iterations)
+        conversation_history = [
+            {"role": "system", "content": ANALYSIS_SYSTEM_PROMPT}
+        ]
+
+        # LLM call records for conversation log
+        call_records = []
+
+        # Track applied operations to prevent duplicates
+        applied_ops = set()
+        all_applied_ops = []
+
+        # Phase 0: Run GetLeftAnti once to get table overview (before the loop)
+        get_left_anti = GetLeftAnti(duckdb_path)
+        initial_left_anti = get_left_anti.execute(
+            current_table1, current_table2, join_col1, join_col2
+        )
+        logger.debug(f"Initial: matched={initial_left_anti['matched_count']}, "
+                     f"unmatched t1={initial_left_anti['table1_total_unmatched']}, "
+                     f"t2={initial_left_anti['table2_total_unmatched']}")
+
+        # Auto-detect structural patterns (Pivot/UnPivot) for hints
+        structural_hints = self._detect_structural_hints(
+            duckdb_path, current_table1, current_table2, join_col1, join_col2
+        )
+        if structural_hints:
+            logger.debug(f"Structural hints detected:{structural_hints}")
+
+        for iteration in range(max_iterations):
+
+            # Phase 1: Candidate scan (EditDist + Embedding only)
+            candidates = self.candidate_scan_phase(
+                duckdb_path, current_table1, current_table2,
+                join_col1, join_col2
+            )
+
+            if test_mode:
+                prompt = self._build_first_analysis_prompt(
+                    initial_left_anti, candidates,
+                    current_table1, current_table2, join_col1, join_col2,
+                    structural_hints=structural_hints
+                )
+                logger.debug(f"[TEST MODE] Prompt built, length={len(prompt)}")
+
+                eval_results = self.evaluation_phase(
+                    duckdb_path, current_table1, current_table2,
+                    join_col1, join_col2
+                )
+
+                logger.info(f"[TEST] ExactRatio={eval_results['exact_ratio']:.3f}, "
+                            f"TokenRatio={eval_results['token_ratio']:.3f}")
+
+                iteration_history.append({
+                    'iteration': 1,
+                    'table1': current_table1,
+                    'table2': current_table2,
+                    'exact_ratio': eval_results['exact_ratio'],
+                    'token_ratio': eval_results['token_ratio'],
+                    'prompt': prompt,
+                    'analysis': 'TEST MODE - no LLM call',
+                })
+
+                return {
+                    'best_table1': current_table1,
+                    'best_table2': current_table2,
+                    'best_score': eval_results['exact_ratio'],
+                    'final_score': eval_results['exact_ratio'],
+                    'iterations': 1,
+                    'history': iteration_history,
+                    'prompt': prompt,
+                    'total_llm_latency_ms': 0.0,
+                }
+
+            # Phase 2: LLM Analysis (multi-turn)
+            # First iteration: full prompt with table overview + candidates
+            # Subsequent iterations: candidates only (table overview already in conversation)
+            if iteration == 0:
+                prompt = self._build_first_analysis_prompt(
+                    initial_left_anti, candidates,
+                    current_table1, current_table2, join_col1, join_col2,
+                    structural_hints=structural_hints
+                )
+            else:
+                prompt = self._build_iteration_prompt(
+                    candidates, current_table1, current_table2, join_col1, join_col2
+                )
+
+            conversation_history.append({"role": "user", "content": prompt})
+
+            record = call_llm(
+                model=self.model,
+                messages=conversation_history,
+                temperature=self.temperature,
+                max_tokens=self.max_tokens,
+                top_p=self.top_p
+            )
+            call_records.append(record)
+
+            response_text = record.response_text.strip()
+            conversation_history.append({"role": "assistant", "content": response_text})
+
+            try:
+                try:
+                    analysis_results = json.loads(response_text)
+                except json.JSONDecodeError:
+                    json_match = re.search(r'```json\s*(.*?)\s*```', response_text, re.DOTALL)
+                    if json_match:
+                        analysis_results = json.loads(json_match.group(1))
+                    else:
+                        raise ValueError(f"Cannot parse JSON from response: {response_text[:200]}")
+
+                logger.debug(f"LLM: {'recommendation' if analysis_results.get('recommendation') else 'commit/none'}")
+            except Exception as e:
+                logger.error(f"Failed to parse LLM response: {e}")
+                analysis_results = {"analysis": "Failed to parse", "recommendation": None}
+
+            # Check if LLM decided to commit (no further modifications needed)
+            if analysis_results.get('commit', False):
+                logger.debug(f"LLM commit: {analysis_results.get('analysis', 'N/A')}")
+                # Record the commit iteration in history
+                eval_results = self.evaluation_phase(
+                    duckdb_path, current_table1, current_table2,
+                    join_col1, join_col2
+                )
+                iteration_history.append({
+                    'iteration': iteration + 1,
+                    'table1': current_table1,
+                    'table2': current_table2,
+                    'exact_ratio': eval_results['exact_ratio'],
+                    'token_ratio': eval_results['token_ratio'],
+                    'structural_check': analysis_results.get('structural_check', ''),
+                    'analysis': analysis_results.get('analysis', ''),
+                    'recommendation': None,
+                    'committed': True
+                })
+                break
+
+            # Phase 3: Transformation (with dedup)
+            recommendation = analysis_results.get('recommendation')
+            rejected = False
+            rejected_reason = None
+            structural_applied = False
+            if recommendation:
+                # Structural operators (Pivot/UnPivot) operate on non-join columns
+                # by design, so skip the join-column validation for them
+                STRUCTURAL_OPS_SET = {'Pivot', 'UnPivot'}
+                rec_op = recommendation.get('operator', '')
+                rec_col = recommendation.get('column', '')
+
+                if rec_op not in STRUCTURAL_OPS_SET and (
+                    join_col1 not in rec_col and join_col2 not in rec_col
+                ):
+                    rejected = True
+                    rejected_reason = (
+                        f"the column '{rec_col}' is not a join column. "
+                        f"You may ONLY operate on the current join columns: "
+                        f"Table 1 = '{join_col1}', Table 2 = '{join_col2}'."
+                    )
+                    logger.debug(f"Recommendation rejected (non-join column: {rec_col})")
+                # Validate: FuzzyMap forbidden when LLM marked numeric_or_id=true
+                elif (recommendation.get('operator') == 'FuzzyMap'
+                      and analysis_results.get('numeric_or_id', False)):
+                    rejected = True
+                    rejected_reason = (
+                        f"FuzzyMap is forbidden because you marked numeric_or_id=true. "
+                        f"Numeric/ID values cannot have spelling errors. "
+                        f"Consider committing instead."
+                    )
+                    logger.debug("Recommendation rejected (FuzzyMap on numeric_or_id column)")
+                else:
+                    # Validate SepSplit split direction using join column names
+                    if recommendation.get('operator') == 'SepSplit':
+                        self._validate_sepsplit_direction(
+                            recommendation, join_col1, join_col2
+                        )
+                    recommendations_list = [recommendation]
+                    new_table1, new_table2, iter_applied = self.transformation_phase(
+                        duckdb_path, recommendations_list,
+                        current_table1, current_table2, applied_ops
+                    )
+                    current_table1 = new_table1
+                    current_table2 = new_table2
+                    if iter_applied:
+                        for op in iter_applied:
+                            op['iteration'] = iteration + 1
+                            all_applied_ops.append(op)
+                        structural_applied = any(
+                            op['operator'] in ('Pivot', 'UnPivot', 'SepSplit')
+                            for op in iter_applied
+                        )
+                    else:
+                        rejected = True
+                        rejected_reason = (
+                            f"the column '{rec_col}' does not exist in one or both target tables. "
+                            f"Remember: when column names differ between tables, use `table1` or `table2` instead of `both`."
+                        )
+                        logger.debug("Recommendation rejected (column missing or duplicate)")
+            else:
+                logger.debug("No recommendation from LLM")
+
+            # Update join column names if structural transforms changed them
+            cols1 = self._get_table_columns(duckdb_path, current_table1)
+            cols2 = self._get_table_columns(duckdb_path, current_table2)
+            if join_col1 not in cols1 and join_col2 in cols1:
+                logger.debug(f"Join column updated: table1 '{join_col1}' -> '{join_col2}'")
+                join_col1 = join_col2
+            if join_col2 not in cols2 and join_col1 in cols2:
+                logger.debug(f"Join column updated: table2 '{join_col2}' -> '{join_col1}'")
+                join_col2 = join_col1
+
+            # Phase 4: Evaluation
+            eval_results = self.evaluation_phase(
+                duckdb_path, current_table1, current_table2,
+                join_col1, join_col2
+            )
+
+            current_score = eval_results['exact_ratio']
+
+            # One-line iteration summary (the only info-level output per iteration)
+            rec_op = recommendation.get('operator', '?') if recommendation else 'none'
+            status = "REJECTED" if rejected else ("improved" if current_score > best_score else "no-change")
+            logger.info(f"  Iter {iteration+1}: {rec_op} -> ExactRatio={current_score:.3f} ({status})")
+
+            recommendation = analysis_results.get('recommendation')
+            iteration_history.append({
+                'iteration': iteration + 1,
+                'table1': current_table1,
+                'table2': current_table2,
+                'exact_ratio': eval_results['exact_ratio'],
+                'token_ratio': eval_results['token_ratio'],
+                'structural_check': analysis_results.get('structural_check', ''),
+                'analysis': analysis_results.get('analysis', ''),
+                'recommendation': {
+                    'operator': recommendation.get('operator'),
+                    'table': recommendation.get('table'),
+                    'column': recommendation.get('column'),
+                    'parameters': recommendation.get('parameters'),
+                    'target_pairs': recommendation.get('target_pairs'),
+                    'issue_type': recommendation.get('issue_type'),
+                    'expected_result': recommendation.get('expected_result'),
+                } if recommendation else None
+            })
+
+            # Append evaluation feedback to conversation for next iteration
+            if rejected:
+                rec_op = recommendation.get('operator', '?')
+                rec_tbl = recommendation.get('table', '?')
+                rec_col = recommendation.get('column', '?')
+                feedback = (
+                    f"Your recommendation ({rec_op} on {rec_tbl}.{rec_col}) was REJECTED: "
+                    f"{rejected_reason} "
+                    f"Table 1 join column: {join_col1}, Table 2 join column: {join_col2}.\n"
+                    f"- ExactRatio: {eval_results['exact_ratio']:.3f}\n"
+                    f"- TokenRatio: {eval_results['token_ratio']:.3f}\n"
+                    f"Please correct your approach."
+                )
+            else:
+                feedback = (
+                    f"Evaluation results after applying your recommendation:\n"
+                    f"- ExactRatio: {eval_results['exact_ratio']:.3f}\n"
+                    f"- TokenRatio: {eval_results['token_ratio']:.3f}\n"
+                    f"- Best ExactRatio so far: {max(best_score, current_score):.3f}\n"
+                    f"{'Improvement!' if current_score > best_score else 'No improvement.'} "
+                    f"Please analyze the updated discovery results in the next message and suggest further transformations."
+                )
+            conversation_history.append({"role": "user", "content": feedback})
+
+            if current_score > best_score:
+                best_score = current_score
+                best_table1 = current_table1
+                best_table2 = current_table2
+                no_improvement_count = 0
+            elif structural_applied:
+                # Structural ops are preparatory; don't count against budget
+                no_improvement_count = 0
+            else:
+                no_improvement_count += 1
+
+            if no_improvement_count >= 3:
+                logger.debug(f"Stopping: no improvement for {no_improvement_count} iterations")
+                break
+
+        # Commit best version
+        commit = Commit(duckdb_path)
+        final_table1, final_table2, final_score = commit.execute(
+            best_table1, best_table2, best_score
+        )
+
+        logger.info(f"  Done: {len(iteration_history)} iters, best={best_score:.3f}")
+
+        # Save conversation log
+        if output_dir:
+            self._save_conversation_log(
+                output_dir, table1, table2,
+                conversation_history, call_records, iteration_history,
+                pair_idx=pair_idx
+            )
+
+        total_llm_latency = sum(r.latency_ms for r in call_records)
+
+        return {
+            'best_table1': best_table1,
+            'best_table2': best_table2,
+            'best_score': best_score,
+            'final_score': final_score,
+            'iterations': len(iteration_history),
+            'operations_applied': all_applied_ops,
+            'history': iteration_history,
+            'total_llm_latency_ms': total_llm_latency,
+        }
+
+    def replay_operations(self, duckdb_path: str, edge_result: dict) -> None:
+        """
+        Replay previously recorded operations from a saved result onto a DuckDB.
+        Used when reusing cached edge results to apply the same transforms
+        without making any LLM calls.
+        """
+        source = edge_result["source"]
+        target = edge_result["target"]
+
+        for pair_result in edge_result.get("results", []):
+            if "error" in pair_result:
+                continue
+            ops = pair_result.get("operations_applied")
+            if not ops:
+                continue
+
+            best_table1 = pair_result.get("best_table1", source)
+            best_table2 = pair_result.get("best_table2", target)
+            best_score = pair_result.get("best_score", 0.0)
+
+            # Apply all recorded operations in order (applied_ops=None disables dedup)
+            current_table1 = source
+            current_table2 = target
+            for op in ops:
+                current_table1, current_table2, _ = self.transformation_phase(
+                    duckdb_path, [op], current_table1, current_table2
+                )
+
+            # Commit the best version
+            commit = Commit(duckdb_path)
+            commit.execute(best_table1, best_table2, best_score)
+
+            logger.debug(f"Replayed {len(ops)} ops for {source}<->{target}, "
+                         f"best_score={best_score:.3f}")
+
+    def _save_conversation_log(self, output_dir: str, table1: str, table2: str,
+                               conversation_history: List[Dict],
+                               call_records: List[LLMCallRecord],
+                               iteration_history: List[Dict],
+                               pair_idx: int = 0):
+        """Save conversation log JSON keyed by table1 <-> table2."""
+        edge_key = f"{table1} <-> {table2}"
+
+        # Summarize costs
+        total_input_tokens = sum(r.input_tokens for r in call_records)
+        total_output_tokens = sum(r.output_tokens for r in call_records)
+        total_cost = sum(r.total_cost for r in call_records)
+        total_latency = sum(r.latency_ms for r in call_records)
+
+        log_data = {
+            "edge_key": edge_key,
+            "table1": table1,
+            "table2": table2,
+            "total_calls": len(call_records),
+            "total_input_tokens": total_input_tokens,
+            "total_output_tokens": total_output_tokens,
+            "total_cost_usd": round(total_cost, 6),
+            "total_latency_ms": round(total_latency, 2),
+            "calls": [
+                {
+                    "call_index": i + 1,
+                    "model": r.model,
+                    "input_tokens": r.input_tokens,
+                    "output_tokens": r.output_tokens,
+                    "input_cost_usd": r.input_cost,
+                    "output_cost_usd": r.output_cost,
+                    "total_cost_usd": r.total_cost,
+                    "latency_ms": r.latency_ms,
+                    "prompt": r.messages[-1]["content"] if r.messages else "",
+                    "response": r.response_text,
+                }
+                for i, r in enumerate(call_records)
+            ],
+            "conversation_history": conversation_history,
+            "iteration_history": iteration_history,
+        }
+
+        log_path = os.path.join(output_dir, f"conversation_{pair_idx}.json")
+
+        with open(log_path, "w", encoding="utf-8") as f:
+            json.dump(log_data, f, indent=2, ensure_ascii=False)
+
+        logger.info(f"Conversation log saved to {log_path}")
+
+    def _serialize_table(self, df, table_name: str) -> str:
+        """Serialize a DataFrame to autoprep format (col/row labeled style)."""
+        ret = f"<title>\n{table_name}\n"
+        col_str = 'col : ' + ' | '.join(df.columns) + '\n'
+        ret += col_str
+        for i in range(len(df)):
+            row_str = 'row' + str(i + 1) + ' : ' + ' | '.join([str(x) for x in df.iloc[i].values]) + '\n'
+            ret += row_str
+        return ret.strip()
+
+    def _get_table_columns(self, duckdb_path: str, table_name: str) -> List[str]:
+        """Get column names from a DuckDB table."""
+        with duckdb.connect(duckdb_path) as con:
+            return con.execute(f"PRAGMA table_info('{table_name}')").fetchdf()['name'].tolist()
+
+    def _validate_sepsplit_direction(self, rec: Dict, join_col1: str, join_col2: str):
+        """
+        Validate and correct SepSplit split direction using join column names.
+
+        Determines which side the target join column is on, then sets:
+        - target is LEFT  → split_from='right' (rsplit, keeps left intact), keep_part=0
+        - target is RIGHT → split_from='left'  (split, keeps right intact), keep_part=1
+        """
+        col = rec.get('column')
+        sep = rec.get('parameters', {}).get('separator', '-')
+
+        # Determine target: which join column should be produced by splitting
+        if col == join_col2:
+            target_name = join_col1
+        elif col == join_col1:
+            target_name = join_col2
+        else:
+            return  # Not a join column, skip
+
+        # Determine which side the target is on from the column name
+        left_name_parts = col.split(sep, 1)
+        right_name_parts = col.rsplit(sep, 1)
+
+        target_is_left = len(left_name_parts) == 2 and left_name_parts[0] == target_name
+        target_is_right = len(right_name_parts) == 2 and right_name_parts[1] == target_name
+
+        if target_is_left:
+            # Target is left part → rsplit from right keeps left intact in values
+            rec['parameters']['split_from'] = 'right'
+            rec['parameters']['keep_part'] = 0
+            logger.info(f"SepSplit validated: target '{target_name}' is LEFT → split_from='right', keep_part=0")
+        elif target_is_right:
+            # Target is right part → split from left keeps right intact in values
+            rec['parameters']['split_from'] = 'left'
+            rec['parameters']['keep_part'] = 1
+            logger.info(f"SepSplit validated: target '{target_name}' is RIGHT → split_from='left', keep_part=1")
+        else:
+            logger.warning(f"SepSplit validation: cannot determine target position for "
+                          f"'{col}' with target '{target_name}', using LLM defaults")
+
+    def _detect_structural_hints(self, duckdb_path: str,
+                                 table1: str, table2: str,
+                                 join_col1: str, join_col2: str) -> str:
+        """
+        Auto-detect structural patterns (Pivot/UnPivot) and return hint text for the LLM.
+        Returns empty string if no pattern detected.
+        """
+        hints = []
+
+        cols1 = self._get_table_columns(duckdb_path, table1)
+        cols2 = self._get_table_columns(duckdb_path, table2)
+
+        # --- UnPivot detection ---
+        # Check if multiple columns in one table CONTAIN the other table's join column name
+        # Pattern: table2 has "X with col", "Y with col" where "col" is join_col1
+        for check_join_col, check_cols, tbl_label in [
+            (join_col1, cols2, "table2"),
+            (join_col2, cols1, "table1"),
+        ]:
+            if not check_join_col:
+                continue
+            matching_cols = [c for c in check_cols
+                            if check_join_col in c and c != check_join_col]
+            if len(matching_cols) >= 2:
+                other_cols = [c for c in check_cols if c not in matching_cols]
+                hints.append(
+                    f"**[UnPivot hint]** {tbl_label} has {len(matching_cols)} columns "
+                    f"containing '{check_join_col}' in their names: {matching_cols}. "
+                    f"These may be split columns that should be merged into a single "
+                    f"'{check_join_col}' column via UnPivot "
+                    f"(id_vars={other_cols}, value_vars={matching_cols}, "
+                    f"value_name=\"{check_join_col}\")."
+                )
+
+        # --- Pivot detection ---
+        # Check if a column's distinct values contain the other table's join column name
+        # Pattern: table2 has column X where values include "objectid" (= join_col1)
+        with duckdb.connect(duckdb_path) as con:
+            for check_join_col, check_tbl, check_cols, tbl_label in [
+                (join_col1, table2, cols2, "table2"),
+                (join_col2, table1, cols1, "table1"),
+            ]:
+                if not check_join_col:
+                    continue
+                for col in check_cols:
+                    if col == check_join_col:
+                        continue
+                    try:
+                        distinct_vals = con.execute(
+                            f'SELECT DISTINCT CAST("{col}" AS VARCHAR) FROM "{check_tbl}" LIMIT 50'
+                        ).fetchdf().iloc[:, 0].tolist()
+                        if check_join_col in distinct_vals:
+                            # Find the likely value column (the other column in a 2-col pattern)
+                            # Look for a column that could be the value column
+                            hints.append(
+                                f"**[Pivot hint]** {tbl_label}.{col} contains "
+                                f"'{check_join_col}' as a row value. This suggests a "
+                                f"key-value pattern: '{col}' holds field names and another "
+                                f"column holds values. Consider Pivot(pivot_col=\"{col}\", "
+                                f"value_col=...) to create '{check_join_col}' as a column."
+                            )
+                            break  # One hint per table is enough
+                    except Exception:
+                        continue
+
+        if not hints:
+            return ""
+
+        return "\n## Structural Hints (auto-detected)\n" + "\n".join(hints) + "\n"
+
+    def _build_first_analysis_prompt(self, left_anti: Dict[str, Any],
+                                     candidates: Dict[str, Any],
+                                     table1: str, table2: str,
+                                     join_col1: str, join_col2: str,
+                                     structural_hints: str = "") -> str:
+        """Build the first iteration prompt: table overview + candidates."""
+        return f"""
+# Discovery Results
+
+## Table Overview
+- Table 1: {table1}, Join Column: {join_col1}
+- Table 2: {table2}, Join Column: {join_col2}
+- Matched values (equi-join): {left_anti['matched_count']}
+- Unmatched rows in Table 1: {left_anti['table1_total_unmatched']}
+- Unmatched rows in Table 2: {left_anti['table2_total_unmatched']}
+
+## Table 1 Sample (5 unmatched rows):
+{self._serialize_table(left_anti['table1_sample'], table1)}
+
+## Table 2 Sample (5 unmatched rows):
+{self._serialize_table(left_anti['table2_sample'], table2)}
+{structural_hints}
+## Edit Distance Candidates (Top 10):
+{self._format_candidates_with_score(candidates['edit_distance_candidates'], 'distance')}
+
+## Semantic Similarity Candidates (Top 10):
+{self._format_candidates_with_score(candidates['semantic_candidates'], 'similarity')}
+
+Please analyze these candidates and provide transformation recommendations in JSON format.
+"""
+
+    def _build_iteration_prompt(self, candidates: Dict[str, Any],
+                                table1: str, table2: str,
+                                join_col1: str, join_col2: str) -> str:
+        """Build subsequent iteration prompts: updated candidates only."""
+        return f"""
+# Updated Discovery Results
+
+- Table 1: {table1}, Join Column: {join_col1}
+- Table 2: {table2}, Join Column: {join_col2}
+
+## Edit Distance Candidates (Top 10):
+{self._format_candidates_with_score(candidates['edit_distance_candidates'], 'distance')}
+
+## Semantic Similarity Candidates (Top 10):
+{self._format_candidates_with_score(candidates['semantic_candidates'], 'similarity')}
+
+Please analyze the updated candidates and provide transformation recommendations in JSON format.
+"""
+
+    def _format_candidates_with_score(self, candidates: List[Tuple], score_name: str) -> str:
+        """Format candidate pairs with scores for display."""
+        if not candidates:
+            return "No candidates found"
+        return "\n".join([f"  - '{pair[0]}' <-> '{pair[1]}' ({score_name}: {pair[2]:.3f})" for pair in candidates])
+
+    def _get_operator_class(self, operator_name: str):
+        """Get operator class by name."""
+        operator_map = {
+            'TextNorm': TextNorm,
+            'ToDate': ToDate,
+            'ToNumeric': ToNumeric,
+            'FuzzyMap': FuzzyMap,
+            'SepSplit': SepSplit,
+            'Pivot': Pivot,
+            'UnPivot': UnPivot
+        }
+        return operator_map.get(operator_name)
