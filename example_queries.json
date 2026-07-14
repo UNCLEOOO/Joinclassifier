@@ -1,0 +1,335 @@
+{
+  "DOHMH Childcare Center Inspections": [
+    {
+      "query": "Using the DOHMH Childcare Center Inspections data, could you please analyze childcare centers grouped by childcare type, violation status, legal name, and regulation summary? For groups with at least 4 records, I would like to see the total number of records, the sum of permit numbers, the average critical violation rate, the maximum critical violation rate, and the minimum capacity of the facilities.",
+      "query_related_table": [
+        "DOHMH Childcare Center Inspections_childcare_center_inspections_1",
+        "DOHMH Childcare Center Inspections_childcare_inspection_records",
+        "DOHMH Childcare Center Inspections_childcare_inspection_records_1",
+        "DOHMH Childcare Center Inspections_childcare_inspection_results"
+      ],
+      "table_relevance": {
+        "DOHMH Childcare Center Inspections_childcare_inspection_results": 1,
+        "DOHMH Childcare Center Inspections_childcare_center_inspections_1": 1,
+        "node_3": 0,
+        "DOHMH Childcare Center Inspections_childcare_inspection_records_1": 1,
+        "DOHMH Childcare Center Inspections_childcare_inspection_records": 1,
+        "DOHMH Childcare Center Inspections_childcare_center_inspections": 0
+      },
+      "column_relevance": {
+        "DOHMH Childcare Center Inspections_childcare_inspection_results": {
+          "bin": 1,
+          "healthcodesubsection": 0,
+          "regulationsummary": 1,
+          "averagepublichealthhazardiolationrate": 0,
+          "url": 0
+        },
+        "DOHMH Childcare Center Inspections_childcare_center_inspections_1": {
+          "legalname": 1,
+          "facilitytype": 0,
+          "violationcategory": 0,
+          "totaleducationalworkers": 0,
+          "status": 0
+        },
+        "node_3": {
+          "phone": 0,
+          "programtype": 0,
+          "zipcode": 0,
+          "publichealthhazardviolationrate": 0
+        },
+        "DOHMH Childcare Center Inspections_childcare_inspection_records_1": {
+          "centername": 0,
+          "violationratepercent": 1,
+          "inspectiondate": 1,
+          "datepermitted": 0
+        },
+        "DOHMH Childcare Center Inspections_childcare_inspection_records": {
+          "dc_id": 0,
+          "legalname": 1,
+          "bin": 1,
+          "permitnumber": 1,
+          "avgcriticalviolationrate": 1,
+          "maximumcapacity": 1,
+          "childcaretype": 1,
+          "violationstatus": 1,
+          "criticalviolationrate": 1,
+          "permitexp": 0
+        },
+        "DOHMH Childcare Center Inspections_childcare_center_inspections": {
+          "dc_id": 0,
+          "phone": 0,
+          "centername": 0,
+          "inspectionsummaryresult": 0,
+          "actual": 0,
+          "building": 0,
+          "averagetotaleducationalworkers": 0,
+          "agerange": 0,
+          "street": 0,
+          "violationavgratepercent": 0,
+          "borough": 0
+        }
+      },
+      "sql": "WITH base_data AS (\n  SELECT\n    t2.legalname,\n    t5.legalname AS t5_legalname,\n    t2.bin,\n    t6.bin AS t6_bin,\n    t4.inspectiondate,\n    t2.childcaretype,\n    t4.violationratepercent,\n    t2.violationstatus,\n    t2.permitnumber,\n    t2.avgcriticalviolationrate,\n    t2.criticalviolationrate,\n    t2.maximumcapacity,\n    t6.regulationsummary\n  FROM \"DOHMH Childcare Center Inspections_childcare_center_inspections\" AS t1\n  INNER JOIN \"DOHMH Childcare Center Inspections_childcare_inspection_records\" AS t2\n    ON t1.dc_id = t2.dc_id\n  INNER JOIN \"node_3\" AS t3\n    ON t1.phone = t3.phone\n  INNER JOIN \"DOHMH Childcare Center Inspections_childcare_inspection_records_1\" AS t4\n    ON t1.centername = t4.centername\n  INNER JOIN \"DOHMH Childcare Center Inspections_childcare_center_inspections_1\" AS t5\n    ON t2.legalname = t5.legalname\n  INNER JOIN \"DOHMH Childcare Center Inspections_childcare_inspection_results\" AS t6\n    ON t2.bin = t6.bin\n  WHERE t2.avgcriticalviolationrate IS NOT NULL\n)\nSELECT\n  violationstatus,\n  legalname,\n  regulationsummary,\n  COUNT(*) AS record_count,\n  SUM(permitnumber) AS total_amount,\n  AVG(avgcriticalviolationrate) AS avg_amount,\n  MAX(criticalviolationrate) AS max_amount,\n  MIN(maximumcapacity) AS min_amount\nFROM base_data\nGROUP BY\n  childcaretype,\n  violationstatus,\n  legalname,\n  regulationsummary\nHAVING\n  COUNT(*) >= 4",
+      "sql_complexity": "Moderate"
+    }
+  ],
+  "DSNY DonateNYC Directory": [
+    {
+      "query": "Using the DSNY DonateNYC Directory data, could you please show me the distribution of donation sites across different geographic areas? For each combination of DSNY zone, borough, congressional district (treating nulls as 0), assembly district (treating nulls as 0), and longitude, I would like to see the count of sites and the sum of congressional district values (treating nulls as 0).",
+      "query_related_table": [
+        "DSNY DonateNYC Directory_donation_center_locations",
+        "DSNY DonateNYC Directory_donation_centers_directory",
+        "DSNY DonateNYC Directory_donation_centers_directory_1",
+        "DSNY DonateNYC Directory_donation_centers_directory_2",
+        "DSNY DonateNYC Directory_donation_sites_directory",
+        "DSNY DonateNYC Directory_donation_sites_directory_1"
+      ],
+      "table_relevance": {
+        "DSNY DonateNYC Directory_donation_centers_directory": 1,
+        "DSNY DonateNYC Directory_donation_sites_directory": 1,
+        "DSNY DonateNYC Directory_donation_centers_directory_2": 1,
+        "node_1": 0,
+        "DSNY DonateNYC Directory_donation_sites_directory_1": 1,
+        "DSNY DonateNYC Directory_donation_center_locations": 1,
+        "DSNY DonateNYC Directory_donation_centers_directory_1": 1
+      },
+      "column_relevance": {
+        "DSNY DonateNYC Directory_donation_centers_directory": {
+          "bin": 1,
+          ":@computed_region_92fq_4b7q": 0,
+          "point_1": 0,
+          "census_tract": 0,
+          "email": 0,
+          "borough": 1,
+          "categoriesavailable": 1
+        },
+        "DSNY DonateNYC Directory_donation_sites_directory": {
+          "site": 1,
+          "senate_district": 0,
+          "categoriesaccepted": 1,
+          "dsny_zone": 1,
+          "congressional_district": 1
+        },
+        "DSNY DonateNYC Directory_donation_centers_directory_2": {
+          "phone": 0,
+          ":@computed_region_f5dn_yrer": 0,
+          "community_district": 1,
+          "additionalmaterialinformation": 0,
+          "hours": 0,
+          "website": 0
+        },
+        "node_1": {
+          "objectid": 0,
+          "latitude": 0,
+          "longitude": 0,
+          "address": 0,
+          "dsny_district": 0,
+          ":@computed_region_efsh_h5xi": 0,
+          "bbl": 0,
+          "partnerstatus": 0
+        },
+        "DSNY DonateNYC Directory_donation_sites_directory_1": {
+          "objectid": 0,
+          "site": 1,
+          "councildist": 1
+        },
+        "DSNY DonateNYC Directory_donation_center_locations": {
+          "address": 0,
+          "bin": 1,
+          "dsny_section": 1
+        },
+        "DSNY DonateNYC Directory_donation_centers_directory_1": {
+          "latitude": 0,
+          "longitude": 0,
+          "phone": 0,
+          "borocd": 1,
+          "police_precinct": 0,
+          "ntaname": 0,
+          ":@computed_region_sbqj_enih": 0,
+          ":@computed_region_yeji_bk3q": 0,
+          "assembly_district": 1,
+          "pickupstatus": 0
+        }
+      },
+      "sql": "WITH clean_data AS (\n  SELECT\n    t2.site,\n    t5.site,\n    t4.bin,\n    t7.bin,\n    t3.borocd,\n    t2.councildist,\n    t3.assembly_district,\n    t6.community_district,\n    t4.dsny_section,\n    t5.dsny_zone,\n    t5.categoriesaccepted,\n    t5.congressional_district,\n    t7.borough,\n    t7.categoriesavailable,\n    COALESCE(t5.congressional_district, 0) as cong_dist_filled,\n    COALESCE(t3.assembly_district, 0) as assembly_dist_filled,\n    t1.longitude\n  FROM \"node_1\" t1\n  INNER JOIN \"DSNY DonateNYC Directory_donation_sites_directory_1\" t2\n    ON t1.objectid = t2.objectid\n  INNER JOIN \"DSNY DonateNYC Directory_donation_centers_directory_1\" t3\n    ON t1.latitude = t3.latitude AND t1.longitude = t3.longitude\n  INNER JOIN \"DSNY DonateNYC Directory_donation_center_locations\" t4\n    ON t1.address = t4.address\n  INNER JOIN \"DSNY DonateNYC Directory_donation_sites_directory\" t5\n    ON t2.site = t5.site\n  INNER JOIN \"DSNY DonateNYC Directory_donation_centers_directory_2\" t6\n    ON t3.phone = t6.phone\n  INNER JOIN \"DSNY DonateNYC Directory_donation_centers_directory\" t7\n    ON t4.bin = t7.bin\n  WHERE t7.borough IS NOT NULL\n)\nSELECT\n  dsny_zone,\n  borough,\n  cong_dist_filled,\n  assembly_dist_filled,\n  COUNT(*) as count,\n  SUM(cong_dist_filled) as total\nFROM clean_data\nGROUP BY dsny_zone, borough, cong_dist_filled, assembly_dist_filled, longitude",
+      "sql_complexity": "Moderate",
+      "fix_strategy": "策略B",
+      "fix_message": "添加列: ['t1.longitude']"
+    },
+    {
+      "query": "Summarize donation locations from the DSNY DonateNYC Directory by sanitation zone, the types of items they accept, their typical operating hours, the types of items they make available, longitude, council district, longitude, and sanitation section, and for each group show how many records it includes, along with the smallest, largest, average, and total congressional district number for those records. Only include groups that have at least two records.",
+      "sql": "WITH base_data AS (SELECT t5.dsny_zone, t5.categoriesaccepted, t5.congressional_district, t6.hours, t6.additionalmaterialinformation, t7.categoriesavailable, t7.email, t1.longitude, t2.councildist, t3.longitude, t4.dsny_section FROM `node_1` t1\nINNER JOIN `DSNY DonateNYC Directory_donation_sites_directory_1` t2 ON t1.objectid = t2.objectid\nINNER JOIN `DSNY DonateNYC Directory_donation_centers_directory_1` t3 ON t1.latitude = t3.latitude AND t1.longitude = t3.longitude\nINNER JOIN `DSNY DonateNYC Directory_donation_center_locations` t4 ON t1.address = t4.address\nINNER JOIN `DSNY DonateNYC Directory_donation_sites_directory` t5 ON t2.site = t5.site\nINNER JOIN `DSNY DonateNYC Directory_donation_centers_directory_2` t6 ON t3.phone = t6.phone\nINNER JOIN `DSNY DonateNYC Directory_donation_centers_directory` t7 ON t4.bin = t7.bin WHERE t5.congressional_district IS NOT NULL)\nSELECT dsny_zone, categoriesaccepted, hours, categoriesavailable, COUNT(*) as record_count, SUM(congressional_district) as total_amount, AVG(congressional_district) as avg_amount, MAX(congressional_district) as max_amount, MIN(congressional_district) as min_amount FROM base_data GROUP BY dsny_zone, categoriesaccepted, hours, categoriesavailable, longitude, councildist, longitude, dsny_section HAVING COUNT(*) >= 2",
+      "query_related_table": [
+        "DSNY DonateNYC Directory_donation_centers_directory_1",
+        "DSNY DonateNYC Directory_donation_centers_directory_2",
+        "DSNY DonateNYC Directory_donation_center_locations",
+        "DSNY DonateNYC Directory_donation_sites_directory",
+        "node_1",
+        "DSNY DonateNYC Directory_donation_centers_directory",
+        "DSNY DonateNYC Directory_donation_sites_directory_1"
+      ],
+      "table_relevance": {
+        "DSNY DonateNYC Directory_donation_centers_directory": 1,
+        "DSNY DonateNYC Directory_donation_sites_directory": 1,
+        "DSNY DonateNYC Directory_donation_centers_directory_2": 1,
+        "node_1": 1,
+        "DSNY DonateNYC Directory_donation_sites_directory_1": 1,
+        "DSNY DonateNYC Directory_donation_center_locations": 1,
+        "DSNY DonateNYC Directory_donation_centers_directory_1": 1
+      },
+      "column_relevance": {
+        "DSNY DonateNYC Directory_donation_centers_directory": {
+          "bin": 0,
+          ":@computed_region_92fq_4b7q": 0,
+          "point_1": 0,
+          "census_tract": 0,
+          "email": 1,
+          "borough": 0,
+          "categoriesavailable": 1
+        },
+        "DSNY DonateNYC Directory_donation_sites_directory": {
+          "site": 0,
+          "senate_district": 0,
+          "categoriesaccepted": 1,
+          "dsny_zone": 1,
+          "congressional_district": 1
+        },
+        "DSNY DonateNYC Directory_donation_centers_directory_2": {
+          "phone": 0,
+          ":@computed_region_f5dn_yrer": 0,
+          "community_district": 0,
+          "additionalmaterialinformation": 1,
+          "hours": 1,
+          "website": 0
+        },
+        "node_1": {
+          "objectid": 0,
+          "latitude": 0,
+          "longitude": 0,
+          "address": 0,
+          "dsny_district": 0,
+          ":@computed_region_efsh_h5xi": 0,
+          "bbl": 0,
+          "partnerstatus": 0
+        },
+        "DSNY DonateNYC Directory_donation_sites_directory_1": {
+          "objectid": 0,
+          "site": 0,
+          "councildist": 0
+        },
+        "DSNY DonateNYC Directory_donation_center_locations": {
+          "address": 0,
+          "bin": 0,
+          "dsny_section": 0
+        },
+        "DSNY DonateNYC Directory_donation_centers_directory_1": {
+          "latitude": 0,
+          "longitude": 0,
+          "phone": 0,
+          "borocd": 0,
+          "police_precinct": 0,
+          "ntaname": 0,
+          ":@computed_region_sbqj_enih": 0,
+          ":@computed_region_yeji_bk3q": 0,
+          "assembly_district": 0,
+          "pickupstatus": 0
+        }
+      },
+      "sql_complexity": "medium",
+      "template_name": "cte_with_having_5join",
+      "combination_index": 0,
+      "query_before_rewrite": "Could you pull together a summary of donation locations in the DSNY DonateNYC Directory that groups sites by sanitation zone, the types of items they accept and offer, and their typical operating hours, and then show how many locations fall into each of those groups, along with the smallest, largest, and average political district number they fall under? Also, where it’s available, include any extra notes about special material requirements or instructions and the best email contact for each group, but only keep groups that have at least a couple of locations in them.",
+      "rewrite_info": {
+        "was_rewritten": true,
+        "old_recall": 0.7142857142857143,
+        "new_recall": 0.8571428571428571,
+        "old_precision": 0.1,
+        "new_precision": 0.12,
+        "recall_improvement": 0.1428571428571428,
+        "precision_improvement": 0.01999999999999999
+      },
+      "fix_strategy": "策略B",
+      "fix_message": "添加列: ['t1.longitude', 't2.councildist', 't3.longitude', 't4.dsny_section']",
+      "nl_updated": true
+    }
+  ],
+  "Affordable Housing Production by Building": [
+    {
+      "query": "For each building location, classify its size (Small ≤50, Medium 51-100, Large >100), Construction Type, and Prevailing Wage Status. Then, group these locations by longitude and neighborhood tabulation area to calculate the count of records, total extremely low-income units, average project size, and maximum project size for each category.",
+      "query_related_table": [
+        "Affordable Housing Production by Building_affordable_housing_building_data",
+        "Affordable Housing Production by Building_affordable_housing_buildings",
+        "Affordable Housing Production by Building_affordable_housing_units_by_building"
+      ],
+      "table_relevance": {
+        "Affordable Housing Production by Building_affordable_housing_building_data": 1,
+        "Affordable Housing Production by Building_affordable_housing_buildings_1": 0,
+        "Affordable Housing Production by Building_affordable_housing_units_by_building": 1,
+        "Affordable Housing Production by Building_affordable_housing_building_data_1": 0,
+        "Affordable Housing Production by Building_affordable_housing_buildings": 1
+      },
+      "column_relevance": {
+        "Affordable Housing Production by Building_affordable_housing_building_data": {
+          "latitude": 0,
+          "longitude": 0,
+          "prevailing_wage_status": 1,
+          "bin": 0,
+          "other_income_units": 0,
+          "longitude_internal": 0,
+          "_6_br_units": 0,
+          "street_name": 0,
+          "_2_br_units": 0
+        },
+        "Affordable Housing Production by Building_affordable_housing_buildings_1": {
+          "house_number": 0,
+          "project_id": 0,
+          "neighborhood_tabulation_area": 0,
+          "latitude_internal": 0,
+          "council_district": 0,
+          "bbl": 0,
+          "low_income_units": 0,
+          "project_completion_date": 0
+        },
+        "Affordable Housing Production by Building_affordable_housing_units_by_building": {
+          "building_id": 0,
+          "house_number": 0,
+          "counted_homeownership_units": 0,
+          "postcode": 0,
+          "moderate_income_units": 0,
+          "community_board": 0,
+          "extremely_low_income_units": 1
+        },
+        "Affordable Housing Production by Building_affordable_housing_building_data_1": {
+          "building_id": 0,
+          "latitude": 0,
+          "longitude": 0,
+          "project_start_date": 0,
+          "_1_br_units": 0,
+          "all_counted_units": 0,
+          "_4_br_units": 0,
+          "studio_units": 0,
+          "very_low_income_units": 0,
+          "counted_rental_units": 0,
+          "unknown_br_units": 0
+        },
+        "Affordable Housing Production by Building_affordable_housing_buildings": {
+          "project_id": 0,
+          "_3_br_units": 0,
+          "total_units": 1,
+          "census_tract": 0,
+          "_5_br_units": 0,
+          "project_name": 0,
+          "borough": 0,
+          "reporting_construction_type": 1,
+          "middle_income_units": 0,
+          "building_completion_date": 0,
+          "extended_affordability_status": 0
+        }
+      },
+      "sql": "WITH categorized_data AS (    SELECT         t5.reporting_construction_type,        t3.prevailing_wage_status,        t5.total_units,        t2.extremely_low_income_units,        CASE             WHEN t5.total_units > 100 THEN 'Large (>100)'             WHEN t5.total_units > 50 THEN 'Medium (51-100)'             ELSE 'Small (<=50)'         END as category,\n    t1.longitude,\n    t4.neighborhood_tabulation_area     FROM \"Affordable Housing Production by Building_affordable_housing_building_data_1\" t1\n  INNER JOIN \"Affordable Housing Production by Building_affordable_housing_building_data\" t3\n    ON t1.latitude = t3.latitude AND t1.longitude = t3.longitude\n  INNER JOIN \"Affordable Housing Production by Building_affordable_housing_units_by_building\" t2\n    ON t1.building_id = t2.building_id\n  INNER JOIN \"Affordable Housing Production by Building_affordable_housing_buildings_1\" t4\n    ON t2.house_number = t4.house_number\n  INNER JOIN \"Affordable Housing Production by Building_affordable_housing_buildings\" t5\n    ON t4.project_id = t5.project_id    WHERE         t5.total_units IS NOT NULL         AND t5.reporting_construction_type IS NOT NULL)SELECT     reporting_construction_type,     prevailing_wage_status,     category,     COUNT(*) as count,     AVG(total_units) as avg_project_size,     SUM(extremely_low_income_units) as total_eli_units,     MAX(total_units) as max_size FROM categorized_data GROUP BY     reporting_construction_type,     prevailing_wage_status,     category, longitude, neighborhood_tabulation_area;",
+      "sql_complexity": "Moderate",
+      "fix_strategy": "策略B",
+      "fix_message": "添加列: ['t1.longitude', 't4.neighborhood_tabulation_area']"
+    }
+  ]
+}
