@@ -1,0 +1,201 @@
+cd_47,nys_wms_closing_code,_65,asian,cd_20,cd_22,cd_33,_18_24,cd_49,female,cd_36,cd_30
+0,E38-Excess Income - Lump Sum,0,0,0,0,0,0,0,*,0,0
+0,E61-Not a Resident of District,*,0,0,0,0,0,0,*,0,0
+0,E61-Not a Resident of District,*,*,0,*,0,0,0,*,0,0
+11,G69 - Failure to Complete Recert Interview,71,64,*,12,11,146,32,953,32,10
+0,G96 - Client Request - CA Only - Verbal-MA & SNAP Separate Determination,*,*,0,0,0,*,0,*,0,0
+0,G23-Failure to Cooperate with BEV: Residence,0,0,0,0,0,0,0,0,0,0
+0,M13-Duplicate Assistance Active Cash Assistance Case in Other State,0,0,0,0,0,0,0,0,0,0
+0,G92-Client Request-CA Only-Written,0,0,0,0,0,0,0,0,0,0
+0,E95-Died,*,0,0,0,0,0,0,*,0,0
+0,V25-Failure to Provide Verification of Filing Unit,0,0,0,0,0,0,0,*,0,0
+0,F90-Ineligible Student,0,*,0,0,0,20,0,21,0,0
+0,Y93-Case number change.,0,0,0,0,0,0,0,0,0,0
+0,"N67-Duplicate Assistance, PARIS Match (System Generated) (Timely)",0,0,0,0,0,*,*,13,0,0
+0,"939-PA, MA, FS - In Prison (HH=1)",0,*,0,0,0,*,*,*,0,0
+51,Y10-Failure to Recertify,1118,301,51,21,27,85,53,1430,49,24
+0,E73-In Foster Care,*,0,0,0,0,0,0,0,0,0
+0,E72-Institutionalized,*,0,*,0,0,0,0,0,0,0
+0,E66-Not a resident of state,*,*,*,0,0,*,*,*,0,0
+*,E72-Institutionalized,40,*,0,0,0,0,*,33,*,0
+0,N14-Filing Unit Member Failed to Apply,0,*,0,0,0,*,0,*,0,0
+0,Y86 - BEV Closing - Manual Notice Required (MA/SNAP Sep Det),0,0,0,0,0,0,0,*,0,0
+0,N17-Failure to Complete Eligibility Process,0,0,0,0,0,0,0,*,0,0
+0,E32-Excess Income-Increased Support Collection-MA Extension,0,0,0,0,0,0,0,*,0,0
+0,G92-Client Request-CA Only-Written,0,0,0,0,0,0,0,*,0,0
+0,E91-Refusal to Cooperate During the Recertification Process,0,0,0,0,0,0,0,*,0,0
+18,E50-Failed to Return 6 Month Periodic Report,89,133,17,13,25,71,31,829,25,11
+0,EZ2-Failure to Appeal an SSI Denial,*,0,0,0,0,0,0,0,0,0
+0,G10-Failure to Recertify - On DATE,0,0,0,0,0,0,0,*,0,0
+0,N41-Voluntary Quit/HH=1/ 1st occurrence,0,0,0,0,0,0,0,0,0,0
+0,E95-Died,*,0,0,0,0,0,0,*,0,0
+0,Y98-Other,0,0,0,0,0,0,*,*,0,0
+*,Y66-Overdue Recertification,10,*,0,*,0,*,0,19,*,0
+*,G61-Not a Resident of District,0,*,0,0,0,0,0,*,*,0
+18,G37-Failure To Complete TA 6 Month Mail-In Recert,*,21,*,*,*,116,10,638,17,*
+0,E73-In Foster Care,0,0,0,0,0,*,0,*,0,0
+0,F92-Ineligible Alien,*,0,0,0,0,0,0,*,0,0
+*,M26-Failure to Provide Verification of Wage Match at Recertification(Adequate),*,*,0,0,0,0,0,*,0,0
+0,F81-Refused Photo ID,0,0,0,0,0,0,0,0,0,0
+0,G53-Failure to Return 6 Month Periodic Report - Proof,0,*,0,0,0,0,0,*,*,0
+*,M98 - Duplicate Assistance - Non AFIS in NYS,*,*,0,0,0,*,0,*,0,0
+0,Y99-Other,0,0,0,0,0,*,0,*,*,0
+0,E39-Excess Income - COLA,*,*,0,0,0,*,0,18,0,*
+*,Y99-Other,*,*,0,*,0,*,*,41,*,*
+0,G89-Client Request-CA & MA-Written,0,0,0,0,0,0,0,*,0,0
+15,E30-Excess Earned income,36,66,*,*,*,45,12,739,21,17
+0,E36 - Excess Income - Increased Support Collection - No MA Extension,0,0,0,0,0,0,0,*,0,0
+0,"E29-Failure to Provide Verification, Alien Sponsor",*,0,0,0,0,0,0,*,0,0
+61,Y10-Failure to Recertify,921,260,36,26,28,102,50,1458,54,11
+*,E63-Not a Resident of State,27,*,*,0,0,*,*,31,*,0
+*,F11-Failure to Access Benefits,25,19,*,*,0,22,*,92,*,*
+24,EZ6-Fail to Return NYSCAP 18-Month Interim Report (Timely),582,70,10,*,*,*,13,505,16,*
+0,E19-Failed to keep BFI Appointment,0,0,0,0,0,0,0,0,0,0
+0,E77-Living with Parent,0,0,0,0,0,*,0,*,*,0
+*,"N67-Duplicate Assistance, PARIS Match (System Generated) (Timely)",36,*,*,0,0,*,*,61,*,*
+0,"G98-Client Request-CA, SNAP & MA-Verbal",0,0,0,0,0,0,0,*,0,0
+0,Y99-Other,0,0,0,0,*,0,*,*,0,0
+*,Y66-Overdue Recertification,*,*,0,0,0,0,*,*,0,0
+0,G25-Failure to Cooperate with BEV-Dependent Child,0,0,0,0,0,0,0,*,0,0
+*,M20-Failure to Provide Information during CertificationPeriod,19,14,*,*,*,10,*,146,*,*
+*,V20-Failure to Provide Verification,15,16,*,*,*,23,13,259,10,0
+*,E31-Excess Income-Increased Earnings,0,*,0,0,*,15,*,122,*,*
+0,G68-Zero Budget Deficit due to removal of active individual,0,0,0,0,0,0,0,*,0,0
+0,"M91-Client Request, Phone",*,0,0,0,0,0,0,*,0,0
+0,G89-Client Request-CA & MA-Written,*,0,0,0,0,0,0,0,0,0
+*,E32-Excess Income-Increased Support Collection-MA Extension,0,0,0,0,0,0,0,*,0,0
+0,"M91-Client Request, Phone",*,*,*,0,0,0,0,*,0,0
+*,M25-Failure to respond to a Computer Match Call-In,24,*,0,0,0,*,0,24,0,0
+0,F92-Ineligible Alien,0,*,0,*,0,0,0,0,0,0
+0,M26-Failure to Provide Verification of Wage Match at Recertification(Adequate),*,*,0,0,0,0,0,*,0,0
+*,968-FS - Forced Closing,10,*,*,*,0,0,0,29,0,0
+36,G69 - Failure to Complete Recert Interview,149,119,15,*,11,201,58,1377,43,24
+0,G90-Client Request-CA & SNAP-Written,0,0,0,0,0,0,0,*,0,0
+0,F92-Ineligible Alien,0,0,0,0,0,*,0,*,0,0
+0,E78-Living with Child's Other Parent,0,*,0,0,0,0,*,*,0,0
+*,G37-Failure To Complete TA 6 Month Mail-In Recert,*,33,*,*,19,109,20,815,22,*
+0,E73-In Foster Care,0,0,0,0,0,*,0,*,0,0
+*,G97 - Client Request - CA employed with a budget deficit,*,*,0,0,0,0,0,*,0,0
+0,M20-Failure to Provide Information during CertificationPeriod,19,*,0,*,*,*,0,49,*,*
+10,Y13 - Failure to keep Recertification Appointment,45,37,*,*,*,24,10,307,13,*
+*,F11-Failure to Access Benefits,23,23,*,*,0,22,*,90,*,*
+0,E92-Failure to Provide Proof of Citizenship or Eligible Alien Status,0,0,0,0,0,0,0,0,0,0
+*,E35-Excess Unearned Income Ineligible Budget Required,15,12,*,*,*,*,*,131,*,0
+0,E38-Excess Income - Lump Sum,*,*,0,0,0,0,0,*,0,0
+*,E72-Institutionalized,44,*,*,0,0,0,0,38,*,0
+0,"N66-Duplicate Assistance , Interstate",0,0,0,0,0,0,0,*,0,0
+*,E34-Excess Income SSI Single Individual ineligible budget required MA Sep Det,*,*,0,0,0,*,0,16,*,0
+*,N14-Filing Unit Member Failed to Apply,0,0,0,0,0,*,0,*,0,0
+0,G28-Failure to Cooperate : Proof of Identity,0,0,0,0,0,0,0,0,0,0
+0,G10-Failure to Recertify - On DATE,0,0,0,0,0,0,0,*,0,0
+0,G96 - Client Request - CA Only - Verbal-MA & SNAP Separate Determination,0,0,0,0,0,0,0,*,*,0
+*,X11 - Failure to Redeem FS (NYSCAP). (System Generated),41,*,*,*,*,0,*,32,*,0
+0,E66-Not a resident of state,*,*,0,0,0,*,0,*,0,0
+0,EZ6-Fail to Return NYSCAP 18-Month Interim Report (Timely),*,0,0,0,0,0,0,*,0,0
+0,W23-SN ONLY - Failure to Provide Verification-Parent/Spouse,0,0,0,0,0,*,0,0,0,0
+0,E60-Unable to Locate.,*,0,0,0,0,0,0,*,0,0
+0,G94-Client Request-CA & SNAP-Verbal,0,0,0,0,0,0,0,*,0,0
+*,"939-PA, MA, FS - In Prison (HH=1)",*,0,0,*,0,*,*,*,*,*
+0,F17-Failure to Validate Incorrect Social Security Number,0,0,0,0,0,*,0,0,0,0
+0,E92-Failure to Provide Proof of Citizenship or Eligible Alien Status,0,0,0,0,0,*,0,*,0,0
+*,"M90-Client Request, Written or Face to Face",10,*,*,0,*,*,*,40,*,0
+0,F90-Ineligible Student,0,*,*,0,*,12,0,17,*,*
+0,E60-Unable to Locate.,0,0,0,0,0,0,0,*,0,0
+*,F65-Will Receive SNAP in a CA Case,*,*,0,0,0,*,0,11,0,0
+*,968-FS - Forced Closing,*,*,*,0,0,*,0,29,*,0
+105,Total,485,355,56,24,39,559,143,4071,145,47
+0,E32-Excess Income-Increased Support Collection-MA Extension,0,*,0,0,0,0,0,*,0,0
+0,"M68-PA, MA, FS - Added to Another Case",0,0,0,0,0,0,0,*,0,0
+0,E72-Institutionalized,*,*,0,0,0,0,0,*,0,*
+0,E33-Excess Income-Increased Earnings,0,0,0,0,0,0,0,*,0,0
+0,E65-Failure to Complete Employment Assessment SNAP Separate Determination,0,0,0,0,0,0,0,0,0,0
+*,V21-Failure to Provide Verification,42,38,*,*,*,18,*,285,*,*
+16,E50-Failed to Return 6 Month Periodic Report,131,171,21,13,28,100,30,1061,33,18
+0,E76-Living with Child,0,0,0,0,0,0,0,*,0,0
+0,E34-Excess Income SSI Single Individual ineligible budget required MA Sep Det,10,*,0,0,0,0,0,12,0,0
+0,F20-Failure to Provide SSN,0,0,0,0,0,0,0,0,0,0
+140,Total,2202,770,113,73,90,339,164,4957,167,88
+0,E77-Living with Parent,0,0,0,0,0,*,0,*,0,0
+0,E40-Excess Income-Budgeting Error,0,0,0,0,0,0,0,*,0,0
+0,F63-In Prison,0,0,0,0,0,0,0,0,0,0
+0,Y99-Other,*,*,*,0,0,*,0,14,0,0
+0,"G98-Client Request-CA, SNAP & MA-Verbal",0,0,0,0,0,0,0,0,0,0
+0,G87-Client Request-Eligibility Mailout,0,0,0,0,0,0,0,*,0,0
+0,F63-In Prison,0,0,0,0,*,*,0,0,0,0
+*,Y29-Failure to Provide Verification -Expedited SNAP,35,29,*,*,*,27,14,265,10,*
+0,G99-Client Request-CA & MA-Verbal,0,0,0,0,0,0,0,*,0,0
+29,G70 - Failure to Submit Recert Documentation.,242,140,21,*,12,134,38,1185,53,11
+0,Y93-Case number change.,0,0,0,0,0,0,0,*,0,0
+0,"M68-PA, MA, FS - Added to Another Case",*,0,0,0,0,0,0,*,0,0
+*,"G39-PA, MA - Died (HH=1)",118,16,0,0,*,0,*,75,*,*
+0,F17-Failure to Validate Incorrect Social Security Number,*,0,0,0,0,0,0,0,0,0
+0,F63-In Prison,0,0,0,0,0,*,0,0,0,0
+0,M97-Receiving Multiple Benefits,0,0,0,0,0,0,0,*,0,0
+0,F63-In Prison,0,0,0,0,0,0,0,0,0,0
+65,Total,292,305,43,50,68,622,146,4023,136,41
+*,E39-Excess Income - COLA,*,*,0,*,0,0,0,27,*,0
+0,"939-PA, MA, FS - In Prison (HH=1)",0,*,0,0,*,0,0,*,*,0
+0,G94-Client Request-CA & SNAP-Verbal,0,0,0,0,0,*,0,*,0,0
+0,E78-Living with Child's Other Parent,*,*,*,0,0,*,*,13,*,*
+*,E35-Excess Unearned Income Ineligible Budget Required,29,18,*,0,*,14,*,179,*,*
+0,G81-You failed to give a valid S.S. card and a S.S card for each child.,0,0,0,0,0,0,0,0,0,0
+*,"G39-PA, MA - Died (HH=1)",40,*,0,0,0,0,*,18,*,0
+14,E30-Excess Earned income,47,67,*,11,*,38,18,616,17,14
+*,E30-Excess Earned income,*,22,*,*,*,45,15,367,*,*
+0,G62-Moved out of District,0,0,0,0,0,*,0,*,0,0
+0,M98 - Duplicate Assistance - Non AFIS in NYS,0,0,0,0,0,0,0,*,0,0
+0,G60 - PA only - Unable to Locate - BEV,0,*,0,0,0,0,0,*,0,0
+*,E35-Excess Unearned Income Ineligible Budget Required,10,*,*,0,0,*,*,98,*,*
+*,E31-Excess Income-Increased Earnings,0,*,*,0,*,16,*,81,*,0
+*,U40-Excess Resources,*,*,0,0,*,0,0,*,0,0
+0,"N66-Duplicate Assistance , Interstate",0,0,0,0,0,*,0,*,*,*
+0,M13-Duplicate Assistance Active Cash Assistance Case in Other State,0,0,0,0,0,0,0,*,0,0
+158,Total,1784,751,96,80,96,405,145,5312,170,81
+*,"939-PA, MA, FS - In Prison (HH=1)",*,*,0,0,0,*,*,*,*,0
+*,"N67-Duplicate Assistance, PARIS Match (System Generated) (Timely)",34,*,0,*,0,0,*,37,0,*
+0,E66-Not a resident of state,0,0,0,0,0,0,0,*,0,0
+*,E30-Excess Earned income,*,*,*,*,*,31,*,176,*,*
+*,E69-Failure to Complete Eligibility Process.,*,*,*,0,0,*,*,11,0,0
+0,E52-Failure to Complete 6 Month Periodic Report - Signature,0,0,0,0,0,0,0,*,0,0
+0,E51-Failed to Return 6 Month Periodic Report - Questions,*,*,0,*,0,0,0,0,0,0
+0,U45-Increased Resources,*,0,0,0,0,0,0,0,0,0
+12,V21-Failure to Provide Verification,45,48,*,*,*,25,*,380,*,*
+0,G62-Moved out of District,0,*,0,0,0,*,*,13,0,*
+0,E60-Unable to Locate.,0,0,0,*,0,0,0,*,*,0
+*,F65-Will Receive SNAP in a CA Case,*,0,0,0,0,0,*,*,0,0
+0,F92-Ineligible Alien,0,0,0,0,0,0,0,*,0,0
+*,"N67-Duplicate Assistance, PARIS Match (System Generated) (Timely)",11,*,*,*,0,48,*,173,11,*
+0,F17-Failure to Validate Incorrect Social Security Number,0,0,0,0,0,0,0,0,0,0
+*,V20-Failure to Provide Verification,16,14,*,*,*,11,*,180,*,*
+*,E31-Excess Income-Increased Earnings,0,*,*,0,*,15,*,110,*,*
+0,G61-Not a Resident of District,0,0,0,0,0,*,0,*,0,0
+0,G36-Failure To Complete TA 6 Month Mail-In Recert,*,0,0,0,0,0,0,*,*,0
+0,E69-Failure to Complete Eligibility Process.,0,0,0,0,0,*,0,*,0,0
+*,Y29-Failure to Provide Verification -Expedited SNAP,43,42,10,11,*,38,14,424,16,*
+0,E34-Excess Income SSI Single Individual ineligible budget required MA Sep Det,*,*,0,0,0,*,*,11,*,*
+0,X11 - Failure to Redeem FS (NYSCAP). (System Generated),*,*,0,*,0,0,*,*,0,0
+0,M25-Failure to respond to a Computer Match Call-In,*,*,*,0,*,0,*,11,0,*
+0,D00-Died,*,*,0,0,0,0,0,*,0,0
+0,E63-Not a Resident of State,20,*,*,0,0,*,*,28,*,0
+0,E70-Ineligible Boarder,0,0,0,0,0,*,0,0,0,0
+20,Y13 - Failure to keep Recertification Appointment,272,116,15,*,19,88,20,965,32,27
+0,"G88-Client Request-CA,SNAP & MA-Written",*,*,0,0,*,*,0,13,*,0
+0,M13-Duplicate Assistance Active Cash Assistance Case in Other State,0,0,0,0,0,0,0,*,0,0
+0,"M90-Client Request, Written or Face to Face",17,14,0,*,0,*,*,40,*,0
+0,"M68-PA, MA, FS - Added to Another Case",0,0,0,0,0,0,*,*,0,0
+0,EZ5-Excess Income Receipt of SSI,0,0,0,0,0,0,0,*,0,0
+0,Y78-Ineligible Based upon BEV Evaluation,0,0,0,0,0,0,0,0,0,0
+0,F92-Ineligible Alien,*,*,0,0,0,0,0,*,*,0
+17,G70 - Failure to Submit Recert Documentation.,115,99,16,15,23,177,42,936,42,11
+0,U40-Excess Resources,0,0,0,0,0,*,0,*,0,0
+0,G90-Client Request-CA & SNAP-Written,0,0,0,0,0,0,0,*,0,0
+0,E69-Failure to Complete Eligibility Process.,0,*,0,0,0,*,0,*,0,0
+0,Y86 - BEV Closing - Manual Notice Required (MA/SNAP Sep Det),0,0,0,0,0,0,0,0,0,0
+0,E72-Institutionalized,0,0,0,0,0,0,0,*,0,0
+0,G36-Failure To Complete TA 6 Month Mail-In Recert,*,*,0,0,0,0,0,*,0,0
+*,E30-Excess Earned income,*,*,*,*,*,37,*,226,*,*
+0,"G88-Client Request-CA,SNAP & MA-Written",*,*,0,*,*,*,0,22,0,0
+*,F11-Failure to Access Benefits,18,11,*,*,0,24,*,66,*,*
+0,E95-Died,*,0,0,0,0,0,0,*,0,0
+0,"939-PA, MA, FS - In Prison (HH=1)",0,0,0,0,0,0,0,0,*,0
+0,G36-Failure To Complete TA 6 Month Mail-In Recert,16,10,*,0,0,0,0,12,0,0

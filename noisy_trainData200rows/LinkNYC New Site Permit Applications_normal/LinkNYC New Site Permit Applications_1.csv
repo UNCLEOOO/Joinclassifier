@@ -1,0 +1,45 @@
+site_id,street_address,location2,historic_district,cb,census_tract,planned_kiosk_type,installation_status_,final_submission_a_,bin,postcode
+mn-08-gf0952,ACROSS FROM 500 EAST 63RD STREET,"{'type': 'Point', 'coordinates': [-73.9573706, 40.7610684]}",,108,,Link5G_NonAd,Ready for PreCx,2024-05-08T00:00:00.000,,10065
+mn-02-gf0918,100 HORATIO STREET,"{'type': 'Point', 'coordinates': [-74.00828, 40.73872]}",0.0,102,mn-79,Link5G_Ad,PreCx,2022-08-09T00:00:00.000,1085734.0,10014
+bk-16-158880,12 NEWPORT STREET,"{'type': 'Point', 'coordinates': [-73.91474, 40.65835]}",0.0,316,BK-896,Link1.0,Installed,2022-01-28T00:00:00.000,3082397.0,11212
+qu-02-gf44782,47-40 CENTER BOULEVARD,"{'type': 'Point', 'coordinates': [-73.95743, 40.74546]}",0.0,402,qu-1,Link5G_NonAd,Planning,2022-08-09T00:00:00.000,4594829.0,11101
+qu-02-gf44789,45-21 5TH STREET,"{'type': 'Point', 'coordinates': [-73.95496, 40.74777]}",0.0,402,qu-1,Link5G_NonAd,PreCx,2022-08-09T00:00:00.000,4541713.0,11101
+mn-06-121822,798 3 AVENUE,"{'type': 'Point', 'coordinates': [-73.97125096, 40.75535623]}",,106,1010000,Link5G_Ad,Ready for PreCx,2024-05-08T00:00:00.000,1036446.0,10022
+bk-18-gf34892,875 WILLIAMS AVENUE,"{'type': 'Point', 'coordinates': [-73.89683, 40.65395]}",,318,bk-1098,Link5G_NonAd,PreCx,2022-08-09T00:00:00.000,3086087.0,11207
+mn-01-gf0973,39 SOUTH STREET,"{'type': 'Point', 'coordinates': [-74.0083804, 40.7030156]}",,101,1000900,Link5G_Ad,Ready for PreCx,2024-07-25T00:00:00.000,1083346.0,10004
+bx-09-gf22752,1530 UNION PORT ROAD,"{'type': 'Point', 'coordinates': [-73.85723, 40.83695]}",0.0,209,bx-210.02,Link5G_Ad,PreCx,2022-08-09T00:00:00.000,2096719.0,10462
+qu-02-gf44784,47-05 CENTER BOULEVARD,"{'type': 'Point', 'coordinates': [-73.9563068, 40.7468301]}",,402,qu-1,Link5G_NonAd,PreCx,2023-11-01T00:00:00.000,4536823.0,11101
+mn-05-122136,106 WEST 45TH STREET,"{'type': 'Point', 'coordinates': [40.756996, -73.983259]}",,105,119,Link5G_Ad,PreCX,2024-05-08T00:00:00.000,,10036
+qu-10-gf44897,130-02 115TH AVENUE,"{'type': 'Point', 'coordinates': [-73.8105498, 40.6795208]}",,410,4084000,Link5G_NonAd,Ready for PreCx,2024-02-22T00:00:00.000,,11420
+qu-12-157212,175-06 HILLSIDE AVENUE,"{'type': 'Point', 'coordinates': [-73.7877, 40.71162]}",0.0,412,QN-462,Link5G_Ad,Installed,2021-10-08T00:00:00.000,,11432
+mn-12-gf0873,689 FT WASHINGTON AVENUE,"{'type': 'Point', 'coordinates': [-73.93639, 40.85735]}",0.0,112,MH-273,Link5G_NonAd,PreCx,2022-08-09T00:00:00.000,1064372.0,10040
+mn-01-gf0979,100 NORTH MOORE STREET,"{'type': 'Point', 'coordinates': [-74.0114699, 40.7201654]}",,101,,Link5G_Ad,Ready for PreCx,2024-05-08T00:00:00.000,,10007
+mn-01-gf0969,75 SOUTH STREET,"{'type': 'Point', 'coordinates': [-74.0049878, 40.7051578]}",,101,,Link5G_Ad,Ready for PreCx,2024-05-08T00:00:00.000,,10038
+mn-05-gf0981,335 MADISON AVENUE,"{'type': 'Point', 'coordinates': [-73.978615, 40.7535404]}",,105,94,Link5G_Ad,Ready for PreCx,2024-05-08T00:00:00.000,,10017
+mn-05-134444,831 6 AVENUE,"{'type': 'Point', 'coordinates': [-73.990241, 40.746619]}",,105,1009500,Link5G_Ad,Ready for PreCx,2024-05-08T00:00:00.000,1015123.0,10001
+bx-09-gf22758,2151 SAINT RAYMOND AVENUE,"{'type': 'Point', 'coordinates': [-73.8543002, 40.8376309]}",0.0,209,bx-210.02,Link5G_NonAd,Planning,2022-08-09T00:00:00.000,2033973.0,10462
+bk-16-158935,9829 DITMAS AVENUE,"{'type': 'Point', 'coordinates': [-73.90799, 40.65255]}",0.0,316,BK-922,Link1.0,Installed,2022-01-28T00:00:00.000,3083057.0,11236
+bk-01-gf34906,419 KENT AVENUE,"{'type': 'Point', 'coordinates': [-73.96845, 40.71015]}",,301,bk-549,Link5G_NonAd,Planning,2022-08-09T00:00:00.000,3059494.0,11249
+mn-05-122814,1100 6 AVENUE,"{'type': 'Point', 'coordinates': [-73.983899, 40.754951]}",,105,1009600,Link5G_Ad,Ready for PreCx,2024-05-08T00:00:00.000,1034195.0,10036
+qu-02-gf44785,5-09 48 AVENUE,"{'type': 'Point', 'coordinates': [-73.95581, 40.74458]}",0.0,402,qu-7,Link5G_NonAd,PreCx,2022-08-09T00:00:00.000,4536962.0,11101
+qu-02-gf44788,2-02 Borden Avenue,"{'type': 'Point', 'coordinates': [-73.9588655, 40.741939]}",,402,qu-1,Link5G_Ad,Ready for PreCx,2024-02-22T00:00:00.000,4541408.0,11101
+mn-08-136969,650 MADISON AVENUE,"{'type': 'Point', 'coordinates': [-73.971424, 40.763742]}",,108,1011401,Link5G_Ad,Ready for PreCx,2024-05-08T00:00:00.000,1040753.0,10022
+mn-05-gf0960,480 PARK AVENUE,"{'type': 'Point', 'coordinates': [-73.9705534, 40.7624431]}",,105,11202,Link5G_Ad,Ready for PreCx,2024-05-08T00:00:00.000,,10022
+mn-07-120527,741 COLUMBUS AVENUE,"{'type': 'Point', 'coordinates': [-73.96701, 40.79338]}",,107,1018100,Link5G_Ad,Ready for PreCx,2024-05-08T00:00:00.000,1055254.0,10025
+qu-01-160090,18-01 20TH AVENUE,"{'type': 'Point', 'coordinates': [-73.91448, 40.78561]}",,401,QU-107.01,Link5G_Ad,Installed,2023-05-19T00:00:00.000,4451408.0,11105
+bx-09-gf22757,1368 METROPOLITAN AVENUE,"{'type': 'Point', 'coordinates': [-73.8608784, 40.834734]}",0.0,209,bx-212,Link5G_Ad,Planning,2022-08-09T00:00:00.000,2096680.0,10462
+mn-01-GF0984,175 NORTH END AVENUE,"{'type': 'Point', 'coordinates': [-74.0155917, 40.7157307]}",,101,1031703,Link5G_NonAd,Ready for PreCx,2024-07-25T00:00:00.000,1087518.0,10282
+qu-12-157688,182-46 HILLSIDE AVENUE,"{'type': 'Point', 'coordinates': [-73.77886, 40.71363]}",0.0,412,QU-470,Link5G_Ad,Installed,2021-10-08T00:00:00.000,4212432.0,11423
+mn-02-gf0916,100 JANE STREET,"{'type': 'Point', 'coordinates': [-74.00835, 40.7376]}",0.0,102,mn-79,Link5G_Ad,PreCx,2022-08-09T00:00:00.000,1084803.0,10014
+mn-01-gf0974,110 WILLIAM STREET,"{'type': 'Point', 'coordinates': [-74.0071646, 40.7086765]}",,101,,Link5G_NonAd,Ready for PreCx,2024-05-08T00:00:00.000,,10038
+mn-04-142001,701 8 AVENUE,"{'type': 'Point', 'coordinates': [-73.98890049, 40.75866608]}",,104,1012100,Link5G_Ad,Ready for PreCx,2024-05-08T00:00:00.000,1024991.0,10036
+mn-06-121358,203 EAST 45 STREET,"{'type': 'Point', 'coordinates': [-73.97284287, 40.75266482]}",,106,1009000,Link5G_Ad,Ready for PreCx,2024-05-08T00:00:00.000,1037598.0,10017
+mn-08-119917,1150 Madison Avenue,"{'type': 'Point', 'coordinates': [-73.9590271, 40.7807367]}",,108,1015001,Link5G_NonAd,Ready for PreCx,2024-12-09T00:00:00.000,1046842.0,10028
+bk-16-154816,1412 EASTERN PARKWAY,"{'type': 'Point', 'coordinates': [-73.9214, 40.66851]}",,316,361,Link1.0,Ready for Installation,2021-08-31T00:00:00.000,3039551.0,11233
+mn-04-122406,560 WEST 42 STREET,"{'type': 'Point', 'coordinates': [-73.99820283, 40.76065999]}",,104,1007200,Link5G_Ad,Ready for PreCx,2024-05-08T00:00:00.000,1018483.0,10036
+qu-12-gf44833,134-02 GUY R BREWER BLVD,"{'type': 'Point', 'coordinates': [-73.77586, 40.67328]}",0.0,412,qu-294,Link5G_NonAd,Ready for Installation,2022-08-09T00:00:00.000,4266612.0,11434
+mn-12-GF0874,701 FORT WASHINGTON AVENUE,"{'type': 'Point', 'coordinates': [-73.9350592, 40.8579679]}",,112,MH-273,Link5G_NonAd,Ready for PreCx,2024-03-01T00:00:00.000,1089189.0,10040
+mn-08-gf0926,510 EAST 71ST STREET,"{'type': 'Point', 'coordinates': [-73.9528245, 40.7655067]}",,108,mn-124,Link5G_NonAd,Planning,,1081252.0,10021
+mn-01-gf0971,77 WATER STREET,"{'type': 'Point', 'coordinates': [-74.0078272, 40.7042302]}",,101,1000700,Link5G_Ad,Ready for PreCx,2024-07-25T00:00:00.000,1000863.0,10005
+bk-03-gf34935,168 STUYVESANT AVENUE,"{'type': 'Point', 'coordinates': [-73.9338303, 40.6897028]}",,303,BK-291,Link5G_NonAd,Ready for PreCx,2024-02-22T00:00:00.000,3044302.0,11221
+mn-12-GF0880,100 OVERLOOK TERRACE,"{'type': 'Point', 'coordinates': [-73.9347509, 40.8567832]}",,112,MH-281,Link5G_NonAd,PreCx,2022-08-09T00:00:00.000,1064452.0,10040

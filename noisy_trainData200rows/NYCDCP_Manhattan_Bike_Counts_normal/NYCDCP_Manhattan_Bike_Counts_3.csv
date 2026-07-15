@@ -1,0 +1,16 @@
+the_geom,latitude,type
+"{'type': 'Point', 'coordinates': [-73.984584, 40.786529]}",40.786529,Off-Street
+"{'type': 'Point', 'coordinates': [-73.991424, 40.72983]}",40.72983,On-Street
+"{'type': 'Point', 'coordinates': [-73.992805, 40.742897]}",40.742897,On-Street
+"{'type': 'Point', 'coordinates': [-73.949855, 40.77619]}",40.77619,On-Street
+"{'type': 'Point', 'coordinates': [-74.010569, 40.73534]}",40.73534,Off-Street
+"{'type': 'Point', 'coordinates': [-73.988133, 40.727963]}",40.727963,On-Street
+"{'type': 'Point', 'coordinates': [-73.988767, 40.745293]}",40.745293,On-Street
+"{'type': 'Point', 'coordinates': [-73.942531, 40.777374]}",40.777374,Off-Street
+"{'type': 'Point', 'coordinates': [-73.940536, 40.845373]}",40.845373,On-Street
+"{'type': 'Point', 'coordinates': [-73.953865, 40.801269]}",40.801269,On-Street
+"{'type': 'Point', 'coordinates': [-73.961127, 40.818769]}",40.818769,Off-Street
+"{'type': 'Point', 'coordinates': [-73.993635, 40.736015]}",40.736015,On-Street
+"{'type': 'Point', 'coordinates': [-73.9741, 40.718709]}",40.718709,Off-Street
+"{'type': 'Point', 'coordinates': [-73.966117, 40.789748]}",40.789748,On-Street
+"{'type': 'Point', 'coordinates': [-73.996206, 40.748435]}",40.748435,On-Street

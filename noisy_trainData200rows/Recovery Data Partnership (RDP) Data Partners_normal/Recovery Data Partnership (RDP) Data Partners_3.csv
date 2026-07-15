@@ -1,0 +1,16 @@
+data_description,tags,partner_status
+"Community-maintained directories of businesses and other essential services, their hours, and other details during the Covid-19 pandemic.",business listings,Current
+"Sociodemographic information and the degree tech usage/fluency of OATS users, older adults seeking age-appropriate technology training.",community programming,Current
+Weekly real estate rental and sales metrics aggregated at the neighborhood level.,real estate,Current
+Hourly aggregated decibel data from 15 acoustic noise sensors deployed across NYC since late 2016.,"sound, IoT",Current
+Aggregated rates of illness and atypical illness from Kinsa smart thermometer readings.,"public health, IoT",Current
+Aggregated statistics on museum attendance and membership activities.,arts and culture,Current
+"Aggregated mobility and density insights, including visit trends to key points of interest and nationwide travel behavior.",mobility,Current
+Aggregated foot traffic data by neighborhood and specific types of businesses.,mobility,Current
+"Directory of every storefront on every block in NYC, including historical tracking of turnover, vacancy, and changes to businesses captured in ground surveys from 2018 to present day.",business listings,Current
+"Business listings, building footprints/polygons, and anonymized foot traffic data.","mobility, business listings",Current
+Demographic information about New Yorkers signing up for personal bankruptcy services and why they are filing for bankruptcy.,financial services,Current
+Descriptions of community-based crowdfunding projects and donation transactions.,community programming,Current
+Mastercard Geographic insights - aggregated retail spending insights by industry and neighborhood.,spending,Current
+"LinkedIn Hiring Rate, a real-time measure of hiring activity based on LinkedIn members who add a new employer to their profile.",employment,Current
+Survey results on access to parks and open space during the pandemic.,public spaces,Current

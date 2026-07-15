@@ -1,0 +1,201 @@
+vehicle_type,road_ramp,school_region,facility_type,resolution_action_updated_date,school_code,:@computed_region_92fq_4b7q,:@computed_region_f5dn_yrer,street_name,x_coordinate_state_plane_,descriptor
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Veh Signal Head
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-10T00:00:00.000,Unspecified,,,,,Noise: Construction Before/After Hours (NM1)
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,BEACH 22 STREET,,HEAT
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,DSNY Garage,2009-01-02T00:00:00.000,Unspecified,,,,,15 Street Cond/Dump-Out/Drop-Off
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,171 ST W,,Street Light Out
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2008-12-26T00:00:00.000,Unspecified,,,,,Street Light Dayburning
+,,Unspecified,,2009-01-19T00:00:00.000,Unspecified,,,TINTON AVENUEDUMMY,,HEAT
+,,Unspecified,,2008-12-30T00:00:00.000,Unspecified,,,CLEARVIEW EXPY,,Street Light Out
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-09-03T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,,,2009-01-08T00:00:00.000,,,,,,Unsecured Facility
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,Cable
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-04T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-20T00:00:00.000,Unspecified,,,BEACH 22 STREET,,DOORS
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Ped Lamp
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-07T00:00:00.000,Unspecified,,,CADMAN PLAZA,,Multiple St Lts Dayburning
+,,Unspecified,,2009-01-19T00:00:00.000,Unspecified,,,TINTON AVENUEDUMMY,,HEAT
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2009-01-08T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2009-01-06T00:00:00.000,Unspecified,,,,,LED Pedestrian Unit
+,,Unspecified,,2008-12-30T00:00:00.000,Unspecified,,,CLEARVIEW EXPY,,Street Light Out
+,,Unspecified,DSNY Garage,2009-01-05T00:00:00.000,Unspecified,,,,,1 Missed Collection
+,,,,2009-01-08T00:00:00.000,,,,,,Structure - Outdoors
+,,Unspecified,,2009-11-10T00:00:00.000,Unspecified,,,,,Driver Compliment
+,,Unspecified,,2009-01-23T00:00:00.000,Unspecified,,,92 ST W,,Fixture/Luminaire Hanging
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,STEINWAY AVENUE,,Tree Damage or Arboricide
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-04T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Ped Flasher
+,,Unspecified,,2009-01-07T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-08T00:00:00.000,Unspecified,,,,,Controller
+,,,,2009-01-08T00:00:00.000,,,,,,Structure - Outdoors
+,,Unspecified,,2009-01-06T00:00:00.000,Unspecified,,,,,E3A Dirty Area/Alleyway
+,,Unspecified,DSNY Garage,2009-01-14T00:00:00.000,Unspecified,,,,,1R Missed Recycling-All Materials
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-06T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2009-01-04T00:00:00.000,Unspecified,,,,,Hydrant Leaking (WC1)
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-06T00:00:00.000,Unspecified,,,,,Illegal Use Of A Hydrant (CIN)
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,E8 Canine Violation
+,,,,2009-01-08T00:00:00.000,,,,,,Rodent Sighting
+,,Unspecified,,2009-01-13T00:00:00.000,Unspecified,,,,,Multiple Street Lights Out
+,,Unspecified,,2009-01-04T00:00:00.000,Unspecified,,,,,Hydrant Leaking (WC1)
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Ped Lamp
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,General Street Vendor License
+,,Unspecified,,2009-01-13T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2008-12-30T00:00:00.000,Unspecified,,,CLEARVIEW EXPY,,Street Light Out
+,,Unspecified,,2009-03-23T00:00:00.000,Unspecified,,,HUTCH RVR PKWY,,Lamppost Knocked Down
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-06T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,HARLEM RVR DR,,Street Light Out
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-18T00:00:00.000,Unspecified,,,WING DRIVE,,False Claim
+,,Unspecified,,2009-01-04T00:00:00.000,Unspecified,,,,,Veh Sgnl Mult Lamps
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,DSNY Garage,2009-01-03T00:00:00.000,Unspecified,,,,,1R Missed Recycling-All Materials
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,General Street Vendor License
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Pedestrian Signal
+,,Unspecified,,2009-01-06T00:00:00.000,Unspecified,,,222 ST E,,Street Light Out
+,,Unspecified,,2009-01-06T00:00:00.000,Unspecified,,,,,Street Light Cycling
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,20 BROADWAY,,E6 Commercial Waste Disposal
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,Street Light Out
+,,,,2009-01-09T00:00:00.000,,,,,,Structure - Outdoors
+,,Unspecified,DSNY Garage,2009-01-02T00:00:00.000,Unspecified,,,EAST 158 STREET,,15I Street Condition Ice-Non Storm
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,10 Litter Basket / Request
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,Street Light Cycling
+,,Unspecified,,2009-01-12T00:00:00.000,Unspecified,,,,,Driver Compliment
+,,Unspecified,,2009-01-07T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2009-01-12T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2009-01-04T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,178 ST E,,Street Light Out
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2008-12-30T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2009-01-06T00:00:00.000,Unspecified,,,,,Street Light Dayburning
+,,Unspecified,,2008-12-30T00:00:00.000,Unspecified,,,CLEARVIEW EXPY,,Street Light Out
+,,Unspecified,,2009-01-09T00:00:00.000,Unspecified,,,,,General Street Vendor License
+,,Unspecified,,2009-01-04T00:00:00.000,Unspecified,,,,,Controller
+,,,,2009-01-01T00:00:00.000,,,,,,Unsecured Facility
+,,Unspecified,,2009-01-08T00:00:00.000,Unspecified,,,,,Leak (Use Comments) (WA2)
+,,Unspecified,,2009-01-21T00:00:00.000,Unspecified,,,LIVINGSTON ST,,HEAT
+,,,,2009-01-09T00:00:00.000,,,,,,Unsecured Facility
+,,Unspecified,,2009-02-17T00:00:00.000,Unspecified,,,,,Driver Complaint
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,GRAND CENTRAL PKWY,,Street Light Out
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,12 Dead Animals
+,,Unspecified,,2009-01-14T00:00:00.000,Unspecified,,,,,Pedestrian Signal
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,LED Pedestrian Unit
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Veh Signal Lamp
+,,Unspecified,,2009-01-04T00:00:00.000,Unspecified,,,,,Catch Basin Search (SC2)
+,,,,2009-01-01T00:00:00.000,,,,,,Graffiti or Vandalism
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,DSNY Garage,2009-01-03T00:00:00.000,Unspecified,,,,,1R Missed Recycling-All Materials
+,,Unspecified,,2009-01-08T00:00:00.000,Unspecified,,,,,Street Light Cycling
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Petroleum Spill (HE1)
+,,Unspecified,,2009-01-07T00:00:00.000,Unspecified,,,,,Manhole Sunken/Damaged/Raised (SB1)
+,,Unspecified,,2009-05-08T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2009-01-04T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,LED Lense
+,,Unspecified,,2009-01-20T00:00:00.000,Unspecified,,,BEACH 22 STREET,,ELECTRIC-SUPPLY
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Ped Lamp
+,,Unspecified,,2009-01-15T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-04T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-09T00:00:00.000,Unspecified,,,,,Flashing Hazard
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,Pothole
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-06T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-15T00:00:00.000,Unspecified,,,,,E8 Canine Violation
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-07T00:00:00.000,Unspecified,,,,,Multiple Street Lights Out
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,Controller
+,,,,2009-01-06T00:00:00.000,,,,,,Garbage or Litter
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Veh Signal Lamp
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,Multiple Street Lights Out
+,,Unspecified,,2009-01-15T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,BKLYN QUEENS EXPY,,Street Light Cycling
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-04-17T00:00:00.000,Unspecified,,,,,Lamppost Base Door/Cover Open
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,Post
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Veh Signal Head
+,,Unspecified,,2009-01-06T00:00:00.000,Unspecified,,,,,Street Light Dayburning
+,,Unspecified,DSNY Garage,2009-01-03T00:00:00.000,Unspecified,,,,,12 Dead Animals
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,1RB Missed Recycling - M/G/Pl
+,,Unspecified,,2009-01-08T00:00:00.000,Unspecified,,,,,Lost and Found
+,,Unspecified,,2009-01-22T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-02-22T00:00:00.000,Unspecified,,,,,Temporary
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Ped Flasher
+,,Unspecified,,2009-01-14T00:00:00.000,Unspecified,,,,,Street Light Out
+,,,,2009-01-08T00:00:00.000,,,,,,Structure - Outdoors
+,,Unspecified,,2008-12-30T00:00:00.000,Unspecified,,,CLEARVIEW EXPY,,Street Light Out
+,,Unspecified,,2009-01-06T00:00:00.000,Unspecified,,,,,Insurance Information Requested
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,,,2009-03-03T00:00:00.000,,,,,,Dead Animal
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Lost and Found
+,,Unspecified,,2009-01-04T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Multiple Street Lights Out
+,,Unspecified,,2009-01-08T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-06T00:00:00.000,Unspecified,,,,,E3 Dirty Sidewalk
+,,Unspecified,,2009-01-04T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-13T00:00:00.000,Unspecified,,,,,Hydrant Running Full (WA4)
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,DSNY Garage,2009-01-03T00:00:00.000,Unspecified,,,205 E 7 ST,,15 Street Cond/Dump-Out/Drop-Off
+,,Unspecified,,2009-01-12T00:00:00.000,Unspecified,,,,,Lost and Found
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Hydrant Leaking (WC1)
+,,Unspecified,,2009-01-06T00:00:00.000,Unspecified,,,,,Pothole
+,,Unspecified,DSNY Garage,2009-01-05T00:00:00.000,Unspecified,,,,,15S Re-Plow/Spread/Ice-Snow Cond.
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,15S Re-Plow/Spread/Ice-Snow Cond.
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Post
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Veh Signal Head
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,Cable
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Street Light Cycling
+,,Unspecified,,2009-01-05T00:00:00.000,Unspecified,,,141 ST E,,Street Light Out
+,,Unspecified,,2009-01-06T00:00:00.000,Unspecified,,,64 PLACE,,Illegal Conversion Of Residential Building/Space
+,,Unspecified,,2009-01-07T00:00:00.000,Unspecified,,,CROSS BRONX EXPY,,Street Light Out
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Defective Hardware
+,,Unspecified,,2009-03-23T00:00:00.000,Unspecified,,,WILLOW AV,,Vehicle Complaint
+,,Unspecified,,2008-12-30T00:00:00.000,Unspecified,,,CLEARVIEW EXPY,,Street Light Out
+,,Unspecified,,2009-01-14T00:00:00.000,Unspecified,,,,,Street Light Out
+,,Unspecified,DSNY Garage,2009-01-03T00:00:00.000,Unspecified,,,,,1 Missed Collection
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2011-09-30T00:00:00.000,Unspecified,,,,,Manhole Sunken/Damaged/Raised (SB1)
+,,,,2009-01-05T00:00:00.000,,,,,,Garbage or Litter
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-03T00:00:00.000,Unspecified,,,,,Controller
+,,Unspecified,,2009-01-09T00:00:00.000,Unspecified,,,,,General Street Vendor License
+,,Unspecified,,2009-01-01T00:00:00.000,Unspecified,,,,,LED Pedestrian Unit
+,,Unspecified,,2009-01-02T00:00:00.000,Unspecified,,,,,Veh Signal Head

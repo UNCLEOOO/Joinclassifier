@@ -1,0 +1,201 @@
+oid,hotspot_dataset_object_id,borough_name,ssid
+55,1638,Manhattan,GuestWiFi
+69,1373,Bronx,GuestWiFi
+151,141,Manhattan,GuestWiFi
+156,175,Manhattan,GuestWiFi
+159,1627,Bronx,GuestWiFi
+23,1388,Brooklyn,GuestWiFi
+33,1357,Brooklyn,GuestWiFi
+124,1189,Staten Island,GuestWiFi
+8,1751,Manhattan,GuestWiFi
+74,890,Staten Island,GuestWiFi
+116,1184,Staten Island,GuestWiFi
+54,1368,Brooklyn,GuestWiFi
+89,1411,Bronx,GuestWiFi
+93,1414,Bronx,GuestWiFi
+152,142,Manhattan,GuestWiFi
+97,1420,Bronx,GuestWiFi
+73,137,Staten Island,attwifi
+130,1610,Brooklyn,GuestWiFi
+183,732,Bronx,GuestWiFi
+157,1625,Bronx,GuestWiFi
+28,1758,Manhattan,attwifi
+155,144,Manhattan,GuestWiFi
+39,828,Staten Island,GuestWiFi
+3,1402,Brooklyn,GuestWiFi
+140,1621,Brooklyn,GuestWiFi
+131,1612,Brooklyn,GuestWiFi
+114,1191,Staten Island,GuestWiFi
+64,1776,Manhattan,GuestWiFi
+113,1190,Staten Island,GuestWiFi
+118,145,Staten Island,attwifi
+125,904,Staten Island,GuestWiFi
+57,1768,Brooklyn,GuestWiFi
+63,1775,Manhattan,GuestWiFi
+79,460,Staten Island,GuestWiFi
+21,1386,Brooklyn,GuestWiFi
+59,1740,Manhattan,attwifi
+85,1408,Bronx,GuestWiFi
+158,1626,Bronx,GuestWiFi
+51,1365,Brooklyn,GuestWiFi
+31,1355,Brooklyn,GuestWiFi
+154,143,Manhattan,GuestWiFi
+4,1403,Brooklyn,GuestWiFi
+199,1237,Manhattan,GuestWiFi
+100,813,Queens,GuestWiFi
+136,53,Manhattan,GuestWiFi
+14,1747,Manhattan,GuestWiFi
+110,1193,Queens,GuestWiFi
+98,1421,Bronx,GuestWiFi
+177,1233,Queens,GuestWiFi
+43,1646,Manhattan,attwifi
+126,905,Staten Island,GuestWiFi
+107,1605,Bronx,GuestWiFi
+128,907,Staten Island,GuestWiFi
+46,1764,Brooklyn,GuestWiFi
+19,1757,Queens,GuestWiFi
+120,1187,Staten Island,GuestWiFi
+175,1229,Queens,GuestWiFi
+9,1752,Manhattan,GuestWiFi
+67,1779,Manhattan,GuestWiFi
+137,1619,Brooklyn,GuestWiFi
+36,825,Staten Island,GuestWiFi
+78,459,Staten Island,GuestWiFi
+37,826,Staten Island,GuestWiFi
+68,1377,Bronx,GuestWiFi
+188,934,Manhattan,GuestWiFi
+200,1238,Manhattan,GuestWiFi
+190,936,Manhattan,GuestWiFi
+163,177,Queens,GuestWiFi
+170,1329,Queens,GuestWiFi
+32,1356,Brooklyn,GuestWiFi
+96,1417,Bronx,GuestWiFi
+146,129,Manhattan,GuestWiFi
+2,1401,Brooklyn,GuestWiFi
+119,1186,Staten Island,GuestWiFi
+186,938,Manhattan,GuestWiFi
+161,1623,Bronx,GuestWiFi
+15,2119,Queens,GuestWiFi
+171,1330,Queens,GuestWiFi
+80,805,Brooklyn,GuestWiFi
+62,1774,Manhattan,GuestWiFi
+117,1185,Staten Island,GuestWiFi
+30,1354,Brooklyn,GuestWiFi
+135,831,Manhattan,GuestWiFi
+139,931,Brooklyn,attwifi
+148,131,Manhattan,GuestWiFi
+72,1376,Bronx,GuestWiFi
+192,745,Brooklyn,GuestWiFi
+174,1198,Brooklyn,GuestWiFi
+173,721,Brooklyn,GuestWiFi
+166,897,Brooklyn,GuestWiFi
+81,806,Brooklyn,GuestWiFi
+27,969,Queens,GuestWiFi
+167,1649,Queens,GuestWiFi
+109,1192,Queens,GuestWiFi
+99,1422,Bronx,GuestWiFi
+101,810,Queens,GuestWiFi
+84,1591,Bronx,GuestWiFi
+38,827,Staten Island,GuestWiFi
+83,461,Brooklyn,GuestWiFi
+22,1387,Brooklyn,GuestWiFi
+111,1194,Queens,GuestWiFi
+53,1367,Brooklyn,GuestWiFi
+150,140,Manhattan,GuestWiFi
+197,1243,Manhattan,GuestWiFi
+176,1232,Queens,GuestWiFi
+168,1641,Queens,GuestWiFi
+153,174,Manhattan,GuestWiFi
+180,727,Bronx,GuestWiFi
+95,1416,Bronx,GuestWiFi
+86,2106,Bronx,GuestWiFi
+160,971,Bronx,attwifi
+141,982,Brooklyn,attwifi
+191,743,Brooklyn,GuestWiFi
+60,943,Manhattan,attwifi
+47,1765,Brooklyn,GuestWiFi
+11,2103,Manhattan,GuestWiFi
+12,1345,Manhattan,GuestWiFi
+13,1346,Manhattan,GuestWiFi
+92,1413,Bronx,GuestWiFi
+87,1409,Bronx,GuestWiFi
+16,1754,Queens,GuestWiFi
+164,178,Queens,GuestWiFi
+6,1405,Brooklyn,GuestWiFi
+169,1642,Queens,GuestWiFi
+179,2109,Bronx,GuestWiFi
+35,1359,Brooklyn,GuestWiFi
+56,1645,Manhattan,BryantPark.org
+44,1767,Brooklyn,GuestWiFi
+142,1748,Manhattan,attwifi
+82,807,Brooklyn,GuestWiFi
+143,963,Bronx,attwifi
+187,933,Manhattan,GuestWiFi
+48,1766,Brooklyn,GuestWiFi
+105,21,Brooklyn,GuestWiFi
+103,970,Bronx,attwifi
+112,930,Brooklyn,attwifi
+25,976,Queens,GuestWiFi
+1,1400,Brooklyn,GuestWiFi
+106,1604,Bronx,GuestWiFi
+178,136,Queens,attwifi
+52,1366,Brooklyn,GuestWiFi
+196,736,Brooklyn,GuestWiFi
+24,135,Queens,attwifi
+20,1760,Queens,GuestWiFi
+134,54,Manhattan,GuestWiFi
+195,735,Brooklyn,GuestWiFi
+181,728,Bronx,GuestWiFi
+58,1739,Manhattan,attwifi
+144,138,Manhattan,GuestWiFi
+75,891,Staten Island,GuestWiFi
+45,1763,Brooklyn,GuestWiFi
+133,830,Manhattan,GuestWiFi
+108,148,Queens,attwifi
+145,139,Manhattan,GuestWiFi
+198,1236,Manhattan,GuestWiFi
+194,747,Brooklyn,GuestWiFi
+17,1755,Queens,GuestWiFi
+88,1410,Bronx,GuestWiFi
+193,746,Brooklyn,GuestWiFi
+61,944,Manhattan,attwifi
+7,1750,Manhattan,GuestWiFi
+70,1374,Bronx,GuestWiFi
+65,1777,Manhattan,GuestWiFi
+49,1634,Brooklyn,attwifi
+123,909,Staten Island,GuestWiFi
+18,1756,Queens,GuestWiFi
+115,1183,Staten Island,GuestWiFi
+40,829,Staten Island,GuestWiFi
+102,811,Queens,GuestWiFi
+29,1759,Manhattan,attwifi
+162,1624,Bronx,GuestWiFi
+121,908,Staten Island,GuestWiFi
+149,133,Manhattan,GuestWiFi
+147,130,Manhattan,GuestWiFi
+172,1199,Brooklyn,GuestWiFi
+182,731,Bronx,GuestWiFi
+5,1404,Brooklyn,GuestWiFi
+138,1620,Brooklyn,GuestWiFi
+185,937,Manhattan,GuestWiFi
+129,1609,Brooklyn,GuestWiFi
+42,1360,Bronx,GuestWiFi
+90,1412,Bronx,GuestWiFi
+50,1364,Brooklyn,GuestWiFi
+122,1188,Staten Island,GuestWiFi
+34,1358,Brooklyn,GuestWiFi
+165,179,Queens,GuestWiFi
+66,1778,Manhattan,GuestWiFi
+132,1613,Bronx,GuestWiFi
+41,1361,Bronx,GuestWiFi
+77,458,Staten Island,GuestWiFi
+184,722,Bronx,GuestWiFi
+189,935,Manhattan,GuestWiFi
+104,815,Brooklyn,GuestWiFi
+76,1781,Staten Island,GuestWiFi
+94,1415,Bronx,GuestWiFi
+91,2123,Bronx,GuestWiFi
+71,1375,Bronx,GuestWiFi
+26,977,Queens,GuestWiFi
+127,906,Staten Island,GuestWiFi
+10,1753,Manhattan,GuestWiFi

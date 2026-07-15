@@ -1,0 +1,52 @@
+bble,isps_2,isps_1,council_district,additional_telecom_space,census_tract,designated_telecom_utility_space,new_service_providers,postcode,community_board,longitude,fiber_distribution,riser_space_for_current_providers
+1008550037,"Other,Verizon,Towerstream,Time Warner Cable,Reliance,Lightower,Cogent",5 or more,2.0,Yes,56.0,Common (shared) room,Yes,10010.0,5.0,-73.986817,Partial Distribution (some floors),Yes
+1012760058_1,"Verizon,Time Warner Cable,Sprint,Lightpath,Lightower,AT&T",5 or more,4.0,Yes,82.0,Dedicated room,Yes,10017.0,5.0,-73.979712,Full Distribution (all floors),Yes
+1012700071,"Broadview,Zayo,Time Warner Cable,Verizon,Cogent,AT&T",5 or more,,Yes,,"Combination of open, shared, and dedicated  space",Yes,,,,Partial Distribution (some floors),Yes
+1012800060,"Cogent,Cablevision,Other,Time Warner Cable,Verizon",5 or more,4.0,Yes,92.0,Common (shared) room,Yes,10170.0,5.0,-73.975464,Partial Distribution (some floors),Yes
+1000160120,"Zayo,Verizon,Time Warner Cable,Sidera,Level(3),Cogent,AT&T",5 or more,1.0,Yes,31704.0,Dedicated room,Yes,10281.0,1.0,-74.015442,Full Distribution (all floors),Yes
+1012810069,"Verizon,Time Warner Cable,SignalPoint,Lightower,Cogent",5 or more,4.0,Yes,94.0,"Combination of open, shared, and dedicated  space",Yes,10017.0,5.0,-73.979152,Full Distribution (all floors),Yes
+1001920001,"Other,Zayo,XO Communications,Verizon,TW Telecom,Towerstream,Time Warner Cable,Sprint,Reliance,RCN,Rainbow Broadband,OCG,Lightpath,Lightower,Level(3),Cogent,Century Link,AT&T,Abovenet",5 or more,1.0,Yes,33.0,Dedicated room,Yes,10013.0,1.0,-74.004978,Full Distribution (all floors),Yes
+1010350017,"Verizon FIOS,Verizon,Time Warner Cable,Broadview,AT&T",5 or more,3.0,Yes,121.0,"Combination of open, shared, and dedicated  space",Yes,10036.0,4.0,-73.989669,Full Distribution (all floors),Yes
+1012681102,"Zayo,Verizon FIOS,Verizon,Time Warner Cable,Rainbow Broadband,Lightpath,Lightower,Cogent",5 or more,4.0,Yes,104.0,"Combination of open, shared, and dedicated  space",Yes,10103.0,5.0,-73.976421,Partial Distribution (some floors),Yes
+1013010001_2,"Verizon,Time Warner Cable,Lightpath,Level(3),Cogent,Abovenet",5 or more,4.0,Yes,92.0,Dedicated room,Yes,10167.0,5.0,-73.975683,Full Distribution (all floors),Yes
+1005107502,"Towerstream,Verizon,Cogent",4,1.0,Yes,43.0,Common (shared) room,Yes,10012.0,2.0,-73.995761,No Distribution,Yes
+1000627501,"Zayo,Verizon,Time Warner Cable,Lightower,Cogent,AT&T",5 or more,1.0,Yes,13.0,"Combination of open, shared, and dedicated  space",Yes,10006.0,1.0,-74.011102,Full Distribution (all floors),Yes
+1008490070,"Verizon FIOS,Verizon,TW Telecom,Towerstream,Time Warner Cable,Abovenet",5 or more,2.0,Yes,52.0,"Combination of open, shared, and dedicated  space",Yes,10010.0,5.0,-73.989654,Full Distribution (all floors),Yes
+1010140033,"Verizon,TW Telecom,Time Warner Cable,Lightpath,Lightower,Level(3),Cogent,AT&T,Abovenet",5 or more,3.0,Yes,119.0,Dedicated room,Yes,10036.0,5.0,-73.986713,Full Distribution (all floors),Yes
+1008177502,"Windstream,Verizon,TW Telecom,Time Warner Cable,Level(3),Broadview,Abovenet",5 or more,3.0,Yes,54.0,Dedicated room,Yes,10011.0,5.0,-73.992992,Full Distribution (all floors),Yes
+1013010033,"Cogent,Other,Cablevision,Time Warner Cable,Verizon",5 or more,4.0,Yes,92.0,"Combination of open, shared, and dedicated  space",Yes,10017.0,6.0,-73.972309,Full Distribution (all floors),Yes
+1012960001,"Verizon,Time Warner Cable,Cogent,Cablevision,AT&T",5 or more,4.0,Yes,80.0,"Combination of open, shared, and dedicated  space",Yes,10017.0,5.0,-73.977074,Partial Distribution (some floors),Yes
+1009970041,"Verizon,TW Telecom,Time Warner Cable,Cogent,Broadview,AT&T",5 or more,4.0,Yes,119.0,Common (shared) room,No capability available,10036.0,5.0,-73.983544,Partial Distribution (some floors),Yes
+1012940046,"Cablevision,AT&T,Time Warner Cable,Verizon",3,4.0,Yes,11202.0,"Combination of open, shared, and dedicated  space",Yes,10022.0,5.0,-73.971789,Partial Distribution (some floors),Yes
+1000460001,"Verizon FIOS,Verizon,Time Warner Cable,SignalPoint,RCN,Cogent,Broadview,AT&T",5 or more,1.0,Yes,7.0,"Combination of open, shared, and dedicated  space",Yes,10005.0,1.0,-74.011632,Full Distribution (all floors),Yes
+1012580009_1,"Verizon,Time Warner Cable,Lightpath,Lightower,Cogent,AT&T,Abovenet",5 or more,,Yes,,"Combination of open, shared, and dedicated  space",Yes,,,,Full Distribution (all floors),Yes
+1012961001,"Verizon,Time Warner Cable,Cogent,AT&T",4,4.0,Yes,80.0,"Combination of open, shared, and dedicated  space",No capability available,10017.0,5.0,-73.976944,Full Distribution (all floors),Yes
+1010860001,"Lightower,Time Warner Cable,Verizon",3,6.0,No,135.0,"Combination of open, shared, and dedicated  space",Yes,10019.0,4.0,-73.990927,Partial Distribution (some floors),Yes
+1000041010,"Zayo,Verizon,Time Warner Cable,Lightpath,Lightower,Cogent,AT&T",5 or more,1.0,Yes,9.0,"Combination of open, shared, and dedicated  space",Yes,10004.0,1.0,-74.012742,Full Distribution (all floors),Yes
+1010240015,"Other,Zayo,Verizon,Time Warner Cable,Reliance,Cogent,AT&T,Abovenet",5 or more,3.0,Yes,131.0,"Combination of open, shared, and dedicated  space",Yes,10019.0,5.0,-73.983073,Full Distribution (all floors),Yes
+1008820003,"Verizon,Time Warner Cable,Rainbow Broadband,OCG,Cogent",5 or more,2.0,Yes,68.0,Hallway/Open Space,Yes,10016.0,5.0,-73.984814,Full Distribution (all floors),Yes
+1013070014,"Lightower,Cogent,Time Warner Cable,Verizon",5 or more,4.0,Yes,100.0,"Combination of open, shared, and dedicated  space",Yes,10022.0,5.0,-73.971322,Partial Distribution (some floors),Yes
+1010160036,"Other,Verizon,Time Warner Cable,Lightpath,Cablevision,AT&T",5 or more,3.0,Yes,119.0,Common (shared) room,Yes,10036.0,5.0,-73.985804,Partial Distribution (some floors),Yes
+1001250020,"RCN,Time Warner Cable,Lightower,AT&T,Verizon",4,1.0,Yes,21.0,"Combination of open, shared, and dedicated  space",Yes,10007.0,1.0,-74.00949,Partial Distribution (some floors),Yes
+1012880007,"Verizon,Time Warner Cable,Cablevision,AT&T",3,4.0,Yes,102.0,Common (shared) room,Yes,10022.0,5.0,-73.975916,Partial Distribution (some floors),Yes
+1000160125,"Verizon,Time Warner Cable,Lightpath,Lightower,Cogent,AT&T,Abovenet",5 or more,1.0,Yes,31703.0,"Combination of open, shared, and dedicated  space",Yes,10280.0,1.0,-74.015673,Full Distribution (all floors),Yes
+1009990029,"Other,Lightower,Level(3),Time Warner Cable,Verizon,Cogent,AT&T",5 or more,,Yes,,Dedicated room,Yes,,,,Partial Distribution (some floors),Yes
+1000370023,"AT&T,Other,Time Warner Cable,Verizon",3,1.0,Yes,7.0,"Combination of open, shared, and dedicated  space",Yes,10005.0,1.0,-74.004873,Partial Distribution (some floors),Yes
+1000160150,"Zayo,Verizon,Time Warner Cable,Lightower,AT&T",5 or more,,Yes,,Dedicated room,Yes,,,,Full Distribution (all floors),Yes
+1013010023,"Verizon,Time Warner Cable,Lightower,Cogent,AT&T,Abovenet",5 or more,4.0,Yes,92.0,"Combination of open, shared, and dedicated  space",Yes,10017.0,6.0,-73.973994,Full Distribution (all floors),Yes
+1008820085,"Verizon,Time Warner Cable,OCG,Cogent",4,2.0,Yes,68.0,Hallway/Open Space,Yes,10016.0,5.0,-73.984641,Full Distribution (all floors),Yes
+1008570024_1,"Verizon FIOS,Verizon,Time Warner Cable,Lightpath,Lexent,Broadview",5 or more,2.0,Yes,56.0,"Combination of open, shared, and dedicated  space",Yes,10016.0,5.0,-73.98607,Full Distribution (all floors),Yes
+1008510041,"XO Communications,Verizon,Time Warner Cable",3,2.0,No,56.0,Hallway/Open Space,Yes,10010.0,5.0,-73.986507,Full Distribution (all floors),Yes
+1010400029,"Verizon FIOS,Verizon,TW Telecom,Time Warner Cable,Sidera,Rainbow Broadband,Lightpath,Covad,Cogent,Broadview,AT&T,Abovenet",5 or more,3.0,Yes,127.0,"Combination of open, shared, and dedicated  space",Yes,10019.0,4.0,-73.986275,Full Distribution (all floors),Yes
+1008730067,"Verizon,Time Warner Cable,Lightower,Broadview",4,2.0,No,50.0,"Combination of open, shared, and dedicated  space",No capability available,10003.0,5.0,-73.988713,Full Distribution (all floors),Yes
+1010240038,"Verizon,Time Warner Cable,Earthlink,Covad,Cogent,Broadview,AT&T",5 or more,4.0,Yes,131.0,Common (shared) room,Yes,10019.0,5.0,-73.983005,Partial Distribution (some floors),Yes
+1000250001,"XO Communications,Verizon,Time Warner Cable,Lightpath,Lightower,Level(3),Zayo,Reliance Globalcom,Cogent,AT&T,Verizon Business,Sprint,CDS",5 or more,1.0,Yes,9.0,Dedicated room,Yes,10004.0,1.0,-74.011505,Full Distribution (all floors),Yes
+1010150029,"Verizon,Time Warner Cable,MegaPath",3,3.0,Yes,119.0,"Combination of open, shared, and dedicated  space",Yes,10036.0,5.0,-73.986193,Full Distribution (all floors),Yes
+1007620025_1,"Verizon,Time Warner Cable,Rainbow Broadband,MegaPath,Broadview",5 or more,3.0,Yes,115.0,"Combination of open, shared, and dedicated  space",Yes,10018.0,4.0,-73.992175,Partial Distribution (some floors),Yes
+1008620029,"XO Communications,Windstream,Verizon,TW Telecom,Time Warner Cable,Cogent,AT&T",5 or more,2.0,Yes,74.0,Hallway/Open Space,Yes,10016.0,5.0,-73.982092,Full Distribution (all floors),Yes
+1000430001,"Verizon,Time Warner Cable,Lightpath,Cogent,Broadview,Abovenet",5 or more,1.0,Yes,7.0,Common (shared) room,Yes,10005.0,1.0,-74.009738,Full Distribution (all floors),Yes
+1012950058,"Other,Verizon FIOS,Verizon,Time Warner Cable,Cogent,Broadview",5 or more,4.0,Yes,80.0,"Combination of open, shared, and dedicated  space",Yes,10017.0,5.0,-73.976641,Full Distribution (all floors),Yes
+1013290001,"Verizon,Time Warner Cable,Cogent,Broadview",5 or more,4.0,Yes,108.0,"Combination of open, shared, and dedicated  space",Yes,10022.0,6.0,-73.968333,Partial Distribution (some floors),Yes
+1012950040,"Verizon,Time Warner Cable,SignalPoint,Cogent,Broadview",5 or more,4.0,Yes,80.0,"Combination of open, shared, and dedicated  space",Yes,10017.0,6.0,-73.975165,Full Distribution (all floors),Yes
+1008090053,"Verizon FIOS, Verizon, Time Warner Cable, Lightpath, Lightower",4,3.0,Yes,101.0,"Combination of open, shared, and dedicated  space",Yes,10120.0,5.0,-73.988454,Full Distribution (all floors),Yes
+1013150024,"Other,Verizon,Time Warner Cable,Cogent,AT&T,Abovenet",5 or more,4.0,No,88.0,Common (shared) room,No capability available,10017.0,6.0,-73.973256,Full Distribution (all floors),Yes

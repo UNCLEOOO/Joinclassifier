@@ -1,0 +1,401 @@
+pivot-metric,pivot-value,bin,council_district,geocode_status,construction_status,street
+saf_type,,1045882.0,5.0,Successfully geocoded,Completed,EAST 74 STREET
+saf_type,,1087786.0,9.0,Successfully geocoded,Completed,WEST 143 STREET
+saf_type,,1001025.0,1.0,Successfully geocoded,Completed,PINE STREET
+saf_type,,1087572.0,2.0,Successfully geocoded,Completed,ATTORNEY STREET
+y,201725.404235839,1087572.0,2.0,Successfully geocoded,Completed,ATTORNEY STREET
+saf_type,,1087549.0,1.0,Successfully geocoded,Completed,DELANCEY STREET
+saf_type,,1002002.0,1.0,Successfully geocoded,Completed,LEONARD STREET
+saf_type,,,9.0,Successfully geocoded,Application,EAST 118 STREET
+saf_type,,1013352.0,3.0,Successfully geocoded,Completed,WEST 22 STREET
+y,217623.840820312,1026678.0,3.0,Successfully geocoded,Completed,WEST 50 STREET
+y,218419.533630371,1044821.0,5.0,Successfully geocoded,Completed,1 AVENUE
+y,222971.984436035,1081034.0,6.0,Successfully geocoded,Completed,BROADWAY
+y,218628.551208496,1025451.0,3.0,Successfully geocoded,Completed,WEST 57 STREET
+y,215864.890197753,1088437.0,3.0,Successfully geocoded,Completed,WEST 42 STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 42 STREET
+y,211916.557006835,1088533.0,3.0,Successfully geocoded,Completed,AVENUE OF THE AMERICAS
+y,226015.268981933,1033105.0,6.0,Successfully geocoded,Completed,BROADWAY
+saf_type,,1048688.0,,Successfully geocoded,Completed,EAST 83 STREET
+saf_type,,1088881.0,1.0,Successfully geocoded,Completed,BOND STREET
+y,221838.827392578,1049904.0,5.0,Successfully geocoded,Completed,EAST 83 STREET
+saf_type,,1060747.0,9.0,Successfully geocoded,Completed,FREDERICK DOUGLASS BOULEVARD
+y,207014.075805664,1010825.0,3.0,Successfully geocoded,Completed,CHARLES STREET
+y,211202.0,,3.0,Successfully geocoded,Application,WEST 20 STREET
+saf_type,,1030518.0,6.0,Successfully geocoded,Completed,BROADWAY
+saf_type,,1088467.0,2.0,Successfully geocoded,Completed,EAST 24 STREET
+y,206492.817199707,1009127.0,2.0,Successfully geocoded,Completed,UNIVERSITY PLACE
+y,204301.182800292,1088207.0,2.0,Successfully geocoded,Completed,COOPER SQUARE
+saf_type,,1085733.0,10.0,Successfully geocoded,Completed,WEST 165 STREET
+y,211064.6328125,1087987.0,3.0,Successfully geocoded,Completed,WEST 23 STREET
+saf_type,,1034816.0,4.0,Successfully geocoded,Completed,WEST 54 STREET
+saf_type,,,,Outside of existing street range,Application,CROSBY STREET
+y,233645.145996093,1086526.0,9.0,Successfully geocoded,Completed,EAST 129 STREET
+y,209391.0,,3.0,Successfully geocoded,Application,8 AVENUE
+y,215611.999206542,1088668.0,3.0,Successfully geocoded,Completed,WEST 39 STREET
+saf_type,,1083624.0,3.0,Successfully geocoded,Completed,8 AVENUE
+saf_type,,1064467.0,10.0,Successfully geocoded,Completed,BROADWAY
+y,197193.17401123,1001025.0,1.0,Successfully geocoded,Completed,PINE STREET
+y,238832.736999511,1060485.0,9.0,Successfully geocoded,Completed,ADAM C POWELL BOULEVARD
+y,216652.218017578,1088603.0,3.0,Successfully geocoded,Completed,WEST 49 STREET
+y,198012.0,,1.0,Successfully geocoded,Application,SOUTH STREET
+saf_type,,1088460.0,3.0,Successfully geocoded,Completed,WEST 44 STREET
+saf_type,,1088482.0,2.0,Successfully geocoded,Completed,PITT STREET
+saf_type,,1080094.0,2.0,Successfully geocoded,Completed,ASTOR PLACE
+saf_type,,,1.0,Successfully geocoded,Application,WEST STREET
+saf_type,,,1.0,Successfully geocoded,Application,SOUTH STREET
+y,234124.0,,9.0,Successfully geocoded,Application,MORNINGSIDE AVENUE
+y,216463.571594238,1025102.0,3.0,Successfully geocoded,Completed,8 AVENUE
+saf_type,,1088689.0,5.0,Successfully geocoded,Completed,LEXINGTON AVENUE
+saf_type,,,,Successfully geocoded,Application,WEST 29 STREET
+y,224801.779785156,1087961.0,4.0,Successfully geocoded,Completed,EAST 92 STREET
+y,246539.846801757,1063144.0,10.0,Successfully geocoded,Completed,WEST 173 STREET
+saf_type,,1031425.0,6.0,Successfully geocoded,Completed,WEST 87 STREET
+saf_type,,1088703.0,7.0,Successfully geocoded,Completed,WEST 120 STREET
+y,221869.413391113,1041838.0,4.0,Successfully geocoded,Completed,EAST 78 STREET
+saf_type,,1088467.0,2.0,Successfully geocoded,Completed,EAST 24 STREET
+y,256944.030395507,1077199.0,10.0,Successfully geocoded,Completed,PARK TERRACE WEST
+saf_type,,1087987.0,3.0,Successfully geocoded,Completed,WEST 23 STREET
+y,215934.0,,3.0,Successfully geocoded,Application,WEST 42 STREET
+saf_type,,,,Successfully geocoded,Application,WEST 30 STREET
+saf_type,,1088574.0,3.0,Successfully geocoded,Completed,WEST 54 STREET
+saf_type,,1088690.0,5.0,Successfully geocoded,Completed,YORK AVENUE
+y,231725.822204589,1055783.0,9.0,Successfully geocoded,Completed,MANHATTAN AVENUE
+y,223193.437988281,1030518.0,6.0,Successfully geocoded,Completed,BROADWAY
+saf_type,,,3.0,Successfully geocoded,Application,WEST 41 STREET
+saf_type,,1038546.0,4.0,Successfully geocoded,Completed,EAST 52 STREET
+saf_type,,1088668.0,3.0,Successfully geocoded,Completed,WEST 39 STREET
+saf_type,,1088355.0,1.0,Successfully geocoded,Completed,MERCER STREET
+saf_type,,1009127.0,2.0,Successfully geocoded,Completed,UNIVERSITY PLACE
+saf_type,,1088594.0,2.0,Successfully geocoded,Completed,COOPER SQUARE
+saf_type,,,3.0,Successfully geocoded,Application,8 AVENUE
+y,209353.0,,3.0,Successfully geocoded,Application,WEST 16 STREET
+saf_type,,1088150.0,9.0,Successfully geocoded,Completed,WEST 114 STREET
+saf_type,,,9.0,Successfully geocoded,Application,WEST 124 STREET
+y,209136.375793457,1088749.0,2.0,Successfully geocoded,Completed,EAST 23 STREET
+saf_type,,,6.0,Successfully geocoded,Application,RIVERSIDE DRIVE
+saf_type,,,3.0,Successfully geocoded,Application,WEST 41 STREET
+y,216374.595825195,1076271.0,4.0,Successfully geocoded,Completed,3 AVENUE
+y,215972.0,,3.0,Successfully geocoded,Application,WEST 42 STREET
+y,223154.148986816,1088690.0,5.0,Successfully geocoded,Completed,YORK AVENUE
+saf_type,,1081034.0,6.0,Successfully geocoded,Completed,BROADWAY
+y,199142.323242187,1001409.0,1.0,Successfully geocoded,Completed,PARK PLACE
+y,231936.158020019,1088150.0,9.0,Successfully geocoded,Completed,WEST 114 STREET
+y,211945.0,,,Successfully geocoded,Application,WEST 23 STREET
+y,196639.0,,1.0,Successfully geocoded,Application,WEST STREET
+saf_type,,1044821.0,5.0,Successfully geocoded,Completed,1 AVENUE
+y,231936.0,1088150.0,9.0,Successfully geocoded,Completed,WEST 114 STREET
+saf_type,,1087749.0,3.0,Outside of existing street range,Completed,12 AVENUE
+saf_type,,1088644.0,3.0,Successfully geocoded,Completed,WEST 13 STREET
+saf_type,,1076271.0,4.0,Successfully geocoded,Completed,3 AVENUE
+saf_type,,1037174.0,4.0,Successfully geocoded,Completed,EAST 41 STREET
+y,209005.79901123,1088644.0,3.0,Successfully geocoded,Completed,WEST 13 STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 42 STREET
+saf_type,,1088574.0,3.0,Successfully geocoded,Completed,WEST 53 STREET
+y,215930.0,,3.0,Successfully geocoded,Application,WEST 42 STREET
+y,215492.895019531,1081145.0,4.0,Successfully geocoded,Completed,5 AVENUE
+saf_type,,1087809.0,9.0,Successfully geocoded,Completed,EAST 129 STREET
+y,211737.0,,,Successfully geocoded,Application,WEST 23 STREET
+y,208097.221801757,1015314.0,3.0,Successfully geocoded,Completed,WEST 16 STREET
+saf_type,,1086195.0,1.0,Successfully geocoded,Completed,MULBERRY STREET
+saf_type,,1081034.0,6.0,Successfully geocoded,Completed,BROADWAY
+saf_type,,1088482.0,2.0,Successfully geocoded,Completed,PITT STREET
+y,206385.203186035,1009127.0,2.0,Successfully geocoded,Completed,EAST 11 STREET
+saf_type,,1088506.0,1.0,Successfully geocoded,Completed,BOWERY
+y,213885.264038085,1083624.0,3.0,Successfully geocoded,Completed,8 AVENUE
+saf_type,,1082491.0,1.0,Successfully geocoded,Completed,ALLEN STREET
+saf_type,,1012282.0,3.0,Successfully geocoded,Completed,WEST 19 STREET
+saf_type,,1044821.0,5.0,Successfully geocoded,Completed,1 AVENUE
+y,216915.522399902,1034816.0,4.0,Successfully geocoded,Completed,WEST 54 STREET
+y,0.0,,,Outside of existing street range,Application,CROSBY STREET
+y,251828.937988281,1064467.0,10.0,Successfully geocoded,Completed,WEST 192 STREET
+y,199030.0,1001409.0,1.0,Successfully geocoded,Completed,CHURCH STREET
+y,215511.148193359,1088466.0,3.0,Successfully geocoded,Completed,WEST 43 STREET
+y,242142.571594238,1076739.0,7.0,Successfully geocoded,Completed,ST NICHOLAS AVENUE
+saf_type,,1088466.0,3.0,Successfully geocoded,Completed,WEST 43 STREET
+saf_type,,1082491.0,1.0,Successfully geocoded,Completed,ELDRIDGE STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 33 STREET
+saf_type,,1025451.0,3.0,Successfully geocoded,Completed,WEST 57 STREET
+y,202055.250793457,1088506.0,1.0,Successfully geocoded,Completed,BOWERY
+y,200547.7288208,1082491.0,1.0,Successfully geocoded,Completed,ALLEN STREET
+saf_type,,1012214.0,3.0,Successfully geocoded,Completed,WEST 13 STREET
+saf_type,,1059248.0,9.0,Successfully geocoded,Completed,WEST 123 STREET
+y,215721.0,,3.0,Successfully geocoded,Application,WEST 41 STREET
+y,218616.989196777,1025451.0,3.0,Successfully geocoded,Completed,WEST 57 STREET
+y,215464.442199707,1082746.0,4.0,Successfully geocoded,Completed,5 AVENUE
+saf_type,,,3.0,Successfully geocoded,Application,WEST 44 STREET
+saf_type,,1087563.0,2.0,Successfully geocoded,Completed,EAST 11 STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 42 STREET
+saf_type,,1088613.0,2.0,Successfully geocoded,Completed,EAST 26 STREET
+saf_type,,1003885.0,1.0,Successfully geocoded,Completed,HESTER STREET
+saf_type,,1018503.0,2.0,Successfully geocoded,Completed,EAST 34 STREET
+saf_type,,,1.0,Successfully geocoded,Application,FORSYTH STREET
+saf_type,,1063144.0,10.0,Successfully geocoded,Completed,WEST 173 STREET
+y,204806.505798339,1087563.0,2.0,Successfully geocoded,Completed,EAST 11 STREET
+saf_type,,1088150.0,9.0,Successfully geocoded,Completed,WEST 114 STREET
+saf_type,,1083575.0,3.0,Successfully geocoded,Completed,WEST 21 STREET
+saf_type,,1801291.0,10.0,Successfully geocoded,Application,BROADWAY
+y,204250.432189941,1088207.0,2.0,Successfully geocoded,Completed,COOPER SQUARE
+saf_type,,1055783.0,9.0,Successfully geocoded,Completed,MANHATTAN AVENUE
+saf_type,,1025102.0,3.0,Successfully geocoded,Completed,8 AVENUE
+saf_type,,1076739.0,7.0,Successfully geocoded,Completed,WEST 155 STREET
+y,213247.0,,,Successfully geocoded,Application,WEST 29 STREET
+y,213726.0,,3.0,Successfully geocoded,Application,WEST 33 STREET
+y,199814.31640625,1086195.0,1.0,Successfully geocoded,Completed,MULBERRY STREET
+y,209310.024414062,1088613.0,2.0,Successfully geocoded,Completed,EAST 26 STREET
+y,208358.785217285,1014556.0,3.0,Successfully geocoded,Completed,WEST 15 STREET
+y,231416.0,,9.0,Successfully geocoded,Application,EAST 118 STREET
+y,210817.80682373,1013352.0,3.0,Successfully geocoded,Completed,WEST 22 STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 14 STREET
+saf_type,,,6.0,Successfully geocoded,Application,WEST 96 STREET
+y,207511.835815429,1088513.0,3.0,Successfully geocoded,Completed,WEST 14 STREET
+y,234331.744995117,1088703.0,7.0,Successfully geocoded,Completed,WEST 120 STREET
+saf_type,,1044821.0,5.0,Successfully geocoded,Completed,1 AVENUE
+saf_type,,1059045.0,9.0,Successfully geocoded,Completed,WEST 116 STREET
+y,201793.890197753,1088482.0,2.0,Successfully geocoded,Completed,PITT STREET
+y,209353.0,,3.0,Successfully geocoded,Application,WEST 16 STREET
+y,204323.507385253,1010378.0,3.0,Successfully geocoded,Completed,CHARLTON STREET
+y,203776.178588867,1088881.0,1.0,Successfully geocoded,Completed,BOND STREET
+y,215910.0,,3.0,Successfully geocoded,Application,10 AVENUE
+y,197493.997985839,1088484.0,1.0,Successfully geocoded,Completed,GOLD STREET
+saf_type,,1064467.0,10.0,Successfully geocoded,Completed,WEST 192 STREET
+saf_type,,1088676.0,2.0,Successfully geocoded,Completed,LAFAYETTE STREET
+saf_type,,1054285.0,9.0,Successfully geocoded,Completed,EAST 130 STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 42 STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 41 STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 19 STREET
+y,213377.0,,,Successfully geocoded,Application,WEST 30 STREET
+saf_type,,1087262.0,3.0,Successfully geocoded,Completed,WEST 17 STREET
+saf_type,,1064149.0,10.0,Successfully geocoded,Completed,NAGLE AVENUE
+y,233694.281799316,1088141.0,9.0,Successfully geocoded,Completed,WEST 122 STREET
+saf_type,,1086526.0,9.0,Successfully geocoded,Completed,EAST 129 STREET
+y,208825.0,1088467.0,2.0,Successfully geocoded,Completed,EAST 24 STREET
+saf_type,,1087961.0,4.0,Successfully geocoded,Completed,EAST 92 STREET
+y,204343.512023925,1088594.0,2.0,Successfully geocoded,Completed,COOPER SQUARE
+y,223015.448242187,1081034.0,6.0,Successfully geocoded,Completed,WEST 72 STREET
+saf_type,,1041838.0,4.0,Successfully geocoded,Completed,EAST 78 STREET
+saf_type,,1088437.0,3.0,Successfully geocoded,Completed,10 AVENUE
+y,252678.080627441,1064149.0,10.0,Successfully geocoded,Completed,NAGLE AVENUE
+saf_type,,1001598.0,1.0,Successfully geocoded,Completed,READE STREET
+saf_type,,1077199.0,10.0,Successfully geocoded,Completed,PARK TERRACE WEST
+saf_type,,1088749.0,2.0,Successfully geocoded,Completed,EAST 23 STREET
+y,215944.0,,3.0,Successfully geocoded,Application,WEST 42 STREET
+saf_type,,1033105.0,6.0,Successfully geocoded,Completed,WEST 84 STREET
+y,210908.325012207,1012282.0,3.0,Successfully geocoded,Completed,WEST 19 STREET
+saf_type,,1044821.0,5.0,Successfully geocoded,Completed,1 AVENUE
+y,230183.0,,9.0,Successfully geocoded,Application,WEST 110 STREET
+saf_type,,1034521.0,4.0,Successfully geocoded,Application,WEST 53 STREET
+saf_type,,1048799.0,5.0,Successfully geocoded,Completed,EAST 87 STREET
+y,215704.0,,3.0,Successfully geocoded,Application,WEST 41 STREET
+saf_type,,1003845.0,1.0,Successfully geocoded,Completed,ORCHARD STREET
+saf_type,Vanity address,1088207.0,2.0,Successfully geocoded,Completed,COOPER SQUARE
+y,204275.960815429,1088207.0,2.0,Successfully geocoded,Completed,COOPER SQUARE
+y,234084.961791992,1087917.0,9.0,Successfully geocoded,Completed,FREDERICK DOUGLASS BOULEVARD
+saf_type,,1012292.0,3.0,Successfully geocoded,Completed,11 AVENUE
+y,233729.942810058,1087809.0,9.0,Successfully geocoded,Completed,EAST 129 STREET
+y,215939.0,,3.0,Successfully geocoded,Application,WEST 42 STREET
+saf_type,,1087297.0,4.0,Successfully geocoded,Completed,1 AVENUE
+y,242163.140441894,1076739.0,7.0,Successfully geocoded,Completed,WEST 155 STREET
+y,225958.277038574,1088689.0,5.0,Successfully geocoded,Completed,LEXINGTON AVENUE
+y,208983.139404296,1012214.0,3.0,Successfully geocoded,Completed,WEST 13 STREET
+saf_type,,1007496.0,1.0,Successfully geocoded,Completed,MOTT STREET
+y,204129.982238769,1007827.0,3.0,Successfully geocoded,Completed,CHARLTON STREET
+saf_type,,,9.0,Successfully geocoded,Application,MORNINGSIDE AVENUE
+saf_type,,,3.0,Successfully geocoded,Application,WEST 42 STREET
+y,210894.516235351,1083575.0,3.0,Successfully geocoded,Completed,WEST 21 STREET
+y,210705.0,,,Successfully geocoded,Application,MADISON AVENUE
+saf_type,,,3.0,Successfully geocoded,Application,WEST 42 STREET
+saf_type,,1080092.0,2.0,Successfully geocoded,Completed,BROADWAY
+saf_type,,1087917.0,9.0,Successfully geocoded,Completed,FREDERICK DOUGLASS BOULEVARD
+saf_type,,1087559.0,1.0,Successfully geocoded,Completed,MERCER STREET
+saf_type,,,,Successfully geocoded,Application,MADISON AVENUE
+y,211412.771606445,1012292.0,3.0,Successfully geocoded,Completed,11 AVENUE
+y,225919.239196777,1033105.0,6.0,Successfully geocoded,Completed,WEST 84 STREET
+saf_type,,1088574.0,3.0,Successfully geocoded,Completed,10 AVENUE
+y,214891.510620117,1038546.0,4.0,Successfully geocoded,Completed,EAST 52 STREET
+saf_type,,1014556.0,3.0,Successfully geocoded,Completed,WEST 15 STREET
+y,215725.0,,3.0,Successfully geocoded,Application,WEST 41 STREET
+saf_type,,1054791.0,8.0,Successfully geocoded,Completed,EAST 126 STREET
+y,201773.60583496,1088694.0,1.0,Successfully geocoded,Completed,ELIZABETH STREET
+saf_type,,1033105.0,6.0,Successfully geocoded,Completed,WEST 84 STREET
+y,215271.0,,4.0,Successfully geocoded,Application,EAST 49 STREET
+saf_type,,1089010.0,3.0,Outside of existing street range,Completed,12 AVENUE
+saf_type,,1087785.0,9.0,Successfully geocoded,Completed,WEST 143 STREET
+y,255061.0,1801291.0,10.0,Successfully geocoded,Application,BROADWAY
+y,213398.663391113,1087749.0,3.0,Outside of existing street range,Completed,12 AVENUE
+saf_type,,1088836.0,2.0,Successfully geocoded,Completed,EAST 24 STREET
+saf_type,,1036459.0,4.0,Successfully geocoded,Completed,LEXINGTON AVENUE
+y,234019.0,,9.0,Successfully geocoded,Application,WEST 124 STREET
+y,200590.426208496,1082491.0,1.0,Successfully geocoded,Completed,ELDRIDGE STREET
+saf_type,Vanity address,1082746.0,4.0,Successfully geocoded,Completed,5 AVENUE
+y,234100.380432128,1087917.0,9.0,Successfully geocoded,Completed,FREDERICK DOUGLASS BOULEVARD
+saf_type,,1088603.0,3.0,Successfully geocoded,Completed,WEST 49 STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 42 STREET
+y,215854.0,,3.0,Successfully geocoded,Application,WEST 42 STREET
+saf_type,,1009127.0,2.0,Successfully geocoded,Completed,EAST 11 STREET
+y,210913.0,,3.0,Successfully geocoded,Application,WEST 19 STREET
+y,210920.0,,3.0,Successfully geocoded,Application,WEST 19 STREET
+y,237984.760986328,1087785.0,9.0,Successfully geocoded,Completed,WEST 143 STREET
+y,238007.028625488,1087786.0,9.0,Successfully geocoded,Completed,WEST 143 STREET
+saf_type,,,1.0,Successfully geocoded,Application,GOLD STREET
+y,220267.960205078,1086226.0,3.0,Successfully geocoded,Completed,12 AVENUE
+y,225934.033813476,1088689.0,5.0,Successfully geocoded,Completed,LEXINGTON AVENUE
+y,234067.733215332,1087917.0,9.0,Successfully geocoded,Completed,FREDERICK DOUGLASS BOULEVARD
+y,201633.0,,1.0,Successfully geocoded,Application,FORSYTH STREET
+saf_type,,1088484.0,1.0,Successfully geocoded,Completed,GOLD STREET
+saf_type,,1076739.0,7.0,Successfully geocoded,Completed,ST NICHOLAS AVENUE
+y,209925.627624511,1019944.0,,Street name not recognized,Completed,EAST 30 STREET
+saf_type,,,3.0,Successfully geocoded,Application,10 AVENUE
+saf_type,,,9.0,Successfully geocoded,Application,WEST 110 STREET
+y,218685.304016113,1088574.0,3.0,Successfully geocoded,Completed,10 AVENUE
+y,205993.0,1083192.0,,Successfully geocoded,Application,HUDSON STREET
+saf_type,,,5.0,Successfully geocoded,Application,LEXINGTON AVENUE
+saf_type,,1014236.0,3.0,Successfully geocoded,Completed,7 AVENUE
+saf_type,,1088594.0,2.0,Successfully geocoded,Completed,COOPER SQUARE
+saf_type,,1088513.0,3.0,Successfully geocoded,Completed,WEST 14 STREET
+y,215948.0,,3.0,Successfully geocoded,Application,WEST 42 STREET
+saf_type,,1061337.0,7.0,Successfully geocoded,Completed,WEST 145 STREET
+saf_type,,1019944.0,,Street name not recognized,Completed,EAST 30 STREET
+y,215691.957824707,1088460.0,3.0,Successfully geocoded,Completed,WEST 44 STREET
+saf_type,,1084650.0,3.0,Successfully geocoded,Completed,WEST 19 STREET
+y,211343.430236816,1088614.0,3.0,Successfully geocoded,Completed,WEST 27 STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 42 STREET
+saf_type,,1083192.0,,Successfully geocoded,Application,HUDSON STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 42 STREET
+y,211945.0,,,Successfully geocoded,Application,WEST 23 STREET
+y,200243.42199707,1003885.0,1.0,Successfully geocoded,Completed,HESTER STREET
+y,201773.882995605,1088482.0,2.0,Successfully geocoded,Completed,PITT STREET
+saf_type,,1088207.0,2.0,Successfully geocoded,Completed,COOPER SQUARE
+saf_type,,1088437.0,3.0,Successfully geocoded,Completed,WEST 42 STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 42 STREET
+y,215716.0,,3.0,Successfully geocoded,Application,WEST 41 STREET
+saf_type,,1086226.0,3.0,Successfully geocoded,Completed,12 AVENUE
+y,219281.480224609,1045882.0,5.0,Successfully geocoded,Completed,EAST 74 STREET
+y,205170.510192871,1080094.0,2.0,Successfully geocoded,Completed,ASTOR PLACE
+y,221684.0,,,Successfully geocoded,Application,COLUMBUS AVENUE
+y,234142.0,,9.0,Successfully geocoded,Application,MORNINGSIDE AVENUE
+y,213731.942199707,1088833.0,4.0,Successfully geocoded,Completed,AVENUE OF THE AMERICAS
+saf_type,,,3.0,Successfully geocoded,Application,8 AVENUE
+y,239804.844421386,1061337.0,7.0,Successfully geocoded,Completed,WEST 145 STREET
+y,218501.551818847,1088574.0,3.0,Successfully geocoded,Completed,WEST 53 STREET
+y,205175.553222656,1080092.0,2.0,Successfully geocoded,Completed,BROADWAY
+y,251694.726440429,1064467.0,10.0,Successfully geocoded,Completed,BROADWAY
+y,216520.0,1034521.0,4.0,Successfully geocoded,Application,WEST 53 STREET
+saf_type,,,3.0,Successfully geocoded,Application,10 AVENUE
+y,215694.0,,3.0,Successfully geocoded,Application,WEST 44 STREET
+y,230654.0,,6.0,Successfully geocoded,Application,RIVERSIDE DRIVE
+y,225890.839782714,1031425.0,6.0,Successfully geocoded,Completed,WEST 87 STREET
+saf_type,,1001409.0,1.0,Successfully geocoded,Completed,CHURCH STREET
+y,232707.379394531,1059045.0,9.0,Successfully geocoded,Completed,WEST 116 STREET
+saf_type,,1088141.0,9.0,Successfully geocoded,Completed,WEST 122 STREET
+y,218403.332824707,1044821.0,5.0,Successfully geocoded,Completed,1 AVENUE
+y,200139.056396484,1001598.0,1.0,Successfully geocoded,Completed,READE STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 41 STREET
+saf_type,,1025451.0,3.0,Successfully geocoded,Completed,WEST 57 STREET
+y,215953.0,,3.0,Successfully geocoded,Application,WEST 42 STREET
+y,233861.236206054,1054285.0,9.0,Successfully geocoded,Completed,EAST 130 STREET
+y,238243.75,1060747.0,9.0,Successfully geocoded,Completed,FREDERICK DOUGLASS BOULEVARD
+y,207558.622436523,1011919.0,3.0,Successfully geocoded,Completed,HUDSON STREET
+y,215953.0,,3.0,Successfully geocoded,Application,WEST 42 STREET
+y,232416.410827636,1054700.0,8.0,Successfully geocoded,Completed,2 AVENUE
+y,215901.0,,3.0,Successfully geocoded,Application,WEST 42 STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 42 STREET
+y,228640.0,,6.0,Successfully geocoded,Application,WEST 96 STREET
+saf_type,,1082491.0,1.0,Successfully geocoded,Completed,ALLEN STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 33 STREET
+y,215972.0,,3.0,Successfully geocoded,Application,10 AVENUE
+y,201774.0,1088482.0,2.0,Successfully geocoded,Completed,PITT STREET
+saf_type,,1015314.0,3.0,Successfully geocoded,Completed,WEST 16 STREET
+saf_type,,1026678.0,3.0,Successfully geocoded,Completed,WEST 50 STREET
+saf_type,,1011919.0,3.0,Successfully geocoded,Completed,HUDSON STREET
+y,244691.350585937,1085733.0,10.0,Successfully geocoded,Completed,WEST 165 STREET
+saf_type,,,1.0,Successfully geocoded,Application,SOUTH STREET
+saf_type,,1081034.0,6.0,Successfully geocoded,Completed,WEST 72 STREET
+saf_type,,,,Successfully geocoded,Application,WEST 23 STREET
+y,217582.18359375,1089010.0,3.0,Outside of existing street range,Completed,12 AVENUE
+saf_type,Vanity address,1087917.0,9.0,Successfully geocoded,Completed,FREDERICK DOUGLASS BOULEVARD
+y,234227.588623046,1059248.0,9.0,Successfully geocoded,Completed,WEST 123 STREET
+y,207545.0,,3.0,Successfully geocoded,Application,WEST 14 STREET
+y,202152.740600585,1088355.0,1.0,Successfully geocoded,Completed,MERCER STREET
+saf_type,,1082706.0,7.0,Successfully geocoded,Completed,AMSTERDAM AVENUE
+y,200529.124206542,1082491.0,1.0,Successfully geocoded,Completed,ALLEN STREET
+y,211879.807006835,1083568.0,3.0,Successfully geocoded,Completed,10 AVENUE
+y,222890.267395019,1081034.0,6.0,Successfully geocoded,Completed,BROADWAY
+y,231731.946228027,1054791.0,8.0,Successfully geocoded,Completed,EAST 126 STREET
+y,202540.864196777,1007496.0,1.0,Successfully geocoded,Completed,MOTT STREET
+y,212421.724426269,1037174.0,4.0,Successfully geocoded,Completed,EAST 41 STREET
+y,215925.0,,3.0,Successfully geocoded,Application,WEST 42 STREET
+saf_type,,1027038.0,3.0,Successfully geocoded,Completed,WEST 50 STREET
+y,225903.851440429,1033105.0,6.0,Successfully geocoded,Completed,WEST 84 STREET
+saf_type,,1049904.0,5.0,Successfully geocoded,Completed,EAST 83 STREET
+saf_type,,1081034.0,6.0,Successfully geocoded,Completed,BROADWAY
+y,209306.0,,3.0,Successfully geocoded,Application,8 AVENUE
+saf_type,,,9.0,Successfully geocoded,Application,5 AVENUE
+y,222919.694824218,1081034.0,6.0,Successfully geocoded,Completed,BROADWAY
+y,213816.0,,3.0,Successfully geocoded,Application,WEST 33 STREET
+saf_type,,1081145.0,4.0,Successfully geocoded,Completed,5 AVENUE
+saf_type,,1083568.0,3.0,Successfully geocoded,Completed,10 AVENUE
+y,198049.0,,1.0,Successfully geocoded,Application,SOUTH STREET
+saf_type,,1044821.0,5.0,Successfully geocoded,Completed,EAST 69 STREET
+saf_type,,1007827.0,3.0,Successfully geocoded,Completed,CHARLTON STREET
+y,218680.970642089,1088574.0,3.0,Successfully geocoded,Completed,WEST 54 STREET
+saf_type,,1010825.0,3.0,Successfully geocoded,Completed,CHARLES STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 42 STREET
+saf_type,,1088482.0,2.0,Successfully geocoded,Completed,PITT STREET
+saf_type,,1087261.0,3.0,Successfully geocoded,Completed,WEST 18 STREET
+saf_type,,1001409.0,1.0,Successfully geocoded,Completed,PARK PLACE
+saf_type,,1088207.0,2.0,Successfully geocoded,Completed,COOPER SQUARE
+y,200969.328796386,1002002.0,1.0,Successfully geocoded,Completed,LEONARD STREET
+y,215846.371826171,1088437.0,3.0,Successfully geocoded,Completed,10 AVENUE
+saf_type,,1058145.0,9.0,Successfully geocoded,Completed,WEST 132 STREET
+y,215892.0,,3.0,Successfully geocoded,Application,WEST 42 STREET
+y,208815.182617187,1084650.0,3.0,Successfully geocoded,Completed,WEST 19 STREET
+saf_type,,1060485.0,9.0,Successfully geocoded,Completed,ADAM C POWELL BOULEVARD
+saf_type,,1087917.0,9.0,Successfully geocoded,Completed,FREDERICK DOUGLASS BOULEVARD
+saf_type,,,,Successfully geocoded,Application,WEST 23 STREET
+saf_type,,1088689.0,5.0,Successfully geocoded,Completed,LEXINGTON AVENUE
+y,218119.619384765,1027038.0,3.0,Successfully geocoded,Completed,WEST 50 STREET
+saf_type,,1010378.0,3.0,Successfully geocoded,Completed,CHARLTON STREET
+saf_type,,,2.0,Successfully geocoded,Application,EAST 10 STREET
+y,222924.656005859,1048799.0,5.0,Successfully geocoded,Completed,EAST 87 STREET
+y,197691.0,,1.0,Successfully geocoded,Application,GOLD STREET
+y,235518.175231933,1058145.0,9.0,Successfully geocoded,Completed,WEST 132 STREET
+saf_type,,,9.0,Successfully geocoded,Application,MORNINGSIDE AVENUE
+y,231547.0,,9.0,Successfully geocoded,Application,5 AVENUE
+saf_type,,1033105.0,6.0,Successfully geocoded,Completed,BROADWAY
+saf_type,,1088694.0,1.0,Successfully geocoded,Completed,ELIZABETH STREET
+saf_type,,1088833.0,4.0,Successfully geocoded,Completed,AVENUE OF THE AMERICAS
+y,225963.0,,5.0,Successfully geocoded,Application,LEXINGTON AVENUE
+y,205463.0,,2.0,Successfully geocoded,Application,EAST 10 STREET
+y,218368.19543457,1044821.0,5.0,Successfully geocoded,Completed,1 AVENUE
+saf_type,,,3.0,Successfully geocoded,Application,WEST 19 STREET
+saf_type,,1088614.0,3.0,Successfully geocoded,Completed,WEST 27 STREET
+y,211000.70703125,1018503.0,2.0,Successfully geocoded,Completed,EAST 34 STREET
+y,215065.92199707,1036459.0,4.0,Successfully geocoded,Completed,LEXINGTON AVENUE
+y,218381.42980957,1044821.0,5.0,Successfully geocoded,Completed,EAST 69 STREET
+saf_type,,1054700.0,8.0,Successfully geocoded,Completed,2 AVENUE
+y,222041.072021484,1048688.0,,Successfully geocoded,Completed,EAST 83 STREET
+y,215977.0,,3.0,Successfully geocoded,Application,WEST 42 STREET
+y,218433.752990722,1044821.0,5.0,Successfully geocoded,Completed,1 AVENUE
+y,208837.235595703,1088836.0,2.0,Successfully geocoded,Completed,EAST 24 STREET
+saf_type,,,4.0,Successfully geocoded,Application,EAST 49 STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 20 STREET
+saf_type,,,,Successfully geocoded,Application,COLUMBUS AVENUE
+y,208558.880187988,1087261.0,3.0,Successfully geocoded,Completed,WEST 18 STREET
+y,208403.16241455,1087262.0,3.0,Successfully geocoded,Completed,WEST 17 STREET
+saf_type,,,,Successfully geocoded,Application,WEST 23 STREET
+y,202085.194030761,1087559.0,1.0,Successfully geocoded,Completed,MERCER STREET
+saf_type,,1088533.0,3.0,Successfully geocoded,Completed,AVENUE OF THE AMERICAS
+y,201539.374023437,1087549.0,1.0,Successfully geocoded,Completed,DELANCEY STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 42 STREET
+saf_type,,,3.0,Successfully geocoded,Application,WEST 16 STREET
+y,208824.682800292,1088467.0,2.0,Successfully geocoded,Completed,EAST 24 STREET
+y,201008.0,,1.0,Successfully geocoded,Application,FRANKLIN STREET
+y,211149.158203125,1014236.0,3.0,Successfully geocoded,Completed,7 AVENUE
+y,232237.645996093,1082706.0,7.0,Successfully geocoded,Completed,AMSTERDAM AVENUE
+y,209283.187194824,1087297.0,4.0,Successfully geocoded,Completed,1 AVENUE
+saf_type,,,3.0,Successfully geocoded,Application,WEST 16 STREET
+saf_type,,,1.0,Successfully geocoded,Application,FRANKLIN STREET
+y,204363.459228515,1088594.0,2.0,Successfully geocoded,Completed,COOPER SQUARE
+y,199995.35760498,1003845.0,1.0,Successfully geocoded,Completed,ORCHARD STREET
+y,205053.009399414,1088676.0,2.0,Successfully geocoded,Completed,LAFAYETTE STREET

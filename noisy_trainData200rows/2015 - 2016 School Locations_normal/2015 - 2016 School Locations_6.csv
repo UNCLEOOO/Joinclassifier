@@ -1,0 +1,201 @@
+principal_name,status_descriptions,grades_text,community_school_sup_name,census_tract,:@computed_region_yeji_bk3q,nta_name,nta,state_code,location_type_description,open_date,principal_title
+Ezequiel Garcia,Open,"09,10,11,12",,3601,4,Chinatown                                                                  ,MN27,NY,Transfer School,1998-01-05T00:00:00.000,I.A. PRINCIPAL
+Anita Manninen Felix,Open,"09,10,11,12,SE",,7200,4,Murray Hill-Kips Bay                                                       ,MN20,NY,Transfer School,2010-07-01T00:00:00.000,PRINCIPAL
+FIA DAVIS,Open,"09,10,11,12,SE",,12700,4,Clinton                                                                    ,MN15,NY,Career Technical,1958-07-01T00:00:00.000,I.A. PRINCIPAL
+Theresa Ruyter,Open,"0K,01,02,03,04,05,06,07,08,SE","LABOY, BONNIE",31704,4,Battery Park City-Lower Manhattan                                          ,MN25,NY,General Academic,2009-07-01T00:00:00.000,PRINCIPAL
+Kerry Decker,Open,"09,10,11,12,SE",,16900,4,Upper West Side                                                            ,MN12,NY,Career Technical,2009-07-01T00:00:00.000,PRINCIPAL
+LISA SIEGMAN,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",7300,4,West Village                                                               ,MN23,NY,General Academic,1905-07-01T00:00:00.000,PRINCIPAL
+Carland Washington,Open,"06,07,08,SE","ALTSCHUL, ILENE",18900,4,Upper West Side                                                            ,MN12,NY,General Academic,2009-07-01T00:00:00.000,PRINCIPAL
+CARRY CHAN,Open,"06,07,08,SE","PHILLIPS, DANIELLA",3001,4,Chinatown                                                                  ,MN27,NY,General Academic,2008-07-01T00:00:00.000,PRINCIPAL
+Steven Zbaida,Open,"09,10,11,12",,9500,4,Midtown-Midtown South                                                      ,MN17,NY,Transfer School,1999-07-01T00:00:00.000,PRINCIPAL
+DANIEL STORCHAN,Open,"09,10,11,12",,16900,4,Upper West Side                                                            ,MN12,NY,Transfer School,2009-07-01T00:00:00.000,PRINCIPAL
+Karla Chiluiza,Open,"09,10,11,12,SE",,16900,4,Upper West Side                                                            ,MN12,NY,General Academic,2009-07-01T00:00:00.000,PRINCIPAL
+NANCY SING BOCK,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",12900,4,Clinton                                                                    ,MN15,NY,General Academic,1905-07-01T00:00:00.000,PRINCIPAL
+Carmen Colon,Open,"PK,0K,01,02,03,04,05,SE","PHILLIPS, DANIELLA",3001,4,Chinatown                                                                  ,MN27,NY,General Academic,1963-07-01T00:00:00.000,PRINCIPAL
+AMY HOM,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",2700,4,Chinatown                                                                  ,MN27,NY,General Academic,1898-07-01T00:00:00.000,PRINCIPAL
+JEFFREY CHETIRKO,Open,"09,10,11,12,SE",,500,4,park-cemetery-etc-Manhattan                                                ,MN99,NY,Career Technical,2010-07-01T00:00:00.000,I.A. PRINCIPAL
+NANCY HARRIS,Open,"PK,0K,01,02,03,04,05,06,SE","LABOY, BONNIE",1501,4,Battery Park City-Lower Manhattan                                          ,MN25,NY,General Academic,2009-07-01T00:00:00.000,PRINCIPAL
+MATTHEW WILLOUGHBY,Open,"09,10,11,12,SE",,13500,4,Clinton                                                                    ,MN15,NY,General Academic,2004-09-08T00:00:00.000,PRINCIPAL
+HECTOR GEAGER,Open,"09,10,11,12,SE",,5800,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+MARK FEDERMAN,Open,"06,07,08,09,10,11,12,SE",,3400,4,East Village                                                               ,MN22,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+Wallace Simpson,Open,"09,10,11,12,SE",,1800,4,Chinatown                                                                  ,MN27,NY,General Academic,2004-09-08T00:00:00.000,I.A. PRINCIPAL
+Luke Bauer,Open,"09,10,SE",,2900,4,Chinatown                                                                  ,MN27,NY,Career Technical,2014-07-01T00:00:00.000,PRINCIPAL
+Eric Glatz,Open,"09,10,11,12,SE",,1600,4,Chinatown                                                                  ,MN27,NY,General Academic,2004-09-08T00:00:00.000,I.A. PRINCIPAL
+SONHANDO ESTWICK,Open,"06,07,08,SE","PHILLIPS, DANIELLA",2601,4,Lower East Side                                                            ,MN28,NY,General Academic,2001-07-01T00:00:00.000,PRINCIPAL
+MELISSA RODRIGUEZ,Open,"PK,0K,01,02,03,04,05,06,07,08,SE","PHILLIPS, DANIELLA",2201,4,Lower East Side                                                            ,MN28,NY,General Academic,1959-07-01T00:00:00.000,PRINCIPAL
+Gladys Rodriguez,Open,"09,10,11,12",,11800,4,Lenox Hill-Roosevelt Island                                                ,MN31,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+Arleen Liquori,Open,"09,10,11,12,SE",,5600,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+KAREN FEUER,Open,"PK,0K,01,02,03,04,05,SE","PHILLIPS, DANIELLA",1200,4,Lower East Side                                                            ,MN28,NY,General Academic,1902-07-01T00:00:00.000,PRINCIPAL
+Peter Karp,Open,"06,07,08,09,10,11,12,SE",,4800,4,Gramercy                                                                   ,MN21,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+CHARLES DEBERRY,Open,"PK,0K,01,02,03,04,05,06,07,08,SE","ALTSCHUL, ILENE",22000,4,Central Harlem South                                                       ,MN11,NY,General Academic,1965-07-01T00:00:00.000,PRINCIPAL
+Christina Riggio,Open,"06,07,SE","LABOY, BONNIE",13200,4,Lenox Hill-Roosevelt Island                                                ,MN31,NY,General Academic,2014-07-01T00:00:00.000,PRINCIPAL
+April Mckoy,Open,"09,10,11,12,SE",,12700,4,Clinton                                                                    ,MN15,NY,Career Technical,2011-07-01T00:00:00.000,PRINCIPAL
+LISA RIPPERGER,Open,"0K,01,02,03,04,05,SE","LABOY, BONNIE",3900,4,SoHo-TriBeCa-Civic Center-Little Italy                                     ,MN24,NY,General Academic,1988-07-01T00:00:00.000,PRINCIPAL
+ELAINE SCHWARTZ,Open,"05,06,07,08,SE","ALTSCHUL, ILENE",16900,4,Upper West Side                                                            ,MN12,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+OSEI OWUSU AFRIYIE,Open,"06,07,08,09,10,11,12,SE","ALTSCHUL, ILENE",21800,4,Central Harlem South                                                       ,MN11,NY,General Academic,2001-07-01T00:00:00.000,PRINCIPAL
+Alison Breedy,Open,"09,10,11,12,SE",,1800,4,Chinatown                                                                  ,MN27,NY,General Academic,2005-07-01T00:00:00.000,PRINCIPAL
+JANE MURPHY,Open,"PK,0K,01,02,SE","ALTSCHUL, ILENE",18600,4,Central Harlem South                                                       ,MN11,NY,General Academic,1968-07-01T00:00:00.000,PRINCIPAL
+Jacqueline Pryce Harvey,Open,"PK,0K,01,02,03,04,05,06,07,08,SE","ESTRELLA, ALEXANDRA",19600,4,East Harlem North                                                          ,MN34,NY,General Academic,1959-07-01T00:00:00.000,I.A. PRINCIPAL
+Sandra Miller,Open,"0K,01,02,03,04,05","LABOY, BONNIE",15801,4,Upper East Side-Carnegie Hill                                              ,MN40,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+ROBERT BENDER,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",8900,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,1925-07-01T00:00:00.000,PRINCIPAL
+KATHLEEN LOUA,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",12700,4,Clinton                                                                    ,MN15,NY,General Academic,1999-07-01T00:00:00.000,I.A. PRINCIPAL
+NAIMA COOK,Open,"09,10,11,12,SE",,2900,4,Chinatown                                                                  ,MN27,NY,General Academic,1975-07-01T00:00:00.000,PRINCIPAL
+MICHAEL TOISE,Open,"10,11,12",,4800,4,Gramercy                                                                   ,MN21,NY,Transfer School,1989-02-01T00:00:00.000,PRINCIPAL
+KATHERINE BANUCCI-SMITH,Open,"0K,01,02,03,04,05,06,07,08,09,10,11,12","ALTSCHUL, ILENE",15300,4,Lincoln Square                                                             ,MN14,NY,General Academic,2001-07-01T00:00:00.000,PRINCIPAL
+Caitlin Caldwell,Open,"06,07,08,SE","ALTSCHUL, ILENE",17700,4,Upper West Side                                                            ,MN12,NY,General Academic,1999-06-22T00:00:00.000,PRINCIPAL
+ANTHONY CHIANESE,Open,"06,07,08,SE","PHILLIPS, DANIELLA",201,4,Lower East Side                                                            ,MN28,NY,General Academic,2006-07-01T00:00:00.000,I.A. PRINCIPAL
+WILLIAM KLANN,Open,"09,10,11,12,SE",,11800,4,Lenox Hill-Roosevelt Island                                                ,MN31,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+RON SMOLKIN,Open,"10,11,12",,13900,4,Clinton                                                                    ,MN15,NY,Transfer School,2003-07-01T00:00:00.000,PRINCIPAL
+Daisy Fontanez,Open,"06,07,08,09,10,11,12,SE","ALTSCHUL, ILENE",21800,4,Central Harlem South                                                       ,MN11,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+"Evelyn J. Lolis, Ed.D.",Open,"PK,0K,01,02,03,04,05,SE","ALTSCHUL, ILENE",17700,4,Upper West Side                                                            ,MN12,NY,General Academic,1962-07-01T00:00:00.000,PRINCIPAL
+Daphne Perrini,Open,"09,10,11,12,SE",,5700,4,West Village                                                               ,MN23,NY,Transfer School,2003-06-30T00:00:00.000,PRINCIPAL
+MICHAEL LERNER,Open,"09,10,11,12",,1002,4,Lower East Side                                                            ,MN28,NY,General Academic,2001-07-01T00:00:00.000,PRINCIPAL
+Elizabeth Collins,Open,"09,10,11,12,SE",,202,4,Lower East Side                                                            ,MN28,NY,General Academic,1999-06-04T00:00:00.000,PRINCIPAL
+Jeannie Ferrari,Open,"09,10,11,12,SE",,8900,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,Transfer School,1997-06-10T00:00:00.000,PRINCIPAL
+David Parker,Open,"0K,01,02,03,04,05,SE","ALTSCHUL, ILENE",16100,4,Upper West Side                                                            ,MN12,NY,General Academic,2010-07-01T00:00:00.000,PRINCIPAL
+Ingrid Roberts Haynes,Open,"09,10,11,12,SE",,3601,4,Chinatown                                                                  ,MN27,NY,Transfer School,2010-07-01T00:00:00.000,PRINCIPAL
+SUSAN GREEN,Open,"03,04,05,SE","ALTSCHUL, ILENE",18600,4,Central Harlem South                                                       ,MN11,NY,General Academic,1968-07-01T00:00:00.000,PRINCIPAL
+DARLENE CAMERON,Open,"PK,0K,01,02,03,04,05,SE","PHILLIPS, DANIELLA",3200,4,East Village                                                               ,MN22,NY,General Academic,1905-07-01T00:00:00.000,PRINCIPAL
+DINA ERCOLANO,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",13200,4,Lenox Hill-Roosevelt Island                                                ,MN31,NY,General Academic,1898-07-01T00:00:00.000,PRINCIPAL
+Nigel Pugh,Open,"09,10,11,12,SE",,900,4,Battery Park City-Lower Manhattan                                          ,MN25,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+Kevin Froner,Open,"09,10,11,12,SE",,15100,4,Lincoln Square                                                             ,MN14,NY,General Academic,2003-07-01T00:00:00.000,PRINCIPAL
+Katherine Witzke,Open,"PK,0K,01,02,03,04,05,SE","ALTSCHUL, ILENE",16900,4,Upper West Side                                                            ,MN12,NY,General Academic,1965-07-01T00:00:00.000,PRINCIPAL
+Matthew Tossman,Open,"09,10,SE",,2900,4,Chinatown                                                                  ,MN27,NY,Career Technical,2014-07-01T00:00:00.000,PRINCIPAL
+Bessie Ng,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",600,4,Lower East Side                                                            ,MN28,NY,General Academic,1958-07-01T00:00:00.000,PRINCIPAL
+Nancy Amling,Open,"09,10,11,12,SE",,8900,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,2010-07-01T00:00:00.000,PRINCIPAL
+Lauren Keville,Open,"PK,0K,01,02,03,04,05,06,07,08,SE","ALTSCHUL, ILENE",14700,4,Lincoln Square                                                             ,MN14,NY,General Academic,1956-07-01T00:00:00.000,PRINCIPAL
+Catherine Burch,Open,"09,10,11,12,SE",,6300,4,West Village                                                               ,MN23,NY,General Academic,2012-07-01T00:00:00.000,PRINCIPAL
+LINDA HAMIL,Open,"09,10,11,12,SE",,11800,4,Lenox Hill-Roosevelt Island                                                ,MN31,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+ROGER TURGEON,Open,"09,10,11,12,SE",,13500,4,Clinton                                                                    ,MN15,NY,Career Technical,2004-09-08T00:00:00.000,PRINCIPAL
+ROY ONEILL,Open,"04,05,06,07,08","LABOY, BONNIE",5200,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,2001-07-01T00:00:00.000,PRINCIPAL
+Seung Yu,Open,"09,10,11,12,SE",,5000,4,Gramercy                                                                   ,MN21,NY,Career Technical,2012-07-01T00:00:00.000,PRINCIPAL
+STEPHEN NOONAN,Open,"09,10,11,12,SE",,15100,4,Lincoln Square                                                             ,MN14,NY,General Academic,2005-07-01T00:00:00.000,PRINCIPAL
+DARLENE MILLER,Open,"09,10,11,12",,8300,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+Zeynep Ozkan,Open,"06,07,08,SE","LABOY, BONNIE",31703,4,Battery Park City-Lower Manhattan                                          ,MN25,NY,General Academic,1998-05-27T00:00:00.000,PRINCIPAL
+MARIA VELEZ CLARKE,Open,"PK,0K,01,02,03,04,05,SE","PHILLIPS, DANIELLA",2800,4,Lower East Side                                                            ,MN28,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+Brian Zager,Open,"06,07,08,SE","ALTSCHUL, ILENE",17700,4,Upper West Side                                                            ,MN12,NY,General Academic,1999-06-28T00:00:00.000,PRINCIPAL
+MICHAEL STANZIONE,Open,"09,10,11,12,SE",,1300,4,Battery Park City-Lower Manhattan                                          ,MN25,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+ROBERT GENTILE,Open,"09,10,11,12,SE",,4800,4,Gramercy                                                                   ,MN21,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+Dana Panagot,Open,"09,10,11,12,SE",,13500,4,Clinton                                                                    ,MN15,NY,General Academic,2005-07-01T00:00:00.000,PRINCIPAL
+Alan Cheng,Open,"10,11,12",,6700,4,West Village                                                               ,MN23,NY,Transfer School,1999-07-01T00:00:00.000,PRINCIPAL
+Marlon Lowe,Open,"06,07,08,SE","ALTSCHUL, ILENE",19500,4,Morningside Heights                                                        ,MN09,NY,General Academic,2001-07-01T00:00:00.000,PRINCIPAL
+Sarah Hernandez,Open,"09,10,11,12,SE",,5000,4,Gramercy                                                                   ,MN21,NY,General Academic,2009-07-01T00:00:00.000,I.A. PRINCIPAL
+Jennifer Rehn,Open,"06,07,08,SE","LABOY, BONNIE",13400,4,Lenox Hill-Roosevelt Island                                                ,MN31,NY,General Academic,1956-07-01T00:00:00.000,PRINCIPAL
+MANUEL URENA,Open,"09,10,11,12,SE",,10800,4,Turtle Bay-East Midtown                                                    ,MN19,NY,Career Technical,1960-07-01T00:00:00.000,PRINCIPAL
+ELANA ELSTER,Open,"06,07,08,SE","ALTSCHUL, ILENE",19300,4,Morningside Heights                                                        ,MN09,NY,General Academic,1950-07-01T00:00:00.000,PRINCIPAL
+LAURA PEYNADO CASTRO,Open,"06,07,08,SE","PHILLIPS, DANIELLA",201,4,Lower East Side                                                            ,MN28,NY,General Academic,2004-09-13T00:00:00.000,PRINCIPAL
+JEAN MCTAVISH,Open,"10,11,12,SE",,18900,4,Upper West Side                                                            ,MN12,NY,Transfer School,1900-07-01T00:00:00.000,PRINCIPAL
+MELODY KELLOGG,Open,"09,10,11",,1600,4,Chinatown                                                                  ,MN27,NY,Transfer School,2009-07-01T00:00:00.000,PRINCIPAL
+Chingchien Wang,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",9700,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,1951-07-01T00:00:00.000,I.A. PRINCIPAL
+Margaret Siena,Open,"PK,0K,01,02,03,SE","LABOY, BONNIE",1501,4,Battery Park City-Lower Manhattan                                          ,MN25,NY,General Academic,2012-07-01T00:00:00.000,PRINCIPAL
+Lorraine Hasty,Open,"PK,0K,01,02,03,04,05,06,07,08,SE","ESTRELLA, ALEXANDRA",18200,4,East Harlem North                                                          ,MN34,NY,General Academic,1964-07-01T00:00:00.000,PRINCIPAL
+Rodolfo Elizondo,Open,"09,10,11,SE",,2900,4,Chinatown                                                                  ,MN27,NY,Career Technical,2013-07-01T00:00:00.000,PRINCIPAL
+Rhonda Huegel,Open,"09,10,11,12",,8100,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,Transfer School,1999-07-01T00:00:00.000,PRINCIPAL
+Novella Bailey,Open,"06,07,08,SE","ALTSCHUL, ILENE",18300,4,Upper West Side                                                            ,MN12,NY,General Academic,1999-06-22T00:00:00.000,PRINCIPAL
+DIMITRI SALIANI,Open,"09,10,11,12,SE",,13200,4,Lenox Hill-Roosevelt Island                                                ,MN31,NY,General Academic,2002-07-01T00:00:00.000,PRINCIPAL
+Brady Smith,Open,"09,10,11,12,SE",,8900,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,Transfer School,2005-07-01T00:00:00.000,PRINCIPAL
+KELLY SHANNON,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",7100,4,West Village                                                               ,MN23,NY,General Academic,1958-07-01T00:00:00.000,PRINCIPAL
+Michael Fram,Open,"09,10,11,12,SE",,11900,4,Midtown-Midtown South                                                      ,MN17,NY,General Academic,1996-06-05T00:00:00.000,I.A. PRINCIPAL
+Amber Najmi Shadid,Open,"09,10,11,12,SE",,13900,4,Clinton                                                                    ,MN15,NY,General Academic,1996-06-05T00:00:00.000,I.A. PRINCIPAL
+Kimberly Bradley,Open,"09,10,11,12,SE",,3700,4,SoHo-TriBeCa-Civic Center-Little Italy                                     ,MN24,NY,Career Technical,1905-07-01T00:00:00.000,I.A. PRINCIPAL
+ADELE SCHROETER,Open,"0K,01,02,03,04,05,SE","LABOY, BONNIE",10800,4,Turtle Bay-East Midtown                                                    ,MN19,NY,General Academic,1960-07-01T00:00:00.000,PRINCIPAL
+Daniel Mccormick,Open,"0K,01,02,03,SE","LABOY, BONNIE",15400,4,Yorkville                                                                  ,MN32,NY,General Academic,2012-07-01T00:00:00.000,PRINCIPAL
+JODI HYDE,Open,"0K,01,02,03,04,05,06,07,08","ALTSCHUL, ILENE",16100,4,Upper West Side                                                            ,MN12,NY,General Academic,2005-07-01T00:00:00.000,PRINCIPAL
+Rocco Macri,Open,"06,07,08,SE","LABOY, BONNIE",6400,4,Gramercy                                                                   ,MN21,NY,General Academic,1956-07-01T00:00:00.000,PRINCIPAL
+Jennifer Rygalski,Open,"06,07,08,09,10,11,12,SE",,8900,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,2009-07-01T00:00:00.000,I.A. PRINCIPAL
+STACY GOLDSTEIN,Open,"06,07,08,09,10,11,12,SE",,6800,4,Gramercy                                                                   ,MN21,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+MIRZA SANCHEZ MEDINA,Open,"09,10,11,12",,13500,4,Clinton                                                                    ,MN15,NY,General Academic,2003-07-01T00:00:00.000,PRINCIPAL
+Suany Ramos,Open,"PK,0K,01,02,03,04,05,06,07,08,SE","PHILLIPS, DANIELLA",2000,4,Lower East Side                                                            ,MN28,NY,General Academic,1904-07-01T00:00:00.000,PRINCIPAL
+JANE HSU,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",7000,4,Murray Hill-Kips Bay                                                       ,MN20,NY,General Academic,1926-07-01T00:00:00.000,PRINCIPAL
+Jennifer Bonnet,Open,"PK,0K,01,02,03,04,05","LABOY, BONNIE",3900,4,SoHo-TriBeCa-Civic Center-Little Italy                                     ,MN24,NY,General Academic,2000-07-01T00:00:00.000,PRINCIPAL
+MEGAN ADAMS,Open,"06,07,08,SE","LABOY, BONNIE",8300,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+Jie Zhang,Open,"09,10,11,12",,31703,4,Battery Park City-Lower Manhattan                                          ,MN25,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+DENISE GOMEZ,Open,"PK,0K,01,02,03,04,05,SE","ALTSCHUL, ILENE",22000,4,Central Harlem South                                                       ,MN11,NY,General Academic,1999-06-22T00:00:00.000,PRINCIPAL
+Louise Xerri,Open,"0K,01,02,03,04,05,SE","ALTSCHUL, ILENE",15500,4,Lincoln Square                                                             ,MN14,NY,General Academic,1963-07-01T00:00:00.000,PRINCIPAL
+MILES DOYLE,Open,"07,08,09,10,11,12,SE","PHILLIPS, DANIELLA",201,4,Lower East Side                                                            ,MN28,NY,General Academic,2004-09-08T00:00:00.000,PRINCIPAL
+May Lee,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",1600,4,Chinatown                                                                  ,MN27,NY,General Academic,1899-07-01T00:00:00.000,PRINCIPAL
+KEITH RYAN,Open,"06,07,08,09,10,11,12,SE",,12700,4,Clinton                                                                    ,MN15,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+Claire Lowenstein,Open,"0K,01,02,03,04,05,06,07,08,SE","ALTSCHUL, ILENE",17700,4,Upper West Side                                                            ,MN12,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+Philip Santos,Open,"09,10,11,12,SE",,1300,4,Battery Park City-Lower Manhattan                                          ,MN25,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+KELLY MCGUIRE,Open,"06,07,08,SE","LABOY, BONNIE",900,4,Battery Park City-Lower Manhattan                                          ,MN25,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+SAMANTHA KAPLAN,Open,"0K,01,02,03,04,05,SE","LABOY, BONNIE",14402,4,Yorkville                                                                  ,MN32,NY,General Academic,2009-07-01T00:00:00.000,PRINCIPAL
+Debra Mastriano,Open,"0K,01,02,03,04,05,SE","ALTSCHUL, ILENE",17300,4,Upper West Side                                                            ,MN12,NY,General Academic,1898-07-01T00:00:00.000,PRINCIPAL
+Caron Pinkus,Open,"09,10,11,12,SE",,8900,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+JOHN WENK,Open,"09,10,11,12,SE",,1800,4,Chinatown                                                                  ,MN27,NY,General Academic,2005-07-01T00:00:00.000,PRINCIPAL
+ARACELIS CASTELLANO-FOLK,Open,"PK,0K,01,02,03,04,05,06,07,08,SE","ALTSCHUL, ILENE",19500,4,Morningside Heights                                                        ,MN09,NY,General Academic,1898-07-01T00:00:00.000,PRINCIPAL
+MARTHA POLIN,Open,"10,11,12",,3001,4,Chinatown                                                                  ,MN27,NY,Transfer School,1996-06-05T00:00:00.000,PRINCIPAL
+Susan DiCicco,Open,"09,10,11,12,SE",,5000,4,Gramercy                                                                   ,MN21,NY,General Academic,2008-07-01T00:00:00.000,PRINCIPAL
+SCOTT CONTI,Open,"09,10,11,12,SE",,1800,4,Chinatown                                                                  ,MN27,NY,General Academic,2003-07-01T00:00:00.000,PRINCIPAL
+JESSICA JENKINS,Open,"06,SE","ALTSCHUL, ILENE",15100,4,Lincoln Square                                                             ,MN14,NY,General Academic,2015-07-01T00:00:00.000,PRINCIPAL
+Tara Napoleoni,Open,"0K,01,02,03,04,05,SE","LABOY, BONNIE",11600,4,Lenox Hill-Roosevelt Island                                                ,MN31,NY,General Academic,1904-07-01T00:00:00.000,PRINCIPAL
+Marlon L. Hosang,Open,"PK,0K,01,02,03,04,05,SE","PHILLIPS, DANIELLA",2601,4,Lower East Side                                                            ,MN28,NY,General Academic,1954-07-01T00:00:00.000,PRINCIPAL
+CLAUDIA AGUIRRE,Open,"PK,0K,01,02,03,04,05,06,07,08,SE","ALTSCHUL, ILENE",19000,4,Central Harlem South                                                       ,MN11,NY,General Academic,1990-12-04T00:00:00.000,PRINCIPAL
+JESSICA ORLEANS,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",8601,4,Turtle Bay-East Midtown                                                    ,MN19,NY,General Academic,2013-07-01T00:00:00.000,PRINCIPAL
+IRENE SANCHEZ,Open,"PK,0K,01,02,03,04,05,SE","PHILLIPS, DANIELLA",2601,4,Lower East Side                                                            ,MN28,NY,General Academic,1904-07-01T00:00:00.000,PRINCIPAL
+ROBERT OBRIEN,Open,"0K,01,02,03,04,05,SE","ALTSCHUL, ILENE",18300,4,Upper West Side                                                            ,MN12,NY,General Academic,1950-07-01T00:00:00.000,PRINCIPAL
+Isora Bailey,Open,"09,10,11,12,SE",,3700,4,SoHo-TriBeCa-Civic Center-Little Italy                                     ,MN24,NY,General Academic,2008-07-01T00:00:00.000,PRINCIPAL
+Danielle Salzberg,Open,"09,10,11,12,SE",,16900,4,Upper West Side                                                            ,MN12,NY,General Academic,2010-07-01T00:00:00.000,PRINCIPAL
+Rhonda Perry,Open,"06,07,08,SE","LABOY, BONNIE",6400,4,Gramercy                                                                   ,MN21,NY,General Academic,2000-06-21T00:00:00.000,PRINCIPAL
+MONICA BERRY,Open,"PK,0K,01,02,03,04,05,SE","ALTSCHUL, ILENE",16100,4,Upper West Side                                                            ,MN12,NY,General Academic,1955-07-01T00:00:00.000,PRINCIPAL
+Rosemarie Gonzalez,Open,"PK,0K,01,02,03,04,05,06,07,08,SE","PHILLIPS, DANIELLA",2800,4,Lower East Side                                                            ,MN28,NY,General Academic,1955-07-01T00:00:00.000,PRINCIPAL
+MARK BERKOWITZ,Open,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",,2201,4,Lower East Side                                                            ,MN28,NY,General Academic,2000-07-01T00:00:00.000,PRINCIPAL
+KAREN POLSONETTI,Open,"09,10,11,12,SE",,8900,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,2009-07-01T00:00:00.000,PRINCIPAL
+Larry Gabbard,Open,"09,10,11,SE",,12700,4,Clinton                                                                    ,MN15,NY,Career Technical,2013-07-01T00:00:00.000,PRINCIPAL
+LI YAN,Open,"09,10,11,12",,1800,4,Chinatown                                                                  ,MN27,NY,General Academic,2003-07-01T00:00:00.000,PRINCIPAL
+MARCIA HENDRICKS,Open,"0K,01,02,03,04,05,SE","ALTSCHUL, ILENE",21600,4,Central Harlem South                                                       ,MN11,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+SUSAN FELDER,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",6400,4,Gramercy                                                                   ,MN21,NY,General Academic,1899-07-01T00:00:00.000,PRINCIPAL
+JACQUELINE GETZ,Open,"PK,0K,01,02,03,04,05,06,07,08,SE","LABOY, BONNIE",2500,4,Chinatown                                                                  ,MN27,NY,General Academic,1966-07-01T00:00:00.000,PRINCIPAL
+ABBE FUTTERMAN,Open,"PK,0K,01,02,03,04,05,SE","PHILLIPS, DANIELLA",2601,4,Lower East Side                                                            ,MN28,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+JOSHUA SOLOMON,Open,"09,10,11,12,SE",,12700,4,Clinton                                                                    ,MN15,NY,Career Technical,2009-07-01T00:00:00.000,PRINCIPAL
+JANETTE CESAR,Open,"0K,01,02,03,04,05,06,07,08","ESTRELLA, ALEXANDRA",17000,4,East Harlem South                                                          ,MN33,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+Steven Aragona,Open,"09,10,11,12,SE",,3001,4,Chinatown                                                                  ,MN27,NY,General Academic,1996-06-05T00:00:00.000,I.A. PRINCIPAL
+Kimberly Swanson,Open,"06,07,08,09,10,11,12,SE",,15601,4,Yorkville                                                                  ,MN32,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+RUTH LACEY,Open,"09,10,11,12,SE",,12900,4,Clinton                                                                    ,MN15,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+GEORGE MORGAN,Open,"06,07,08,SE","PHILLIPS, DANIELLA",4000,4,East Village                                                               ,MN22,NY,General Academic,2005-07-01T00:00:00.000,PRINCIPAL
+Edward Gilligan,Open,"PK,0K,01,02,03,04,05,08,SE","LABOY, BONNIE",13300,4,Clinton                                                                    ,MN15,NY,General Academic,1958-07-01T00:00:00.000,Acting Principal
+Dr. Natalia Russo,Open,"PK,0K,01,02,03,04,05,SE","ALTSCHUL, ILENE",18900,4,Upper West Side                                                            ,MN12,NY,General Academic,1961-07-01T00:00:00.000,PRINCIPAL
+Doreen Esposito,Open,"0K,01,02,03,04,05,SE","LABOY, BONNIE",13800,4,Yorkville                                                                  ,MN32,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+Patricia Carney,Open,"PK,0K,01,02,03,04,05","LABOY, BONNIE",5400,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,2014-07-01T00:00:00.000,PRINCIPAL
+VERONICA NAJJAR,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",31703,4,Battery Park City-Lower Manhattan                                          ,MN25,NY,General Academic,1998-07-01T00:00:00.000,PRINCIPAL
+Doreen Conwell,Open,"09,10,11,12,SE",,15100,4,Lincoln Square                                                             ,MN14,NY,General Academic,1997-12-04T00:00:00.000,PRINCIPAL
+LAURA GARCIA,Open,"PK,0K,01,02,03,04,05,06,07,08","LABOY, BONNIE",11800,4,Lenox Hill-Roosevelt Island                                                ,MN31,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+JOHN CURRY,Open,"06,07,08,SE","ALTSCHUL, ILENE",17700,4,Upper West Side                                                            ,MN12,NY,General Academic,1999-06-28T00:00:00.000,PRINCIPAL
+A ANNE GEIGER,Open,"09,10,11,12,SE",,15100,4,Lincoln Square                                                             ,MN14,NY,General Academic,2001-07-01T00:00:00.000,PRINCIPAL
+Adam Grumbach,Open,"09,10,11,12",,11800,4,Lenox Hill-Roosevelt Island                                                ,MN31,NY,Transfer School,1999-07-01T00:00:00.000,PRINCIPAL
+Carlina Santos Barton,Open,"PK,0K,01,02,03,04,05,SE","ESTRELLA, ALEXANDRA",16400,4,East Harlem South                                                          ,MN33,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+BROOKE JACKSON,Open,"09,10,11,12,SE",,8300,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+Dyanthe Spielberg,Open,"PK,0K,01,02,03,04,05,SE","PHILLIPS, DANIELLA",3200,4,East Village                                                               ,MN22,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+DAVID GETZ,Open,"06,07,08,SE","LABOY, BONNIE",15400,4,Yorkville                                                                  ,MN32,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+Medea Mcevoy,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",11000,4,Lenox Hill-Roosevelt Island                                                ,MN31,NY,General Academic,2010-07-01T00:00:00.000,PRINCIPAL
+Victoria Armas,Open,"06,07,08,SE","LABOY, BONNIE",10300,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,2014-07-01T00:00:00.000,PRINCIPAL
+ALICE HOM,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",1600,4,Chinatown                                                                  ,MN27,NY,General Academic,1976-07-01T00:00:00.000,PRINCIPAL
+ESTER QUINONES,Open,"0K,01,02,03,04,05,06,07,08,SE","ESTRELLA, ALEXANDRA",16200,4,East Harlem South                                                          ,MN33,NY,General Academic,1975-07-01T00:00:00.000,PRINCIPAL
+DAPHNA GUTMAN,Open,"PK,0K,01,02,03,04,05,SE","PHILLIPS, DANIELLA",1402,4,Lower East Side                                                            ,MN28,NY,General Academic,1976-07-01T00:00:00.000,PRINCIPAL
+LAUREN FONTANA,Open,"0K,01,02,03,04,05,SE","LABOY, BONNIE",14200,4,Upper East Side-Carnegie Hill                                              ,MN40,NY,General Academic,1953-07-01T00:00:00.000,PRINCIPAL
+Iris Chiu,Open,"PK,0K,01,02,03,04,05,06,07,08,SE","PHILLIPS, DANIELLA",201,4,Lower East Side                                                            ,MN28,NY,General Academic,1999-06-22T00:00:00.000,PRINCIPAL
+Donny Lopez,Open,"PK,0K,01,02,03,04,05,SE","ALTSCHUL, ILENE",18500,4,Upper West Side                                                            ,MN12,NY,General Academic,1958-07-01T00:00:00.000,PRINCIPAL
+CORDELIA VEVE,Open,"09,10,11,12,SE",,15100,4,Lincoln Square                                                             ,MN14,NY,General Academic,2004-09-08T00:00:00.000,PRINCIPAL
+VADEWATIE RAMSUCHIT,Open,"09,10,11,12,SE",,5000,4,Gramercy                                                                   ,MN21,NY,General Academic,2010-07-01T00:00:00.000,I.A. PRINCIPAL
+Nancy Emerick,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",15801,4,Upper East Side-Carnegie Hill                                              ,MN40,NY,General Academic,1960-07-01T00:00:00.000,PRINCIPAL
+Bradley Goodman,Open,"PK,0K,01,02,03,04,05,SE","PHILLIPS, DANIELLA",2800,4,Lower East Side                                                            ,MN28,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+Bernardo Ascona,Open,"09,10,11,12,SE",,5000,4,Gramercy                                                                   ,MN21,NY,Career Technical,2012-07-01T00:00:00.000,PRINCIPAL
+Don Catlin,Open,"PK,0K,01,02,03,04,05,SE","ESTRELLA, ALEXANDRA",19200,4,East Harlem North                                                          ,MN34,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+HENRY ZYMECK,Open,"06,07,08,SE","ALTSCHUL, ILENE",16100,4,Upper West Side                                                            ,MN12,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+PATRICIA MINAYA,Open,"09,10,11,12,SE",,900,4,Battery Park City-Lower Manhattan                                          ,MN25,NY,General Academic,2005-07-01T00:00:00.000,PRINCIPAL
+Siv Boletsis,Open,"09,10,11,12,SE",,7200,4,Murray Hill-Kips Bay                                                       ,MN20,NY,General Academic,2010-07-01T00:00:00.000,PRINCIPAL
+EDWARD DEMEO,Open,"09,10,11,12,SE",,11900,4,Midtown-Midtown South                                                      ,MN17,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+COLIN MCEVOY,Open,"09,10,11,12,SE",,900,4,Battery Park City-Lower Manhattan                                          ,MN25,NY,General Academic,2002-07-01T00:00:00.000,PRINCIPAL
+JACQUELINE FLANAGAN,Open,"PK,0K,01,02,03,04,05,SE","PHILLIPS, DANIELLA",4000,4,East Village                                                               ,MN22,NY,General Academic,1956-07-01T00:00:00.000,PRINCIPAL
+Daniel Kim,Open,"PK,0K,01,02,03,04,05,SE","PHILLIPS, DANIELLA",202,4,Lower East Side                                                            ,MN28,NY,General Academic,1960-07-01T00:00:00.000,PRINCIPAL
+Jonathan Levin,Open,"06,07,08,09,SE","LABOY, BONNIE",5200,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,General Academic,2000-06-21T00:00:00.000,PRINCIPAL
+WATFA SHAMA,Open,"09,10,11,12,SE",,6400,4,Gramercy                                                                   ,MN21,NY,Special Education,1908-07-01T00:00:00.000,PRINCIPAL
+YVES MOMPOINT JR,Open,"09,10,11,12,SE",,13500,4,Clinton                                                                    ,MN15,NY,General Academic,2004-09-08T00:00:00.000,PRINCIPAL
+Lisa Mars,Open,"09,10,11,12",,15100,4,Lincoln Square                                                             ,MN14,NY,General Academic,1984-07-01T00:00:00.000,PRINCIPAL
+PHYLLIS TAM,Open,"06,07,08,SE","LABOY, BONNIE",1600,4,Chinatown                                                                  ,MN27,NY,General Academic,1983-07-01T00:00:00.000,PRINCIPAL
+Daryl Blank,Open,"09,10,11,12,SE",,9100,4,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,MN13,NY,Career Technical,1940-07-01T00:00:00.000,PRINCIPAL
+DAVID BOWELL,Open,"PK,0K,01,02,03,04,05,06,07,08,SE","LABOY, BONNIE",6400,4,Gramercy                                                                   ,MN21,NY,General Academic,2005-07-01T00:00:00.000,PRINCIPAL
+Renny Fong,Open,"PK,0K,01,02,03,04,05,SE","LABOY, BONNIE",4100,4,SoHo-TriBeCa-Civic Center-Little Italy                                     ,MN24,NY,General Academic,1921-07-01T00:00:00.000,PRINCIPAL
+FAUSTO DE LA ROSA,Open,"09,10,11,12,SE",,7200,4,Murray Hill-Kips Bay                                                       ,MN20,NY,General Academic,1996-06-05T00:00:00.000,PRINCIPAL
+LANA FLEMING,Open,"PK,0K,01,02,03,04,05,06,07,08,SE","ALTSCHUL, ILENE",25700,4,Central Harlem South                                                       ,MN11,NY,General Academic,1960-07-01T00:00:00.000,PRINCIPAL
+MANDANA BECKMAN,Open,"PK,0K,01,02,03,04,05,06,07,08,SE","LABOY, BONNIE",23801,4,Lenox Hill-Roosevelt Island                                                ,MN31,NY,General Academic,1999-07-01T00:00:00.000,PRINCIPAL
+SARAH PINTO VIAGRAN,Open,"PK,0K,01,02,03,04,05,SE","PHILLIPS, DANIELLA",202,4,Lower East Side                                                            ,MN28,NY,General Academic,1966-07-01T00:00:00.000,I.A. PRINCIPAL

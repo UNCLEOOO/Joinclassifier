@@ -1,0 +1,90 @@
+data_set_description,is_the_data_set_on_open_data,public_statement_from_your,agency
+Lists of vehicles owned and operated by proposers to the Transportation RFP,Not on Open Data Plan,Proposer's vehicles lists are not datasets created or maintained by NYC Aging,Department for the Aging (NYC Aging)
+"Local Law 8 of 2024 in New York City mandates the provision of free menstrual products in all female-designated and gender-neutral bathrooms within public schools, including charter schools, serving students in grades 6 through 12. The Department of Education is responsible for ensuring products are available at no cost to students in these bathrooms and for reporting on compliance.",Not on Open Data Plan,,Department of Education (DOE)
+List of Immigration Service Provider violations,Already on Open Data,,Department of Consumer and Worker Protection (DCWP)
+This is the Citywide Human Resources Management System,Not on Open Data Plan,"Contains Personally Identifiable Information, which if disclosed would constitute an unwarranted invasion of personal privacy. This is information from a personnel management system.",Department of Parks and Recreation (DPR)
+Voting decisions on each case voted on per board member.,Scheduled for Future Publication,,Civilian Complaint Review Board (CCRB)
+"Dataset is cases managed by NYC DVS for service, care or resources supported via VetConnect, phone, in-person, postal mail or electronic mail. This is a compilation of the agency's cases which is assistance requests. Each record represents a requested submitted by client for service, care or resource. This dataset provides information on the issues, concerns, and service needs that veterans, service members, and their families have sought assistance for.",Already on Open Data,,Department of Veterans' Services (DVS)
+The activity notes for a particular complaint that is pulled from our Accela or Business Automation systems,Not on Open Data Plan,This dataset included internal agency deliberations and personal identifying information (PII),Department of Consumer and Worker Protection (DCWP)
+"Number of raccoons that tested positive for rabies, stratified by borough for the years 2010 until 2024.",Not on Open Data Plan,It would be an undue administrative burden on the program to publish this onto Open Data. Public page with a linelist and map of new rabid animals that is updated weekly https://www.nyc.gov/site/doh/health/health-topics/rabies-stats.page,Department of Health and Mental Hygiene (DOHMH)
+List of licensed Horse Drawn Cab ownership information,Not on Open Data Plan,This dataset included personal identifying information (PII),Department of Consumer and Worker Protection (DCWP)
+List of inspections for a specific business,Already on Open Data,,Department of Consumer and Worker Protection (DCWP)
+Complaint Records,Already on Open Data,,Department of Buildings (DOB)
+"Tracks crews, work schedules, time punches, vehicle information, and work assignment.",Not on Open Data Plan,"Not Public Data- Internal Administration, contains employee schedule, and work assignments.",Department of Transportation (DOT)
+"Street and Highway capital projects are major street reconstruction projects, ranging from general street resurfacing projects to full reconstruction of the roadbed, sidewalks, sewer and water pipes and other utilities. Capital projects are essential to keep the City's infrastructure in a state of good repair.",Already on Open Data,,Department of Transportation (DOT)
+List of Licensed Newsstands with contact information,Not on Open Data Plan,This dataset contain personal identifying information (PII),Department of Consumer and Worker Protection (DCWP)
+"Record of Forestry inspections for NYC Parks & Recreation. Inspections are initiated by a service request or internal process and may result in a work order.
+
+Inspections are used to record field observations. ForMS 2.0 requires that Inspections can only be created from either a Tree Point or Planting Space based on the asset in question. Inspection types vary depending on the inspector’s workflow:
+• level 1 (limited visual)
+• level 2 (basic)
+• level 3 (advanced)
+• Re-inspection
+• Sidewalk Rating (Trees and Sidewalks Inspections)
+• General – Planting Space (Street Tree Planting Inspections)
+
+This dataset can be joined to the Forestry Tree Points dataset by joining TreePointGlobalID from Forestry Inspections to GLOBALID from Forestry Tree Points.",Already on Open Data,,Department of Parks and Recreation (DPR)
+"List of proposers for the transpiration request for proposals, including proposer name, response title, competition pool, ride service type, and total average score",Not on Open Data Plan,Proposal scores are one-off reports that are not regularly maintained by NYC Aging,Department for the Aging (NYC Aging)
+"Record of Forestry tree points for NYC Parks & Recreation.
+
+Tree Points and Planting Spaces form the basis of ForMS 2.0’s data inventory and are the core entities that all Service Requests, Inspections, and Work Orders are associated to. The system has built-in rules to ensure that every Tree Point has a Planting Space and each Planting Space can have no more than one active Tree Point at a given time. Locations that have had one tree removed and another tree replanted will appear in ForMS 2.0 as a single Planting Space associated with one retired Tree Point (that has a removal Work Order) and one active Tree Point.
+
+This dataset can be joined to the Forestry Planting Spaces dataset by joining PlantingSpaceGlobalID from Forestry Tree Points to GLOBALID from Forestry Planting Spaces.",Already on Open Data,,Department of Parks and Recreation (DPR)
+DEP Water Sewer Repairs,Already on Open Data,,Department of Environmental Protection (DEP)
+Idling Complaints,Already on Open Data,,Department of Environmental Protection (DEP)
+"Government, Not-for-Profit and Commercial Exemptions maintained by NYC Department of Finance. The Department of Finance administers a number of benefits for property owners in the form of exemptions and abatements. Exemptions lower the amount of tax one owes by reducing the property's assessed value.  This data contains exemption information for Government, Not-for-Profit and Commercial Exemptions.",Already on Open Data,,Department of Finance (DOF)
+"The core permit data, including permittee, type of permit, date issued, location. DOT issues over 150 different types of sidewalk and roadway construction permits to utilities, contractors, government agencies and homeowners. Permits cover activities such as street openings, sidewalk construction and installing canopies over sidewalks.",Already on Open Data,,Department of Transportation (DOT)
+List of Process Server Individual Traverse reports,Not on Open Data Plan,These datasets contain personal identifying information (PII) and confidential worker information,Department of Consumer and Worker Protection (DCWP)
+"Tracks crew type, work schedules and work performed by the Arterial Highway Maintenance team.",Not on Open Data Plan,"Not Public Data- Internal Administration, contains employee schedule, and work assignments. Image file- scanned document",Department of Transportation (DOT)
+List of Local Law 39 enforcement actions,Already on Open Data,,Department of Consumer and Worker Protection (DCWP)
+Copies of violations issued by DSNY.,Not on Open Data Plan,The ability to search by address for violations is already on OpenData.,Department of Sanitation (DSNY)
+COVID deaths by month in 2020,Already on Open Data,,Department of Health and Mental Hygiene (DOHMH)
+Pre-adoption Birth Certificates,Not on Open Data Plan,This dataset require additional evaluation to determine if its underlying data can be published onto NYC Open Data Site.,Department of Health and Mental Hygiene (DOHMH)
+"A table containing bonus FAR received from POPS compared to amount of public space provided (same request, provided table in two formats).",Not on Open Data Plan,Privately Owned Public Spaces (POPS) are on the Open Data portal but not every field is made public. This database is only partially owned by DCP.,Department of City Planning (DCP)
+List of Hotel complaints,Already on Open Data,,Department of Consumer and Worker Protection (DCWP)
+List of Home Improvement Contractor complaints,Already on Open Data,,Department of Consumer and Worker Protection (DCWP)
+child care information,Not on Open Data Plan,Not a public dataset,Administration for Children's Services (ACS)
+"Record of Forestry work orders for NYC Parks & Recreation.
+
+Work Orders are used to record activities performed by Parks staff, contractors, other Agencies, or private entities in the case of permitted work. ForMS 2.0 requires that WOs can only be created from an Inspection, with the exception of a Debris Removal – Misc. Wood WO where the associated tree cannot always be determined.
+
+This dataset can be joined to the Forestry Planting Spaces dataset by joining PlantingSpaceGlobalID from Forestry Work Orders to GLOBALID from Forestry Planting Spaces.",Already on Open Data,,Department of Parks and Recreation (DPR)
+"Report of inspection results from special event routes. Defects such as potholes, sunken sewer drains, cracked sidewalks or construction work are noted in a series of spreadsheets.",Not on Open Data Plan,"Not Public Data- Contains employee records, facilities data, schedule assignments, etc. Removal of the data causes undue administrative and financial burden.",Department of Transportation (DOT)
+Legal tracking system to record family court cases,Not on Open Data Plan,Not a public dataset,Administration for Children's Services (ACS)
+List of Mobile Food Vendor and General Vendor violations,Not on Open Data Plan,DCWP no longer inspects or issues violations to Mobile Food Vendor and General Vendors,Department of Consumer and Worker Protection (DCWP)
+The Traffic Signal Timing table enumerates all the different timing treatments deployed at each of the signalized locations that require special measures.,Not on Open Data Plan,Not Public Data- Internal Administration and security concerns.,Department of Transportation (DOT)
+List of active pedicab vehicles,Already on Open Data,,Department of Consumer and Worker Protection (DCWP)
+Fire Marshal Report Summary from FDNY's Bureau of Fire Investigation - cause of fire only,Already on Open Data,,Fire Department of New York City (FDNY)
+Donations given to not-for-profit organizations affiliated with Elected Officials.,Already on Open Data,,Conflicts of Interest Board (COIB)
+Certificate of Occupancy - DOB NOW,Already on Open Data,,Department of Buildings (DOB)
+"Record of Forestry service requests for NYC Parks & Recreation.
+
+Two-way integration with 311 is maintained in ForMS 2.0. Forestry related Service Requests (SRs) created by a 311 operator or submitted by the caller through either the 311 website, 311 phone app, or the Parks website stream into the system. Conversely, updates are sent from ForMS 2.0 to 311 when SRs are actioned.
+
+Service Requests can be created directly in ForMS 2.0, however, it is important to note that they will NOT receive a 311 SEIBEL number or be visible in 311. Internally generated SRs should be used to track correspondence, commissioner, or other requests that do not originate from 311.",Already on Open Data,,Department of Parks and Recreation (DPR)
+A license's status,Already on Open Data,,Department of Consumer and Worker Protection (DCWP)
+"incident reports, Fire Marshal investigations, CADs",Already on Open Data,,Fire Department of New York City (FDNY)
+GPS data for all vehicles.,Not on Open Data Plan,This data is too unwieldly to be a dataset.  It can only be provided on a case-by-case basis. It also contains identifying information in instances where vehicles have home to work privileges.,Department of Sanitation (DSNY)
+List of licensed Locksmiths,Already on Open Data,,Department of Consumer and Worker Protection (DCWP)
+Permits - BIS,Already on Open Data,,Department of Buildings (DOB)
+"Multiple Open Data and non-Open Data segments (i.e., ""give me all city records for BIN …"")",Not on Open Data Plan,DOB has no intention of becoming the administrator of all citywide records that pertain to a given property,Department of Buildings (DOB)
+List of Paid Sick Leave or Fair Work Week Consent Orders,Not on Open Data Plan,Worker protection enforcement actions contain internal deliberations and personal identifying information (PII),Department of Consumer and Worker Protection (DCWP)
+Full list of Correctional Officer roster,Already on Open Data,,Department of Correction (DOC)
+Contracts,Not on Open Data Plan,One off report or analysis,Department of Environmental Protection (DEP)
+This dataset displays demographics for the families and individuals residing in the Department of Homeless Services (DHS) shelter system.,Already on Open Data,,Department of Social Services (DSS) - Department of Homeless Services (DHS)
+Copies of any and all electronic correspondence received and responses sent.,Not on Open Data Plan,This data contains Personal Identifying Information.,Department of Sanitation (DSNY)
+"The New York City Open Restaurant is an effort to implement a citywide multi-phase program to expand outdoor seating options for food establishments to promote open space, enhance social distancing, and help them rebound in these difficult economic times.",Already on Open Data,,Department of Transportation (DOT)
+Tracks NYC DOT services in the City's Customer Service center application in Microsoft Dynamics.,Already on Open Data,,Department of Transportation (DOT)
+List of licensed Process Server Agencies with contact information,Not on Open Data Plan,This dataset contain personal identifying information (PII),Department of Consumer and Worker Protection (DCWP)
+List of licensed Newsstands,Already on Open Data,,Department of Consumer and Worker Protection (DCWP)
+Inspection Records,Scheduled for Future Publication,,Department of Buildings (DOB)
+Information about NYC Parks' Capital Improvement projects,Scheduled for Future Publication,,Department of Parks and Recreation (DPR)
+"Real property documents, which are recorded in ACRIS",Already on Open Data,,Department of Finance (DOF)
+"Local Law 16 of 2019, also known as the Fair Student Funding (FSF) Working Group Law, focuses on the Department of Education's (DOE) formula for allocating funds to schools based on student needs. It mandates the creation of a task force to review and make recommendations on the categories, types of students, grade levels, and weights used in the FSF formula to ensure equitable funding distribution. The law also requires the DOE to publicly report on school-level budget allocations and the calculated FSF for each school annually.",Already on Open Data,,Department of Education (DOE)
+List of Dealer in Products for the Disabled License applications with contact information,Not on Open Data Plan,This dataset included personal identifying information (PII),Department of Consumer and Worker Protection (DCWP)
+List of licensed Process Server Individuals,Already on Open Data,,Department of Consumer and Worker Protection (DCWP)
+"Local Law 27 of 2015, in New York City, mandates that the Department of Education (DOE) annually report on special education data, including the number of referrals, their outcomes, and the number of IEP meetings held. This report, based on data from the Special Education Student Information System (SESIS), ensures transparency and accountability in the provision of special education services.",Already on Open Data,,Department of Education (DOE)
+Home Improvement Contractor exam result for a specific individual,Not on Open Data Plan,This dataset included personal identifying information (PII),Department of Consumer and Worker Protection (DCWP)
+Violations,Already on Open Data,,Department of Buildings (DOB)
+"The DORIS procurement application is used to manage procurement requests, including the vendor information and purchase order details.",Not on Open Data Plan,The DORIS Procurement application is an internal purchase order management tool that includes names and other information about persons requesting services.,Department of Records and Information Services (DORIS)
+"List of contractors for the home delivered meals program, including vendor name, contract start and end dates, borough and community districts to be served, and total contract value",Already on Open Data,,Department for the Aging (NYC Aging)

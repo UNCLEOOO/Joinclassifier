@@ -1,0 +1,69 @@
+name,location_1,census_tract,bbl,community_board,nta,:@computed_region_92fq_4b7q,longitude,community_council
+Mitchell-Linden,"{'latitude': '40.771345', 'longitude': '-73.826582'}",88901.0,4043430110.0,7.0,Flushing                                                                   ,3.0,-73.826582,20.0
+Pomonok,"{'latitude': '40.732272', 'longitude': '-73.809902'}",122701.0,4067900022.0,8.0,Pomonok-Flushing Heights-Hillcrest                                         ,24.0,-73.809902,24.0
+Laurelton,"{'latitude': '40.677059', 'longitude': '-73.74514'}",630.0,4131050007.0,13.0,Laurelton                                                                  ,47.0,-73.74514,31.0
+Queensbridge,,,,,,,,
+South Jamaica,"{'latitude': '40.695879', 'longitude': '-73.790734'}",258.0,4101710008.0,12.0,South Jamaica                                                              ,6.0,-73.790734,27.0
+Kew Gardens Hills,"{'latitude': '40.725815', 'longitude': '-73.820989'}",77907.0,4066610005.0,8.0,Kew Gardens Hills                                                          ,24.0,-73.820989,24.0
+Briarwood,"{'latitude': '40.71014', 'longitude': '-73.819621'}",22001.0,4096510025.0,8.0,Briarwood-Jamaica Hills                                                    ,24.0,-73.819621,24.0
+Court Square,"{'latitude': '40.746845', 'longitude': '-73.94444'}",19.0,4000790030.0,2.0,Hunters Point-Sunnyside-West Maspeth                                       ,33.0,-73.94444,26.0
+Glendale,"{'latitude': '40.703149', 'longitude': '-73.875748'}",623.0,4036960047.0,5.0,Glendale                                                                   ,34.0,-73.875748,30.0
+Cambria Heights,"{'latitude': '40.69554', 'longitude': '-73.74138'}",598.0,4113190001.0,13.0,Cambria Heights                                                            ,6.0,-73.74138,27.0
+Steinway,"{'latitude': '40.777105', 'longitude': '-73.909496'}",113.0,4008310015.0,1.0,Steinway                                                                   ,4.0,-73.909496,22.0
+Langston Hughes,"{'latitude': '40.757361', 'longitude': '-73.868331'}",363.0,4016950039.0,3.0,East Elmhurst                                                              ,21.0,-73.868331,21.0
+Lefferts,"{'latitude': '40.687273', 'longitude': '-73.824691'}",106.0,4095560020.0,10.0,South Ozone Park                                                           ,46.0,-73.824691,28.0
+Douglaston/Little Neck,"{'latitude': '40.76795', 'longitude': '-73.738088'}",1479.0,4081260087.0,11.0,Douglas Manor-Douglaston-Little Neck                                       ,20.0,-73.738088,19.0
+Arverne,"{'latitude': '40.593066', 'longitude': '-73.784341'}",97204.0,4158900018.0,14.0,Hammels-Arverne-Edgemere                                                   ,47.0,-73.784341,31.0
+East Flushing,"{'latitude': '40.757877', 'longitude': '-73.784804'}",145101.0,4055200018.0,11.0,Auburndale                                                                 ,20.0,-73.784804,19.0
+Bay Terrace,"{'latitude': '40.783103', 'longitude': '-73.777013'}",99704.0,4058650082.0,7.0,Ft. Totten-Bay Terrace-Clearview                                           ,20.0,-73.777013,19.0
+Rosedale,"{'latitude': '40.660152', 'longitude': '-73.739488'}",654.0,4135490007.0,13.0,Rosedale                                                                   ,47.0,-73.739488,31.0
+Ridgewood,"{'latitude': '40.705193', 'longitude': '-73.902867'}",589.0,4034910001.0,5.0,Ridgewood                                                                  ,34.0,-73.902867,30.0
+South Hollis,"{'latitude': '40.706755', 'longitude': '-73.753827'}",508.0,4109070030.0,12.0,Hollis                                                                     ,6.0,-73.753827,27.0
+Central Library- The Archives,"{'latitude': '40.707865', 'longitude': '-73.795295'}",460.0,4097980006.0,12.0,Jamaica                                                                    ,6.0,-73.795295,27.0
+Central Library,"{'latitude': '40.707865', 'longitude': '-73.795295'}",460.0,4097980006.0,12.0,Jamaica                                                                    ,6.0,-73.795295,27.0
+Woodhaven,"{'latitude': '40.694619', 'longitude': '-73.861812'}",12.0,4088560085.0,9.0,Woodhaven                                                                  ,41.0,-73.861812,32.0
+Poppenhusen,"{'latitude': '40.785984', 'longitude': '-73.846506'}",929.0,4040420113.0,7.0,College Point                                                              ,20.0,-73.846506,19.0
+Glen Oaks,"{'latitude': '40.745388', 'longitude': '-73.715036'}",157902.0,4086930010.0,13.0,Glen Oaks-Floral Park-New Hyde Park                                        ,16.0,-73.715036,23.0
+Howard Beach,"{'latitude': '40.664069', 'longitude': '-73.841928'}",892.0,4139570001.0,10.0,Lindenwood-Howard Beach                                                    ,41.0,-73.841928,32.0
+Astoria,"{'latitude': '40.772173', 'longitude': '-73.928757'}",83.0,4005400030.0,1.0,Old Astoria                                                                ,4.0,-73.928757,22.0
+Rego Park,"{'latitude': '40.726991', 'longitude': '-73.864371'}",695.0,4031030043.0,6.0,Rego Park                                                                  ,28.0,-73.864371,29.0
+Queensboro Hill,"{'latitude': '40.743081', 'longitude': '-73.825526'}",80301.0,4064050050.0,7.0,Queensboro Hill                                                            ,3.0,-73.825526,20.0
+Corona,"{'latitude': '40.750871', 'longitude': '-73.862204'}",403.0,4017750077.0,3.0,North Corona                                                               ,21.0,-73.862204,21.0
+Rochdale Village,"{'latitude': '40.672568', 'longitude': '-73.770994'}",33402.0,4124950175.0,12.0,Springfield Gardens North                                                  ,46.0,-73.770994,28.0
+Queens Library for Teens,,,,,,,,
+Middle Village,"{'latitude': '40.71258', 'longitude': '-73.880885'}",65702.0,4030577501.0,5.0,Middle Village                                                             ,34.0,-73.880885,30.0
+Jackson Heights,"{'latitude': '40.751319', 'longitude': '-73.885533'}",283.0,4012810048.0,3.0,Jackson Heights                                                            ,5.0,-73.885533,25.0
+Windsor Park,"{'latitude': '40.734936', 'longitude': '-73.755509'}",129103.0,4077720001.0,11.0,Oakland Gardens                                                            ,16.0,-73.755509,23.0
+Baisley Park,"{'latitude': '40.680318', 'longitude': '-73.79203'}",288.0,4122040099.0,12.0,Baisley Park                                                               ,46.0,-73.79203,28.0
+Peninsula,"{'latitude': '40.5863', 'longitude': '-73.815797'}",94203.0,4161350013.0,14.0,Hammels-Arverne-Edgemere                                                   ,41.0,-73.815797,32.0
+St. Albans,"{'latitude': '40.692284', 'longitude': '-73.760112'}",528.0,4110620024.0,12.0,St. Albans                                                                 ,6.0,-73.760112,27.0
+South Ozone Park,"{'latitude': '40.675084', 'longitude': '-73.809585'}",818.0,4117500057.0,10.0,South Ozone Park                                                           ,46.0,-73.809585,28.0
+Cyber Center,"{'latitude': '40.707865', 'longitude': '-73.795295'}",460.0,4097980006.0,12.0,Jamaica                                                                    ,6.0,-73.795295,27.0
+Auburndale,"{'latitude': '40.773525', 'longitude': '-73.796552'}",1017.0,4057690010.0,7.0,Ft. Totten-Bay Terrace-Clearview                                           ,20.0,-73.796552,19.0
+Seaside,"{'latitude': '40.57971', 'longitude': '-73.837487'}",93402.0,4162260001.0,14.0,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel                      ,41.0,-73.837487,32.0
+East Elmhurst,"{'latitude': '40.76278', 'longitude': '-73.874016'}",353.0,4013750001.0,3.0,East Elmhurst                                                              ,21.0,-73.874016,21.0
+Broadway,"{'latitude': '40.758859', 'longitude': '-73.918772'}",157.0,4006760050.0,1.0,Astoria                                                                    ,33.0,-73.918772,26.0
+Ravenswood,,,,,,,,
+Hillcrest,"{'latitude': '40.728981', 'longitude': '-73.781902'}",1333.0,4072040040.0,8.0,Fresh Meadows-Utopia                                                       ,24.0,-73.781902,24.0
+Fresh Meadows,"{'latitude': '40.74172', 'longitude': '-73.782521'}",1347.0,4071170200.0,8.0,Fresh Meadows-Utopia                                                       ,16.0,-73.782521,23.0
+North Forest Park,"{'latitude': '40.710913', 'longitude': '-73.853662'}",729.0,4032070022.0,6.0,Forest Hills                                                               ,28.0,-73.853662,29.0
+Far Rockaway,"{'latitude': '40.604487', 'longitude': '-73.752641'}",103202.0,4155590025.0,14.0,Far Rockaway-Bayswater                                                     ,47.0,-73.752641,31.0
+North Hills,"{'latitude': '40.75942', 'longitude': '-73.731307'}",152901.0,4082760657.0,11.0,Douglas Manor-Douglaston-Little Neck                                       ,16.0,-73.731307,23.0
+Job Information Center,"{'latitude': '40.707865', 'longitude': '-73.795295'}",460.0,4097980006.0,12.0,Jamaica                                                                    ,6.0,-73.795295,27.0
+Flushing,"{'latitude': '40.757784', 'longitude': '-73.829252'}",853.0,4050430011.0,7.0,Flushing                                                                   ,3.0,-73.829252,20.0
+Lefrak City,"{'latitude': '40.738027', 'longitude': '-73.861173'}",455.0,4019180070.0,4.0,Corona                                                                     ,21.0,-73.861173,21.0
+Richmond Hill,"{'latitude': '40.701022', 'longitude': '-73.83211'}",132.0,4092640056.0,9.0,Richmond Hill                                                              ,28.0,-73.83211,29.0
+Bellerose,"{'latitude': '40.735403', 'longitude': '-73.717266'}",157101.0,4086040085.0,13.0,Bellerose                                                                  ,16.0,-73.717266,23.0
+Woodside,"{'latitude': '40.745524', 'longitude': '-73.90982'}",251.0,4013170085.0,2.0,Woodside                                                                   ,33.0,-73.90982,26.0
+Whitestone,"{'latitude': '40.78864', 'longitude': '-73.810893'}",987.0,4047170025.0,7.0,Whitestone                                                                 ,20.0,-73.810893,19.0
+Elmhurst,"{'latitude': '40.738498', 'longitude': '-73.877382'}",473.0,,4.0,Elmhurst                                                                   ,5.0,-73.877382,25.0
+Bayside,"{'latitude': '40.760363', 'longitude': '-73.768588'}",1471.0,4073330215.0,11.0,Bayside-Bayside Hills                                                      ,20.0,-73.768588,19.0
+Maspeth,"{'latitude': '40.727126', 'longitude': '-73.893357'}",49302.0,4027960008.0,5.0,Maspeth                                                                    ,34.0,-73.893357,30.0
+Forest Hills,"{'latitude': '40.721777', 'longitude': '-73.843378'}",739.0,4022230054.0,6.0,Forest Hills                                                               ,28.0,-73.843378,29.0
+McGoldrick,"{'latitude': '40.763998', 'longitude': '-73.809754'}",1171.0,4052750120.0,7.0,Murray Hill                                                                ,3.0,-73.809754,20.0
+Sunnyside,"{'latitude': '40.740977', 'longitude': '-73.921797'}",18502.0,4001730016.0,2.0,Hunters Point-Sunnyside-West Maspeth                                       ,33.0,-73.921797,26.0
+Broad Channel,"{'latitude': '40.600838', 'longitude': '-73.820374'}",107201.0,4154810530.0,14.0,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel                      ,41.0,-73.820374,32.0
+Queens Village,"{'latitude': '40.719749', 'longitude': '-73.739299'}",566.0,4106210012.0,13.0,Queens Village                                                             ,16.0,-73.739299,23.0
+Long Island City,"{'latitude': '40.757826', 'longitude': '-73.938771'}",43.0,4003630001.0,1.0,Queensbridge-Ravenswood-Long Island City                                   ,33.0,-73.938771,26.0
+Hollis,"{'latitude': '40.719914', 'longitude': '-73.762191'}",478.0,4105320120.0,8.0,Jamaica Estates-Holliswood                                                 ,16.0,-73.762191,23.0
+Ozone Park,"{'latitude': '40.681283', 'longitude': '-73.847111'}",54.0,4091130030.0,10.0,Ozone Park                                                                 ,41.0,-73.847111,32.0

@@ -1,0 +1,16 @@
+address_1,community_council,location_2,longitude,:@computed_region_f5dn_yrer,location_1
+"330 West 42nd Street,
+ New York, NY 10036",3.0,Suite 2618,-73.990832,12.0,"{'latitude': '40.757661', 'longitude': '-73.990832'}"
+"450 7th Avenue, New York, NY 10123",3.0,Room 2109,-73.990367,11.0,"{'latitude': '40.751359', 'longitude': '-73.990367'}"
+"P.O. Box 1672, New York, NY 10159-1672",,,,,
+"505 Park Avenue, 
+ New York, NY 10022",4.0,Suite 620,-73.969641,23.0,"{'latitude': '40.763117', 'longitude': '-73.969641'}"
+"215 West 125th Street, New York, NY 10027",9.0,4th Floor,-73.948979,18.0,"{'latitude': '40.809259', 'longitude': '-73.948979'}"
+"59 East 4th Street, New York, NY 10003",2.0,,-73.990807,70.0,"{'latitude': '40.726785', 'longitude': '-73.990807'}"
+"1 Centre Street, New York, NY 10007",1.0,Room 2202-N,-74.004181,56.0,"{'latitude': '40.713001', 'longitude': '-74.004181'}"
+"3 Washington Square Village, 
+ New York, NY 10012",1.0,#1A,-73.998557,57.0,"{'latitude': '40.727881', 'longitude': '-73.998557'}"
+"16-18 Old Broadway, New York, NY 10027",7.0,,-73.957204,37.0,"{'latitude': '40.815433', 'longitude': '-73.957204'}"
+"530 West 166th Street, New York, NY 10032",10.0,6th Floor,-73.939339,47.0,"{'latitude': '40.839328', 'longitude': '-73.939339'}"
+"1664 Park Avenue, New York, NY 10035",9.0,Ground Floor,-73.942564,7.0,"{'latitude': '40.800223', 'longitude': '-73.942564'}"
+"250 W. 87th Street, New York, NY 10024",6.0,,-73.976245,20.0,"{'latitude': '40.789078', 'longitude': '-73.976245'}"

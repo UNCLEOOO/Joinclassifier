@@ -1,0 +1,201 @@
+principal_phone_number,location_1,admin_district_location_code,fiscal_year
+212-475-7972,"{'latitude': '40.732665', 'longitude': '-73.98259', 'human_address': '{""address"": ""345 EAST 15TH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10003""}'}",HS12,2016
+212-255-1235,"{'latitude': '40.745677', 'longitude': '-73.996354', 'human_address': '{""address"": ""225 WEST 24 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10011""}'}",HS04,2016
+212-674-4545,"{'latitude': '40.735879', 'longitude': '-73.981034', 'human_address': '{""address"": ""330 EAST 21 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10010""}'}",M802,2016
+212-691-1183,"{'latitude': '40.732603', 'longitude': '-74.005949', 'human_address': '{""address"": ""490 HUDSON STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10014""}'}",M802,2016
+212-360-0114,"{'latitude': '40.780452', 'longitude': '-73.947379', 'human_address': '{""address"": ""331 EAST 91ST STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10128""}'}",M802,2016
+212-228-8730,"{'latitude': '40.722075', 'longitude': '-73.978747', 'human_address': '{""address"": ""333 EAST 4 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10009""}'}",M801,2016
+212-262-8067,"{'latitude': '40.767848', 'longitude': '-73.98861', 'human_address': '{""address"": ""850 10TH AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10019""}'}",HS10,2016
+212-242-8752,"{'latitude': '40.741963', 'longitude': '-73.991966', 'human_address': '{""address"": ""43 WEST 22 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10010""}'}",HS04,2016
+212-734-7719,"{'latitude': '40.763804', 'longitude': '-73.957731', 'human_address': '{""address"": ""419 EAST 66 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10065""}'}",M802,2016
+212-260-5375,"{'latitude': '40.72004', 'longitude': '-73.986038', 'human_address': '{""address"": ""145 STANTON STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M801,2016
+212-475-4097,"{'latitude': '40.717329', 'longitude': '-73.989329', 'human_address': '{""address"": ""350 GRAND STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",HS04,2016
+212-614-9531,"{'latitude': '40.727537', 'longitude': '-73.978254', 'human_address': '{""address"": ""610 EAST 12 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10009""}'}",M801,2016
+646-826-8174,"{'latitude': '40.705688', 'longitude': '-74.013303', 'human_address': '{""address"": ""26 BROADWAY"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10004""}'}",HS04,2016
+212-678-5888,"{'latitude': '40.791395', 'longitude': '-73.971011', 'human_address': '{""address"": ""154 WEST 93 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10025""}'}",M803,2016
+212-674-2690,"{'latitude': '40.7162', 'longitude': '-73.9798', 'human_address': '{""address"": ""285 DELANCY STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M801,2016
+212-678-2898,"{'latitude': '40.801573', 'longitude': '-73.955583', 'human_address': '{""address"": ""240 WEST 113 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10026""}'}",M803,2016
+212-828-2710,"{'latitude': '40.780652', 'longitude': '-73.947856', 'human_address': '{""address"": ""323 EAST 91 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10128""}'}",M802,2016
+212-825-9008,"{'latitude': '40.704697', 'longitude': '-74.011202', 'human_address': '{""address"": ""75 BROAD STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10004""}'}",HS07,2016
+212-391-0041,"{'latitude': '40.757626', 'longitude': '-73.98346', 'human_address': '{""address"": ""120 WEST 46 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10036""}'}",HS04,2016
+212-496-1050,"{'latitude': '40.780536', 'longitude': '-73.977602', 'human_address': '{""address"": ""100 WEST 77 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10024""}'}",M803,2016
+212-246-1041,"{'latitude': '40.763655', 'longitude': '-73.990318', 'human_address': '{""address"": ""439 WEST 49TH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10019""}'}",HS03,2016
+212-222-1450,"{'latitude': '40.791395', 'longitude': '-73.971011', 'human_address': '{""address"": ""154 WEST 93 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10025""}'}",M803,2016
+212-722-5240,"{'latitude': '40.777948', 'longitude': '-73.947287', 'human_address': '{""address"": ""421 EAST 88 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10128""}'}",M802,2016
+212-744-6562,"{'latitude': '40.770215', 'longitude': '-73.950745', 'human_address': '{""address"": ""1458 YORK AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10075""}'}",M802,2016
+212-737-1530,"{'latitude': '40.765638', 'longitude': '-73.959777', 'human_address': '{""address"": ""317 EAST 67 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10065""}'}",HS04,2016
+212-460-8467,"{'latitude': '40.729152', 'longitude': '-73.982472', 'human_address': '{""address"": ""420 EAST 12 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10009""}'}",HS12,2016
+212-675-6206,"{'latitude': '40.742512', 'longitude': '-74.002222', 'human_address': '{""address"": ""333 WEST 17 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10011""}'}",HS04,2016
+917-305-1000,"{'latitude': '40.739145', 'longitude': '-73.995534', 'human_address': '{""address"": ""590 SIXTH AVENUE"", ""city"": ""NEW YORK"", ""state"": ""NY"", ""zip"": ""10011""}'}",M802,2016
+212-315-7160,"{'latitude': '40.761487', 'longitude': '-73.995825', 'human_address': '{""address"": ""525 WEST 44TH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10036""}'}",M802,2016
+646-674-2800,"{'latitude': '40.747425', 'longitude': '-73.990562', 'human_address': '{""address"": ""120 WEST 30 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10001""}'}",HS10,2016
+212-399-3520,"{'latitude': '40.763655', 'longitude': '-73.990318', 'human_address': '{""address"": ""439 WEST 49TH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10019""}'}",HS03,2016
+212-387-0195,"{'latitude': '40.72444', 'longitude': '-73.986214', 'human_address': '{""address"": ""121 EAST 3 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10009""}'}",M801,2016
+212-691-0934,"{'latitude': '40.74182', 'longitude': '-74.000238', 'human_address': '{""address"": ""250 WEST 18 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10011""}'}",HS10,2016
+212-627-2812,"{'latitude': '40.743407', 'longitude': '-74.00254', 'human_address': '{""address"": ""351 WEST 18 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10011""}'}",HS12,2016
+212-505-6366,"{'latitude': '40.72004', 'longitude': '-73.986038', 'human_address': '{""address"": ""145 STANTON STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",HS10,2016
+212-244-6426,"{'latitude': '40.749014', 'longitude': '-74.000238', 'human_address': '{""address"": ""281 9 AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10001""}'}",M802,2016
+212-678-2849,"{'latitude': '40.80757', 'longitude': '-73.955861', 'human_address': '{""address"": ""370 WEST 120TH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10027""}'}",M803,2016
+212-787-1189,"{'latitude': '40.786134', 'longitude': '-73.974483', 'human_address': '{""address"": ""145 WEST 84 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10024""}'}",HS03,2016
+212-334-4663,"{'latitude': '40.716231', 'longitude': '-73.993607', 'human_address': '{""address"": ""100 HESTER STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",HS04,2016
+212-734-7127,"{'latitude': '40.775181', 'longitude': '-73.952777', 'human_address': '{""address"": ""311 EAST 82 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10028""}'}",M802,2016
+212-475-8086,"{'latitude': '40.739121', 'longitude': '-73.985323', 'human_address': '{""address"": ""127 EAST 22 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10010""}'}",HS12,2016
+212-677-8900,"{'latitude': '40.722415', 'longitude': '-73.990468', 'human_address': '{""address"": ""198 FORSYTH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",HS12,2016
+646-654-1261,"{'latitude': '40.722415', 'longitude': '-73.990468', 'human_address': '{""address"": ""198 FORSYTH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",HS10,2016
+212-772-1220,"{'latitude': '40.770288', 'longitude': '-73.953276', 'human_address': '{""address"": ""411 EAST 76 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10021""}'}",HS04,2016
+212-533-2560,"{'latitude': '40.735361', 'longitude': '-73.987064', 'human_address': '{""address"": ""40 IRVING PLACE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10003""}'}",HS12,2016
+212-995-8479,"{'latitude': '40.718276', 'longitude': '-73.976093', 'human_address': '{""address"": ""525 EAST HOUSTON STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",HS04,2016
+212-535-8610,"{'latitude': '40.771541', 'longitude': '-73.957827', 'human_address': '{""address"": ""220 EAST 76 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10021""}'}",M802,2016
+212-678-2960,"{'latitude': '40.802653', 'longitude': '-73.965949', 'human_address': '{""address"": ""234 WEST 109 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10025""}'}",M803,2016
+212-966-7237,"{'latitude': '40.715097', 'longitude': '-73.996017', 'human_address': '{""address"": ""40 DIVISION STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M802,2016
+212-647-7410,"{'latitude': '40.743407', 'longitude': '-74.00254', 'human_address': '{""address"": ""351 WEST 18 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10011""}'}",HS12,2016
+212-929-4433,"{'latitude': '40.743407', 'longitude': '-74.00254', 'human_address': '{""address"": ""351 WEST 18 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10011""}'}",HS12,2016
+917-237-7300,"{'latitude': '40.72463', 'longitude': '-74.005058', 'human_address': '{""address"": ""131 AVENUE OF THE AMERICAS"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10013""}'}",HS04,2016
+212-964-0350,"{'latitude': '40.712907', 'longitude': '-73.991523', 'human_address': '{""address"": ""122 HENRY STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M802,2016
+212-982-1836,"{'latitude': '40.730009', 'longitude': '-73.984496', 'human_address': '{""address"": ""185 1 AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10003""}'}",M801,2016
+646-602-2140,"{'latitude': '40.714248', 'longitude': '-73.983854', 'human_address': '{""address"": ""293 EAST BROADWAY"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M801,2016
+212-678-2854,"{'latitude': '40.795163', 'longitude': '-73.96847', 'human_address': '{""address"": ""163 WEST 97 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10025""}'}",M803,2016
+212-245-1506,"{'latitude': '40.772608', 'longitude': '-73.988338', 'human_address': '{""address"": ""227-243 WEST 61ST STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10023""}'}",M803,2016
+212-749-5800,"{'latitude': '40.80261', 'longitude': '-73.954152', 'human_address': '{""address"": ""215 WEST 114 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10026""}'}",M803,2016
+212-691-6119,"{'latitude': '40.742512', 'longitude': '-74.002222', 'human_address': '{""address"": ""333 WEST 17 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10011""}'}",HS04,2016
+212-673-4470,"{'latitude': '40.714248', 'longitude': '-73.983854', 'human_address': '{""address"": ""293 EAST BROADWAY"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M801,2016
+212-929-1743,"{'latitude': '40.744186', 'longitude': '-74.000743', 'human_address': '{""address"": ""320 WEST 21 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10011""}'}",M802,2016
+212-225-0880,"{'latitude': '40.711441', 'longitude': '-74.000851', 'human_address': '{""address"": ""411 PEARL STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10038""}'}",HS03,2016
+212-266-5800,"{'latitude': '40.706384', 'longitude': '-74.017456', 'human_address': '{""address"": ""55 BATTERY PLACE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10280""}'}",M802,2016
+212-225-0890,"{'latitude': '40.711441', 'longitude': '-74.000851', 'human_address': '{""address"": ""411 PEARL STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10038""}'}",HS03,2016
+212-475-4773,"{'latitude': '40.717329', 'longitude': '-73.989329', 'human_address': '{""address"": ""350 GRAND STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",HS12,2016
+212-337-6800,"{'latitude': '40.729052', 'longitude': '-74.006155', 'human_address': '{""address"": ""16 CLARKSON STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10014""}'}",HS12,2016
+212-254-9577,"{'latitude': '40.721305', 'longitude': '-73.986312', 'human_address': '{""address"": ""166 ESSEX STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M801,2016
+212-570-5284,"{'latitude': '40.765638', 'longitude': '-73.959777', 'human_address': '{""address"": ""317 EAST 67 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10065""}'}",HS12,2016
+212-501-3318,"{'latitude': '40.775256', 'longitude': '-73.982976', 'human_address': '{""address"": ""129 WEST 67 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10023""}'}",M803,2016
+212-534-9580,"{'latitude': '40.798461', 'longitude': '-73.950146', 'human_address': '{""address"": ""21 WEST 111 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10026""}'}",M803,2016
+212-860-6003,"{'latitude': '40.792556', 'longitude': '-73.942285', 'human_address': '{""address"": ""240 EAST 109 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10029""}'}",M804,2016
+212-598-3800,"{'latitude': '40.718121', 'longitude': '-73.984116', 'human_address': '{""address"": ""100 ATTORNEY STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M801,2016
+212-757-2680,"{'latitude': '40.765474', 'longitude': '-73.9927', 'human_address': '{""address"": ""525 WEST 50TH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10019""}'}",HS12,2016
+212-678-2826,"{'latitude': '40.78171', 'longitude': '-73.97802', 'human_address': '{""address"": ""160 WEST 78 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10024""}'}",M803,2016
+212-678-2812,"{'latitude': '40.785234', 'longitude': '-73.974256', 'human_address': '{""address"": ""100 WEST 84 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10024""}'}",M803,2016
+212-737-9774,"{'latitude': '40.777737', 'longitude': '-73.960427', 'human_address': '{""address"": ""45 EAST 81 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10028""}'}",M802,2016
+212-964-9610,"{'latitude': '40.711441', 'longitude': '-74.000851', 'human_address': '{""address"": ""411 PEARL STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10038""}'}",HS04,2016
+212-475-4148,"{'latitude': '40.717329', 'longitude': '-73.989329', 'human_address': '{""address"": ""350 GRAND STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",HS07,2016
+212-673-6510,"{'latitude': '40.72313', 'longitude': '-73.981597', 'human_address': '{""address"": ""600 EAST 6 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10009""}'}",M801,2016
+212-677-5710,"{'latitude': '40.719888', 'longitude': '-73.97738', 'human_address': '{""address"": ""442 EAST HOUSTON STREET"", ""city"": ""NEW YORK"", ""state"": ""NY"", ""zip"": ""10002""}'}",M801,2016
+212-877-1103,"{'latitude': '40.786134', 'longitude': '-73.974483', 'human_address': '{""address"": ""145 WEST 84 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10024""}'}",HS03,2016
+212-647-1983,"{'latitude': '40.743407', 'longitude': '-74.00254', 'human_address': '{""address"": ""351 WEST 18 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10011""}'}",HS04,2016
+212-866-5400,"{'latitude': '40.795109', 'longitude': '-73.973996', 'human_address': '{""address"": ""735 WEST END AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10025""}'}",M803,2016
+646-826-8100,"{'latitude': '40.705688', 'longitude': '-74.013303', 'human_address': '{""address"": ""26 BROADWAY"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10004""}'}",M802,2016
+212-696-0195,"{'latitude': '40.74651', 'longitude': '-73.98107', 'human_address': '{""address"": ""111 EAST 33RD STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10016""}'}",HS10,2016
+212-982-0682,"{'latitude': '40.727537', 'longitude': '-73.978254', 'human_address': '{""address"": ""610 EAST 12 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10009""}'}",M801,2016
+212-582-7420,"{'latitude': '40.76588', 'longitude': '-73.989776', 'human_address': '{""address"": ""440 WEST 53 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10019""}'}",M802,2016
+212-925-1080,"{'latitude': '40.72463', 'longitude': '-74.005058', 'human_address': '{""address"": ""131 AVENUE OF THE AMERICAS"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10013""}'}",HS04,2016
+212-312-4800,"{'latitude': '40.718025', 'longitude': '-74.013921', 'human_address': '{""address"": ""345 CHAMBERS STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10282""}'}",HS04,2016
+212-458-0800,"{'latitude': '40.689493', 'longitude': '-74.018941', 'human_address': '{""address"": ""10 SOUTH STREET, SLIP 7"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10004""}'}",HS03,2016
+212-752-4340,"{'latitude': '40.759248', 'longitude': '-73.967204', 'human_address': '{""address"": ""231-249 EAST 56 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10019""}'}",HS04,2016
+212-678-2873,"{'latitude': '40.802653', 'longitude': '-73.965949', 'human_address': '{""address"": ""234 WEST 109 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10025""}'}",M803,2016
+212-533-5340,"{'latitude': '40.730009', 'longitude': '-73.984496', 'human_address': '{""address"": ""185 1 AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10003""}'}",M801,2016
+212-225-0998,"{'latitude': '40.711441', 'longitude': '-74.000851', 'human_address': '{""address"": ""411 PEARL STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10038""}'}",HS03,2016
+212-865-9260,"{'latitude': '40.80261', 'longitude': '-73.954152', 'human_address': '{""address"": ""215 WEST 114 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10026""}'}",M803,2016
+212-254-1803,"{'latitude': '40.738521', 'longitude': '-73.989481', 'human_address': '{""address"": ""890 BROADWAY"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10003""}'}",M802,2016
+212-362-2015,"{'latitude': '40.786134', 'longitude': '-73.974483', 'human_address': '{""address"": ""145 WEST 84 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10024""}'}",HS07,2016
+212-799-1477,"{'latitude': '40.785234', 'longitude': '-73.974256', 'human_address': '{""address"": ""100 WEST 84 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10024""}'}",M803,2016
+917-326-6668,"{'latitude': '40.738374', 'longitude': '-73.981329', 'human_address': '{""address"": ""223 EAST 23 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10010""}'}",HS04,2016
+212-226-8072,"{'latitude': '40.71866', 'longitude': '-73.998326', 'human_address': '{""address"": ""143 BAXTER STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10013""}'}",M802,2016
+212-465-4230,"{'latitude': '40.760858', 'longitude': '-73.996262', 'human_address': '{""address"": ""522 WEST 44TH STREET"", ""city"": ""NEW YORK"", ""state"": ""NY"", ""zip"": ""10036""}'}",HS12,2016
+212-253-7076,"{'latitude': '40.735361', 'longitude': '-73.987064', 'human_address': '{""address"": ""40 IRVING PLACE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10003""}'}",HS04,2016
+212-677-4680,"{'latitude': '40.719148', 'longitude': '-73.983769', 'human_address': '{""address"": ""123 RIDGE STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M801,2016
+212-289-3702,"{'latitude': '40.785018', 'longitude': '-73.95042', 'human_address': '{""address"": ""1700 3 AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10128""}'}",M802,2016
+212-799-1033,"{'latitude': '40.777603', 'longitude': '-73.984423', 'human_address': '{""address"": ""270 WEST 70 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10023""}'}",M803,2016
+212-695-9115,"{'latitude': '40.753099', 'longitude': '-73.997641', 'human_address': '{""address"": ""425 WEST 33RD STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10001""}'}",M802,2016
+212-586-0963,"{'latitude': '40.765474', 'longitude': '-73.9927', 'human_address': '{""address"": ""525 WEST 50TH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10019""}'}",HS04,2016
+212-219-1204,"{'latitude': '40.716231', 'longitude': '-73.993607', 'human_address': '{""address"": ""100 HESTER STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M802,2016
+212-227-0762,"{'latitude': '40.713362', 'longitude': '-73.986051', 'human_address': '{""address"": ""220 HENRY STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M801,2016
+646-672-9020,"{'latitude': '40.802649', 'longitude': '-73.948088', 'human_address': '{""address"": ""41 WEST 117 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10026""}'}",M803,2016
+212-888-7848,"{'latitude': '40.763883', 'longitude': '-73.963861', 'human_address': '{""address"": ""213 EAST 63RD STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10065""}'}",M802,2016
+212-222-2857,"{'latitude': '40.791395', 'longitude': '-73.971011', 'human_address': '{""address"": ""154 WEST 93 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10025""}'}",M803,2016
+212-253-3299,"{'latitude': '40.735361', 'longitude': '-73.987064', 'human_address': '{""address"": ""40 IRVING PLACE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10003""}'}",HS07,2016
+212-683-7440,"{'latitude': '40.741888', 'longitude': '-73.985723', 'human_address': '{""address"": ""55 EAST 25 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10010""}'}",HS04,2016
+212-780-9175,"{'latitude': '40.732665', 'longitude': '-73.98259', 'human_address': '{""address"": ""345 EAST 15TH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10003""}'}",HS04,2016
+212-517-6728,"{'latitude': '40.765638', 'longitude': '-73.959777', 'human_address': '{""address"": ""317 EAST 67 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10065""}'}",HS12,2016
+212-477-1735,"{'latitude': '40.72313', 'longitude': '-73.981597', 'human_address': '{""address"": ""600 EAST 6 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10009""}'}",M801,2016
+212-675-2756,"{'latitude': '40.73545', 'longitude': '-73.999094', 'human_address': '{""address"": ""116 WEST 11 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10011""}'}",M802,2016
+212-346-0007,"{'latitude': '40.708971', 'longitude': '-74.012465', 'human_address': '{""address"": ""90 TRINITY PLACE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10006""}'}",HS04,2016
+212-353-2010,"{'latitude': '40.732699', 'longitude': '-73.984333', 'human_address': '{""address"": ""240 2 AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10003""}'}",HS10,2016
+212-534-7490,"{'latitude': '40.798461', 'longitude': '-73.950146', 'human_address': '{""address"": ""20 WEST 112 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10026""}'}",M803,2016
+212-267-5701,"{'latitude': '40.713362', 'longitude': '-73.986051', 'human_address': '{""address"": ""220 HENRY STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M801,2016
+212-473-8152,"{'latitude': '40.72004', 'longitude': '-73.986038', 'human_address': '{""address"": ""145 STANTON STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",HS04,2016
+212-280-8502,"{'latitude': '40.799098', 'longitude': '-73.965611', 'human_address': '{""address"": ""150 WEST 105 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10025""}'}",M803,2016
+212-691-6119,"{'latitude': '40.742512', 'longitude': '-74.002222', 'human_address': '{""address"": ""333 WEST 17 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10011""}'}",M802,2016
+917-432-5413,"{'latitude': '40.770215', 'longitude': '-73.950745', 'human_address': '{""address"": ""1458 YORK AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10075""}'}",M802,2016
+212-757-4343,"{'latitude': '40.771603', 'longitude': '-73.987515', 'human_address': '{""address"": ""210 WEST 61 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10023""}'}",M803,2016
+212-253-2480,"{'latitude': '40.735361', 'longitude': '-73.987064', 'human_address': '{""address"": ""40 IRVING PLACE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10003""}'}",HS04,2016
+212-677-5190,"{'latitude': '40.719416', 'longitude': '-73.979581', 'human_address': '{""address"": ""111 COLUMBIA STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",HS04,2016
+212-962-2188,"{'latitude': '40.710651', 'longitude': '-73.99742', 'human_address': '{""address"": ""80 CATHERINE STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10038""}'}",M802,2016
+212-724-2039,"{'latitude': '40.786134', 'longitude': '-73.974483', 'human_address': '{""address"": ""145 WEST 84 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10024""}'}",HS07,2016
+212-242-3384,"{'latitude': '40.736416', 'longitude': '-73.995731', 'human_address': '{""address"": ""34 WEST 14 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10011""}'}",HS12,2016
+212-674-3180,"{'latitude': '40.72444', 'longitude': '-73.986214', 'human_address': '{""address"": ""121 EAST 3 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10009""}'}",M801,2016
+212-247-0208,"{'latitude': '40.761327', 'longitude': '-73.988665', 'human_address': '{""address"": ""328 WEST 48 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10036""}'}",M802,2016
+212-488-3330,"{'latitude': '40.743407', 'longitude': '-74.00254', 'human_address': '{""address"": ""351 WEST 18 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10011""}'}",HS04,2016
+212-888-7870,"{'latitude': '40.759248', 'longitude': '-73.967204', 'human_address': '{""address"": ""231-249 EAST 56 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10019""}'}",M802,2016
+212-348-1694,"{'latitude': '40.783286', 'longitude': '-73.945933', 'human_address': '{""address"": ""320 EAST 96 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10128""}'}",HS04,2016
+212-614-8785,"{'latitude': '40.735328', 'longitude': '-73.981536', 'human_address': '{""address"": ""319 EAST 19 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10003""}'}",M802,2016
+212-267-4133,"{'latitude': '40.71255', 'longitude': '-73.997478', 'human_address': '{""address"": ""8 HENRY STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10038""}'}",M802,2016
+212-925-5017,"{'latitude': '40.716231', 'longitude': '-73.993607', 'human_address': '{""address"": ""100 HESTER STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",HS10,2016
+212-496-0700,"{'latitude': '40.774202', 'longitude': '-73.985976', 'human_address': '{""address"": ""100 AMSTERDAM AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10023""}'}",HS03,2016
+212-732-4392,"{'latitude': '40.71953', 'longitude': '-74.01088', 'human_address': '{""address"": ""334 GREENWICH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10013""}'}",M802,2016
+917-441-0873,"{'latitude': '40.780536', 'longitude': '-73.977602', 'human_address': '{""address"": ""100 WEST 77 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10024""}'}",M803,2016
+212-678-2865,"{'latitude': '40.806534', 'longitude': '-73.951451', 'human_address': '{""address"": ""220 WEST 121 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10027""}'}",M803,2016
+212-668-0169,"{'latitude': '40.705688', 'longitude': '-74.013303', 'human_address': '{""address"": ""26 BROADWAY"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10004""}'}",HS03,2016
+212-233-6034,"{'latitude': '40.71953', 'longitude': '-74.01088', 'human_address': '{""address"": ""292 GREENWICH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10007""}'}",M802,2016
+212-876-5522,"{'latitude': '40.797205', 'longitude': '-73.941598', 'human_address': '{""address"": ""176 EAST 115 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10029""}'}",M804,2016
+212-382-1875,"{'latitude': '40.756089', 'longitude': '-73.984381', 'human_address': '{""address"": ""123 WEST 43 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10036""}'}",HS04,2016
+212-427-2798,"{'latitude': '40.785018', 'longitude': '-73.95042', 'human_address': '{""address"": ""1700 3 AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10128""}'}",M802,2016
+212-799-2653,"{'latitude': '40.789479', 'longitude': '-73.968419', 'human_address': '{""address"": ""32 WEST 92 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10025""}'}",M803,2016
+212-717-8809,"{'latitude': '40.765638', 'longitude': '-73.959777', 'human_address': '{""address"": ""317 EAST 67 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10065""}'}",M802,2016
+212-226-8410,"{'latitude': '40.716126', 'longitude': '-73.990826', 'human_address': '{""address"": ""71 HESTER STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M802,2016
+212-586-0981,"{'latitude': '40.765474', 'longitude': '-73.9927', 'human_address': '{""address"": ""525 WEST 50TH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10019""}'}",HS03,2016
+212-505-0745,"{'latitude': '40.717329', 'longitude': '-73.989329', 'human_address': '{""address"": ""350 GRAND STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",HS03,2016
+212-678-2829,"{'latitude': '40.788925', 'longitude': '-73.972557', 'human_address': '{""address"": ""132 WEST 89 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10024""}'}",M803,2016
+212-799-2534,"{'latitude': '40.789479', 'longitude': '-73.968419', 'human_address': '{""address"": ""32 WEST 92 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10025""}'}",M803,2016
+212-253-3110,"{'latitude': '40.735361', 'longitude': '-73.987064', 'human_address': '{""address"": ""40 IRVING PLACE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10003""}'}",HS04,2016
+212-678-7300,"{'latitude': '40.797136', 'longitude': '-73.966779', 'human_address': '{""address"": ""140 WEST 102 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10025""}'}",HS10,2016
+212-501-1235,"{'latitude': '40.774891', 'longitude': '-73.985608', 'human_address': '{""address"": ""122 AMSTERDAM AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10023""}'}",HS03,2016
+212-505-0143,"{'latitude': '40.717329', 'longitude': '-73.989329', 'human_address': '{""address"": ""350 GRAND STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",HS04,2016
+212-266-4800,"{'latitude': '40.711321', 'longitude': '-74.005473', 'human_address': '{""address"": ""12 SPRUCE STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10038""}'}",M802,2016
+212-595-7193,"{'latitude': '40.780536', 'longitude': '-73.977602', 'human_address': '{""address"": ""100 WEST 77 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10024""}'}",M803,2016
+212-860-5827,"{'latitude': '40.800616', 'longitude': '-73.939374', 'human_address': '{""address"": ""160 EAST 120 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10035""}'}",M804,2016
+212-475-5500,"{'latitude': '40.735328', 'longitude': '-73.981536', 'human_address': '{""address"": ""319 EAST 19 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10003""}'}",M802,2016
+212-517-5175,"{'latitude': '40.765638', 'longitude': '-73.959777', 'human_address': '{""address"": ""317 EAST 67 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10065""}'}",HS12,2016
+212-860-5882,"{'latitude': '40.788668', 'longitude': '-73.944762', 'human_address': '{""address"": ""232 EAST 103 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10029""}'}",M804,2016
+212-678-2857,"{'latitude': '40.799098', 'longitude': '-73.965611', 'human_address': '{""address"": ""150 WEST 105 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10025""}'}",M803,2016
+212-571-9268,"{'latitude': '40.71701', 'longitude': '-74.013967', 'human_address': '{""address"": ""201 WARREN STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10282""}'}",M802,2016
+212-488-3645,"{'latitude': '40.743407', 'longitude': '-74.00254', 'human_address': '{""address"": ""351 WEST 18 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10011""}'}",HS07,2016
+212-245-5925,"{'latitude': '40.763655', 'longitude': '-73.990318', 'human_address': '{""address"": ""439 WEST 49TH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10019""}'}",HS04,2016
+212-576-0530,"{'latitude': '40.74651', 'longitude': '-73.98107', 'human_address': '{""address"": ""111 EAST 33RD STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10016""}'}",HS04,2016
+212-866-6313,"{'latitude': '40.795109', 'longitude': '-73.973996', 'human_address': '{""address"": ""735 WEST END AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10025""}'}",M803,2016
+212-576-0502,"{'latitude': '40.74651', 'longitude': '-73.98107', 'human_address': '{""address"": ""111 EAST 33RD STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10016""}'}",HS04,2016
+212-757-5274,"{'latitude': '40.765474', 'longitude': '-73.9927', 'human_address': '{""address"": ""525 WEST 50TH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10019""}'}",HS07,2016
+212-860-5976,"{'latitude': '40.785559', 'longitude': '-73.940919', 'human_address': '{""address"": ""433 EAST 100 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10029""}'}",M804,2016
+212-678-2861,"{'latitude': '40.8007', 'longitude': '-73.96327', 'human_address': '{""address"": ""103 WEST 107 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10025""}'}",M803,2016
+212-406-9411,"{'latitude': '40.713362', 'longitude': '-73.986051', 'human_address': '{""address"": ""220 HENRY STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M801,2016
+212-228-4433,"{'latitude': '40.726008', 'longitude': '-73.975058', 'human_address': '{""address"": ""730 EAST 12 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10009""}'}",M801,2016
+212-346-0708,"{'latitude': '40.70927', 'longitude': '-74.012328', 'human_address': '{""address"": ""100 TRINITY PLACE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10006""}'}",HS04,2016
+212-602-9700,"{'latitude': '40.711125', 'longitude': '-73.985438', 'human_address': '{""address"": ""327 CHERRY STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",M801,2016
+212-678-2908,"{'latitude': '40.806055', 'longitude': '-73.948385', 'human_address': '{""address"": ""134 WEST 122 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10027""}'}",M803,2016
+212-501-1110,"{'latitude': '40.774891', 'longitude': '-73.985608', 'human_address': '{""address"": ""122 AMSTERDAM AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10023""}'}",HS03,2016
+212-586-2943,"{'latitude': '40.765474', 'longitude': '-73.9927', 'human_address': '{""address"": ""525 WEST 50TH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10019""}'}",HS04,2016
+212-962-4341,"{'latitude': '40.712269', 'longitude': '-73.984128', 'human_address': '{""address"": ""200 MONROE STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10002""}'}",HS04,2016
+212-348-2208,"{'latitude': '40.796889', 'longitude': '-73.930528', 'human_address': '{""address"": ""508 EAST 120 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10035""}'}",M804,2016
+212-312-6260,"{'latitude': '40.708774', 'longitude': '-74.002407', 'human_address': '{""address"": ""1 PECK SLIP"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10038""}'}",M802,2016
+212-799-4064,"{'latitude': '40.774891', 'longitude': '-73.985608', 'human_address': '{""address"": ""122 AMSTERDAM AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10023""}'}",HS03,2016
+212-685-4366,"{'latitude': '40.744511', 'longitude': '-73.977906', 'human_address': '{""address"": ""210 EAST 33 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10016""}'}",M802,2016
+212-246-2183,"{'latitude': '40.763655', 'longitude': '-73.990318', 'human_address': '{""address"": ""439 WEST 49TH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10019""}'}",HS07,2016
+212-524-4360,"{'latitude': '40.736526', 'longitude': '-73.992727', 'human_address': '{""address"": ""10 East 15th Street"", ""city"": ""Manhattan"", ""state"": ""NY"", ""zip"": ""10003""}'}",M802,2016
+917-326-6609,"{'latitude': '40.738374', 'longitude': '-73.981329', 'human_address': '{""address"": ""223 EAST 23 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10010""}'}",M802,2016
+212-980-0294,"{'latitude': '40.753598', 'longitude': '-73.956435', 'human_address': '{""address"": ""645 MAIN STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10044""}'}",M802,2016
+212-247-8652,"{'latitude': '40.761327', 'longitude': '-73.988665', 'human_address': '{""address"": ""328 WEST 48 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10036""}'}",HS04,2016
+212-477-1555,"{'latitude': '40.729661', 'longitude': '-73.992343', 'human_address': '{""address"": ""2-10 ASTOR PLACE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10003""}'}",HS10,2016
+212-262-8113,"{'latitude': '40.767848', 'longitude': '-73.98861', 'human_address': '{""address"": ""444 WEST 56 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10019""}'}",HS04,2016
+212-995-1430,"{'latitude': '40.72313', 'longitude': '-73.981597', 'human_address': '{""address"": ""600 EAST 6 STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10009""}'}",M801,2016
+212-501-1201,"{'latitude': '40.774891', 'longitude': '-73.985608', 'human_address': '{""address"": ""122 AMSTERDAM AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10023""}'}",HS03,2016
+212-251-6640,"{'latitude': '40.744288', 'longitude': '-73.972592', 'human_address': '{""address"": ""425 EAST 35TH STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10016""}'}",M802,2016
+212-571-5659,"{'latitude': '40.71701', 'longitude': '-74.013967', 'human_address': '{""address"": ""201 WARREN STREET"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10282""}'}",M802,2016
+212-501-1198,"{'latitude': '40.774891', 'longitude': '-73.985608', 'human_address': '{""address"": ""122 AMSTERDAM AVENUE"", ""city"": ""MANHATTAN"", ""state"": ""NY"", ""zip"": ""10023""}'}",HS03,2016

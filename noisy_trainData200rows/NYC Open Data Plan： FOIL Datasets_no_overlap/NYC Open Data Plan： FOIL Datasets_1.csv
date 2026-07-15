@@ -1,0 +1,69 @@
+data_set_description,data_set_name,year
+The Motor Vehicle Collisions crash table contains details on the crash event. Each row represents a crash event. The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC.,Motor Vehicle Collisions- Crashes,2025
+NYC DOT's bike racks provide free sidewalk bicycle parking  throughout the five boroughs. The data contains locations of all bike parking.,Bicycle Parking,2025
+Information from DYCD evaluation and monitoring reports,Evaluation and Monitoring System data,2025
+Budget worksheets submitted by proposers to the Transportation RFP,Individual Budget Worksheets for Transportation Proposals,2025
+List of DCWP Operation Padlock to Protect Violations,Operation Padlock to Protect Violations,2025
+"This table is the primary table for information about work orders, and contains general information - including a description of the work, assigned title, request date and completion date - about each work order. Each row represents a single work order. The primary key field is EVT_CODE. The EVT_OBJECT field can be joined to the Assets table on OBJ_CODE to know which asset the work order was for.",Asset Management Parks System (AMPS) - Work Orders,2025
+Childcare program permits and inspections,Childcare,2025
+Number of complaints received during FY24 by business category.,Complaints by Business Category,2025
+"Includes mobile food vending permits that were active on 7/1 of each year. Only includes trucks, not carts. Counts permits if they had "" ice"" or ""softee"" in the ""Doing Business As"" field OR if they had a cuisine description of ""Ice Cream, Gelato, Yogurt, Ices"". Note, neither of these descriptive fields are very reliable (relies on permit holder self-selecting during application), so ice cream trucks may be under or over counted.",Active Ice Cream Trucks as of July 1st,2025
+Tracking of applications for work involving  NYC Parks trees,Forestry Permits and Plan Review,2025
+Copies of Board Decisions,Resolutions,2025
+"Complaints that captured key words related to ""pedicabs""",Pedicab Related Complaints,2025
+List of Dealers in Products for the Disabled licensees with ownership information,Licensed Dealers in Products for the Disabled Ownership Information,2025
+"Deidentified dataset of admissions to Department of Correction by zip code of residence, including race, ethnicity, and gender information.",Admissions Data,2025
+"Pursuant to Local Law 93 of 2015, DOE reports the total count of disciplinary responses by school broken down in various categories such as race/ethnicity, gender, grade level, IEP status, ELL, STH and others. In addition, we report out a total count of EMS transports and EMS transports for emotional/psychological conditions for students by district broken down by race, IEP, and age.",Local Law 93 of 2015 - Biannual Report 2023-2024,2025
+List of licensed Tobacco Retail Dealers and Electronic Retail Dealers,Licensed Tobacco Retail Dealers and Electronic Retail Dealers,2025
+Application Filings - DOB NOW,Application Filings - DOB NOW,2025
+Full Fire Investigation Report from FDNY's Bureau of Fire Investigation,Fire Marshal Report,2025
+Tracks maintenance and inspections of pavement markings.,Design Markings,2025
+Employee Attendance Record,CHARMS Database,2025
+List of Paid Sick Leave enforcement actions,Paid Sick Leave Enforcement Actions,2025
+List of Dealers in Products for the Disabled licensees with contact information,Licensed Dealers in Products for the Disabled w. Contact Information,2025
+"List of proposers for the GMH request for proposals, including proposer name, competition pool, proposed budget, total average score, result, and award basis",GMH RFP Summary Rating Sheet,2025
+This DOS-based system was used to track forestry work before approximately 2008.,Tree Manager,2025
+"This dataset contains immediate attention hazards. These include unacceptable situations that may be potentially hazardous, as well as graffiti that depicts profanity or hate speech. Each row represents a single ""immediate attention.""",Parks Inspection Program - Daily Immediate Attentions,2025
+"Detailed reporting relating to vehicles, assignments and history.",SMART- Equipment,2025
+List of licensed Home Improvement Contractors with contact information,Licensed Home Improvement Contractors w. Contact Information,2025
+List of Pedicab Driver and Business complaints,Pedicab Driver and Business Complaints,2025
+DOT Street Light and Traffic Signal Work Orders service requests available in 311 Service Request from 2010 to Present.,DOT Street Lights and Traffic Signals (311 Service Requests from 2010 to Present),2025
+List of Pedicab Business complaints,Pedicab Business Complaints,2025
+Copies of Materials Submitted in BSA Applications,Application Materials,2025
+"emergency response plans\building sketches of fire alarms, sprinklers, and emergency exits locations",Building Safety Plans,2025
+Homeless Households Placed in HPD Housing,Homeless Set Aside Data,2025
+Budget worksheets submitted by proposers to the HDM RFP,Individual Budget Worksheets for HDM Proposals,2025
+Housing Maintenance Code Data: Data related to HPD's enforcement of the Housing Maintenance Code,Housing Maintenance Code Data,2025
+"List of NYC properties, which includes owner name and mailing address, and certain descriptive data such as market value, assessed value, and property tax exemptions",Notice of Property Value (NOPV),2025
+"Property Profile elements that span DOB and non-DOB records (including DOF, DEP, etc.)","Property Profile elements that span DOB and non-DOB records (including DOF, DEP, etc.)",2025
+"historical records, payroll info, medical records, employee contact information, contracts",Employee Records,2025
+Information about wages earned by individual workforce program participants,Participant wage data,2025
+Cases Initiated by Referral Source and Borough,7A,2025
+"List of active Smoking Exemption Permits as of the date the file was run. This list does not include Retail Tobacco Stores (RTS) and Electronic Cigarette Store (ECS) registrations. For a list of establishments allowed to sell tobacco products, contact The Department of Consumer and Worker Protection (DCWP).",Active Smoking Exemption Permits in Queens,2025
+Information about provider budgets and payments to providers,Payments data,2025
+"Workflow-based application to track Speed Reducer requests, studies and implementations. Speed Humps are a raised area of a roadway designed to reduce vehicle speeds.",Street Reducers Tracking System,2025
+"Local Law 42, enacted in 2011, requires the New York City Department of Education (DOE) to annually report to the New York City Council by June 30 the number of students in grades 6 through 12 who were discharged, transferred, or graduated during the previous school year.",Local Law 42 Report - School,2025
+financial database,FMS,2025
+"All records related to food service establishment permits issued by the NYC Departm for the time range from January 1st, 2023 to June 10th, 2024. 
+I am interested in the following business types: restaurants, employee cafeterias, bakeries, takeouts, pizzerias, night clubs, cabarets, bars. Please could the following information points be included if possible: Permit Number; Business Address; DBA Name; Legal Name; Business Type; Owner Name; Owner Contact Details; Business Open Date",NYC Restaurants,2025
+List of suspended Process Server Individual and Agency licenses,Suspended Process Server Licenses,2025
+"Tracks crews, work schedules, time punches, vehicle information, and work assignment.",Bridges-Daily Work Assignment Sheet,2025
+"DOT manages over 1,000,000 signs on the streets of New York. This dataset contains current and historical signs, including regulatory, warning, guide and parking. The database keeps track of the description, location and installation dates for DOT traffic signs.",Street Sign Work Orders,2025
+New York City Department of Transportation (NYC DOT) has developed a program dedicated to upgrading and installing pedestrian ramps and is committed to making our pedestrian space safe and accessible for all road users.,Pedestrian Ramp- Program Progress,2025
+"Monthly trend statistics about HRA programs including Cash Assistance, SNAP, Medicaid, Employment, and Special Services.","HRA Facts, Programs, and Services",2025
+"The vendors used to discard various materials (refuse, paper, metal/glass/plastic, bulk metal, and organics) collected in DSNY districts.",DSNY Districts with Disposal Vendor Assignments,2025
+time keeping system for the City of New York,City Time,2025
+"List of NYC properties, which includes property address, owner name and mailing address, and mail recipient name and mailing address",Name and Address,2025
+"Sidewalk Management System is used to track and organize inspections, violations and the status of New York City sidewalks. This dataset Identifies locations where DOT inspectors performed sidewalk inspections for defects.",Sidewalk Management Database- Inspections,2025
+EMS response and patient treatment,Ambulance Call Report/Prehospital Care Report (ACR/PCR),2025
+Salary of Correctional Officers,Employee Salary Data,2025
+This dataset tracks sidewalk corner and pedestrian ramp complaints and their temporary repair status. Temporary repairs may include but are not limited to the use of asphalt on corners and pedestrian ramps.,Pedestrian Ramp Complaints,2025
+Names and salaries of Correctional Officers in 2003,Employee Salary Data,2025
+information on employees including salaries and civil service titles,Human Resources Database,2025
+List of Immigration Service Provider complaints,Immigration Service Provider Complaints,2025
+Customer Water and Wastewater Charges,UMAX Database,2025
+Water/Sewer Complaints,311 Database,2025
+List of licensed Electronic Cigarette Dealers within specific Community Districts on a certain date,Licensed Electronic Cigarette Dealers (by Community District) by Date,2025
+"List of properties in NYC, which includes the assessed value and changes to the assessed value which caused the assessed value to decrease",Historical Property Assessment Roll with Remissions,2025
+Dataset of License Application Information for online applications pulled from our Accela System,License Application Information,2025
+Safety Boilers Compliance Filings,Safety Boilers Compliance Filings,2025

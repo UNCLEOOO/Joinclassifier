@@ -1,0 +1,196 @@
+neighborhood_tabulation_area,neighborhood_tabulation_area_1,percentage_of_blocks_without,borough_name,home_broadband_adoption_by,available_free_public_wi
+BX09,Soundview-Castle Hill-Clason Point-Harding Park,0.2,Bronx,Medium Low Connected,True
+QN41,Fresh Meadows-Utopia,0.1,Queens,High Connected,True
+SI48,Arden Heights,0.02,Staten Island,High Connected,False
+MN33,East Harlem South,0.0,Manhattan,Medium Low Connected,True
+BK33,Carroll Gardens-Columbia Street-Red Hook,0.24,Brooklyn,High Connected,True
+BK42,Flatbush,0.19,Brooklyn,Medium Low Connected,True
+QN45,Douglas Manor-Douglaston-Little Neck,0.1,Queens,High Connected,True
+QN62,Queensboro Hill,0.08,Queens,Low Connected,False
+MN24,SoHo-TriBeCa-Civic Center-Little Italy,0.0,Manhattan,High Connected,True
+QN46,Bayside-Bayside Hills,0.06,Queens,High Connected,True
+QN51,Murray Hill,0.03,Queens,Low Connected,False
+BX52,Schuylerville-Throgs Neck-Edgewater Park,0.14,Bronx,Medium Low Connected,True
+QN28,Jackson Heights,0.15,Queens,Medium High Connected,True
+QN43,Bellerose,0.1,Queens,High Connected,True
+BX35,Morrisania-Melrose,0.06,Bronx,Low Connected,True
+BK21,Seagate-Coney Island,0.2,Brooklyn,Low Connected,True
+BK35,Stuyvesant Heights,0.21,Brooklyn,Medium Low Connected,True
+BK81,Brownsville,0.18,Brooklyn,Low Connected,True
+BX06,Belmont,0.12,Bronx,Low Connected,True
+BX13,Co-op City,0.37,Bronx,Medium Low Connected,True
+BX26,Highbridge,0.21,Bronx,Low Connected,True
+BK09,Brooklyn Heights-Cobble Hill,0.16,Brooklyn,High Connected,True
+BX75,Crotona Park East,0.23,Bronx,Low Connected,False
+BX14,East Concourse-Concourse Village,0.07,Bronx,Low Connected,True
+BX43,Norwood,0.15,Bronx,Medium Low Connected,True
+BX07,Bronxdale,0.02,Bronx,Low Connected,False
+BK45,Georgetown-Marine Park-Bergen Beach-Mill Basin,0.05,Brooklyn,High Connected,True
+QN30,Maspeth,0.12,Queens,High Connected,True
+BK46,Ocean Parkway South,0.09,Brooklyn,Medium Low Connected,False
+QN50,Elmhurst-Maspeth,0.19,Queens,Medium High Connected,True
+MN27,Chinatown,0.0,Manhattan,Low Connected,True
+SI11,Charleston-Richmond Valley-Tottenville,0.18,Staten Island,High Connected,True
+MN17,Midtown-Midtown South,0.0,Manhattan,High Connected,True
+QN21,Middle Village,0.11,Queens,Medium High Connected,False
+BK93,Starrett City,0.52,Brooklyn,Medium Low Connected,False
+BK29,Bensonhurst East,0.06,Brooklyn,Medium High Connected,True
+BX49,Pelham Parkway,0.11,Bronx,Low Connected,True
+BK17,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,0.2,Brooklyn,Medium High Connected,True
+QN53,Woodhaven,0.04,Queens,High Connected,True
+QN49,Whitestone,0.1,Queens,Medium High Connected,True
+BX28,Van Cortlandt Village,0.07,Bronx,Medium Low Connected,True
+SI08,Grymes Hill-Clifton-Fox Hills,0.06,Staten Island,Low Connected,False
+QN26,North Corona,0.04,Queens,Low Connected,True
+BX03,Eastchester-Edenwald-Baychester,0.07,Bronx,Medium Low Connected,True
+BX30,Kingsbridge Heights,0.14,Bronx,Low Connected,True
+BK32,Sunset Park West,0.22,Brooklyn,Medium Low Connected,True
+BK73,North Side-South Side,0.28,Brooklyn,Medium High Connected,True
+MN23,West Village,0.0,Manhattan,High Connected,True
+QN76,Baisley Park,0.05,Queens,Low Connected,True
+BX01,Claremont-Bathgate,0.11,Bronx,Low Connected,True
+QN17,Forest Hills,0.09,Queens,Medium High Connected,True
+QN57,Lindenwood-Howard Beach,0.18,Queens,Medium High Connected,True
+QN29,Elmhurst,0.09,Queens,Medium Low Connected,True
+BX44,Williamsbridge-Olinville,0.0,Bronx,Low Connected,False
+BX98,Rikers Island,0.96,Bronx,Low Connected,False
+BX31,Allerton-Pelham Gardens,0.04,Bronx,Medium Low Connected,False
+BK75,Bedford,0.15,Brooklyn,Low Connected,True
+BX17,East Tremont,0.11,Bronx,Low Connected,True
+QN12,Hammels-Arverne-Edgemere,0.33,Queens,Medium Low Connected,True
+QN07,Hollis,0.03,Queens,Low Connected,True
+MN35,Washington Heights North,0.0,Manhattan,Medium High Connected,True
+BK27,Bath Beach,0.21,Brooklyn,Medium High Connected,True
+MN19,Turtle Bay-East Midtown,0.0,Manhattan,High Connected,True
+MN40,Upper East Side-Carnegie Hill,0.0,Manhattan,High Connected,True
+BK68,Fort Greene,0.05,Brooklyn,High Connected,True
+BK28,Bensonhurst West,0.18,Brooklyn,Medium Low Connected,False
+BK63,Crown Heights South,0.13,Brooklyn,Medium Low Connected,True
+BK41,Kensington-Ocean Parkway,0.31,Brooklyn,Medium High Connected,True
+BK58,Flatlands,0.07,Brooklyn,High Connected,True
+BX46,Parkchester,0.19,Bronx,Medium High Connected,True
+SI25,Oakwood-Oakwood Beach,0.06,Staten Island,Medium High Connected,True
+BK91,East Flatbush-Farragut,0.04,Brooklyn,Medium High Connected,True
+QN61,Jamaica,0.13,Queens,Medium Low Connected,True
+QN22,Flushing,0.05,Queens,Low Connected,True
+MN14,Lincoln Square,0.0,Manhattan,High Connected,True
+BX41,Mount Hope,0.12,Bronx,Low Connected,True
+BK26,Gravesend,0.1,Brooklyn,Medium High Connected,True
+QN19,Glendale,0.05,Queens,Medium High Connected,True
+QN08,St. Albans,0.02,Queens,Low Connected,True
+BK19,Brighton Beach,0.15,Brooklyn,Medium Low Connected,True
+BK82,East New York,0.09,Brooklyn,Medium Low Connected,True
+MN09,Morningside Heights,0.0,Manhattan,Medium High Connected,True
+MN36,Washington Heights South,0.0,Manhattan,Medium Low Connected,True
+MN22,East Village,0.0,Manhattan,Medium Low Connected,True
+BK34,Sunset Park East,0.12,Brooklyn,Medium Low Connected,False
+MN13,Hudson Yards-Chelsea-Flat Iron-Union Square,0.0,Manhattan,High Connected,True
+BX34,Melrose South-Mott Haven North,0.05,Bronx,Low Connected,True
+SI28,Port Richmond,0.1,Staten Island,Medium Low Connected,False
+BX62,Woodlawn-Wakefield,0.08,Bronx,Low Connected,True
+BX99,park-cemetery-etc-Bronx,0.73,Bronx,Medium High Connected,False
+SI45,New Dorp-Midland Beach,0.03,Staten Island,Medium High Connected,True
+BK96,Rugby-Remsen Village,0.1,Brooklyn,Medium Low Connected,True
+QN01,South Jamaica,0.06,Queens,Medium Low Connected,True
+QN63,Woodside,0.2,Queens,Medium High Connected,True
+BX63,West Concourse,0.05,Bronx,Low Connected,True
+MN28,Lower East Side,0.0,Manhattan,Low Connected,False
+QN71,Old Astoria,0.09,Queens,Medium High Connected,True
+BX33,Longwood,0.1,Bronx,Medium Low Connected,False
+BK38,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,0.08,Brooklyn,High Connected,True
+QN56,Ozone Park,0.09,Queens,High Connected,True
+QN33,Cambria Heights,0.05,Queens,Medium High Connected,True
+MN34,East Harlem North,0.0,Manhattan,Low Connected,True
+BK88,Borough Park,0.12,Brooklyn,Low Connected,True
+BX37,Van Nest-Morris Park-Westchester Square,0.08,Bronx,Low Connected,True
+QN72,Steinway,0.21,Queens,High Connected,True
+QN48,Auburndale,0.06,Queens,Medium High Connected,True
+QN15,Far Rockaway-Bayswater,0.08,Queens,Medium Low Connected,True
+SI36,Old Town-Dongan Hills-South Beach,0.07,Staten Island,Medium Low Connected,True
+MN50,Stuyvesant Town-Cooper Village,0.0,Manhattan,High Connected,False
+SI32,Rossville-Woodrow,0.08,Staten Island,High Connected,False
+BX27,Hunts Point,0.25,Bronx,Low Connected,True
+BK99,park-cemetery-etc-Brooklyn,0.68,Brooklyn,High Connected,False
+QN54,Richmond Hill,0.06,Queens,Medium High Connected,True
+QN68,Queensbridge-Ravenswood-Long Island City,0.08,Queens,Medium Low Connected,True
+BX59,Westchester-Unionport,0.14,Bronx,Medium Low Connected,False
+BK31,Bay Ridge,0.38,Brooklyn,Medium High Connected,True
+BK43,Midwood,0.11,Brooklyn,Medium Low Connected,False
+QN03,Springfield Gardens South-Brookville,0.2,Queens,Low Connected,False
+SI01,Annadale-Huguenot-Prince's Bay-Eltingville,0.14,Staten Island,High Connected,False
+BK50,Canarsie,0.08,Brooklyn,High Connected,True
+QN52,East Flushing,0.01,Queens,Medium Low Connected,False
+BK78,Bushwick South,0.23,Brooklyn,Low Connected,True
+QN34,Queens Village,0.07,Queens,High Connected,False
+SI07,Westerleigh,0.02,Staten Island,High Connected,True
+MN20,Murray Hill-Kips Bay,0.0,Manhattan,High Connected,True
+BK85,East New York (Pennsylvania Ave),0.0,Brooklyn,Medium Low Connected,False
+QN55,South Ozone Park,0.08,Queens,Medium High Connected,True
+MN11,Central Harlem South,0.0,Manhattan,Medium High Connected,True
+QN44,Glen Oaks-Floral Park-New Hyde Park,0.1,Queens,Medium High Connected,False
+QN27,East Elmhurst,0.13,Queens,Medium High Connected,True
+BX55,Soundview-Bruckner,0.08,Bronx,Low Connected,False
+SI54,Great Kills,0.02,Staten Island,High Connected,False
+QN37,Kew Gardens Hills,0.17,Queens,Medium High Connected,False
+SI14,Grasmere-Arrochar-Ft. Wadsworth,0.26,Staten Island,High Connected,True
+BK64,Prospect Heights,0.06,Brooklyn,High Connected,True
+BK61,Crown Heights North,0.09,Brooklyn,Medium Low Connected,True
+SI05,New Springville-Bloomfield-Travis,0.28,Staten Island,High Connected,False
+MN99,park-cemetery-etc-Manhattan,0.0,Manhattan,Low Connected,False
+QN02,Springfield Gardens North,0.02,Queens,Low Connected,True
+BK79,Ocean Hill,0.23,Brooklyn,Medium Low Connected,True
+QN20,Ridgewood,0.03,Queens,Medium High Connected,True
+SI24,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,0.09,Staten Island,High Connected,True
+BK37,Park Slope-Gowanus,0.17,Brooklyn,High Connected,True
+BK23,West Brighton,0.21,Brooklyn,Medium Low Connected,False
+QN60,Kew Gardens,0.25,Queens,Medium High Connected,True
+SI22,West New Brighton-New Brighton-St. George,0.07,Staten Island,Low Connected,True
+BX22,North Riverdale-Fieldston-Riverdale,0.09,Bronx,Medium High Connected,False
+QN23,College Point,0.07,Queens,Medium Low Connected,False
+QN47,Ft. Totten-Bay Terrace-Clearview,0.29,Queens,Medium High Connected,True
+BK76,Greenpoint,0.16,Brooklyn,Medium High Connected,True
+MN21,Gramercy,0.0,Manhattan,High Connected,True
+MN15,Clinton,0.0,Manhattan,High Connected,True
+BK40,Windsor Terrace,0.22,Brooklyn,High Connected,True
+QN05,Rosedale,0.11,Queens,Medium High Connected,True
+SI99,park-cemetery-etc-Staten Island,0.95,Staten Island,Low Connected,False
+QN38,Pomonok-Flushing Heights-Hillcrest,0.05,Queens,Medium Low Connected,False
+MN01,Marble Hill-Inwood,0.0,Manhattan,Medium Low Connected,True
+QN70,Astoria,0.16,Queens,High Connected,True
+MN06,Manhattanville,0.0,Manhattan,Medium Low Connected,True
+BK83,Cypress Hills-City Line,0.01,Brooklyn,Medium High Connected,True
+MN25,Battery Park City-Lower Manhattan,0.0,Manhattan,High Connected,True
+QN18,Rego Park,0.1,Queens,Medium High Connected,True
+MN03,Central Harlem North-Polo Grounds,0.0,Manhattan,Medium Low Connected,True
+BK90,East Williamsburg,0.17,Brooklyn,Medium High Connected,True
+BX36,University Heights-Morris Heights,0.27,Bronx,Low Connected,True
+SI37,Stapleton-Rosebank,0.07,Staten Island,Medium Low Connected,True
+BK95,Erasmus,0.16,Brooklyn,Medium Low Connected,True
+MN31,Lenox Hill-Roosevelt Island,0.0,Manhattan,High Connected,True
+BK25,Homecrest,0.04,Brooklyn,Medium High Connected,False
+MN32,Yorkville,0.0,Manhattan,High Connected,True
+QN31,Hunters Point-Sunnyside-West Maspeth,0.35,Queens,High Connected,True
+QN35,Briarwood-Jamaica Hills,0.11,Queens,Medium High Connected,False
+BX10,Pelham Bay-Country Club-City Island,0.15,Bronx,Medium Low Connected,True
+QN06,Jamaica Estates-Holliswood,0.12,Queens,Medium Low Connected,True
+MN12,Upper West Side,0.0,Manhattan,High Connected,True
+BK30,Dyker Heights,0.03,Brooklyn,Medium High Connected,True
+QN66,Laurelton,0.01,Queens,Low Connected,False
+QN42,Oakland Gardens,0.08,Queens,High Connected,False
+QN25,Corona,0.12,Queens,Medium Low Connected,False
+BX40,Fordham South,0.05,Bronx,Low Connected,True
+BX39,Mott Haven-Port Morris,0.13,Bronx,Low Connected,True
+BX05,Bedford Park-Fordham North,0.06,Bronx,Low Connected,True
+BX29,Spuyten Duyvil-Kingsbridge,0.14,Bronx,Medium High Connected,True
+QN98,Airport,0.89,Queens,Low Connected,False
+QN10,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,0.15,Queens,Medium High Connected,True
+MN04,Hamilton Heights,0.0,Manhattan,Medium High Connected,True
+QN99,park-cemetery-etc-Queens,0.82,Queens,High Connected,False
+SI35,New Brighton-Silver Lake,0.01,Staten Island,Medium High Connected,False
+SI12,Mariner's Harbor-Arlington-Port Ivory-Graniteville,0.13,Staten Island,Medium Low Connected,False
+BK77,Bushwick North,0.1,Brooklyn,Low Connected,True
+BK44,Madison,0.02,Brooklyn,Medium High Connected,False
+BK60,Prospect Lefferts Gardens-Wingate,0.15,Brooklyn,Medium Low Connected,True
+BX08,West Farms-Bronx River,0.17,Bronx,Low Connected,True
+BK69,Clinton Hill,0.15,Brooklyn,High Connected,True
+BK72,Williamsburg,0.35,Brooklyn,Low Connected,False

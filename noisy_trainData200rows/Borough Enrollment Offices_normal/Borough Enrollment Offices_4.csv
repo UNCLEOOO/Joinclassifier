@@ -1,0 +1,22 @@
+address,hours,bin,nta,location_1,census_tract
+"131 Livingston Street
+(Note: Special Education Only)","Monday-Friday, 8:00am-3:00pm",3000420.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,"{'latitude': '40.690743', 'longitude': '-73.988605'}",37
+718 Ocean Terrace,"Monday-Friday, 8:00am-3:00pm",1015097.0,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill                   ,"{'latitude': '40.608405', 'longitude': '-74.101919'}",177
+1 Fordham Plaza,"Monday-Friday, 8:00am-3:00pm",,Belmont                                                                    ,"{'latitude': '40.860994', 'longitude': '-73.890073'}",387
+"388 125th Street
+","Monday-Friday, 8:00am-3:00pm",,,"{'latitude': '40.747629', 'longitude': '-73.99306'}",95
+"1780 Ocean Avenue
+","Monday-Friday, 8:00am-3:00pm",3180747.0,Midwood                                                                    ,"{'latitude': '40.618915', 'longitude': '-73.955115'}",538
+28 11 Queens Plaza,"Monday-Friday, 8:00am-3:00pm",4005022.0,Queensbridge-Ravenswood-Long Island City                                   ,"{'latitude': '40.75008', 'longitude': '-73.938208'}",33
+"1230 Zerega Avenue
+ ","Monday-Friday, 8:00am-3:00pm",2027195.0,Westchester-Unionport                                                      ,"{'latitude': '40.833586', 'longitude': '-73.845099'}",96
+30 48 Linden Place,"Monday-Friday, 8:00am-3:00pm",4100749.0,Flushing                                                                   ,"{'latitude': '40.770185', 'longitude': '-73.832925'}",869
+"29 Fort Greene Place
+(Note: General Education Only)","Monday-Friday, 8:00am-3:00pm",3058752.0,Fort Greene                                                                ,"{'latitude': '40.688834', 'longitude': '-73.976905'}",33
+"1665 St Mark's Avenue
+","Monday-Friday, 8:00am-3:00pm",3039123.0,Ocean Hill                                                                 ,"{'latitude': '40.673138', 'longitude': '-73.912024'}",36501
+"333 Seventh Avenue
+","Monday-Friday, 8:00am-3:00pm",1015097.0,Midtown-Midtown South                                                      ,"{'latitude': '40.747629', 'longitude': '-73.99306'}",95
+90 27 Sutphin Boulevard,"Monday-Friday, 8:00am-3:00pm",4206784.0,Jamaica                                                                    ,"{'latitude': '40.70234', 'longitude': '-73.808148'}",240
+"415 89th Street
+","Monday-Friday, 8:00am-3:00pm",3154215.0,Bay Ridge                                                                  ,"{'latitude': '40.619931', 'longitude': '-74.028086'}",160

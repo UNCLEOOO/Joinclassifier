@@ -1,0 +1,201 @@
+is_subway_affordable,overall_satisfaction,subway_line_used_most_often,most_common_reason_for_delay,opinion_on_increased_fares,survey_stop_borough
+False,Highly unsatisfied,E,Train traffic,Negative,Queens
+True,Neutral,2,Signal malfunction,Negative,Queens
+False,Very satisfied,F,Train traffic,Unaware,Queens
+True,Neutral,3,Train traffic,Negative,Brooklyn
+False,,E,Waiting for signal change,Negative,Queens
+True,Somewhat satisfied,M,Sick passenger,Positive,Queens
+False,Somewhat satisfied,R,Waiting for signal change,Positive,Queens
+True,Neutral,7,,,Queens
+True,Highly unsatisfied,E,Train traffic,Positive,Queens
+True,Neutral,2,Train traffic,Unaware,Brooklyn
+False,Very satisfied,7,No reason is given,Positive,Queens
+True,Somewhat satisfied,E,Train traffic,Positive,Queens
+True,Highly unsatisfied,1,Signal malfunction,Negative,Queens
+False,Neutral,1,Train traffic,Positive,Queens
+True,Somewhat satisfied,7,Train traffic,Negative,Queens
+True,Somewhat satisfied,R,Train traffic,Other / No thoughts,Queens
+False,Somewhat satisfied,E,Train traffic,Positive,Queens
+True,Somewhat satisfied,E,Signal malfunction,Neutral,Queens
+False,Somewhat satisfied,L,Signal malfunction,Negative,Brooklyn
+True,Neutral,E,Train traffic,Neutral,Queens
+False,Very satisfied,7,Train traffic,Negative,Queens
+True,Somewhat satisfied,E,Sick passenger,Positive,Queens
+True,Somewhat satisfied,E,Train traffic,Neutral,Queens
+False,Highly unsatisfied,F,Train traffic,Negative,Queens
+False,Somewhat satisfied,1,Signal malfunction,Positive,Queens
+True,Somewhat satisfied,R,Waiting for signal change,Positive,Queens
+False,Highly unsatisfied,R,Waiting for signal change,Negative,Queens
+True,Not satisfied,E,Signal malfunction,Positive,Queens
+True,Somewhat satisfied,1,Signal malfunction,Negative,Queens
+True,Somewhat satisfied,1,Train traffic,Other / No thoughts,Queens
+True,Somewhat satisfied,7,Police incident,Positive,Queens
+False,Highly unsatisfied,7,Train traffic,Negative,Queens
+True,Neutral,E,Train traffic,Neutral,Queens
+False,Not satisfied,1,Train traffic,Unaware,Queens
+False,Not satisfied,C,Weather,Negative,Queens
+True,Not satisfied,7,,,Queens
+True,Somewhat satisfied,7,No reason is given,Negative,Queens
+True,Very satisfied,7,No reason is given,Unaware,Queens
+True,Neutral,7,No reason is given,Other / No thoughts,Queens
+True,Somewhat satisfied,E,Train traffic,Unaware,Queens
+True,Neutral,F,Train traffic,Positive,Queens
+True,Somewhat satisfied,R,Signal malfunction,Other / No thoughts,Queens
+True,Somewhat satisfied,F,Train traffic,Other / No thoughts,Queens
+True,Somewhat satisfied,E,Waiting for signal change,Negative,Queens
+True,Somewhat satisfied,E,No reason is given,Positive,Queens
+False,Not satisfied,7,No reason is given,Positive,Queens
+False,Somewhat satisfied,F,Train traffic,Negative,Queens
+True,Neutral,R,Signal malfunction,Positive,Queens
+False,Not satisfied,1,Signal malfunction,Positive,Brooklyn
+False,Highly unsatisfied,7,Waiting for signal change,Positive,Queens
+True,Not satisfied,F,Train traffic,Unaware,Queens
+False,Neutral,1,Waiting for signal change,Negative,Queens
+False,Not satisfied,7,Signal malfunction,Negative,Queens
+True,Very satisfied,A,Weather,Other / No thoughts,Queens
+True,Very satisfied,R,Signal malfunction,Negative,Queens
+False,Highly unsatisfied,7,Signal malfunction,Positive,Queens
+True,Somewhat satisfied,1,Waiting for signal change,Negative,Queens
+False,Highly unsatisfied,7,Train traffic,Negative,Queens
+True,Not satisfied,E,Train traffic,,Queens
+False,Somewhat satisfied,R,Train traffic,Unaware,Queens
+False,Neutral,R,Signal malfunction,Negative,Queens
+False,Not satisfied,7,Train traffic,Negative,Queens
+False,Neutral,E,Train traffic,Negative,Queens
+True,Very satisfied,7,Train traffic,Unaware,Queens
+False,Not satisfied,1,Train traffic,Positive,Queens
+True,Neutral,E,Train traffic,Positive,Queens
+True,Somewhat satisfied,7,Signal malfunction,Unaware,Queens
+False,Not satisfied,1,Signal malfunction,Neutral,Queens
+True,Somewhat satisfied,1,Train traffic,Negative,Queens
+False,Neutral,4,Train traffic,Other / No thoughts,Brooklyn
+True,Somewhat satisfied,E,Train traffic,Neutral,Queens
+True,Neutral,3,Train traffic,Unaware,Brooklyn
+True,Not satisfied,F,Train traffic,Neutral,Queens
+False,Neutral,1,Train traffic,Positive,Queens
+True,Somewhat satisfied,7,Train traffic,Positive,Queens
+True,Somewhat satisfied,E,Train traffic,Other / No thoughts,Queens
+True,Highly unsatisfied,E,Train traffic,Unaware,Queens
+True,Highly unsatisfied,1,Train traffic,Positive,Queens
+True,Not satisfied,4,Train traffic,Positive,Brooklyn
+False,Not satisfied,1,Train traffic,Positive,Queens
+True,Very satisfied,7,Train traffic,Neutral,Queens
+True,,7,,,Queens
+True,Neutral,R,Train traffic,Neutral,Queens
+False,Somewhat satisfied,7,Train traffic,Unaware,Queens
+False,Not satisfied,E,Train traffic,Negative,Queens
+True,Not satisfied,D,Train traffic,Unaware,Queens
+False,Not satisfied,R,Signal malfunction,Negative,Queens
+True,Very satisfied,E,Waiting for signal change,Neutral,Queens
+False,Somewhat satisfied,R,,Negative,Queens
+True,Neutral,7,No reason is given,Other / No thoughts,Queens
+False,Highly unsatisfied,E,Train traffic,Positive,Queens
+True,Very satisfied,2,Signal malfunction,Neutral,Queens
+True,Very satisfied,7,Train traffic,Unaware,Queens
+True,Highly unsatisfied,5,Signal malfunction,Other / No thoughts,Queens
+True,Somewhat satisfied,N,Train traffic,Unaware,Brooklyn
+True,Neutral,1,Waiting for signal change,Neutral,Queens
+True,Neutral,7,Train traffic,Unaware,Queens
+False,Neutral,7,Train traffic,Negative,Queens
+True,Neutral,R,Train traffic,Negative,Queens
+True,Somewhat satisfied,1,Weather,Positive,Queens
+True,Neutral,3,Train traffic,Negative,Brooklyn
+True,Not satisfied,R,Train traffic,Other / No thoughts,Queens
+True,Somewhat satisfied,A,Waiting for signal change,Other / No thoughts,Queens
+False,Not satisfied,N,Signal malfunction,Positive,Queens
+True,Neutral,1,Waiting for signal change,Positive,Queens
+False,Somewhat satisfied,F,Signal malfunction,Positive,Queens
+True,Very satisfied,7,,,Queens
+False,Not satisfied,E,Waiting for signal change,Unaware,Queens
+True,,L,,,Brooklyn
+True,Neutral,E,Train traffic,Unaware,Queens
+False,Neutral,N,Train traffic,Unaware,Queens
+True,Somewhat satisfied,R,Waiting for signal change,Unaware,Queens
+True,Somewhat satisfied,7,No reason is given,Negative,Queens
+True,Very satisfied,F,Waiting for signal change,Negative,Queens
+False,Not satisfied,E,Waiting for signal change,Negative,Queens
+True,Somewhat satisfied,7,No reason is given,Unaware,Queens
+True,Somewhat satisfied,L,Signal malfunction,Neutral,Brooklyn
+True,Not satisfied,M,Signal malfunction,Positive,Queens
+True,Very satisfied,7,No reason is given,Unaware,Queens
+True,Not satisfied,1,Train traffic,Positive,Queens
+False,Somewhat satisfied,1,Waiting for signal change,Negative,Queens
+True,Highly unsatisfied,1,Police incident,Positive,Queens
+True,Somewhat satisfied,R,Signal malfunction,Negative,Queens
+True,Somewhat satisfied,1,Train traffic,Positive,Queens
+True,Not satisfied,F,Signal malfunction,Positive,Queens
+False,Not satisfied,E,Train traffic,Positive,Queens
+False,Neutral,M,Signal malfunction,Negative,Queens
+True,Very satisfied,E,Sick passenger,Unaware,Queens
+False,Neutral,1,Train traffic,Positive,Brooklyn
+True,Very satisfied,7,Waiting for signal change,Neutral,Queens
+False,Neutral,7,Signal malfunction,Negative,Queens
+False,Not satisfied,7,Train traffic,Unaware,Queens
+True,,7,,Neutral,Queens
+False,Highly unsatisfied,R,Waiting for signal change,Negative,Queens
+False,Not satisfied,3,Police incident,Positive,Brooklyn
+True,Highly unsatisfied,7,Signal malfunction,Positive,Queens
+True,Somewhat satisfied,E,Train traffic,Other / No thoughts,Queens
+False,Not satisfied,7,Train traffic,Positive,Queens
+True,Very satisfied,7,Train traffic,Unaware,Queens
+False,Somewhat satisfied,N,Train traffic,Negative,Queens
+True,Not satisfied,7,Train traffic,Other / No thoughts,Queens
+False,Not satisfied,R,Signal malfunction,Negative,Queens
+False,Not satisfied,7,Train traffic,Negative,Queens
+False,Highly unsatisfied,F,Train traffic,Negative,Queens
+True,Not satisfied,E,Train traffic,Positive,Queens
+True,,7,,,Queens
+False,Not satisfied,R,Weather,Negative,Queens
+True,Somewhat satisfied,6,Sick passenger,Neutral,Queens
+False,Neutral,3,Train traffic,Positive,Brooklyn
+False,Somewhat satisfied,R,Signal malfunction,Positive,Queens
+False,Neutral,7,Train traffic,Negative,Queens
+True,Somewhat satisfied,7,Signal malfunction,Positive,Queens
+True,Very satisfied,F,,,Queens
+True,Not satisfied,7,Train traffic,Positive,Queens
+True,Somewhat satisfied,3,No reason is given,Negative,Brooklyn
+True,Somewhat satisfied,7,Signal malfunction,Negative,Queens
+True,Neutral,E,Train traffic,Neutral,Queens
+True,Not satisfied,7,Train traffic,Unaware,Queens
+True,Very satisfied,E,Train traffic,Negative,Queens
+False,Highly unsatisfied,7,No reason is given,Negative,Queens
+True,Highly unsatisfied,R,Train traffic,Positive,Queens
+False,Somewhat satisfied,1,Sick passenger,Negative,Brooklyn
+False,Somewhat satisfied,R,Train traffic,Negative,Queens
+True,Neutral,F,Sick passenger,Positive,Queens
+False,Not satisfied,7,Train traffic,Positive,Queens
+True,Not satisfied,Q,Train traffic,Positive,Queens
+True,Very satisfied,7,No reason is given,Neutral,Queens
+True,Not satisfied,R,Train traffic,Positive,Queens
+False,Not satisfied,E,Train traffic,Negative,Queens
+False,Somewhat satisfied,J,Train traffic,Negative,Brooklyn
+True,Not satisfied,F,Train traffic,Positive,Queens
+True,Neutral,3,Train traffic,Positive,Brooklyn
+False,Neutral,E,Signal malfunction,Negative,Queens
+False,Not satisfied,E,Train traffic,Negative,Queens
+True,Not satisfied,R,Train traffic,Positive,Queens
+True,Not satisfied,7,Signal malfunction,Positive,Queens
+False,Neutral,7,Waiting for signal change,Negative,Queens
+False,Highly unsatisfied,L,Train traffic,Negative,Queens
+False,Not satisfied,R,Signal malfunction,Negative,Brooklyn
+False,Highly unsatisfied,1,Police incident,Negative,Queens
+True,Somewhat satisfied,7,Train traffic,Neutral,Queens
+False,Somewhat satisfied,7,Train traffic,Positive,Queens
+False,Highly unsatisfied,E,Waiting for signal change,Negative,Queens
+True,Neutral,7,Train traffic,Negative,Queens
+True,Very satisfied,F,Train traffic,Unaware,Queens
+False,Highly unsatisfied,7,Train traffic,Negative,Queens
+False,Not satisfied,E,Train traffic,Unaware,Queens
+True,Not satisfied,7,Train traffic,Positive,Queens
+False,Not satisfied,E,Waiting for signal change,Negative,Queens
+True,Not satisfied,E,No reason is given,Positive,Queens
+False,Not satisfied,F,Train traffic,Negative,Queens
+False,Not satisfied,E,Train traffic,Positive,Queens
+False,Highly unsatisfied,7,Signal malfunction,Negative,Queens
+True,Not satisfied,R,Train traffic,Other / No thoughts,Queens
+False,Neutral,A,Signal malfunction,Negative,Queens
+True,Not satisfied,R,Waiting for signal change,Positive,Queens
+True,Somewhat satisfied,7,Train traffic,Negative,Queens
+True,Not satisfied,1,Train traffic,Positive,Queens
+True,Neutral,1,No reason is given,Other / No thoughts,Queens
+False,Not satisfied,E,Train traffic,Positive,Queens

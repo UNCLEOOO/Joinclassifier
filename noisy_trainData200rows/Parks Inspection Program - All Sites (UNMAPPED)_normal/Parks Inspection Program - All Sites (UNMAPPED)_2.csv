@@ -1,0 +1,179 @@
+prop_id,propnum,comfortstation,sub_category,sourcefc,boro,acres,reason_not_rated
+X002-05Ao,X002,False,Plgd Within Park,Unmapped,X,0.0,District switch
+X147A-ZN02o,X147A,False,Large Park Zone,Unmapped,X,,District switch
+Q162-ZN08,Q162,False,Beach Zone,Unmapped,Q,0.0,Retired. Rated as Q162-ZN04A
+Q466,Q466,False,Large Park,Unmapped,Q,11.48600006,wildlife preserve
+QZ310,QZ310,False,Type 2,Unmapped,Q,0.0,Just trees (type 2).
+M104-ZN01o,M104,False,Flagship Park Zone,Unmapped,M,59.51300049,Retired. Randall's Island Rezoned Spring 2010
+M108,M108,False,EXWY,Unmapped,M,0.0,HWY
+BZ304,BZ304,False,Type 2,Unmapped,B,0.0,Just trees (type 2).
+X002-ZN03o,X002,False,Large Park Zone,Unmapped,X,0.0,District switch
+RZ264,RZ264,False,Type 1,Unmapped,R,0.0,"May no longer exist after Sandy, not on GIS map."
+X135,X135,False,Neighborhood Plgd,Unmapped,X,2.5,Rated as X150J
+QZ166,QZ166,False,Type 1,Unmapped,Q,0.0,Now rated only as QZ653. Was being rated under both numbers. AB 3/14/13.
+B233D11,B233D11,False,Sitting Area/Triangle/Mall,Unmapped,B,1.00199997,"Per Parklands, transferred to DOT 1.12.12 SD."
+X002-09o,X002,False,Sitting Area/Triangle/Mall,Unmapped,X,0.0,District switch
+XZ293o,XZ293,False,Type 1,Unmapped,X,0.0,District switch
+Q001D,Q001D,False,Neighborhood Park,Unmapped,Q,0.0,Alley Park -ball field
+QZ650,QZ650,False,Type 1,Unmapped,Q,0.0,SITE HAS BEEN REMOVED 12/6/2007. EH
+X150,X150,False,EXWY,Unmapped,X,0.0,HWY
+QZ43,QZ43,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.0,"Now rated under tracking #QT21, AB 11/2017."
+XZ332,XZ332,False,Type 1,Unmapped,X,0.0,Rated as XZ467
+X191,X191,False,EXWY,Unmapped,X,0.0,HWY
+X107o,X107,False,Sitting Area/Triangle/Mall,Unmapped,X,0.13600001,District switch
+B169-ZN01,B169,False,Beach Zone,Unmapped,B,0.0,Split
+Q040A,Q040A,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.5,Rated with Q040.
+QZ83,QZ83,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.0,Rated as QT20
+MZ90,MZ90,False,Type 1,Unmapped,M,0.0,
+QZ311,QZ311,False,Type 2,Unmapped,Q,0.0,Just trees (type 2).
+Q162-ZN10,Q162,False,Beach Zone,Unmapped,Q,0.0,"Retired. Rated as Q164-ZN10A, 10B, and 10C"
+Q162I07,Q162I07,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.0,do not rate
+X002-ZN05,X002,False,Large Park Zone,Unmapped,X,44.75899887,Split into two zones. AB 3/27/13.
+X002-08o,X002,False,Plgd Within Park,Unmapped,X,0.0,District switch
+Q220,Q220,False,EXWY,Unmapped,Q,0.0,HWY
+QZ634,QZ634,False,Type 2,Unmapped,Q,0.0,Just trees (type 2).
+Q387,Q387,False,EXWY,Unmapped,Q,0.0,HWY
+RZ16,RZ16,False,DOT Adopt-A-Highway,Unmapped,R,0.0,"DOT ""Adopt-A-Highway"" Site"
+MZ92,MZ92,False,Type 1,Unmapped,M,0.0,
+RZ66,RZ66,False,Type 1,Unmapped,R,0.0,Adopt-a-Highway
+BD07,BD07,False,,Unmapped,B,0.0,"Under Parks' ownership, rated as B536."
+X147A-ZN01o,X147A,False,Large Park Zone,Unmapped,X,,District switch
+QZ18,QZ18,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.0,
+Q078,Q078,False,Neighborhood Park,Unmapped,Q,2.77800012,Land sold to Broad Channel Athletic Club
+X010B,X010B,False,Sitting Area/Triangle/Mall,Unmapped,X,3.70000005,Rated as X010-ZN06
+B169-ZN05,B169,False,Beach Zone,Unmapped,B,0.0,Split
+M108L,M108L,False,Type 1,Unmapped,M,0.033,Rated as MZ464
+B255P,B255P,False,Sitting Area/Triangle/Mall,Unmapped,B,0.68199998,not parks property? now rated under BT11
+BZ347,BZ347,False,Type 1,Unmapped,B,0.0,
+QZ95,QZ95,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.0,
+X148,X148,False,EXWY,Unmapped,X,15.08500004,EXWY
+Q162-ZN02,Q162,False,Beach Zone,Unmapped,Q,0.0,Split
+QZ44,QZ44,False,Undeveloped,Unmapped,Q,0.0,NOTHING GREEN PRESENT
+B169-ZN04,B169,False,Beach Zone,Unmapped,B,0.0,Split
+B169-ZN02,B169,False,Beach Zone,Unmapped,B,0.0,Split
+M030A,M030A,False,Sitting Area/Triangle/Mall,Unmapped,M,0.68000001,"inefficiently rated as one of 3 separate small parks, now all rated with M030. 5/22/14 AB."
+BZ365,BZ365,False,Type 2,Unmapped,B,0.0,Just trees (type 2).
+M071A,M071A,False,Plgd Within Park,Unmapped,M,0.0,Included in large park zone
+B169-ZN03,B169,False,Beach Zone,Unmapped,B,0.0,Split
+QZ105,QZ105,False,Neighborhood Park,Unmapped,Q,0.0,"Transferred to DOT for use as a ""Safety City"" site.  AB 3/5/13."
+Q027A,Q027A,False,Neighborhood Park,Unmapped,Q,0.0,RATED AS Q027-01
+M104-ZN05o,M104,False,Flagship Park Zone,Unmapped,M,32.64400101,Retired/rezoned
+RZ44,RZ44,False,Sitting Area/Triangle/Mall,Unmapped,R,0.0,rated under RT04 11/2014 AB.
+Q163-ZN06,Q163,False,Beach Zone,Unmapped,Q,0.0,Split
+Q162-ZN03,Q162,False,Beach Zone,Unmapped,Q,0.0,Split
+Q166,Q166,False,EXWY,Unmapped,Q,50.90000153,maintained by DOT
+B169-ZN06,B169,False,Beach Zone,Unmapped,B,0.0,Split
+QZ169(2),QZ169,False,Type 1,Unmapped,Q,0.0,Now rated only as QZ168. AB 3/14/13.
+M107-ZN07o,M107,False,Flagship Park Zone,Unmapped,M,,Retired/rezoned
+RZ60,RZ60,False,Type 1,Unmapped,R,0.0,owned by DOT
+Q164-ZN11,Q164,False,Beach Zone,Unmapped,Q,0.0,Split
+Q448-ZN02,Q448,False,Large Park Zone,Unmapped,Q,0.0,Retired/rezoned
+Q163-ZN12,Q163,False,Beach Zone,Unmapped,Q,0.0,Rated as Greenstreet.
+X002-ZN02o,X002,False,Large Park Zone,Unmapped,X,0.0,District switch
+XZ65,XZ65,False,Type 2,Unmapped,X,0.0,Just trees (type 2).
+QZ97,QZ97,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.0,"just grass strip along DOT fence, no other features AB 9/20/12"
+BZ164,BZ164,False,Type 1,Unmapped,B,0.0,
+Q448-ZN01,Q448,False,Large Park Zone,Unmapped,Q,0.0,Retired/rezoned
+QZ10,QZ10,False,Type 1,Unmapped,Q,0.0,Rated as QT18
+Q163-ZN11,Q163,False,Beach Zone,Unmapped,Q,0.0,Rated as Q163-ZN05A and 5B
+X249,X249,False,Undeveloped,Unmapped,X,0.61000001,Not DPR - auctioned off
+QZ143,QZ143,False,Type 1,Unmapped,Q,0.0,
+X013o,X013,False,Neighborhood Park,Unmapped,X,5.44000006,District switch
+M030B,M030B,False,Sitting Area/Triangle/Mall,Unmapped,M,0.043,"inefficiently rated as one of 3 separate small parks, now all rated with M030. 5/22/14 AB."
+QZ324,QZ324,False,Type 1,Unmapped,Q,0.0,
+Q162-ZN09,Q162,False,Beach Zone,Unmapped,Q,0.0,Retired. Rated as Q162-ZN04B
+XZ163,XZ163,False,Type 1,Unmapped,X,0.0,May not exist as a GS anymore. XZ237 was often rated instead.
+Q162-ZN04,Q162,False,Beach Zone,Unmapped,Q,0.0,Split
+RZ09,RZ09,False,DOT Adopt-A-Highway,Unmapped,R,0.0,"DOT ""Adopt-A-Highway"" Site"
+QZ490,QZ490,False,Type 2,Unmapped,Q,0.0,Just trees (type 2).
+R075,R075,False,EXWY,Unmapped,R,0.0,HWY
+MZ05,MZ05,False,State Park,Unmapped,M,0.0,State park- remove from property list?
+X002-14o,X002,False,Plgd Within Park,Unmapped,X,0.0,District switch
+X002-ZN05o,X002,False,Large Park Zone,Unmapped,X,0.0,District switch
+BZ09,BZ09,False,Sitting Area/Triangle/Mall,Unmapped,B,0.76599997,"Rated as separate GSs, BZ208-211 and 213"
+Q162-ZN01,Q162,False,Beach Zone,Unmapped,Q,0.0,Split
+B080B,B080B,False,Type 1,Unmapped,B,0.0,"No such ID. Not a separate property, will be rated with B065-ZN10 5/22/14 AB"
+QZ42,QZ42,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.0,
+RZ65,RZ65,False,Type 1,Unmapped,R,0.0,owned by DOT
+B245A,B245A,False,Greenthumb,Unmapped,B,0.0,
+X147A-01o,X147A,False,Plgd Within Park,Unmapped,X,,District switch
+MZ68,MZ68,False,Type 1,Unmapped,M,0.0,no longer exist
+QZ649,QZ649,False,Type 1,Unmapped,Q,0.0,SITE MAY HAVE BEEN REMOVED.
+Q164-ZN10,Q164,False,Beach Zone,Unmapped,Q,0.0,Split
+BZ115,BZ115,False,Type 1,Unmapped,B,0.0,Not Parks property
+X004-02o,X004,False,Plgd Within Park,Unmapped,X,0.0,District switch
+QZ270,QZ270,False,Type 2,Unmapped,Q,0.0,
+Q050-ZN17,Q050,False,Beach Zone,Unmapped,Q,0.0,Zone 8A now
+M321A,M321A,False,Greenthumb,Unmapped,M,0.0,
+Q162I01,Q162I01,False,Neighborhood Park,Unmapped,Q,2.47900009,consists mainly of parking area (do not rate area)
+BZ308,BZ308,False,Type 2,Unmapped,B,0.0,Just trees (type 2).
+MZ91,MZ91,False,Type 1,Unmapped,M,0.0,
+BX74,BS74,False,,Unmapped,B,1.08200002,
+XZ203o,X004,False,Type 1,Unmapped,X,0.028,District switch
+Q162C,Q162C,False,Parking Lot,Unmapped,Q,1.84300005,Beach
+M104-ZN02o,M104,False,Flagship Park Zone,Unmapped,M,41.9640007,Retired. Randall's Island Rezoned Spring 2010
+BZ111,BZ111,False,Type 1,Unmapped,B,0.0,Not Parks Property
+BS05,BS05,False,DOE Plgd,Unmapped,B,0.0,
+X013-02o,X013,False,Plgd Within Park,Unmapped,X,0.191,District switch
+Q066A,Q066A,False,Neighborhood Plgd,Unmapped,Q,0.27399999,"Has not been a ratable plgd in years, not on GIS map. AB 3/25/13."
+Q372,Q372,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.0,Generally rated as part of large park zone
+Q163-ZN05,Q163,False,Beach Zone,Unmapped,Q,0.0,Split
+Q357,Q357,False,HWYEXWY,Unmapped,Q,0.0,HWY
+Q360,Q360,False,EXWY,Unmapped,Q,0.0,HWY
+B255,B255,False,Large Park,Unmapped,B,8.20899963,Rated as Small Parks. 03/29/00
+B169-ZN08,B169,False,Beach Zone,Unmapped,B,0.0,Zone 7C now
+Q393,Q393,False,STRIP,Unmapped,Q,0.0,EXWY
+Q418,Q418,False,EXWY,Unmapped,Q,0.0,HWY
+RZ91,RZ91,False,Type 1,Unmapped,R,0.0,Just trees (type 2).
+MZ88,MZ88,False,Type 1,Unmapped,M,0.0,
+X095o,X095,False,Sitting Area/Triangle/Mall,Unmapped,X,1.39499998,District switch
+QZ94,QZ94,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.0,not parks property.  BD 2/13/03
+Q050-ZN08,Q050,False,Beach Zone,Unmapped,Q,0.0,Split
+QZ35,QZ35,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.0,Malls
+XZ294o,X004,False,Type 1,Unmapped,X,0.016,District switch
+M107-ZN06o,M107,False,Flagship Park Zone,Unmapped,M,37.72499847,Retired/rezoned
+RZ116,RZ116,False,Type 2,Unmapped,R,0.0,Just trees (type 2).
+Q198,Q198,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.02,Rated as QZ118
+XZ295o,X004,False,Type 1,Unmapped,X,0.028,District switch
+M104-ZN03o,M104,False,Flagship Park Zone,Unmapped,M,28.82600021,Retired. Randall's Island Rezoned Spring 2010
+RZ53,RZ53,False,Type 1,Unmapped,R,0.0,Private ownership
+X231-01,X231,False,Undeveloped,Unmapped,X,0.0,EMPTY LOT USED AS COMMUNITY GARGEN. 4/02 -AT
+BZ06,BZ06,False,Sitting Area/Triangle/Mall,Unmapped,B,0.0,Rated as BT14
+QZ674,QZ674,False,Type 2,Unmapped,Q,0.0,Just trees (type 2).
+QD08,QD08,False,,Unmapped,Q,0.0,NOT Restrictive Declaration Site?
+X004-01o,X004,False,Plgd Within Park,Unmapped,X,0.0,District switch
+QZ633,QZ633,False,Type 2,Unmapped,Q,0.0,Just trees (type 2).
+B169-ZN07,B169,False,Beach Zone,Unmapped,B,0.0,Split
+XZ314,XZ314,False,Type 1,Unmapped,X,0.0,will rate as part of zone
+M100,M100,False,Sitting Area/Triangle/Mall,Unmapped,M,0.067,overlaps/now inspected with M037-ZN06 5/21/14 AB
+M208,M208,False,EXWY,Unmapped,M,0.0,
+RZ17A,RZ17A,False,Type 1,Unmapped,R,0.0,
+B457,B457,False,Greenthumb,Unmapped,B,0.085,
+BZ364,BZ364,False,Type 2,Unmapped,B,0.0,Just trees (type 2).
+QZ272,QZ272,False,Type 2,Unmapped,Q,0.0,
+QZ16,QZ16,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.0,Retired per Comm Dockett/Parklands 6/2021
+RZ07,RZ07,False,DOT Adopt-A-Highway,Unmapped,R,0.0,"DOT ""Adopt-A-Highway"" Site"
+X002-ZN04o,X002,False,Large Park Zone,Unmapped,X,0.0,District switch
+X002-ZN06o,X002,False,Large Park Zone,Unmapped,X,0.0,District switch
+X147Ao,X147A,False,Large Park,Unmapped,X,,District switch
+QZ313,QZ313,False,Type 1,Unmapped,Q,0.0,No longer exists.
+X279o,X279,False,Large Park,Unmapped,X,8.00500011,
+M104-ZN04o,M104,False,Flagship Park Zone,Unmapped,M,0.0,Retired/rezoned
+QZ312,QZ312,False,Type 2,Unmapped,Q,0.0,Just trees (type 2).
+X253o,X253,False,Neighborhood Plgd,Unmapped,X,6.0999999,District switch
+XZ120o,XZ120,False,Type 1,Unmapped,X,0.0,District switch
+RZ08,RZ08,False,DOT Adopt-A-Highway,Unmapped,R,0.0,"DOT ""Adopt-A-Highway"" Site"
+Q360Y,Q360Y,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.006,TP
+MZ187,MZ187,False,Type 2,Unmapped,M,0.0,Just trees (type 2).
+BS11,BS11,False,DOE Plgd,Unmapped,B,0.0,
+XZ69o,XZ69,False,Type 1,Unmapped,X,0.0,District switch
+QZ26,QZ26,False,Type 1,Unmapped,Q,0.0,"May never have been our responsibility, not even Greenstreet. Unratable as of 1/2018 AB."
+QZ40,QZ40,False,Sitting Area/Triangle/Mall,Unmapped,Q,0.0,
+Q341,Q341,False,EXWY,Unmapped,Q,0.0,HWY
+RZ11,RZ11,False,Type 1,Unmapped,R,0.0,Private ownership
+Q163-ZN07,Q163,False,Beach Zone,Unmapped,Q,0.0,Split
+X231,X231,False,Undeveloped,Unmapped,X,0.0,Not DPR - Department of Real Estate as per Parklands. LG
+RZ265,RZ265,False,Type 1,Unmapped,R,0.0,Rated under RZ264.
+B437,B437,False,Pier,Unmapped,B,2.74000001,
+XS09,XS09,,DOE Plgd,Unmapped,X,0.0,
+X013-01o,X013,False,Plgd Within Park,Unmapped,X,0.82099998,District switch

@@ -1,0 +1,201 @@
+x,y,latitude,longitude,lot,census_tract,nta,primary,borough
+987835.42022705,209136.375793457,40.740676,-73.987496,2,56.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,false,Manhattan
+985669.0,215934.0,40.759366,-73.994878,1,115.0,Clinton                                                                    ,false,Manhattan
+986004.817016601,218119.619384765,40.765305,-73.993282,53,129.0,Clinton                                                                    ,true,Manhattan
+1001353.45300292,233729.942810058,40.808109,-73.938367,25,206.0,Central Harlem North-Polo Grounds                                          ,true,Manhattan
+985442.0,215910.0,40.7593,-73.995697,1,115.0,Clinton                                                                    ,false,Manhattan
+986468.885009765,205053.009399414,40.729327,-73.991907,26,57.0,West Village                                                               ,true,Manhattan
+985677.0,215930.0,40.759355,-73.994849,1,115.0,Clinton                                                                    , ,Manhattan
+991954.610412597,215065.92199707,40.756925,-73.972066,60,100.0,Turtle Bay-East Midtown                                                    ,true,Manhattan
+988936.014587402,201725.404235839,40.720392,-73.98342,7501,2201.0,Lower East Side                                                            ,true,Manhattan
+1004209.97338867,252678.080627441,40.860412,-73.927936,1,283.0,Washington Heights North                                                   ,true,Manhattan
+985750.79699707,211343.430236816,40.74688,-73.994446,33,95.0,Midtown-Midtown South                                                      ,true,Manhattan
+985825.197814941,211149.158203125,40.746147,-73.994168,40,95.0,Midtown-Midtown South                                                      ,true,Manhattan
+982218.585815429,200969.328796386,40.718455,-74.007489,32,33.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,true,Manhattan
+1002823.54699707,232416.410827636,40.80422,-73.932566,19,242.0,East Harlem North                                                          ,false,Manhattan
+981274.790405273,197193.17401123,40.708016,-74.010774,9,7.0,Battery Park City-Lower Manhattan                                          ,false,Manhattan
+982362.0,210913.0,40.74559,-74.006828,7501,99.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,false,Manhattan
+989338.287597656,201773.882995605,40.720227,-73.981562,58,2201.0,Lower East Side                                                            ,false,Manhattan
+985517.0,215725.0,40.758792,-73.995427,1,115.0,Clinton                                                                    ,false,Manhattan
+988880.435791015,218616.989196777,40.766924,-73.98339,7502,139.0,Clinton                                                                    ,false,Manhattan
+984096.004638671,211064.6328125,40.745894,-73.999931,7507,93.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+995783.885986328,231725.822204589,40.80281,-73.958444,5,19702.0,Central Harlem South                                                       ,true,Manhattan
+993371.377197265,216374.595825195,40.760876,-73.967003,7501,108.0,Turtle Bay-East Midtown                                                    ,false,Manhattan
+996055.522583007,218433.752990722,40.766209,-73.957178,23,126.0,Lenox Hill-Roosevelt Island                                                ,false,Manhattan
+985643.0,215948.0,40.759404,-73.994972,1,115.0,Clinton                                                                    ,false,Manhattan
+985635.0,215953.0,40.759418,-73.995001,1,115.0,Clinton                                                                    ,false,Manhattan
+989936.948791503,209925.627624511,,,58,,,false,Manhattan
+985559.0,215704.0,40.758734,-73.995275,1,115.0,Clinton                                                                    ,false,Manhattan
+982019.92779541,204323.507385253,40.7274,-74.008006,58,37.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,false,Manhattan
+985584.755004882,202540.864196777,40.722537,-73.995119,24,43.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,true,Manhattan
+986576.195617675,204343.512023925,40.727384,-73.991446,59,57.0,West Village                                                               ,false,Manhattan
+997952.0,234019.0,40.808994,-73.950503,4,222.0,Central Harlem South                                                       ,false,Manhattan
+986236.987426757,208815.182617187,40.739548,-73.992451,7505,54.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+996047.765625,218419.533630371,40.766113,-73.957246,23,126.0,Lenox Hill-Roosevelt Island                                                ,false,Manhattan
+983868.743408203,217582.18359375,40.762668,-74.000282,21,129.0,Clinton                                                                    ,true,Manhattan
+982429.0,205993.0,,,38,,,false,Manhattan
+986559.277832031,204275.960815429,40.727222,-73.991514,59,57.0,West Village                                                               ,false,Manhattan
+986478.0,201633.0,40.720113,-73.991962,40,18.0,Chinatown                                                                  ,true,Manhattan
+1002934.31518554,251694.726440429,40.857467,-73.932248,513,279.0,Washington Heights North                                                   ,false,Manhattan
+984372.102233886,199814.31640625,40.71506,-73.999632,9,29.0,Chinatown                                                                  ,true,Manhattan
+985476.0,215972.0,40.75947,-73.995575,1,115.0,Clinton                                                                    ,false,Manhattan
+1001045.26800537,238007.028625488,40.819882,-73.938956,57,232.0,Central Harlem North-Polo Grounds                                          ,true,Manhattan
+982354.0,211202.0,40.746386,-74.006861,7,99.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+1001085.54321289,237984.760986328,40.819766,-73.938685,55,232.0,Central Harlem North-Polo Grounds                                          ,true,Manhattan
+986437.972229003,213885.264038085,40.753612,-73.992417,1,109.0,Midtown-Midtown South                                                      ,false,Manhattan
+989166.040588378,222971.984436035,40.778624,-73.98208,7503,159.0,Lincoln Square                                                             ,false,Manhattan
+982118.362792968,211412.771606445,40.746921,-74.007929,7,99.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+987058.853210449,217623.840820312,40.763809,-73.98969,22,133.0,Clinton                                                                    ,true,Manhattan
+983679.0,209353.0,40.741303,-74.002061,30,83.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+999387.0,231547.0,40.802206,-73.945325,7502,184.0,East Harlem North                                                          ,true,Manhattan
+991645.160583496,209283.187194824,40.741492,-73.975172,80,62.0,Murray Hill-Kips Bay                                                       ,true,Manhattan
+986323.645202636,200243.42199707,40.71641,-73.992623,15,16.0,Chinatown                                                                  ,false,Manhattan
+983951.782592773,202152.740600585,40.721565,-74.001169,7507,47.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,true,Manhattan
+990131.567626953,211000.70703125,40.746104,-73.979036,50,72.0,Murray Hill-Kips Bay                                                       ,true,Manhattan
+981593.019226074,199142.323242187,40.713306,-74.009389,20,21.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,false,Manhattan
+990549.260192871,215492.895019531,40.758002,-73.977577,7501,102.0,Midtown-Midtown South                                                      ,true,Manhattan
+981868.948608398,200139.056396484,40.715935,-74.008625,11,33.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,true,Manhattan
+986552.884216308,204250.432189941,40.727167,-73.991536,59,57.0,West Village                                                               ,true,Manhattan
+990735.061218261,225903.851440429,40.786643,-73.976607,14,171.0,Upper West Side                                                            ,true,Manhattan
+988939.633605957,209310.024414062,40.741288,-73.98309,60,68.0,Gramercy                                                                   ,true,Manhattan
+987158.60760498,215691.957824707,40.758792,-73.989478,37,121.0,Clinton                                                                    ,false,Manhattan
+997007.761596679,222041.072021484,,,31,,,false,Manhattan
+985854.43560791,208097.221801757,40.737704,-73.993562,70,54.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+988968.080810546,204806.505798339,40.729093,-73.983356,18,34.0,East Village                                                               ,true,Manhattan
+1001329.91741943,233645.145996093,40.808093,-73.93837,7502,206.0,Central Harlem North-Polo Grounds                                          ,true,Manhattan
+989371.388000488,201793.890197753,40.720284,-73.981533,58,2201.0,Lower East Side                                                            ,true,Manhattan
+985965.215820312,208403.16241455,40.738418,-73.993393,20,54.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+987740.067382812,216463.571594238,40.76077,-73.987222,33,127.0,Clinton                                                                    ,false,Manhattan
+1001133.15899658,238832.736999511,40.822025,-73.938806,35,232.0,Central Harlem North-Polo Grounds                                          ,true,Manhattan
+985741.270019531,207511.835815429,40.736321,-73.994389,7504,63.0,West Village                                                               ,true,Manhattan
+1005293.0,255061.0,40.866733,-73.923919,33,295.0,Marble Hill-Inwood                                                         ,true,Manhattan
+986380.070800781,200590.426208496,40.717236,-73.992424,24,16.0,Chinatown                                                                  ,true,Manhattan
+996163.66821289,231936.158020019,40.803238,-73.95663,7502,19702.0,Central Harlem South                                                       ,true,Manhattan
+986632.395812988,199995.35760498,40.715641,-73.991498,7504,16.0,Chinatown                                                                  ,true,Manhattan
+994522.069824218,221869.413391113,40.775795,-73.963021,59,142.0,Upper East Side-Carnegie Hill                                              ,true,Manhattan
+981619.0,199030.0,40.712968,-74.00949,20,21.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,true,Manhattan
+996038.927429199,218403.332824707,40.766063,-73.957283,23,126.0,Lenox Hill-Roosevelt Island                                                ,false,Manhattan
+0.0,0.0,,,7503,,,true,Manhattan
+990714.24822998,225919.239196777,40.786668,-73.976665,14,171.0,Upper West Side                                                            ,false,Manhattan
+985814.0,215854.0,40.759146,-73.994355,1,115.0,Clinton                                                                    ,false,Manhattan
+989662.0,221684.0,,,32,,,false,Manhattan
+979710.0,196639.0,40.706358,-74.016151,7502,13.0,Battery Park City-Lower Manhattan                                          ,true,Manhattan
+988750.0,208825.0,40.739978,-73.983833,52,68.0,Gramercy                                                                   ,true,Manhattan
+989159.88104248,222919.694824218,40.778514,-73.982087,7503,159.0,Lincoln Square                                                             ,false,Manhattan
+1002154.10260009,246539.846801757,40.843213,-73.935269,55,261.0,Washington Heights South                                                   ,true,Manhattan
+987089.644592285,215511.148193359,40.758147,-73.989839,38,121.0,Clinton                                                                    ,true,Manhattan
+996019.758789062,218368.19543457,40.765967,-73.957355,23,126.0,Lenox Hill-Roosevelt Island                                                ,false,Manhattan
+988260.853027343,216652.218017578,40.761102,-73.985218,7501,125.0,Midtown-Midtown South                                                      ,true,Manhattan
+986044.411010742,208558.880187988,40.738978,-73.992942,59,54.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+986551.586242675,201539.374023437,40.719668,-73.991858,40,18.0,Chinatown                                                                  ,false,Manhattan
+985660.0,215939.0,40.759379,-73.99491,1,115.0,Clinton                                                                    ,false,Manhattan
+985003.398986816,208358.785217285,40.738421,-73.997207,27,81.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+994610.455200195,232237.645996093,40.803951,-73.963139,1,19701.0,Morningside Heights                                                        ,true,Manhattan
+990477.036010742,216915.522399902,40.761639,-73.976775,111,104.0,Midtown-Midtown South                                                      ,true,Manhattan
+987146.252807617,218680.970642089,40.766625,-73.98865,5,133.0,Clinton                                                                    ,true,Manhattan
+987040.118408203,218685.304016113,40.766891,-73.99017,5,133.0,Clinton                                                                    ,false,Manhattan
+987356.0,205463.0,40.730625,-73.988793,7501,40.0,East Village                                                               ,true,Manhattan
+984159.083984375,210817.80682373,40.745071,-74.0,20,93.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+999423.0,231416.0,40.801847,-73.945196,7502,184.0,East Harlem North                                                          ,false,Manhattan
+983908.052429199,202085.194030761,40.721447,-74.00127,7506,47.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,true,Manhattan
+982302.797424316,210908.325012207,40.745601,-74.006853,7501,99.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+986186.075012207,206492.817199707,40.73348,-73.993159,1,61.0,West Village                                                               ,false,Manhattan
+984748.0,213726.0,40.753552,-73.998784,9001,103.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,false,Manhattan
+983782.0,213377.0,,,111,,,true,Manhattan
+985468.959838867,215846.371826171,40.759412,-73.995614,1,115.0,Clinton                                                                    ,true,Manhattan
+989210.087402343,223193.437988281,40.779222,-73.981954,34,159.0,Lincoln Square                                                             ,false,Manhattan
+1003163.21520996,231731.946228027,40.803058,-73.932242,36,242.0,East Harlem North                                                          ,true,Manhattan
+985534.0,215716.0,40.758767,-73.995365,1,115.0,Clinton                                                                    ,false,Manhattan
+997625.24621582,234067.733215332,40.809099,-73.951938,4,222.0,Central Harlem South                                                       ,false,Manhattan
+988414.0,210705.0,,,7503,,,false,Manhattan
+996572.0,234142.0,40.809333,-73.955488,7502,257.0,Central Harlem South                                                       ,true,Manhattan
+986225.573425292,205175.553222656,40.729884,-73.992993,26,57.0,West Village                                                               ,true,Manhattan
+995322.440612792,234331.744995117,40.809634,-73.959895,1,203.0,Morningside Heights                                                        ,true,Manhattan
+990797.713439941,215464.442199707,40.758441,-73.977259,7501,102.0,Midtown-Midtown South                                                      ,true,Manhattan
+997273.0,230183.0,40.798551,-73.953166,7503,216.0,Central Harlem South                                                       ,true,Manhattan
+998040.0,225963.0,40.786882,-73.950202,16,15802.0,East Harlem South                                                          ,true,Manhattan
+982633.436035156,197493.997985839,40.708774,-74.005872,24,1502.0,Battery Park City-Lower Manhattan                                          ,true,Manhattan
+1001229.76043701,244691.350585937,40.838167,-73.938642,45,251.0,Washington Heights South                                                   ,true,Manhattan
+983502.0,213247.0,,,7501,,,false,Manhattan
+992317.84802246,225890.839782714,40.786559,-73.970266,54,173.0,Upper West Side                                                            ,true,Manhattan
+986265.410034179,206385.203186035,40.733164,-73.99296,1,61.0,West Village                                                               ,true,Manhattan
+987074.138793945,218501.551818847,40.765996,-73.989058,5,133.0,Clinton                                                                    ,false,Manhattan
+982537.287597656,208983.139404296,40.740358,-74.006113,44,79.0,West Village                                                               ,true,Manhattan
+982495.31842041,209005.79901123,40.740383,-74.006174,39,79.0,West Village                                                               ,true,Manhattan
+981846.923217773,213398.663391113,40.752328,-74.007717,66,99.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+997990.218200683,225958.277038574,40.786761,-73.950289,16,15802.0,East Harlem South                                                          ,true,Manhattan
+985635.0,215953.0,40.759418,-73.995001,1,115.0,Clinton                                                                    ,false,Manhattan
+985686.0,215925.0,40.759341,-73.994817,1,115.0,Clinton                                                                    ,false,Manhattan
+987239.0,198012.0,40.710201,-73.988977,10,6.0,Lower East Side                                                            ,true,Manhattan
+985728.0,215901.0,40.759275,-73.994665,1,115.0,Clinton                                                                    ,true,Manhattan
+983332.610229492,210894.516235351,40.745722,-74.003511,1,89.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+993061.491394042,214891.510620117,40.756639,-73.968788,118,98.0,Turtle Bay-East Midtown                                                    ,true,Manhattan
+997629.743835449,234084.961791992,40.809148,-73.951901,4,222.0,Central Harlem South                                                       ,false,Manhattan
+982623.0,211945.0,,,7503,,,false,Manhattan
+984587.0,213816.0,40.753574,-73.998838,9001,103.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+982623.0,211945.0,,,7503,,,false,Manhattan
+997962.335998535,225934.033813476,40.786682,-73.950347,16,15802.0,East Harlem South                                                          ,true,Manhattan
+1000434.96362304,242142.571594238,40.831397,-73.941214,26,239.0,Washington Heights South                                                   ,true,Manhattan
+985792.0,207545.0,40.73634,-73.994436,7504,63.0,West Village                                                               ,false,Manhattan
+997011.629638671,219281.480224609,40.768848,-73.954418,36,124.0,Lenox Hill-Roosevelt Island                                                ,true,Manhattan
+999717.489013671,235518.175231933,40.812819,-73.943713,10,226.0,Central Harlem North-Polo Grounds                                          ,true,Manhattan
+985745.0,215892.0,40.75925,-73.994604,1,115.0,Clinton                                                                    ,false,Manhattan
+988727.458190917,208837.235595703,40.739995,-73.983873,153,68.0,Gramercy                                                                   ,true,Manhattan
+988281.16040039,213731.942199707,40.753129,-73.985361,26,113.0,Midtown-Midtown South                                                      ,true,Manhattan
+989338.0,201774.0,40.720227,-73.981562,58,2201.0,Lower East Side                                                            ,false,Manhattan
+984470.375793457,215611.999206542,40.758498,-73.998722,58,117.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+996088.195007324,232707.379394531,40.805239,-73.957297,109,20102.0,Central Harlem South                                                       ,true,Manhattan
+982349.0,210920.0,40.745609,-74.006875,7501,99.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,false,Manhattan
+985592.0,215977.0,40.759484,-73.995156,1,115.0,Clinton                                                                    ,false,Manhattan
+990574.0,216520.0,40.760972,-73.977172,50,104.0,Midtown-Midtown South                                                      ,true,Manhattan
+985469.807800292,220267.960205078,40.770852,-73.99453,15,135.0,Clinton                                                                    ,true,Manhattan
+1001621.71142578,233861.236206054,40.808576,-73.937535,31,206.0,Central Harlem North-Polo Grounds                                          ,true,Manhattan
+986465.921813964,205170.510192871,40.729972,-73.992196,26,57.0,West Village                                                               ,true,Manhattan
+987483.0,198049.0,40.710456,-73.986755,13,6.0,Lower East Side                                                            ,true,Manhattan
+987278.660217285,211916.557006835,40.748189,-73.988963,7502,101.0,Midtown-Midtown South                                                      ,true,Manhattan
+989156.41442871,222890.267395019,40.778405,-73.982095,7503,159.0,Lincoln Square                                                             ,false,Manhattan
+1000335.92321777,242163.140441894,40.831002,-73.941605,26,239.0,Washington Heights South                                                   ,true,Manhattan
+982986.0,211737.0,,,111,,,true,Manhattan
+983512.325012207,207014.075805664,40.734948,-74.00275,11,73.0,West Village                                                               ,true,Manhattan
+988850.371826171,218628.551208496,40.76694,-73.98343,7502,139.0,Clinton                                                                    ,false,Manhattan
+983143.583007812,211879.807006835,40.748175,-74.003829,7504,99.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+983881.0,209391.0,40.741407,-74.001332,30,83.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,false,Manhattan
+991352.422607421,212421.724426269,40.749877,-73.974433,1456,88.0,Turtle Bay-East Midtown                                                    ,false,Manhattan
+997391.018798828,221838.827392578,40.775709,-73.952684,46,138.0,Yorkville                                                                  ,true,Manhattan
+987221.0,215694.0,40.758706,-73.989276,37,121.0,Clinton                                                                    ,true,Manhattan
+990688.0,215271.0,40.757544,-73.976762,7501,102.0,Midtown-Midtown South                                                      ,false,Manhattan
+985688.096618652,215864.890197753,40.759212,-73.99451,1,115.0,Clinton                                                                    ,true,Manhattan
+997638.210998535,234100.380432128,40.809197,-73.951865,4,222.0,Central Harlem South                                                       ,true,Manhattan
+985652.0,215944.0,40.759393,-73.994939,1,115.0,Clinton                                                                    ,false,Manhattan
+985601.0,215972.0,40.75947,-73.995123,1,115.0,Clinton                                                                    ,false,Manhattan
+997229.778625488,224801.779785156,40.783576,-73.953411,12,15801.0,Upper East Side-Carnegie Hill                                              ,true,Manhattan
+995986.042236328,218381.42980957,40.766412,-73.958676,23,126.0,Lenox Hill-Roosevelt Island                                                ,true,Manhattan
+986535.604187011,200529.124206542,40.717104,-73.991458,24,16.0,Chinatown                                                                  ,false,Manhattan
+986160.236999511,203776.178588867,40.726121,-73.993077,30,5502.0,West Village                                                               ,true,Manhattan
+985600.632019042,201773.60583496,40.720409,-73.995065,29,41.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,false,Manhattan
+986565.594787597,204301.182800292,40.727329,-73.991467,65,57.0,West Village                                                               ,false,Manhattan
+983679.0,209353.0,40.741303,-74.002061,30,83.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,true,Manhattan
+998874.716186523,239804.844421386,40.824922,-73.946886,156,227.0,Hamilton Heights                                                           ,true,Manhattan
+999810.195617675,238243.75,40.820433,-73.943688,13,259.0,Central Harlem North-Polo Grounds                                          ,true,Manhattan
+983834.0,209306.0,40.741174,-74.001501,30,83.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,false,Manhattan
+996164.0,231936.0,40.803238,-73.95663,7502,19702.0,Central Harlem South                                                       ,true,Manhattan
+982571.382629394,207558.622436523,40.736365,-74.005871,60,75.0,West Village                                                               ,true,Manhattan
+997634.731811523,222924.656005859,40.779011,-73.95236,22,14602.0,Yorkville                                                                  ,false,Manhattan
+986543.28540039,200547.7288208,40.71722,-73.991396,24,16.0,Chinatown                                                                  ,false,Manhattan
+989093.563232421,223015.448242187,40.77894,-73.982423,7503,159.0,Lincoln Square                                                             ,true,Manhattan
+985941.273986816,202055.250793457,40.721192,-73.993708,37,43.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,true,Manhattan
+982705.0,201008.0,40.718397,-74.005574,29,33.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,false,Manhattan
+996962.257995605,234227.588623046,40.809588,-73.953859,54,257.0,Central Harlem South                                                       ,true,Manhattan
+988749.725830078,208824.682800292,40.739978,-73.983833,52,68.0,Gramercy                                                                   ,true,Manhattan
+990546.809387207,226015.268981933,40.787181,-73.977455,14,171.0,Upper West Side                                                            ,false,Manhattan
+996563.0,234124.0,40.809284,-73.955521,7502,257.0,Central Harlem South                                                       ,false,Manhattan
+1007268.0737915,256944.030395507,40.871894,-73.916599,385,307.0,Marble Hill-Inwood                                                         ,true,Manhattan
+982787.0,197691.0,40.709293,-74.005277,2,1501.0,Battery Park City-Lower Manhattan                                          ,false,Manhattan
+1000096.54980468,223154.148986816,40.779169,-73.942781,27,152.0,Yorkville                                                                  ,true,Manhattan
+1002925.8684082,251828.937988281,40.857873,-73.932186,513,279.0,Washington Heights North                                                   ,false,Manhattan
+997553.288024902,233694.281799316,40.807839,-73.951613,7505,222.0,Central Harlem South                                                       ,true,Manhattan
+985525.0,215721.0,40.758781,-73.995398,1,115.0,Clinton                                                                    ,false,Manhattan
+986581.19140625,204363.459228515,40.727438,-73.991424,59,57.0,West Village                                                               ,false,Manhattan
+992328.0,228640.0,40.794237,-73.970826,139,183.0,Upper West Side                                                            ,true,Manhattan
+982957.877990722,204129.982238769,40.727063,-74.004633,12,37.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,true,Manhattan
+991798.0,230654.0,40.80027,-73.972098,19,191.0,Upper West Side                                                            ,true,Manhattan

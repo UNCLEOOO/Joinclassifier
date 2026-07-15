@@ -1,0 +1,24 @@
+location_1,census_tract,community_board
+"{'latitude': '37.665046', 'longitude': '-120.962673', 'human_address': '{""address"": ""1980 Lafayette Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}",16,209
+"{'latitude': '31.237191', 'longitude': '-90.4561', 'human_address': '{""address"": ""400 Pennsylvania Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}",1156,305
+"{'latitude': '40.679415', 'longitude': '-73.931607', 'human_address': '{""address"": ""1700 Fulton Street"", ""city"": """", ""state"": """", ""zip"": """"}'}",271,303
+"{'latitude': '40.152466', 'longitude': '-75.003741', 'human_address': '{""address"": ""40 Irving Place"", ""city"": """", ""state"": """", ""zip"": """"}'}",50,106
+"{'latitude': '41.298227', 'longitude': '-82.218397', 'human_address': '{""address"": ""35 01 Union St"", ""city"": """", ""state"": """", ""zip"": """"}'}",1161,407
+"{'human_address': '{""address"": ""101 01 Rockaway Blvd"", ""city"": """", ""state"": """", ""zip"": """"}'}",864,410
+"{'latitude': '40.62043', 'longitude': '-73.981789', 'human_address': '{""address"": ""5800 20 Avenue"", ""city"": """", ""state"": """", ""zip"": """"}'}",468,312
+"{'latitude': '40.859662', 'longitude': '-73.860704', 'human_address': '{""address"": ""925 Astor Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}",324,211
+"{'latitude': '40.582322', 'longitude': '-73.967437', 'human_address': '{""address"": ""2800 Ocean Pkwy"", ""city"": """", ""state"": """", ""zip"": """"}'}",354,313
+"{'latitude': '40.378365', 'longitude': '-80.027854', 'human_address': '{""address"": ""549 Audubon Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}",277,112
+"{'latitude': '40.7469', 'longitude': '-73.8637', 'human_address': '{""address"": ""105 25 Horace Harding Expressway"", ""city"": """", ""state"": """", ""zip"": """"}'}",43701,404
+"{'latitude': '40.855858', 'longitude': '-73.882656', 'human_address': '{""address"": ""2474 Crotona Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}",393,206
+"{'latitude': '30.585427', 'longitude': '-84.575405', 'human_address': '{""address"": ""105 Johnson Street"", ""city"": """", ""state"": """", ""zip"": """"}'}",13,302
+"{'latitude': '40.876887', 'longitude': '-73.912492', 'human_address': '{""address"": ""99 Terrace View Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}",309,208
+"{'latitude': '27.783609', 'longitude': '-80.501816', 'human_address': '{""address"": ""999 Jamaica Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}",1180,305
+"{'latitude': '40.649522', 'longitude': '-73.958489', 'human_address': '{""address"": ""911 Flatbush Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}",794,314
+"{'latitude': '40.870666', 'longitude': '-73.897944', 'human_address': '{""address"": ""2780 Reservoir Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}",409,207
+"{'latitude': '41.43579', 'longitude': '-74.426085', 'human_address': '{""address"": ""50 Bedford Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}",517,301
+"{'latitude': '40.840394', 'longitude': '-73.837778', 'human_address': '{""address"": ""3000 E Tremont Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}",194,210
+"{'latitude': '33.661033', 'longitude': '-85.848903', 'human_address': '{""address"": ""1300 Boynton Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}",56,209
+"{'latitude': '40.52891', 'longitude': '-74.192598', 'human_address': '{""address"": ""100 Luten Avenue"", ""city"": """", ""state"": """", ""zip"": """"}'}",198,503
+"{'latitude': '40.632668', 'longitude': '-73.91778', 'human_address': '{""address"": ""6565 Flatlands Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}",950,318
+"{'latitude': '40.818075', 'longitude': '-73.919324', 'human_address': '{""address"": ""333 E 151st Street"", ""city"": """", ""state"": """", ""zip"": """"}'}",67,201

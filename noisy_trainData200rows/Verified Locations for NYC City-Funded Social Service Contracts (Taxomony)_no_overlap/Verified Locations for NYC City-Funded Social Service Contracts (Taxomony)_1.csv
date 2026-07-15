@@ -1,0 +1,201 @@
+id,name,parent_id,parent_name
+88,Professional Services,73.0,Human Services
+129,Substance Abuse Services,82.0,Health Services
+51,Parents,72.0,Human Situations
+188,Foster Care,121.0,Foster Care Services
+25,Immigrants,72.0,Human Situations
+145,Conflict Resolution/Mediation,90.0,Supportive Services
+3,Caregivers,72.0,Human Situations
+208,Emergency Preparedness and Response,127.0,Public Health
+37,Juvenile Justice Involved,72.0,Human Situations
+119,Adoption Services,79.0,Family Supports
+33,Individuals with Mental Disabilities,72.0,Human Situations
+153,Job/Vocational Training,92.0,Workforce Development
+26,Individuals Recovering from Substance Abuse Issues,72.0,Human Situations
+143,Program Management,89.0,Program Management Services
+66,Victims/Survivors of Child Abuse,72.0,Human Situations
+40,Juvenile Justice Involved - Community Supervision,72.0,Human Situations
+14,Expectant Parents,72.0,Human Situations
+193,Meal Delivery,124.0,Food and Nutrition
+76,Discretionary,73.0,Human Services
+177,Parenting Skills,115.0,Life Skills
+197,Dental Services,125.0,Medical Services
+140,Capacity Building,88.0,Professional Services
+200,Family Planning,125.0,Medical Services
+29,Individuals with Developmental Disabilities,72.0,Human Situations
+195,Nutrition and Menu Planning,124.0,Food and Nutrition
+150,Respite Care,90.0,Supportive Services
+18,Females,72.0,Human Situations
+187,Toddler Child Care,120.0,Child Care
+81,Food Services,73.0,Human Services
+54,Probationers,72.0,Human Situations
+48,NYCHA Residents,72.0,Human Situations
+23,Homeless,72.0,Human Situations
+162,Continuing Education/Lifelong Learning,111.0,Academic Supports
+173,Financial Literacy,115.0,Life Skills
+16,Family of Court Involved,72.0,Human Situations
+57,Section 8 Voucher Recipients,72.0,Human Situations
+53,Pregnant Females,72.0,Human Situations
+72,Human Situations,,(null)
+49,Other/Unspecified,72.0,Human Situations
+212,Substance Abuse Services,129.0,Substance Abuse Services
+82,Health Services,73.0,Human Services
+64,Veterans,72.0,Human Situations
+165,Post-Secondary/College Awareness,111.0,Academic Supports
+118,Facility Management,78.0,Facility Management Services
+59,Transgender Individuals,72.0,Human Situations
+125,Medical Services,82.0,Health Services
+7,Criminal Justice Involved,72.0,Human Situations
+4,Children,72.0,Human Situations
+109,Translation,75.0,Communications
+136,Non-secure Placement,85.0,Justice Services
+41,Juvenile Justice Involved - Detained,72.0,Human Situations
+120,Child Care,79.0,Family Supports
+201,Medication Management,125.0,Medical Services
+106,Amendment Renewal,74.0,Amendment Renewal
+70,Victims/Survivors of Sexual Abuse/Exploitation,72.0,Human Situations
+175,Leadership Development,115.0,Life Skills
+123,Financials Duplicate,80.0,Financials Duplicate
+124,Food and Nutrition,81.0,Food Services
+20,Formerly Incarcerated,72.0,Human Situations
+8,Criminal Justice Involved - Paroled,72.0,Human Situations
+111,Academic Supports,77.0,Education Supports
+164,Homework Help,111.0,Academic Supports
+91,Transportation Services,73.0,Human Services
+56,Runaways,72.0,Human Situations
+21,Grandparents,72.0,Human Situations
+159,Discretionary,110.0,Discretionary
+169,Civic Engagement,112.0,Community Engagement
+122,Parenting Services,79.0,Family Supports
+137,Restitution Collections,85.0,Justice Services
+35,Individuals with Physical Disabilities,72.0,Human Situations
+114,Language Skills,77.0,Education Supports
+206,Psychological Treatment Services,126.0,Mental Health Services
+134,Shelter,84.0,Housing and Shelter Services
+78,Facility Management Services,73.0,Human Services
+10,Disconnected Individuals,72.0,Human Situations
+55,Public Assistance Recipients,72.0,Human Situations
+184,Family Finding,119.0,Adoption Services
+155,Amendment Renewal,106.0,Amendment Renewal
+204,Primary Care,125.0,Medical Services
+113,Diploma/HSE Training,77.0,Education Supports
+60,Under-documented Immigrants,72.0,Human Situations
+126,Mental Health Services,82.0,Health Services
+1,Adults,72.0,Human Situations
+43,LGBTQ Individuals,72.0,Human Situations
+185,Infant Child Care,120.0,Child Care
+190,Foster Family Recruitment,121.0,Foster Care Services
+115,Life Skills,77.0,Education Supports
+92,Workforce Development,73.0,Human Services
+62,Undocumented Immigrants,72.0,Human Situations
+154,Work Readiness,92.0,Workforce Development
+36,Individuals with Substance Abuse Issues,72.0,Human Situations
+156,Interpretation,107.0,Interpretation
+194,Meal Preparation,124.0,Food and Nutrition
+151,Transportation,91.0,Transportation Services
+191,Parenting Services,122.0,Parenting Services
+135,Alternative Justice Management,85.0,Justice Services
+71,Young Adults,72.0,Human Situations
+167,Truancy Prevention,111.0,Academic Supports
+68,Victims/Survivors of Elder Abuse,72.0,Human Situations
+157,Hotline/Call Center Services,108.0,Telecommunications
+121,Foster Care Services,79.0,Family Supports
+27,Individuals with Active Substance Abuse Issues,72.0,Human Situations
+179,Arts and Culture,117.0,Recreational Services
+34,Individuals with Mental Illness,72.0,Human Situations
+132,Homelessness Prevention,84.0,Housing and Shelter Services
+139,Outreach,87.0,Outreach Services
+63,Unemployed Individuals,72.0,Human Situations
+160,Academic Counseling,111.0,Academic Supports
+112,Community Engagement,77.0,Education Supports
+89,Program Management Services,73.0,Human Services
+203,Pregnancy Services,125.0,Medical Services
+207,Disease Control,127.0,Public Health
+107,Interpretation,75.0,Communications
+213,Heavy-Duty Housekeeping,130.0,Housekeeping
+205,Psychiatric Treatment Services,126.0,Mental Health Services
+196,Pantry,124.0,Food and Nutrition
+6,Court Involved,72.0,Human Situations
+47,Non-Custodial Parents,72.0,Human Situations
+131,Drop-In Center,84.0,Housing and Shelter Services
+130,Housekeeping,83.0,Household Management and Care
+170,Community Service,112.0,Community Engagement
+211,Physical Therapy,128.0,Rehabilitation/Therapy
+5,Court Appointed Advocate Required/Assigned,72.0,Human Situations
+11,Documented Immigrants,72.0,Human Situations
+209,Health Education and Supports,127.0,Public Health
+180,Physical Recreation,117.0,Recreational Services
+127,Public Health,82.0,Health Services
+87,Outreach Services,73.0,Human Services
+12,Energy Assistance Recipients,72.0,Human Situations
+138,Legal Services,86.0,Legal Supports
+2,Aging,72.0,Human Situations
+44,Low Income Individuals,72.0,Human Situations
+117,Recreational Services,77.0,Education Supports
+90,Supportive Services,73.0,Human Services
+45,Males,72.0,Human Situations
+133,Housing,84.0,Housing and Shelter Services
+174,Independent Living Skills,115.0,Life Skills
+9,Custodial Parents,72.0,Human Situations
+74,Amendment Renewal,73.0,Human Services
+176,Mentoring,115.0,Life Skills
+15,Family Court Involved,72.0,Human Situations
+65,Victims/Survivors,72.0,Human Situations
+31,Individuals with HIV/AIDS,72.0,Human Situations
+210,Behavioral Rehabilitation,128.0,Rehabilitation/Therapy
+75,Communications,73.0,Human Services
+202,Nursing,125.0,Medical Services
+161,Academic Engagement,111.0,Academic Supports
+69,Victims/Survivors of Human Trafficking,72.0,Human Situations
+110,Discretionary,76.0,Discretionary
+172,Language Skills,114.0,Language Skills
+192,Financials Duplicate,123.0,Financials Duplicate
+24,Housing Court Involved,72.0,Human Situations
+116,Literacy,77.0,Education Supports
+186,Pre-school,120.0,Child Care
+183,Weatherization and Repairs,118.0,Facility Management
+168,Tutoring,111.0,Academic Supports
+152,Job Placement Services,92.0,Workforce Development
+171,Diploma/HSE Training,113.0,Diploma/HSE Training
+84,Housing and Shelter Services,73.0,Human Services
+17,Fathers,72.0,Human Situations
+13,English Learners,72.0,Human Situations
+85,Justice Services,73.0,Human Services
+181,Management,118.0,Facility Management
+52,Populations by Housing Status,72.0,Human Situations
+38,Juvenile Justice Involved - Adjudicated,72.0,Human Situations
+142,Training,88.0,Professional Services
+67,Victims/Survivors of Domestic Violence,72.0,Human Situations
+83,Household Management and Care,73.0,Human Services
+39,Juvenile Justice Involved - Arrested,72.0,Human Situations
+178,Literacy,116.0,Literacy
+166,Project Based Learning,111.0,Academic Supports
+73,Human Services,,(null)
+28,Individuals with Deafness or Hearing Impairments,72.0,Human Situations
+30,Individuals with Disabilities,72.0,Human Situations
+77,Education Supports,73.0,Human Services
+144,Case Management,90.0,Supportive Services
+128,Rehabilitation/Therapy,82.0,Health Services
+189,Foster Care Prevention,121.0,Foster Care Services
+46,Mothers,72.0,Human Situations
+149,Preventive Services,90.0,Supportive Services
+79,Family Supports,73.0,Human Services
+42,Juvenile Justice Involved - Placement/Removal from Community,72.0,Human Situations
+80,Financials Duplicate,73.0,Human Services
+22,Guardians,72.0,Human Situations
+182,Operations,118.0,Facility Management
+199,Emergency Treatment,125.0,Medical Services
+158,Translation,109.0,Translation
+32,Individuals with Low-Level Literacy,72.0,Human Situations
+198,Diagnostic Testing,125.0,Medical Services
+163,Educational Neglect Prevention,111.0,Academic Supports
+58,Temporary Cash Assistance Recipients,72.0,Human Situations
+108,Telecommunications,75.0,Communications
+61,Underemployed Individuals,72.0,Human Situations
+146,Court Appointed Guardian Services,90.0,Supportive Services
+147,Entitlements Assistance,90.0,Supportive Services
+50,Out-of-School Individuals,72.0,Human Situations
+86,Legal Supports,73.0,Human Services
+148,Financial Counseling,90.0,Supportive Services
+19,Food Stamps Recipients,72.0,Human Situations
+141,Technical Assistance,88.0,Professional Services

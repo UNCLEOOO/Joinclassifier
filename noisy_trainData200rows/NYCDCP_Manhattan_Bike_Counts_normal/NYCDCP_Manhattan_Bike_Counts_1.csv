@@ -1,0 +1,16 @@
+location_id,the_geom,name
+3,"{'type': 'Point', 'coordinates': [-73.993635, 40.736015]}",Fifth Avenue at 14 St.
+12,"{'type': 'Point', 'coordinates': [-74.010569, 40.73534]}",Route 9A at 11th St.
+6,"{'type': 'Point', 'coordinates': [-73.996206, 40.748435]}",Eighth Avenue at W28 St.
+14,"{'type': 'Point', 'coordinates': [-73.984584, 40.786529]}",Route 9A Greenway at 80th St.
+2,"{'type': 'Point', 'coordinates': [-73.991424, 40.72983]}",Lafayette Street at Astor Pl.
+13,"{'type': 'Point', 'coordinates': [-73.942531, 40.777374]}",East River Greenway at E90th St.
+4,"{'type': 'Point', 'coordinates': [-73.992805, 40.742897]}",Sixth Avenue at W23 St.
+5,"{'type': 'Point', 'coordinates': [-73.988767, 40.745293]}",Broadway at W28 St.
+10,"{'type': 'Point', 'coordinates': [-73.940536, 40.845373]}",Fort Washington at W173 St. (NB +SB)
+1,"{'type': 'Point', 'coordinates': [-73.988133, 40.727963]}",Second Avenue at E7 St.
+11,"{'type': 'Point', 'coordinates': [-73.9741, 40.718709]}",East River at E Houston St.
+15,"{'type': 'Point', 'coordinates': [-73.961127, 40.818769]}",Route 9A Greenway at 125th St.
+7,"{'type': 'Point', 'coordinates': [-73.949855, 40.77619]}",First Avenue at E85 St.
+9,"{'type': 'Point', 'coordinates': [-73.953865, 40.801269]}",Adam Clayton at W113th St. (NB+SB)
+8,"{'type': 'Point', 'coordinates': [-73.966117, 40.789748]}",Central Park West at W93 St.

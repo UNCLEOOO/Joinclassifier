@@ -1,0 +1,67 @@
+complaint_id,victim_allegedvictim_age_range_at_incident,investigator_recommendation,allegation,as_of_date
+200107138,24 < Age <= 29,Unsubstantiated,Physical force,2025-12-23T00:00:00.000
+201904786,29 < Age <= 34,Complaint Withdrawn,Threat of arrest,2025-12-23T00:00:00.000
+200207380,20 < Age <= 24,Unsubstantiated,Physical force,2025-12-23T00:00:00.000
+200200228,17 < Age <= 20,Alleged Victim Uncooperative,Question and/or stop,2025-12-23T00:00:00.000
+202000970,,Closed - Pending Litigation,Search of Premises,2025-12-23T00:00:00.000
+202004905,09 < Age <= 14,Exonerated,Physical force,2025-12-23T00:00:00.000
+200702004,24 < Age <= 29,Alleged Victim Unavailable,Physical force,2025-12-23T00:00:00.000
+202304001,24 < Age <= 29,Unfounded,Word,2025-12-23T00:00:00.000
+201009749,,Complainant Unavailable,Physical force,2025-12-23T00:00:00.000
+201001511,24 < Age <= 29,Unfounded,Chokehold,2025-12-23T00:00:00.000
+202106547,,Exonerated,Entry of Premises,2025-12-23T00:00:00.000
+200716047,,Complaint Withdrawn,Search (of person),2025-12-23T00:00:00.000
+200614517,14 < Age <= 17,Officer(s) Unidentified,Question and/or stop,2025-12-23T00:00:00.000
+201803686,24 < Age <= 29,Exonerated,Frisk,2025-12-23T00:00:00.000
+200911127,,Complainant Unavailable,Search (of person),2025-12-23T00:00:00.000
+200105476,29 < Age <= 34,Complainant Uncooperative,Threat of arrest,2025-12-23T00:00:00.000
+200604123,29 < Age <= 34,Exonerated,Other,2025-12-23T00:00:00.000
+201604486,,Complainant Uncooperative,Frisk,2025-12-23T00:00:00.000
+200304448,39 < Age <= 44,Miscellaneous - Subject Retired,Question and/or stop,2025-12-23T00:00:00.000
+201707222,44 < Age <= 49,Officer(s) Unidentified,Threat of arrest,2025-12-23T00:00:00.000
+201011459,49 < Age <= 54,Unfounded,Pepper spray,2025-12-23T00:00:00.000
+202001521,29 < Age <= 34,Closed - Pending Litigation,Other,2025-12-23T00:00:00.000
+201505976,,Victim Unidentified,Physical force,2025-12-23T00:00:00.000
+200107283,,Complainant Unavailable,Physical force,2025-12-23T00:00:00.000
+202301980,,Closed - Pending Litigation,Other,2025-12-23T00:00:00.000
+200915303,34 < Age <= 39,Unsubstantiated,Word,2025-12-23T00:00:00.000
+201905901,29 < Age <= 34,Exonerated,Physical force,2025-12-23T00:00:00.000
+200507353,29 < Age <= 34,Exonerated,Vehicle search,2025-12-23T00:00:00.000
+200817624,54 < Age <= 59,Complainant Uncooperative,Physical force,2025-12-23T00:00:00.000
+201701579,34 < Age <= 39,Complainant Uncooperative,Vehicle search,2025-12-23T00:00:00.000
+202406567,29 < Age <= 34,Closed - Pending Litigation,Physical force,2025-12-23T00:00:00.000
+201000110,24 < Age <= 29,Complainant Uncooperative,Word,2025-12-23T00:00:00.000
+200204551,24 < Age <= 29,Exonerated,Vehicle stop,2025-12-23T00:00:00.000
+202503560,24 < Age <= 29,Complainant Uncooperative,Failure to provide RTKA card,2025-12-23T00:00:00.000
+200305003,49 < Age <= 54,Unsubstantiated,Word,2025-12-23T00:00:00.000
+201402693,39 < Age <= 44,Complainant Uncooperative,Physical force,2025-12-23T00:00:00.000
+200605979,,Alleged Victim Uncooperative,Word,2025-12-23T00:00:00.000
+202310163,24 < Age <= 29,Complainant Uncooperative,Refusal to provide shield number,2025-12-23T00:00:00.000
+201211680,24 < Age <= 29,Substantiated,Vehicle search,2025-12-23T00:00:00.000
+200810576,14 < Age <= 17,Alleged Victim Unavailable,Nightstick as club (incl asp & baton),2025-12-23T00:00:00.000
+201805355,17 < Age <= 20,Officer(s) Unidentified,Threat of arrest,2025-12-23T00:00:00.000
+200407046,39 < Age <= 44,Exonerated,Pepper spray,2025-12-23T00:00:00.000
+201015749,20 < Age <= 24,Unsubstantiated,Word,2025-12-23T00:00:00.000
+200904500,24 < Age <= 29,Complainant Unavailable,Physical force,2025-12-23T00:00:00.000
+201507828,17 < Age <= 20,Complainant Unavailable,Physical force,2025-12-23T00:00:00.000
+200505886,,Unfounded,Demeanor/tone,2025-12-23T00:00:00.000
+202400146,20 < Age <= 24,Unfounded,Physical force,2025-12-23T00:00:00.000
+201704060,34 < Age <= 39,Unsubstantiated,Refusal to show search warrant,2025-12-23T00:00:00.000
+201701829,,Officer(s) Unidentified,Word,2025-12-23T00:00:00.000
+201016116,34 < Age <= 39,Substantiated,Stop,2025-12-23T00:00:00.000
+201309002,39 < Age <= 44,Unsubstantiated,Physical force,2025-12-23T00:00:00.000
+200506039,,Complainant Unavailable,Physical force,2025-12-23T00:00:00.000
+201802885,17 < Age <= 20,Unsubstantiated,Vehicle search,2025-12-23T00:00:00.000
+200911523,24 < Age <= 29,Unsubstantiated,Refusal to obtain medical treatment,2025-12-23T00:00:00.000
+202311084,29 < Age <= 34,Unable to Determine,Unlawful Summons,2025-12-23T00:00:00.000
+200306839,14 < Age <= 17,Unsubstantiated,Question and/or stop,2025-12-23T00:00:00.000
+201304223,34 < Age <= 39,Unsubstantiated,Word,2025-12-23T00:00:00.000
+201810571,29 < Age <= 34,Complainant Uncooperative,Vehicle search,2025-12-23T00:00:00.000
+202000478,24 < Age <= 29,Substantiated,Threat of force (verbal or physical),2025-12-23T00:00:00.000
+200605897,39 < Age <= 44,Exonerated,Search (of person),2025-12-23T00:00:00.000
+201810023,,Exonerated,Search of Premises,2025-12-23T00:00:00.000
+201704532,20 < Age <= 24,Complainant Uncooperative,Property damaged,2025-12-23T00:00:00.000
+201702936,34 < Age <= 39,Complainant Uncooperative,Threat of force (verbal or physical),2025-12-23T00:00:00.000
+201404587,24 < Age <= 29,Exonerated,Physical force,2025-12-23T00:00:00.000
+201208484,,Complainant Uncooperative,Physical force,2025-12-23T00:00:00.000
+201001702,,Complainant Unavailable,Physical force,2025-12-23T00:00:00.000

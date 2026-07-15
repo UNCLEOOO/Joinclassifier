@@ -1,0 +1,68 @@
+evnt_key,summon_issued_flg,x_coord_cd,veh_search_consent_flg,arrest_made_flg,veh_checkpoint_flg,cmd_cd,latitude,sex_cd,force_used_flg,race_desc
+313723033,True,1047539,(null),False,False,111,0.0,M,False,WHITE
+313723051,False,1026231,(null),False,False,112,0.0,M,False,WHITE
+313675600,False,1061752,(null),False,False,105,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313675592,True,1061752,(null),False,False,105,0.0,M,False,WHITE
+313722216,True,986320,(null),False,False,14,0.0,M,False,WHITE
+313795185,False,1053658,(null),False,False,113,0.0,M,False,BLACK
+313722173,True,987808,(null),False,False,7,0.0,M,False,BLACK
+313703413,True,1007046,(null),False,False,40,0.0,M,False,BLACK
+313815558,True,996463,(null),False,False,28,0.0,M,False,BLACK
+313703964,True,1029370,(null),False,False,106,0.0,M,False,WHITE
+313723036,True,1056276,(null),False,False,111,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313703725,False,1006652,(null),False,False,73,0.0,M,False,WHITE
+313969778,False,1007509,(null),False,False,44,0.0,M,False,HISPANIC
+313722606,False,999751,(null),False,False,70,0.0,M,False,BLACK
+313722602,False,1006602,(null),False,False,69,0.0,M,False,BLACK
+313735757,False,995426,(null),False,False,70,0.0,M,False,BLACK
+313774307,True,990431,(null),False,False,18,0.0,M,False,WHITE
+313722620,False,997874,(null),False,False,71,0.0,M,False,BLACK
+313703956,True,1061806,(null),False,False,105,0.0,M,False,WHITE
+313774173,False,982611,(null),False,False,1,0.0,M,False,BLACK
+313723062,True,1022411,(null),False,False,112,0.0,M,False,HISPANIC
+313722218,True,986445,(null),False,False,14,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313703954,True,1061806,(null),False,False,105,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313735749,False,995145,(null),False,False,70,0.0,F,False,BLACK
+313723065,True,1044546,(null),False,False,113,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313774182,True,982779,(null),False,False,1,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313815559,True,997376,(null),False,False,28,0.0,M,False,BLACK
+313675597,False,1061752,(null),False,False,105,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313794033,False,988196,(null),False,False,7,0.0,M,False,HISPANIC
+313675598,False,1061752,(null),False,False,105,0.0,M,False,WHITE
+313956299,False,987404,(null),False,False,20,0.0,F,False,ASIAN / PACIFIC ISLANDER
+313703966,True,1029370,(null),False,False,106,0.0,M,False,HISPANIC
+313794034,False,986921,(null),False,False,7,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313722187,True,983854,(null),False,False,10,0.0,F,False,WHITE
+313722223,True,986445,(null),False,False,14,0.0,M,False,WHITE
+313675187,True,985412,(null),False,True,5,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313794023,False,985689,(null),False,False,5,0.0,M,False,WHITE
+313722189,True,983978,(null),False,False,10,0.0,M,False,WHITE
+313723057,True,1023164,(null),False,False,112,0.0,F,False,HISPANIC
+313722183,True,989208,(null),False,False,9,40.728916,M,False,HISPANIC
+313815564,True,997376,(null),False,False,28,0.0,M,False,BLACK
+313675573,False,1016948,(null),False,False,104,0.0,F,False,ASIAN / PACIFIC ISLANDER
+313723074,True,1044546,(null),False,False,113,0.0,F,False,BLACK
+313722206,True,990457,(null),False,False,13,0.0,M,False,HISPANIC
+313723031,True,1044889,(null),False,False,111,0.0,M,False,WHITE
+313675563,True,1027842,(null),False,False,102,0.0,F,False,HISPANIC
+313703982,True,1011715,(null),False,False,108,0.0,M,False,HISPANIC
+313774251,False,987623,(null),False,True,9,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313675189,False,985412,(null),False,True,5,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313815596,False,1006378,(null),False,False,34,0.0,M,False,HISPANIC
+313722166,True,983927,(null),False,False,6,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313735613,True,1022080,(null),False,False,47,0.0,F,False,BLACK
+313656544,True,992355,(null),False,False,78,0.0,M,False,HISPANIC
+313656797,False,950829,(null),False,False,120,40.640603,M,False,BLACK
+313723071,False,1042410,(null),False,False,113,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313703742,True,1017364,(null),False,False,75,0.0,F,False,BLACK
+313675195,False,982912,(null),False,True,6,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313703967,True,1041631,(null),False,False,107,0.0,M,False,HISPANIC
+313723034,True,1060937,(null),False,False,111,0.0,M,False,ASIAN / PACIFIC ISLANDER
+313703733,True,1017239,(null),False,False,75,0.0,M,False,WHITE
+313703414,True,1008661,(null),False,False,40,0.0,M,False,HISPANIC
+313703981,True,1038927,(null),False,False,107,0.0,F,False,ASIAN / PACIFIC ISLANDER
+313774175,True,982648,(null),False,False,1,0.0,F,False,WHITE
+313735858,False,987826,(null),False,False,84,0.0,F,False,HISPANIC
+313703385,False,999134,(null),False,False,30,0.0,F,False,BLACK
+313703726,True,1009744,(null),False,False,73,0.0,M,False,WHITE
+313675560,True,1027842,(null),False,False,102,0.0,M,False,BLACK

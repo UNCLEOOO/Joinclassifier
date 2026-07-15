@@ -1,0 +1,23 @@
+borough_districts,postcode,council_district
+"Bronx
+(8, 9, 11, 12)",10462,13
+"District 75
+(Citywide Special Ed.)",10010,4
+"Staten Island
+(31)",10301,50
+"District 79
+(Alternative Schools)",10033,10
+"Queens North
+(24, 25, 26, 30)",11101,26
+"Brooklyn North
+(13, 14, 15, 16, 19, 23, 32)",11201,33
+"Brooklyn South
+(17,18, 20, 21, 22)",11209,43
+"Queens South
+(27, 28, 29)",11416,32
+"Affinity
+(Citywide)",11201,33
+"Manhattan
+(1, 2, 3, 4, 5, 6)",10001,3
+"Bronx
+(7, 10 & HS)",10458,15

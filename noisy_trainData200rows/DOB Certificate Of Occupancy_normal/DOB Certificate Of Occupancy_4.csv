@@ -1,0 +1,201 @@
+location,longitude,block,:@computed_region_sbqj_enih,nta,census_tract,application_status_raw,lot,latitude-council_district
+"{'latitude': '40.710089', 'longitude': '-74.009735'}",-74.009735,65,1.0,Battery Park City-Lower Manhattan,1502.0,Issued,7502,40.710089-1.0
+"{'latitude': '40.746089', 'longitude': '-73.992576'}",-73.992576,802,7.0,Midtown-Midtown South,95.0,Issued,75,40.746089-3.0
+"{'latitude': '40.82798', 'longitude': '-73.91515', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.91515,2432,27.0,East Concourse-Concourse Village,173.0,Issued,54,40.82798-16.0
+"{'latitude': '40.740998', 'longitude': '-73.992234', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.992234,823,7.0,Hudson Yards-Chelsea-Flatiron-Union Square,58.0,Issued,9,40.740998-3.0
+"{'latitude': '40.771278', 'longitude': '-73.966381'}",-73.966381,1385,11.0,Upper East Side-Carnegie Hill,130.0,Issued,57,40.771278-4.0
+"{'latitude': '40.751365', 'longitude': '-73.938762', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.938762,415,72.0,Queensbridge-Ravenswood-Long Island City,33.0,Issued,36,40.751365-26.0
+"{'latitude': '40.756023', 'longitude': '-73.974831'}",-73.974831,1284,10.0,Midtown-Midtown South,94.0,Issued,33,40.756023-4.0
+"{'latitude': '40.847206', 'longitude': '-73.782606'}",-73.782606,5643,28.0,Pelham Bay-Country Club-City Island,516.0,Issued,235,40.847206-13.0
+"{'latitude': '40.548537', 'longitude': '-74.150494', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.150494,5145,76.0,Great Kills,13203.0,Issued,3,40.548537-51.0
+"{'latitude': '40.762306', 'longitude': '-73.831583', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.831583,4971,67.0,Flushing,869.0,Issued,7502,40.762306-20.0
+"{'latitude': '40.539104', 'longitude': '-74.144832'}",-74.144832,5303,76.0,Great Kills,15603.0,Issued,42,40.539104-51.0
+"{'latitude': '40.764081', 'longitude': '-73.994271', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.994271,1076,10.0,Clinton,129.0,Issued,51,40.764081-3.0
+"{'latitude': '40.729135', 'longitude': '-74.007043'}",-74.007043,600,3.0,West Village,69.0,Issued,7501,40.729135-3.0
+"{'latitude': '40.765492', 'longitude': '-73.867289', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.867289,1654,73.0,East Elmhurst,371.0,Issued,5,40.765492-21.0
+"{'latitude': '40.755685', 'longitude': '-73.972943'}",-73.972943,1303,9.0,Turtle Bay-East Midtown,92.0,Issued,53,40.755685-4.0
+"{'latitude': '40.741492', 'longitude': '-73.896665', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.896665,1348,66.0,Elmhurst-Maspeth,483.0,Issued,7,40.741492-26.0
+"{'latitude': '40.847191', 'longitude': '-73.783275'}",-73.783275,5643,28.0,Pelham Bay-Country Club-City Island,516.0,Issued,235,40.847191-13.0
+"{'latitude': '40.820114', 'longitude': '-73.89229', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.89229,2735,24.0,Hunts Point,89.0,Issued,11,40.820114-17.0
+"{'latitude': '40.871707', 'longitude': '-73.86716', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.86716,4595,30.0,Williamsbridge-Olinville,374.0,Issued,46,40.871707-15.0
+"{'latitude': '40.720196', 'longitude': '-73.864883', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.864883,3136,70.0,Rego Park,69702.0,Issued,55,40.720196-29.0
+"{'latitude': '40.769479', 'longitude': '-73.962111'}",-73.962111,1405,11.0,Upper East Side-Carnegie Hill,128.0,Issued,145,40.769479-4.0
+"{'latitude': '40.760168', 'longitude': '-73.808714'}",-73.808714,5388,67.0,East Flushing,1185.0,Issued,9,40.760168-20.0
+"{'latitude': '40.702057', 'longitude': '-73.984712', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.984712,55,54.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,21.0,Issued,7501,40.702057-33.0
+"{'latitude': '40.783505', 'longitude': '-73.973145'}",-73.973145,1195,12.0,Upper West Side,165.0,Issued,61,40.783505-6.0
+"{'latitude': '40.760018', 'longitude': '-73.984038'}",-73.984038,1001,10.0,Midtown-Midtown South,125.0,Issued,3,40.760018-4.0
+"{'latitude': '40.683454', 'longitude': '-73.975691'}",-73.975691,1118,50.0,Park Slope-Gowanus,12902.0,Issued,27,40.683454-35.0
+"{'latitude': '40.847276', 'longitude': '-73.783311'}",-73.783311,5643,28.0,Pelham Bay-Country Club-City Island,516.0,Issued,235,40.847276-13.0
+"{'latitude': '40.688221', 'longitude': '-73.986064', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.986064,171,54.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,41.0,Issued,206,40.688221-33.0
+"{'latitude': '40.74643', 'longitude': '-74.005193'}",-74.005193,692,6.0,Hudson Yards-Chelsea-Flatiron-Union Square,99.0,Issued,30,40.74643-3.0
+"{'latitude': '40.637882', 'longitude': '-74.011962'}",-74.011962,865,45.0,Sunset Park East,102.0,Issued,36,40.637882-38.0
+"{'latitude': '40.750256', 'longitude': '-73.973256', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.973256,1315,9.0,Turtle Bay-East Midtown,88.0,Issued,7501,40.750256-4.0
+"{'latitude': '40.756747', 'longitude': '-73.988659'}",-73.988659,1013,8.0,Midtown-Midtown South,113.0,Issued,49,40.756747-3.0
+"{'latitude': '40.742018', 'longitude': '-73.859642', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.859642,1933,68.0,Corona,44301.0,Issued,54,40.742018-21.0
+"{'latitude': '40.708115', 'longitude': '-74.008768', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.008768,44,1.0,Battery Park City-Lower Manhattan,7.0,Issued,1,40.708115-1.0
+"{'latitude': '40.810606', 'longitude': '-73.926353'}",-73.926353,2314,23.0,Mott Haven-Port Morris,39.0,Issued,15,40.810606-8.0
+"{'latitude': '40.842742', 'longitude': '-73.838399'}",-73.838399,4226,32.0,Van Nest-Morris Park-Westchester Square,284.0,Issued,35,40.842742-13.0
+"{'latitude': '40.595698', 'longitude': '-73.740359'}",-73.740359,15608,59.0,Far Rockaway-Bayswater,101002.0,Issued,1,40.595698-31.0
+"{'latitude': '40.741111', 'longitude': '-73.978539'}",-73.978539,934,7.0,Murray Hill-Kips Bay,66.0,Issued,1,40.741111-2.0
+"{'latitude': '40.739203', 'longitude': '-74.001198'}",-74.001198,764,6.0,Hudson Yards-Chelsea-Flatiron-Union Square,81.0,Issued,7,40.739203-3.0
+"{'latitude': '40.752828', 'longitude': '-73.996723'}",-73.996723,731,6.0,Hudson Yards-Chelsea-Flatiron-Union Square,103.0,Issued,39,40.752828-3.0
+"{'latitude': '40.846922', 'longitude': '-73.911743', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.911743,2849,29.0,Mount Hope,22701.0,Issued,63,40.846922-14.0
+"{'latitude': '40.74114', 'longitude': '-73.98466', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.98466,880,7.0,Gramercy,68.0,Issued,82,40.74114-2.0
+"{'latitude': '40.71919', 'longitude': '-74.008705'}",-74.008705,179,1.0,SoHo-TriBeCa-Civic Center-Little Italy,33.0,Issued,56,40.71919-1.0
+"{'latitude': '40.540807', 'longitude': '-74.206809'}",-74.206809,6933,77.0,Rossville-Woodrow,20803.0,Issued,4,40.540807-51.0
+"{'latitude': '40.769995', 'longitude': '-73.982137'}",-73.982137,1114,12.0,Lincoln Square,145.0,Issued,9,40.769995-3.0
+"{'latitude': '40.684914', 'longitude': '-73.996921'}",-73.996921,325,48.0,Carroll Gardens-Columbia Street-Red Hook,67.0,Issued,13,40.684914-39.0
+"{'latitude': '40.614964', 'longitude': '-74.086664', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.086664,648,74.0,Stapleton-Rosebank,29.0,Issued,2,40.614964-49.0
+"{'latitude': '40.765146', 'longitude': '-73.988982'}",-73.988982,1062,10.0,Clinton,133.0,Issued,17,40.765146-3.0
+"{'latitude': '40.542335', 'longitude': '-74.150973', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.150973,5262,76.0,Great Kills,15601.0,Issued,95,40.542335-51.0
+"{'latitude': '40.540766', 'longitude': '-74.206802'}",-74.206802,6933,77.0,Rossville-Woodrow,20803.0,Issued,6,40.540766-51.0
+"{'latitude': '40.565772', 'longitude': '-74.151897', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.151897,4583,76.0,Great Kills,14606.0,Issued,23,40.565772-51.0
+"{'latitude': '40.847364', 'longitude': '-73.783328'}",-73.783328,5643,28.0,Pelham Bay-Country Club-City Island,516.0,Issued,235,40.847364-13.0
+"{'latitude': '40.798406', 'longitude': '-73.936761'}",-73.936761,1783,16.0,East Harlem North,188.0,Issued,7501,40.798406-8.0
+"{'latitude': '40.605257', 'longitude': '-73.947633', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.947633,6831,36.0,Madison,562.0,Issued,56,40.605257-48.0
+"{'latitude': '40.812915', 'longitude': '-73.889889'}",-73.889889,2765,24.0,Hunts Point,93.0,Issued,195,40.812915-17.0
+"{'latitude': '40.672878', 'longitude': '-73.923949'}",-73.923949,1369,49.0,Crown Heights North,359.0,Issued,19,40.672878-41.0
+"{'latitude': '40.824829', 'longitude': '-73.940711', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.940711,2045,20.0,Central Harlem North-Polo Grounds,259.0,Issued,59,40.824829-9.0
+"{'latitude': '40.743218', 'longitude': '-73.993562'}",-73.993562,798,7.0,Hudson Yards-Chelsea-Flatiron-Union Square,91.0,Issued,41,40.743218-3.0
+"{'latitude': '40.668348', 'longitude': '-73.819384', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.819384,11822,64.0,South Ozone Park,84601.0,Issued,37,40.668348-32.0
+"{'latitude': '40.822506', 'longitude': '-73.938455'}",-73.938455,2032,20.0,Central Harlem North-Polo Grounds,234.0,Issued,30,40.822506-9.0
+"{'latitude': '40.683886', 'longitude': '-73.845912', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.845912,9102,60.0,Woodhaven,4001.0,Issued,27,40.683886-32.0
+"{'latitude': '40.803171', 'longitude': '-73.932502', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.932502,1802,16.0,East Harlem North,242.0,Issued,45,40.803171-8.0
+"{'latitude': '40.638315', 'longitude': '-73.983955', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.983955,5346,39.0,Borough Park,228.0,Issued,64,40.638315-39.0
+"{'latitude': '40.807769', 'longitude': '-73.943359', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.943359,1724,18.0,Central Harlem North-Polo Grounds,208.0,Issued,7502,40.807769-9.0
+"{'latitude': '40.695446', 'longitude': '-73.815625'}",-73.815625,9478,60.0,Richmond Hill,150.0,Issued,12,40.695446-28.0
+"{'latitude': '40.669092', 'longitude': '-73.739486', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.739486,13260,63.0,Laurelton,650.0,Issued,22,40.669092-31.0
+"{'latitude': '40.714613', 'longitude': '-73.951035', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.951035,2751,57.0,East Williamsburg,501.0,Issued,7504,40.714613-34.0
+"{'latitude': '40.749979', 'longitude': '-73.995063', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.995063,780,8.0,Midtown-Midtown South,101.0,Issued,76,40.749979-3.0
+"{'latitude': '40.557818', 'longitude': '-74.16536'}",-74.16536,5494,76.0,Great Kills,14607.0,Issued,3,40.557818-51.0
+"{'latitude': '40.661514', 'longitude': '-73.984451', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.984451,1112,45.0,Park Slope-Gowanus,149.0,Issued,29,40.661514-39.0
+"{'latitude': '40.585827', 'longitude': '-74.090551'}",-74.090551,3380,76.0,Old Town-Dongan Hills-South Beach,70.0,Issued,53,40.585827-50.0
+"{'latitude': '40.595643', 'longitude': '-73.740341'}",-73.740341,15608,59.0,Far Rockaway-Bayswater,101002.0,Issued,52,40.595643-31.0
+"{'latitude': '40.817371', 'longitude': '-73.914557'}",-73.914557,2361,23.0,Melrose South-Mott Haven North,71.0,Issued,25,40.817371-17.0
+"{'latitude': '40.75753', 'longitude': '-73.977946'}",-73.977946,1264,10.0,Midtown-Midtown South,96.0,Issued,30,40.75753-4.0
+"{'latitude': '40.745022', 'longitude': '-74.006099'}",-74.006099,716,6.0,Hudson Yards-Chelsea-Flatiron-Union Square,89.0,Issued,66,40.745022-3.0
+"{'latitude': '40.640776', 'longitude': '-73.945576'}",-73.945576,4967,40.0,East Flatbush-Farragut,830.0,Issued,31,40.640776-45.0
+"{'latitude': '40.753745', 'longitude': '-73.929834', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.929834,375,72.0,Queensbridge-Ravenswood-Long Island City,55.0,Issued,1,40.753745-26.0
+"{'latitude': '40.881407', 'longitude': '-73.900013'}",-73.900013,3262,33.0,Van Cortlandt Village,279.0,Issued,17,40.881407-11.0
+"{'latitude': '40.776872', 'longitude': '-73.977491'}",-73.977491,1125,12.0,Lincoln Square,157.0,Issued,12,40.776872-6.0
+"{'latitude': '40.56016', 'longitude': '-74.128844'}",-74.128844,4709,76.0,Oakwood-Oakwood Beach,13204.0,Issued,66,40.56016-50.0
+"{'latitude': '40.746075', 'longitude': '-73.890025'}",-73.890025,1486,68.0,Elmhurst,267.0,Issued,48,40.746075-25.0
+"{'latitude': '40.842943', 'longitude': '-73.899211'}",-73.899211,2922,25.0,Claremont-Bathgate,165.0,Issued,2,40.842943-15.0
+"{'latitude': '40.716469', 'longitude': '-73.738132', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.738132,10765,63.0,Queens Village,568.0,Issued,25,40.716469-27.0
+"{'latitude': '40.730523', 'longitude': '-74.010095'}",-74.010095,601,3.0,West Village,69.0,Issued,7503,40.730523-3.0
+"{'latitude': '40.729988', 'longitude': '-73.992304'}",-73.992304,545,5.0,West Village,57.0,Issued,26,40.729988-2.0
+"{'latitude': '40.674745', 'longitude': '-73.869849', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.869849,4234,47.0,East New York,1196.0,Issued,34,40.674745-42.0
+"{'latitude': '40.817519', 'longitude': '-73.944951'}",-73.944951,1942,20.0,Central Harlem North-Polo Grounds,228.0,Issued,57,40.817519-9.0
+"{'latitude': '40.671953', 'longitude': '-73.785149'}",-73.785149,12257,71.0,Springfield Gardens North,294.0,Issued,1,40.671953-28.0
+"{'latitude': '40.704884', 'longitude': '-74.015927'}",-74.015927,15,1.0,Battery Park City-Lower Manhattan,13.0,Issued,7501,40.704884-1.0
+"{'latitude': '40.718488', 'longitude': '-74.002644'}",-74.002644,195,2.0,SoHo-TriBeCa-Civic Center-Little Italy,31.0,Issued,7,40.718488-1.0
+"{'latitude': '40.763114', 'longitude': '-73.988041', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.988041,1041,10.0,Clinton,133.0,Issued,11,40.763114-3.0
+"{'latitude': '40.806028', 'longitude': '-73.946749'}",-73.946749,1721,18.0,Central Harlem South,200.0,Issued,1,40.806028-9.0
+"{'latitude': '40.540851', 'longitude': '-74.154906'}",-74.154906,5264,76.0,Great Kills,15601.0,Issued,39,40.540851-51.0
+"{'latitude': '40.775466', 'longitude': '-73.96483'}",-73.96483,1391,11.0,Upper East Side-Carnegie Hill,130.0,Issued,72,40.775466-4.0
+"{'latitude': '40.795166', 'longitude': '-73.8263', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.8263,4438,67.0,Whitestone,945.0,Issued,20,40.795166-19.0
+"{'latitude': '40.831416', 'longitude': '-73.877785', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.877785,3864,26.0,West Farms-Bronx River,56.0,Issued,12,40.831416-18.0
+"{'latitude': '40.683289', 'longitude': '-73.864092'}",-73.864092,8997,60.0,Woodhaven,34.0,Issued,34,40.683289-32.0
+"{'latitude': '40.769912', 'longitude': '-73.732878'}",-73.732878,8263,69.0,Douglas Manor-Douglaston-Little Neck,150702.0,Issued,146,40.769912-19.0
+"{'latitude': '40.640391', 'longitude': '-74.07565', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.07565,5,74.0,West New Brighton-New Brighton-St. George,3.0,Issued,111,40.640391-49.0
+"{'latitude': '40.727845', 'longitude': '-73.956398', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.956398,2569,57.0,Greenpoint,561.0,Issued,76,40.727845-33.0
+"{'latitude': '40.595743', 'longitude': '-73.793522'}",-73.793522,16030,58.0,Hammels-Arverne-Edgemere,964.0,Issued,12,40.595743-31.0
+"{'latitude': '40.62704', 'longitude': '-73.923832'}",-73.923832,7802,38.0,Flatlands,678.0,Issued,19,40.62704-46.0
+"{'latitude': '40.638445', 'longitude': '-74.00534', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.00534,5672,39.0,Sunset Park East,106.0,Issued,16,40.638445-38.0
+"{'latitude': '40.847526', 'longitude': '-73.783592'}",-73.783592,5643,28.0,Pelham Bay-Country Club-City Island,516.0,Issued,235,40.847526-13.0
+"{'latitude': '40.746839', 'longitude': '-73.83316', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.83316,6358,67.0,Queensboro Hill,80301.0,Issued,50,40.746839-20.0
+"{'latitude': '40.660063', 'longitude': '-73.956846', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.956846,5031,44.0,Prospect Lefferts Gardens-Wingate,79801.0,Issued,57,40.660063-40.0
+"{'latitude': '40.697254', 'longitude': '-73.986015'}",-73.986015,118,54.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,13.0,Issued,6,40.697254-33.0
+"{'latitude': '40.595645', 'longitude': '-73.741101'}",-73.741101,15609,59.0,Far Rockaway-Bayswater,101002.0,Issued,64,40.595645-31.0
+"{'latitude': '40.813213', 'longitude': '-73.945219'}",-73.945219,1916,20.0,Central Harlem North-Polo Grounds,226.0,Issued,7503,40.813213-9.0
+"{'latitude': '40.538872', 'longitude': '-74.211336'}",-74.211336,6970,77.0,Rossville-Woodrow,20803.0,Issued,54,40.538872-51.0
+"{'latitude': '40.750934', 'longitude': '-74.005955', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.005955,672,6.0,Hudson Yards-Chelsea-Flatiron-Union Square,99.0,Issued,1,40.750934-3.0
+"{'latitude': '40.640136', 'longitude': '-74.006601'}",-74.006601,810,45.0,Sunset Park East,106.0,Issued,62,40.640136-38.0
+"{'latitude': '40.70648', 'longitude': '-73.944484', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.944484,3061,56.0,East Williamsburg,505.0,Issued,101,40.70648-34.0
+"{'latitude': '40.569895', 'longitude': '-74.095788'}",-74.095788,3887,76.0,New Dorp-Midland Beach,11202.0,Issued,49,40.569895-50.0
+"{'latitude': '40.7614', 'longitude': '-73.966249'}",-73.966249,1332,9.0,Turtle Bay-East Midtown,108.0,Issued,45,40.7614-4.0
+"{'latitude': '40.594379', 'longitude': '-74.06916'}",-74.06916,3110,76.0,Grasmere-Arrochar-Ft. Wadsworth,74.0,Issued,42,40.594379-50.0
+"{'latitude': '40.847483', 'longitude': '-73.783791'}",-73.783791,5643,28.0,Pelham Bay-Country Club-City Island,516.0,Issued,235,40.847483-13.0
+"{'latitude': '40.678892', 'longitude': '-73.97561', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.97561,939,50.0,Prospect Heights,161.0,Issued,3,40.678892-39.0
+"{'latitude': '40.765919', 'longitude': '-73.969149'}",-73.969149,1378,11.0,Upper East Side-Carnegie Hill,122.0,Issued,30,40.765919-4.0
+"{'latitude': '40.630684', 'longitude': '-73.970144', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.970144,5428,43.0,Flatbush,482.0,Issued,92,40.630684-40.0
+"{'latitude': '40.763676', 'longitude': '-73.982665'}",-73.982665,1025,10.0,Midtown-Midtown South,131.0,Issued,43,40.763676-3.0
+"{'latitude': '40.573925', 'longitude': '-73.854693'}",-73.854693,16270,58.0,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,928.0,Issued,65,40.573925-32.0
+"{'latitude': '40.847152', 'longitude': '-73.782845'}",-73.782845,5643,28.0,Pelham Bay-Country Club-City Island,516.0,Issued,235,40.847152-13.0
+"{'latitude': '40.69605', 'longitude': '-73.958319', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.958319,1899,51.0,Bedford,1237.0,Issued,24,40.69605-33.0
+"{'latitude': '40.752544', 'longitude': '-73.914925', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.914925,143,72.0,Hunters Point-Sunnyside-West Maspeth,171.0,Issued,10,40.752544-26.0
+"{'latitude': '40.602423', 'longitude': '-73.821205'}",-73.821205,15320,58.0,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,107201.0,Issued,17,40.602423-32.0
+"{'latitude': '40.595612', 'longitude': '-73.74109'}",-73.74109,15609,59.0,Far Rockaway-Bayswater,101002.0,Issued,1,40.595612-31.0
+"{'latitude': '40.744965', 'longitude': '-73.785441'}",-73.785441,5678,69.0,Auburndale,140902.0,Issued,9,40.744965-20.0
+"{'latitude': '40.849601', 'longitude': '-73.86188'}",-73.86188,4263,32.0,Pelham Parkway,246.0,Issued,58,40.849601-13.0
+"{'latitude': '40.731458', 'longitude': '-73.976796', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.976796,972,7.0,Stuyvesant Town-Cooper Village,44.0,Issued,1,40.731458-4.0
+"{'latitude': '40.5958', 'longitude': '-73.793529'}",-73.793529,16030,58.0,Hammels-Arverne-Edgemere,964.0,Issued,13,40.5958-31.0
+"{'latitude': '40.706449', 'longitude': '-74.012761'}",-74.012761,22,1.0,Battery Park City-Lower Manhattan,9.0,Issued,24,40.706449-1.0
+"{'latitude': '40.658049', 'longitude': '-73.910696'}",-73.910696,3611,46.0,Brownsville,896.0,Issued,149,40.658049-42.0
+"{'latitude': '40.716394', 'longitude': '-73.996515'}",-73.996515,203,2.0,SoHo-TriBeCa-Civic Center-Little Italy,41.0,Issued,2,40.716394-1.0
+"{'latitude': '40.743023', 'longitude': '-73.986402', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.986402,856,7.0,Hudson Yards-Chelsea-Flatiron-Union Square,56.0,Issued,24,40.743023-2.0
+"{'latitude': '40.749201', 'longitude': '-73.710924'}",-73.710924,8535,63.0,Glen Oaks-Floral Park-New Hyde Park,155102.0,Issued,53,40.749201-23.0
+"{'latitude': '40.86778', 'longitude': '-73.831248', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.831248,5141,28.0,Co-op City,46201.0,Issued,35,40.86778-12.0
+"{'latitude': '40.760018', 'longitude': '-73.984038'}",-73.984038,1001,10.0,Midtown-Midtown South,125.0,Issued,3,40.760018-4.0
+"{'latitude': '40.824325', 'longitude': '-73.898852', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.898852,2691,24.0,Longwood,131.0,Issued,47,40.824325-17.0
+"{'latitude': '40.612661', 'longitude': '-74.128024', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.128024,717,74.0,Westerleigh,18701.0,Issued,5,40.612661-50.0
+"{'latitude': '40.724436', 'longitude': '-73.999841'}",-73.999841,500,1.0,SoHo-TriBeCa-Civic Center-Little Italy,49.0,Issued,26,40.724436-1.0
+"{'latitude': '40.639945', 'longitude': '-73.985184', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.985184,5298,39.0,Borough Park,230.0,Issued,27,40.639945-39.0
+"{'latitude': '40.669178', 'longitude': '-73.995015', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.995015,1032,50.0,Park Slope-Gowanus,117.0,Issued,58,40.669178-39.0
+"{'latitude': '40.636455', 'longitude': '-73.933582'}",-73.933582,5022,40.0,East Flatbush-Farragut,836.0,Issued,2,40.636455-45.0
+"{'latitude': '40.606497', 'longitude': '-73.817927', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.817927,15462,58.0,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,107201.0,Issued,29,40.606497-32.0
+"{'latitude': '40.681963', 'longitude': '-73.986472', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.986472,405,48.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,71.0,Issued,51,40.681963-33.0
+"{'latitude': '40.540807', 'longitude': '-74.206809'}",-74.206809,6933,77.0,Rossville-Woodrow,20803.0,Issued,4,40.540807-51.0
+"{'latitude': '40.78476', 'longitude': '-73.955952', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.955952,1504,11.0,Upper East Side-Carnegie Hill,16001.0,Issued,20,40.78476-4.0
+"{'latitude': '40.595679', 'longitude': '-73.740352'}",-73.740352,15608,59.0,Far Rockaway-Bayswater,101002.0,Issued,55,40.595679-31.0
+"{'latitude': '40.820458', 'longitude': '-73.92868', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.92868,2354,27.0,West Concourse,63.0,Issued,1,40.820458-8.0
+"{'latitude': '40.593099', 'longitude': '-74.074851', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.074851,3251,76.0,Old Town-Dongan Hills-South Beach,70.0,Issued,43,40.593099-50.0
+"{'latitude': '40.705308', 'longitude': '-74.004873'}",-74.004873,37,1.0,Battery Park City-Lower Manhattan,7.0,Issued,23,40.705308-1.0
+"{'latitude': '40.75631', 'longitude': '-73.97194', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.97194,1304,9.0,Turtle Bay-East Midtown,100.0,Issued,45,40.75631-4.0
+"{'latitude': '40.734427', 'longitude': '-73.823961', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.823961,6527,65.0,Kew Gardens Hills,809.0,Issued,77,40.734427-24.0
+"{'latitude': '40.68922', 'longitude': '-73.955089', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.955089,1950,51.0,Bedford,233.0,Issued,33,40.68922-36.0
+"{'latitude': '40.684455', 'longitude': '-73.961059', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.961059,1982,55.0,Clinton Hill,231.0,Issued,45,40.684455-35.0
+"{'latitude': '40.776467', 'longitude': '-73.785989'}",-73.785989,5806,67.0,Ft. Totten-Bay Terrace-Clearview,99701.0,Issued,44,40.776467-19.0
+"{'latitude': '40.698939', 'longitude': '-73.915123'}",-73.915123,3326,53.0,Bushwick North,433.0,Issued,35,40.698939-37.0
+"{'latitude': '40.715057', 'longitude': '-74.009902', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.009902,137,1.0,SoHo-TriBeCa-Civic Center-Little Italy,21.0,Issued,1,40.715057-1.0
+"{'latitude': '40.776497', 'longitude': '-73.806024'}",-73.806024,4863,67.0,Whitestone,1033.0,Issued,31,40.776497-19.0
+"{'latitude': '40.878026', 'longitude': '-73.855529', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.855529,4697,30.0,Williamsbridge-Olinville,382.0,Issued,28,40.878026-12.0
+"{'latitude': '40.703921', 'longitude': '-73.927362'}",-73.927362,3165,53.0,Bushwick North,427.0,Issued,29,40.703921-34.0
+"{'latitude': '40.598584', 'longitude': '-73.820016', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.820016,15500,58.0,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,107201.0,Issued,106,40.598584-32.0
+"{'latitude': '40.811154', 'longitude': '-73.885596', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.885596,2769,24.0,Hunts Point,93.0,Issued,44,40.811154-17.0
+"{'latitude': '40.760076', 'longitude': '-73.994466', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.994466,1052,6.0,Clinton,121.0,Issued,1,40.760076-3.0
+"{'latitude': '40.66873', 'longitude': '-73.986684'}",-73.986684,1010,50.0,Park Slope-Gowanus,139.0,Issued,44,40.66873-39.0
+"{'latitude': '40.646101', 'longitude': '-74.078218'}",-74.078218,2,74.0,West New Brighton-New Brighton-St. George,7.0,Issued,22,40.646101-49.0
+"{'latitude': '40.712483', 'longitude': '-73.950561', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.950561,2767,56.0,North Side-South Side,513.0,Issued,7505,40.712483-34.0
+"{'latitude': '40.699702', 'longitude': '-73.904354'}",-73.904354,3561,62.0,Ridgewood,553.0,Issued,23,40.699702-34.0
+"{'latitude': '40.731726', 'longitude': '-74.004366', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.004366,587,3.0,West Village,67.0,Issued,65,40.731726-3.0
+"{'latitude': '40.859683', 'longitude': '-73.839033', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.839033,4400,32.0,Allerton-Pelham Gardens,310.0,Issued,13,40.859683-13.0
+"{'latitude': '40.72392', 'longitude': '-74.010282'}",-74.010282,224,1.0,SoHo-TriBeCa-Civic Center-Little Italy,39.0,Issued,13,40.72392-1.0
+"{'latitude': '40.743827', 'longitude': '-73.987907', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.987907,856,7.0,Hudson Yards-Chelsea-Flatiron-Union Square,56.0,Issued,7502,40.743827-2.0
+"{'latitude': '40.774267', 'longitude': '-73.963285'}",-73.963285,1391,11.0,Upper East Side-Carnegie Hill,130.0,Issued,21,40.774267-4.0
+"{'latitude': '40.755182', 'longitude': '-73.98388'}",-73.98388,995,8.0,Midtown-Midtown South,119.0,Issued,33,40.755182-4.0
+"{'latitude': '40.750504', 'longitude': '-73.978865'}",-73.978865,869,9.0,Murray Hill-Kips Bay,82.0,Issued,34,40.750504-4.0
+"{'latitude': '40.70856', 'longitude': '-73.938091'}",-73.938091,3056,56.0,Bushwick South,485.0,Issued,80,40.70856-34.0
+"{'latitude': '40.752825', 'longitude': '-73.864207'}",-73.864207,1769,73.0,North Corona,405.0,Issued,89,40.752825-21.0
+"{'latitude': '40.595653', 'longitude': '-73.741105'}",-73.741105,15609,59.0,Far Rockaway-Bayswater,101002.0,Issued,65,40.595653-31.0
+"{'latitude': '40.783424', 'longitude': '-73.950634'}",-73.950634,1522,11.0,Upper East Side-Carnegie Hill,15801.0,Issued,34,40.783424-5.0
+"{'latitude': '40.823685', 'longitude': '-73.836422'}",-73.836422,5559,28.0,Soundview-Castle Hill-Clason Point-Harding Park,90.0,Issued,1,40.823685-13.0
+"{'latitude': '40.740526', 'longitude': '-73.890254'}",-73.890254,1352,68.0,Elmhurst-Maspeth,485.0,Issued,98,40.740526-25.0
+"{'latitude': '40.569895', 'longitude': '-74.095788'}",-74.095788,3887,76.0,New Dorp-Midland Beach,11202.0,Issued,49,40.569895-50.0
+"{'latitude': '40.755685', 'longitude': '-73.972943'}",-73.972943,1303,9.0,Turtle Bay-East Midtown,92.0,Issued,53,40.755685-4.0
+"{'latitude': '40.711393', 'longitude': '-74.006666'}",-74.006666,90,1.0,Battery Park City-Lower Manhattan,1501.0,Issued,14,40.711393-1.0
+"{'latitude': '40.720442', 'longitude': '-73.988182', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.988182,411,4.0,Chinatown,3001.0,Issued,29,40.720442-1.0
+"{'latitude': '40.62751', 'longitude': '-74.005696', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.005696,5759,41.0,Dyker Heights,210.0,Issued,19,40.62751-38.0
+"{'latitude': '40.734436', 'longitude': '-73.79937'}",-73.79937,6923,65.0,Pomonok-Flushing Heights-Hillcrest,1223.0,Issued,42,40.734436-24.0
+"{'latitude': '40.615146', 'longitude': '-74.088999', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.088999,623,74.0,Grymes Hill-Clifton-Fox Hills,47.0,Issued,90,40.615146-49.0
+"{'latitude': '40.725438', 'longitude': '-73.997893'}",-73.997893,512,1.0,SoHo-TriBeCa-Civic Center-Little Italy,49.0,Issued,7503,40.725438-1.0
+"{'latitude': '40.570944', 'longitude': '-74.091492'}",-74.091492,3816,76.0,New Dorp-Midland Beach,11202.0,Issued,28,40.570944-50.0
+"{'latitude': '40.734821', 'longitude': '-73.758497'}",-73.758497,7770,69.0,Oakland Gardens,129103.0,Issued,46,40.734821-23.0
+"{'latitude': '40.743218', 'longitude': '-73.993562'}",-73.993562,798,7.0,Hudson Yards-Chelsea-Flatiron-Union Square,91.0,Issued,41,40.743218-3.0
+"{'latitude': '40.871303', 'longitude': '-73.838449', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.838449,4775,30.0,Eastchester-Edenwald-Baychester,358.0,Issued,138,40.871303-12.0
+"{'latitude': '40.679415', 'longitude': '-73.781855', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.781855,12253,71.0,Baisley Park,288.0,Issued,9,40.679415-28.0
+"{'latitude': '40.668821', 'longitude': '-73.884687', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-73.884687,4062,47.0,East New York,1162.0,Issued,31,40.668821-42.0
+"{'latitude': '40.824457', 'longitude': '-73.912459'}",-73.912459,2383,25.0,Morrisania-Melrose,141.0,Issued,19,40.824457-17.0
+"{'latitude': '40.590779', 'longitude': '-74.066128'}",-74.066128,3122,76.0,Grasmere-Arrochar-Ft. Wadsworth,74.0,Issued,158,40.590779-50.0
+"{'latitude': '40.74413', 'longitude': '-74.005135', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",-74.005135,716,6.0,Hudson Yards-Chelsea-Flatiron-Union Square,89.0,Issued,9,40.74413-3.0
+"{'latitude': '40.757103', 'longitude': '-73.986193'}",-73.986193,1015,8.0,Midtown-Midtown South,119.0,Issued,29,40.757103-3.0

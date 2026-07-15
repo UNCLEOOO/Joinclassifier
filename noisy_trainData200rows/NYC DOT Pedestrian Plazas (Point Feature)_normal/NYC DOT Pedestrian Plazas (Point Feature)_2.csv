@@ -1,0 +1,91 @@
+the_geom,point_y,fromstreet,:@computed_region_efsh_h5xi,onstreet,hrcevac,tostreet
+"{'type': 'Point', 'coordinates': [-73.94806766181343, 40.63259171626162]}",169750.869807,Flatbush Avenue,17217,Hillel Place,"6, 5",Kennilworth Place
+"{'type': 'Point', 'coordinates': [-73.88774867951929, 40.88239517453956]}",260778.102846,Mosholu Parkway,11606,Goulden Avenue,X,
+"{'type': 'Point', 'coordinates': [-73.94616140993175, 40.680475602747954]}",187196.618228,MacDonough Street,17618,Marcy Avenue,,Fulton Street
+"{'type': 'Point', 'coordinates': [-73.9384178420599, 40.744223344231735]}",210423.264083,47 Avenue,16858,29 Street,"2, 3, 4, 5, 6",Skillman Avenue
+"{'type': 'Point', 'coordinates': [-73.9908671430877, 40.73006959649501]}",205260.740893,4 Avenue,11724,Astor Place,,Cooper Square
+"{'type': 'Point', 'coordinates': [-73.90941576378255, 40.69995088108893]}",194300.430341,Myrtle Avenue,15310,Woodbine Street,,St. Nicholas Avenue
+"{'type': 'Point', 'coordinates': [-73.97909499785223, 40.640549592869014]}",172646.558659,Avenue C,17620,McDonald Avenue,,Church Avenue
+"{'type': 'Point', 'coordinates': [-73.9871195903118, 40.753380317093395]}",213753.707635,36 Street,12080,Broadway,X,41 Street
+"{'type': 'Point', 'coordinates': [-73.8622877408355, 40.74968964883503]}",212438.808668,National Street,14510,Roosevelt Avenue,,104 Street
+"{'type': 'Point', 'coordinates': [-73.9482781593629, 40.7502269641764]}",212608.807856,43 Road,16858,12 Street,"4,5",44 Avenue
+"{'type': 'Point', 'coordinates': [-73.90758841352527, 40.66863745281728]}",182892.575272,Belmont Avenue,17614,Watkins Street,,Dead End
+"{'type': 'Point', 'coordinates': [-73.89111178545583, 40.860649246489515]}",252854.03708,East 189 Street,10936,Park Avenue,,3 Avenue
+"{'type': 'Point', 'coordinates': [-73.99794973339607, 40.71440270777124]}",199552.685297,Pell Street,12076,Doyers Street,,Bowery
+"{'type': 'Point', 'coordinates': [-73.97554591473981, 40.686943098111406]}",189549.271917,South Eliot Place,17619,Lafayette Avenue,,Fulton Street
+"{'type': 'Point', 'coordinates': [-73.98807810082006, 40.703239852657696]}",195485.938829,Water Street,16865,Pearl Street,"2,3,4",Anchorage Place
+"{'type': 'Point', 'coordinates': [-74.01047484947958, 40.70347352134007]}",195571.01999,Water Streeet,11725,Coenties Slip,1,Pearl Street
+"{'type': 'Point', 'coordinates': [-73.92426314045133, 40.74381778159431]}",210278.578762,40 Street,16861,Queens Boulevard,,
+"{'type': 'Point', 'coordinates': [-73.95249018752236, 40.798674349536675]}",230259.151571,West 110 Street,12423,Malcolm X Boulevard,6,West 111 Street
+"{'type': 'Point', 'coordinates': [-73.7535015382182, 40.603275074820644]}",159162.081133,Beach 21 Street,20529,Beach 20 Street,1,Mott Avenue
+"{'type': 'Point', 'coordinates': [-73.9489763279508, 40.7175832877284]}",200715.5803,Meeker Avenue,17613,Frost Street,3,
+"{'type': 'Point', 'coordinates': [-73.98302496777268, 40.74045847265918]}",209046.059163,3 Avenue,12073,25 Street,,Lexington Avenue
+"{'type': 'Point', 'coordinates': [-73.99103742876777, 40.71451199267674]}",199592.621663,Canal Street,11723,Division Street,,Ludlow Street
+"{'type': 'Point', 'coordinates': [-73.988603953046, 40.69233557489861]}",191513.168036,Adams Street,16865,Willoughby Street,,Pearl Street
+"{'type': 'Point', 'coordinates': [-73.82793409553322, 40.76047038434627]}",216383.40382,Roosevelt Avenue,13832,Lippman Plaza,X,39 Avenue
+"{'type': 'Point', 'coordinates': [-73.94860757552374, 40.82424599968602]}",239576.420012,143 Street,12428,Hamilton Place,,Amsterdam Avenue
+"{'type': 'Point', 'coordinates': [-73.9536043198358, 40.82139188293364]}",238535.789989,Broadway,12428,Hamilton Place,,138 Street
+"{'type': 'Point', 'coordinates': [-74.00265517232617, 40.71106823075644]}",198337.838755,Frankfort Street,13096,Rose Street,"5, 6",Avenue of the Finest
+"{'type': 'Point', 'coordinates': [-73.99065927144957, 40.73667552250982]}",207667.49295,East 13 Street,11724,Broadway,,East 19 Street
+"{'type': 'Point', 'coordinates': [-73.9114818950886, 40.699762140094606]}",194231.080699,Myrtle Avenue,13828,Wyckoff Avenue,,Gates Avenue
+"{'type': 'Point', 'coordinates': [-73.98910737800905, 40.74241727022627]}",209759.443067,21 Street,12073,Broadway,,29 Street
+"{'type': 'Point', 'coordinates': [-73.9804713173478, 40.68857034245353]}",190141.781661,Flatbush Avenue Extension,17619,Fulton Street,,Hudson Street
+"{'type': 'Point', 'coordinates': [-73.98571727485331, 40.75764982181205]}",215309.287108,41 Street,13094,Broadway,,53 Street
+"{'type': 'Point', 'coordinates': [-73.8809297241987, 40.701825600574786]}",194992.898138,Myrtle Avenue,15310,70 Street,,Cooper Avenue
+"{'type': 'Point', 'coordinates': [-73.89211362102212, 40.74707888228092]}",211476.038261,73 Street,14783,37 Road,,74 Street
+"{'type': 'Point', 'coordinates': [-74.00322393222392, 40.71284705442325]}",198985.923406,Worth Street,11728,Centre Street,"4, 6, 5",
+"{'type': 'Point', 'coordinates': [-73.98167315335401, 40.76709492878102]}",218750.658834,57 Street,12081,Broadway,,59 Street
+"{'type': 'Point', 'coordinates': [-73.98891993953856, 40.74263451945487]}",209838.600317,23 Street,12073,Broadway,,25 Street
+"{'type': 'Point', 'coordinates': [-73.91871008853838, 40.743180821581866]}",210047.893399,46 Street,16861,Queens Boulevard,,
+"{'type': 'Point', 'coordinates': [-73.93946469860714, 40.83899315457707]}",244950.967373,West 165 Street,13090,Audubon Avenue,,West 166 Street
+"{'type': 'Point', 'coordinates': [-73.92964935010758, 40.85067457595213]}",249208.977176,Audubon Avenue,13091,185 Street,X,Amsterdam Avenue
+"{'type': 'Point', 'coordinates': [-73.97869297096018, 40.64286523451943]}",173490.236607,Church Avenue,17620,Beverley Road,,East 2 Street
+"{'type': 'Point', 'coordinates': [-74.00587100871951, 40.74004469053589]}",208894.903615,Gansevoort Street,12077,9 Avenue,"4, 5, 6",West 15 Street
+"{'type': 'Point', 'coordinates': [-73.9233569559848, 40.82704389214369]}",240600.901353,Walton Avenue,10929,East 161 Street,,Grand Concourse
+"{'type': 'Point', 'coordinates': [-73.95488364572503, 40.714228644519906]}",199492.482854,Havemeyer Street,17613,North 5 Street,4,Metropolitan Avenue
+"{'type': 'Point', 'coordinates': [-73.84189654602943, 40.840460728001595]}",245519.350515,Westchester Avenue,11270,East Tremont Avenue,"2,5",East Tremont Avenue
+"{'type': 'Point', 'coordinates': [-73.8942177630098, 40.862172158563816]}",253407.839839,East Kingsbridge Road,10936,East Fordham Road,,
+"{'type': 'Point', 'coordinates': [-73.8888724228259, 40.75398832997579]}",213994.493505,34 Avenue,14783,78 Street,,Northern Boulevard
+"{'type': 'Point', 'coordinates': [-73.90851510263809, 40.66852734715221]}",182852.19074,Belmont Avenue,17614,Osborn Street,,
+"{'type': 'Point', 'coordinates': [-73.96467113467712, 40.68068810011044]}",187271.424187,Atlantic Avenue,13829,Underhill Avenue,,Pacific Street
+"{'type': 'Point', 'coordinates': [-73.77018257593953, 40.69614982333164]}",192986.202168,180 Street,24669,Murdock Avenue,,Dead End
+"{'type': 'Point', 'coordinates': [-73.94276224614762, 40.84247252347819]}",246218.01823,Fort Washington Avenue,13090,Haven Avenue,,169 Street
+"{'type': 'Point', 'coordinates': [-73.99388256359416, 40.70279507018842]}",195323.725383,Water Street,16865,Old Fulton Street,2,Front Street
+"{'type': 'Point', 'coordinates': [-73.87429675659163, 40.829272249379436]}",241428.454652,Harrod Place,11610,Morrison Avenue,5,Westchester Avenue
+"{'type': 'Point', 'coordinates': [-73.98789450790541, 40.74991999252464]}",212492.968995,32 Street,11722,Broadway,,36 Street
+"{'type': 'Point', 'coordinates': [-73.91870018075471, 40.69889142222654]}",193911.912385,Knickerbocker Avenue,13828,Myrtle Avenue,,Greene Avenue
+"{'type': 'Point', 'coordinates': [-73.97809231716224, 40.75276418418334]}",213529.727203,42 Street,12079,Vanderbilt Avenue,,43 Street
+"{'type': 'Point', 'coordinates': [-74.15380540847671, 40.63702739896404]}",171400.111631,Van Name Avenue,10371,Richmond Terrace,"0,1",Van Pelt Avenue
+"{'type': 'Point', 'coordinates': [-73.91805390086148, 40.81561949150547]}",236439.908828,East 148 Street,10933,3rd Avenue,6,Willis Avenue
+"{'type': 'Point', 'coordinates': [-73.96164468622142, 40.655156429515785]}",177969.867715,Ocean Avenue,13509,Parkside Avenue,,
+"{'type': 'Point', 'coordinates': [-73.918911869282, 40.86485149435139]}",254376.739627,207 Street,13092,Post Avenue,5,10 Avenue
+"{'type': 'Point', 'coordinates': [-73.93810792805198, 40.84608773992304]}",247536.052803,Broadway,13091,175 Street,,Wadsworth Avenue
+"{'type': 'Point', 'coordinates': [-73.88421285915734, 40.7538199672836]}",213934.82574,69 Street,14783,34 Avenue,,94 Street
+"{'type': 'Point', 'coordinates': [-73.92768743803553, 40.86588951838883]}",254752.806677,Broadway,13092,Dyckman Street,"5,6",Seaman Avenue
+"{'type': 'Point', 'coordinates': [-73.91948841791006, 40.66852130662184]}",182847.001484,Legion Street,17614,Pitkin Avenue,,East New York Avenue
+"{'type': 'Point', 'coordinates': [-73.96371714350744, 40.71040496972048]}",198098.264484,Broadway,17613,Bedford Avenue,,South 6 Street
+"{'type': 'Point', 'coordinates': [-73.9994888051434, 40.73398467849834]}",206686.995998,Greenwich Avenue,12074,6th Avenue,4,Christopher Street
+"{'type': 'Point', 'coordinates': [-73.74908447341386, 40.76864868087139]}",219415.753307,41st Avenue,14505,235 Street,1,
+"{'type': 'Point', 'coordinates': [-73.99127477206584, 40.728164436445006]}",204566.62022,Cooper Square,11724,Bowery,,
+"{'type': 'Point', 'coordinates': [-73.75405196129952, 40.60431130813048]}",159539.176532,Mott Avenue,20529,Beach 21 Street,1,
+"{'type': 'Point', 'coordinates': [-73.95417447418026, 40.72298162069042]}",202681.56177,Nassau Avenue,18182,North 15 Street,2,Banker Street
+"{'type': 'Point', 'coordinates': [-73.9945944466309, 40.71519424407022]}",199841.105637,Canal Street,11723,Forsyth Street,,Division Street
+"{'type': 'Point', 'coordinates': [-73.9607231604604, 40.66298440813679]}",180821.93194,Empire Boulevard,13509,Washington Avenue,,Sterling Street
+"{'type': 'Point', 'coordinates': [-73.98302727731017, 40.69009847766713]}",190698.378158,Bond Street,16865,Dekalb Avenue,,Fulton Mall
+"{'type': 'Point', 'coordinates': [-74.0079525965079, 40.70767685138488]}",197102.345831,Liberty Street,13096,William Street,2,Maiden Lane
+"{'type': 'Point', 'coordinates': [-73.9505356482062, 40.781550071535484]}",224020.488308,2 Avenue,10099,91 Street,,3 Avenue
+"{'type': 'Point', 'coordinates': [-73.97796987774731, 40.75178744443264]}",213173.877906,East 41 Street,10353,Park Avenue,X,East 42 Street
+"{'type': 'Point', 'coordinates': [-73.94091019169423, 40.70356517935357]}",195609.765908,Moore Street,17213,Humboldt Street,5,Varet Street
+"{'type': 'Point', 'coordinates': [-73.93928798969654, 40.80471436890052]}",232461.999625,124 Street,13093,Park Avenue,"5,6",125 Street
+"{'type': 'Point', 'coordinates': [-73.96204299246072, 40.6826316823279]}",187979.832042,Grand Avenue,13829,Putnam Avenue,,Fulton Street
+"{'type': 'Point', 'coordinates': [-73.88306719662135, 40.66631175321807]}",182053.386279,Livonia Avenue,17214,Ashford Street,4,New Lots Avenue
+"{'type': 'Point', 'coordinates': [-73.96837710491704, 40.68416701971113]}",188538.502387,Fulton Street,13829,Gates Avenue,,Vanderbilt Avenue
+"{'type': 'Point', 'coordinates': [-73.86324498940928, 40.67926746399219]}",186781.478029,Forbell Street,24012,101 Street,4,Drew Street
+"{'type': 'Point', 'coordinates': [-73.89944408256581, 40.70062708984495]}",194549.809748,Stephen Street,15310,71 Avenue,,Myrtle Avenue
+"{'type': 'Point', 'coordinates': [-74.00921530794243, 40.71589684950713]}",200097.174491,Chambers Street,12076,Hudson Street,3,Reade Street
+"{'type': 'Point', 'coordinates': [-73.95231573816906, 40.71735015890995]}",200630.122794,North 10 Sreet,17613,Frost Street,3,Union Avenue
+"{'type': 'Point', 'coordinates': [-73.96387208245488, 40.69356913747857]}",191964.451287,Grand Avenue,17212,Myrtle Avenue,,Emerson Place
+"{'type': 'Point', 'coordinates': [-73.98687229069502, 40.71788517348163]}",200821.719828,Norfolk Street,11723,Delancey Street,6,Clinton Street
+"{'type': 'Point', 'coordinates': [-73.94666630156293, 40.7455856935937]}",210918.111927,Jackson Avenue,16858,46 Avenue,3,
+"{'type': 'Point', 'coordinates': [-73.99170772073553, 40.75055193782478]}",212723.083971,7 Avenue,10098,West 33 Street,,8 Avenue
+"{'type': 'Point', 'coordinates': [-73.98658087445325, 40.699088718523505]}",193973.61712,High Street,16865,Jay Street,,Manhattan Bridge

@@ -1,0 +1,52 @@
+isps_2,borough,multiple_points_of_entry,agreements,satellite_fixed_wireless_connection,fiber_connection
+"Other,Verizon,Towerstream,Time Warner Cable,Reliance,Lightower,Cogent",Manhattan,No,Yes,Yes,Yes
+"Verizon,Time Warner Cable,Sprint,Lightpath,Lightower,AT&T",Manhattan,Yes,Yes,No,Yes
+"Broadview,Zayo,Time Warner Cable,Verizon,Cogent,AT&T",Manhattan,Yes,No,No,Yes
+"Cogent,Cablevision,Other,Time Warner Cable,Verizon",Manhattan,No,Yes,No,Yes
+"Zayo,Verizon,Time Warner Cable,Sidera,Level(3),Cogent,AT&T",Manhattan,Yes,Yes,No,Yes
+"Verizon,Time Warner Cable,SignalPoint,Lightower,Cogent",Manhattan,Yes,Yes,No,Yes
+"Other,Zayo,XO Communications,Verizon,TW Telecom,Towerstream,Time Warner Cable,Sprint,Reliance,RCN,Rainbow Broadband,OCG,Lightpath,Lightower,Level(3),Cogent,Century Link,AT&T,Abovenet",Manhattan,Yes,Yes,Yes,Yes
+"Verizon FIOS,Verizon,Time Warner Cable,Broadview,AT&T",Manhattan,Yes,Yes,Yes,Yes
+"Zayo,Verizon FIOS,Verizon,Time Warner Cable,Rainbow Broadband,Lightpath,Lightower,Cogent",Manhattan,Yes,No,Yes,Yes
+"Verizon,Time Warner Cable,Lightpath,Level(3),Cogent,Abovenet",Manhattan,Yes,Yes,No,Yes
+"Towerstream,Verizon,Cogent",Manhattan,Yes,No,Yes,Yes
+"Zayo,Verizon,Time Warner Cable,Lightower,Cogent,AT&T",Manhattan,Yes,Yes,No,Yes
+"Verizon FIOS,Verizon,TW Telecom,Towerstream,Time Warner Cable,Abovenet",Manhattan,Yes,Yes,Yes,Yes
+"Verizon,TW Telecom,Time Warner Cable,Lightpath,Lightower,Level(3),Cogent,AT&T,Abovenet",Manhattan,Yes,Yes,Yes,Yes
+"Windstream,Verizon,TW Telecom,Time Warner Cable,Level(3),Broadview,Abovenet",Manhattan,Yes,Yes,No,Yes
+"Cogent,Other,Cablevision,Time Warner Cable,Verizon",Manhattan,Yes,No,No,Yes
+"Verizon,Time Warner Cable,Cogent,Cablevision,AT&T",Manhattan,No,Yes,No,Yes
+"Verizon,TW Telecom,Time Warner Cable,Cogent,Broadview,AT&T",Manhattan,Yes,No,No,Yes
+"Cablevision,AT&T,Time Warner Cable,Verizon",Manhattan,Yes,No,No,Yes
+"Verizon FIOS,Verizon,Time Warner Cable,SignalPoint,RCN,Cogent,Broadview,AT&T",Manhattan,Yes,Yes,Yes,Yes
+"Verizon,Time Warner Cable,Lightpath,Lightower,Cogent,AT&T,Abovenet",Manhattan,Yes,Yes,No,Yes
+"Verizon,Time Warner Cable,Cogent,AT&T",Manhattan,No,Yes,No,Yes
+"Lightower,Time Warner Cable,Verizon",Manhattan,Yes,No,No,Yes
+"Zayo,Verizon,Time Warner Cable,Lightpath,Lightower,Cogent,AT&T",Manhattan,Yes,Yes,No,Yes
+"Other,Zayo,Verizon,Time Warner Cable,Reliance,Cogent,AT&T,Abovenet",Manhattan,Yes,No,Yes,Yes
+"Verizon,Time Warner Cable,Rainbow Broadband,OCG,Cogent",Manhattan,Yes,Yes,Yes,Yes
+"Lightower,Cogent,Time Warner Cable,Verizon",Manhattan,Yes,No,No,Yes
+"Other,Verizon,Time Warner Cable,Lightpath,Cablevision,AT&T",Manhattan,Yes,No,Yes,Yes
+"RCN,Time Warner Cable,Lightower,AT&T,Verizon",Manhattan,Yes,Yes,No,Yes
+"Verizon,Time Warner Cable,Cablevision,AT&T",Manhattan,Yes,No,No,Yes
+"Verizon,Time Warner Cable,Lightpath,Lightower,Cogent,AT&T,Abovenet",Manhattan,Yes,Yes,No,Yes
+"Other,Lightower,Level(3),Time Warner Cable,Verizon,Cogent,AT&T",Manhattan,Yes,Yes,Yes,Yes
+"AT&T,Other,Time Warner Cable,Verizon",Manhattan,Yes,No,No,Yes
+"Zayo,Verizon,Time Warner Cable,Lightower,AT&T",Manhattan,No,Yes,No,Yes
+"Verizon,Time Warner Cable,Lightower,Cogent,AT&T,Abovenet",Manhattan,Yes,No,No,Yes
+"Verizon,Time Warner Cable,OCG,Cogent",Manhattan,Yes,Yes,No,Yes
+"Verizon FIOS,Verizon,Time Warner Cable,Lightpath,Lexent,Broadview",Manhattan,Yes,Yes,No,Yes
+"XO Communications,Verizon,Time Warner Cable",Manhattan,No,Yes,No,Yes
+"Verizon FIOS,Verizon,TW Telecom,Time Warner Cable,Sidera,Rainbow Broadband,Lightpath,Covad,Cogent,Broadview,AT&T,Abovenet",Manhattan,Yes,Yes,Yes,Yes
+"Verizon,Time Warner Cable,Lightower,Broadview",Manhattan,Yes,No,Yes,Yes
+"Verizon,Time Warner Cable,Earthlink,Covad,Cogent,Broadview,AT&T",Manhattan,Yes,Yes,Yes,Yes
+"XO Communications,Verizon,Time Warner Cable,Lightpath,Lightower,Level(3),Zayo,Reliance Globalcom,Cogent,AT&T,Verizon Business,Sprint,CDS",Manhattan,Yes,Yes,Yes,Yes
+"Verizon,Time Warner Cable,MegaPath",Manhattan,Yes,Yes,No,Yes
+"Verizon,Time Warner Cable,Rainbow Broadband,MegaPath,Broadview",Manhattan,Yes,Yes,Yes,Yes
+"XO Communications,Windstream,Verizon,TW Telecom,Time Warner Cable,Cogent,AT&T",Manhattan,Yes,No,No,Yes
+"Verizon,Time Warner Cable,Lightpath,Cogent,Broadview,Abovenet",Manhattan,Yes,Yes,No,Yes
+"Other,Verizon FIOS,Verizon,Time Warner Cable,Cogent,Broadview",Manhattan,Yes,No,Yes,Yes
+"Verizon,Time Warner Cable,Cogent,Broadview",Manhattan,Yes,No,Yes,Yes
+"Verizon,Time Warner Cable,SignalPoint,Cogent,Broadview",Manhattan,Yes,Yes,No,Yes
+"Verizon FIOS, Verizon, Time Warner Cable, Lightpath, Lightower",Manhattan,Yes,Yes,Yes,Yes
+"Other,Verizon,Time Warner Cable,Cogent,AT&T,Abovenet",Manhattan,Yes,No,No,Yes

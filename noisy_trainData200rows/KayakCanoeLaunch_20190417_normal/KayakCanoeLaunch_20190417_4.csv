@@ -1,0 +1,42 @@
+the_geom,name,councildis,borough,precinct,storage
+"{'type': 'Point', 'coordinates': [-73.77029999991872, 40.59889999955093]}",Bayswater,31.0,Q,101.0,
+"{'type': 'Point', 'coordinates': [-73.99689362335107, 40.70072652233201]}",Brooklyn Bridge Park,,B,,
+"{'type': 'Point', 'coordinates': [-73.96447171993913, 40.65618044729653]}",Prospect Park Lullwater,,B,,
+"{'type': 'Point', 'coordinates': [-73.84886936880663, 40.805161308614714]}",Pugsley Creek Park,18.0,X,43.0,Public storage container
+"{'type': 'Point', 'coordinates': [-73.96006810652572, 40.7385651591028]}",,,Q,,
+"{'type': 'Point', 'coordinates': [-73.84169894158131, 40.73910404149398]}",Ederle Terrace Flushing Meadows Corona Park,,Q,,
+"{'type': 'Point', 'coordinates': [-73.93567715156958, 40.769373740491325]}",Hallets Cove,22.0,Q,114.0,
+"{'type': 'Point', 'coordinates': [-74.25440000005239, 40.50250000016996]}",Conference House,51.0,R,123.0,
+"{'type': 'Point', 'coordinates': [-73.84878533941853, 40.793242425271195]}",MacNeil Park,,Q,,
+"{'type': 'Point', 'coordinates': [-73.78253393765878, 40.791269734287255]}",Fort Totten,19.0,Q,109.0,
+"{'type': 'Point', 'coordinates': [-74.01829656983445, 40.67858433495981]}",Louis J. Valention Park,38.0,B,76.0,No Storage Available
+"{'type': 'Point', 'coordinates': [-74.06499999962402, 40.589199999583386]}",South Beach,,R,,
+"{'type': 'Point', 'coordinates': [-73.88469999951687, 40.82750000036242]}",Concrete Plant Park,,X,,
+"{'type': 'Point', 'coordinates': [-73.87415332782643, 40.86688972512148]}",Kazimiroff Blvd at Bronx River Parkway,,X,,
+"{'type': 'Point', 'coordinates': [-74.0892697476957, 40.567125349390544]}",Midland Beach,50.0,R,122.0,
+"{'type': 'Point', 'coordinates': [-73.92094016409682, 40.85764468806712]}",Sherman Creek Waterfront,10.0,M,34.0,
+"{'type': 'Point', 'coordinates': [-74.0627999997247, 40.615600000430774]}",Alice Austen House/Buono Beach,,R,,
+"{'type': 'Point', 'coordinates': [-73.88917025617134, 40.80565757789492]}",Barretto Point Park,17.0,X,41.0,Storage 1 private(Senator Serrano) 2 public (Parks
+"{'type': 'Point', 'coordinates': [-73.88289470613873, 40.83246433773355]}",Starlight Park,,X,,
+"{'type': 'Point', 'coordinates': [-74.09541398879121, 40.56341374084352]}",Cedar Grove Beach,,R,,
+"{'type': 'Point', 'coordinates': [-73.95969999946226, 40.82059999984869]}",West Harlem Piers,,M,,
+"{'type': 'Point', 'coordinates': [-73.9319000004866, 40.8693999999752]}",Inwood Hill Park,7.0,M,34.0,None
+"{'type': 'Point', 'coordinates': [-74.19950362191517, 40.513012228596494]}",Lemon Creek Marina,,R,,Winter storage available only
+"{'type': 'Point', 'coordinates': [-73.921099999622, 40.58279999982833]}",Plumb Beach,,B,,
+"{'type': 'Point', 'coordinates': [-73.79739699453121, 40.87233770209129]}",Pelham Bay Park (Orchard Beach Lagoon),13.0,X,45.0,No storage available
+"{'type': 'Point', 'coordinates': [-73.9317000002909, 40.60250000016796]}",Salt Marsh Nature Center (Gerritsen Inlet),46.0,B,63.0,No Storage available
+"{'type': 'Point', 'coordinates': [-74.10839733735786, 40.61815587459767]}",Clove Lakes Park,,R,,
+"{'type': 'Point', 'coordinates': [-73.90535540610057, 40.62739774783106]}",Sebago Canoe Club (Paerdegat Basin),46.0,B,69.0,"Public Storage 10 kayaks, 10 canoes"
+"{'type': 'Point', 'coordinates': [-73.82472379617205, 40.797245026839384]}",Francis Lewis Park,19.0,Q,109.0,None
+"{'type': 'Point', 'coordinates': [-73.98510834658305, 40.78599911091254]}",Riverside Park (79th Street),6.0,M,20.0,Public Storage for up to 80 kayaks at boat basin
+"{'type': 'Point', 'coordinates': [-73.91763031087324, 40.8743876668788]}",Muscota Marsh Park / Inwood Hill Park,,M,,
+"{'type': 'Point', 'coordinates': [-73.9880793591056, 40.78183699308746]}",Riverside Park (72nd Street),6.0,M,20.0,None
+"{'type': 'Point', 'coordinates': [-73.73692941780958, 40.64922890418672]}",Idlewild,31.0,Q,105.0,
+"{'type': 'Point', 'coordinates': [-73.76827236508763, 40.7794754558791]}",Bayside Marina,19.0,Q,111.0,None
+"{'type': 'Point', 'coordinates': [-73.86673090832967, 40.81057928089774]}",Soundview Park,18.0,X,43.0,
+"{'type': 'Point', 'coordinates': [-73.96885837709186, 40.774885488538644]}",Central Park Loeb Boathouse,,M,,
+"{'type': 'Point', 'coordinates': [-73.8814407326546, 40.81788648701913]}",Hunts Point Riverside Park,17.0,X,41.0,"Private storage only (belongs to ""rocking the boat"
+"{'type': 'Point', 'coordinates': [-73.86730825512917, 40.88445059820575]}",Shoelace Park,12.0,X,47.0,
+"{'type': 'Point', 'coordinates': [-73.90234759502358, 40.61202244141994]}",Mill Basin Marina,46.0,B,63.0,Winter storage for boats only
+"{'type': 'Point', 'coordinates': [-73.84348965653692, 40.763345056954535]}",World's Fair Marina,21.0,Q,110.0,Public storage available
+"{'type': 'Point', 'coordinates': [-73.8849980484169, 40.62913959760067]}",Canarsie Pier,,B,,

@@ -1,0 +1,201 @@
+map,wmu,label
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Glen_Road.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Center_Jewett.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Dinch_Road.pdf'},3A,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Chambers_Hollow.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Beech_Hill.pdf'},4W,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Forest_Road.pdf'},3H,No Permit Required
+{'url': 'https://www1.nyc.gov/assets/dep/downloads/pdf/recreation/angler-maps/Boyd_Corners.pdf'},3N,Fishing Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Blodgett_Road.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Denver.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Carey_Road.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Boulder_Hill.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Buffalo_Hollow.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Birch_Creek.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Cleaver.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Flat_Brook.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Acorn_Hill.pdf'},3C,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bull_Hill.pdf'},4G,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Honest_Brook.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Flynn_Brook.pdf'},4P,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Hinkley.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Cat_Hollow.pdf'},4W,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Herrick_Hill.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Brownell_Creek.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Conklin_Brook.pdf'},3H,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Huntersfield_Creek.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Balsam_Mountain.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Davis_Hollow.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Gregory_Hill.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Diamond_Road.pdf'},3H,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/East_Fishkill.pdf'},3N,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Gun_House_Hill.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Diamond_Notch.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Carman_Road.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Cross_River_Outlet.pdf'},,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Baxter_Brook.pdf'},4W,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Boyd_Corners_Outlet.pdf'},,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Betts_Hill.pdf'},4O,No Permit Required
+{'url': 'https://www1.nyc.gov/assets/dep/downloads/pdf/recreation/angler-maps/Croton_Falls.pdf'},3N,Fishing Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bussey_Hollow.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Boyd_Corners_South.pdf'},3N,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Hardscrabble_Road.pdf'},4P,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Dog_Hill.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Batavia_Kill.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bigger_Hollow.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Carriage_House.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bagley_Brook_Headwaters.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Caulkins_Road.pdf'},4G,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Ashokan_Day_Use_Area.pdf'},3C,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Beetree_Hill.pdf'},3A,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Halcott.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Gladstone_Hollow.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Dancing_Rock.pdf'},3C,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bushkill_Fishing.pdf'},3C,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Camp_Meadowbrook.pdf'},3A,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Coulter_Brook.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/East_Mountain.pdf'},3C,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Glen_Burnie.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Beaverkill.pdf'},3A,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Big_Indian.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bungalow_Brook.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bryants_Brook.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bullet_Hole.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Brower_Hill.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Huckleberry_Brook.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Black_Road.pdf'},3A,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Case_Road.pdf'},4R,No Permit Required
+{'url': 'https://www1.nyc.gov/assets/dep/downloads/pdf/recreation/angler-maps/Bog_Brook.pdf'},3G,Fishing Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Cole_Hill.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bloomville.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Alamar.pdf'},3N,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Arena.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/East_Platner_Brook.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Horton_Brook.pdf'},4W,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Freer_Hollow.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Durham_Road.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/East_River_Road.pdf'},4P,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Boyd_Corners_North.pdf'},3N,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Betty_Brook_Road.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/East_Bramley_Mountain.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Allaben.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Hubbard_Hill.pdf'},4G,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Green_Eyes.pdf'},3C,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Fox_Hollow.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Devasego_Park_Day_Use_Area.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Chichester.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bull_Hill_South.pdf'},4G,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Diverting_Outlet.pdf'},3N,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Ashokan_Brook.pdf'},3C,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Covesville.pdf'},4R,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Beerston.pdf'},4W,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Hawk_Hollow.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Herdman_Road.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Glenford.pdf'},3C,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Big_Peninsula.pdf'},3S,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Horse_Pound_Brook.pdf'},3N,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Delaware_Headwaters.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Cape_Horn.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Holmes_Hollow.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Fish_Brook.pdf'},4O,No Permit Required
+{'url': 'https://www1.nyc.gov/assets/dep/downloads/pdf/recreation/angler-maps/East_Branch.pdf'},3G,Fishing Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Hughes_Brook.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Hollister_Hill.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Beaverkill_West.pdf'},4W,No Permit Required
+{'url': 'https://www1.nyc.gov/assets/dep/downloads/pdf/recreation/angler-maps/Amawalk.pdf'},3S,Fishing Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Griffin_Hill.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/East_Masonville.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Fall_Clove_Road.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Finch_Hollow.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bragg_Hollow.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bluebird_Road.pdf'},4R,No Permit Required
+{'url': 'https://www1.nyc.gov/assets/dep/downloads/pdf/recreation/angler-maps/Diverting.pdf'},3N,Fishing Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Garfield_Avenue.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Brooksburg.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Batavia.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/East_Neversink.pdf'},3H,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Barbour_Brook.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Carver_Hill.pdf'},3N,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Fletcher_Hollow.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/High_Peak.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Dixon.pdf'},3N,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Boulevard_Road.pdf'},3C,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Couse_Hill.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bluebird_Road_North.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Floyd_Finch_Road.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Beech_Ridge.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Brook_Road.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bobs_Brook.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Cross_River_Dam_Day_Use_Area.pdf'},3S,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Dingle_Hill.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Dryden_Brook.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bagley_Brook.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Hubbell_Hill_Hollow.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Dunraven_North.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Chandler_Cove.pdf'},3H,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Big_Hollow.pdf'},3H,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Duggan_Hill.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Dry_Brook.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Black_Dome_Valley.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Adams.pdf'},3N,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Hickory_Nut_Hill.pdf'},3N,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Chestnut_Creek.pdf'},3H,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bushkill.pdf'},3C,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bramley_Mountain.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Barkaboom.pdf'},4W,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Ashokan_North.pdf'},3C,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Hubbell_Hill.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Canada_Hollow.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Farmers_Mills.pdf'},3N,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Halcott_Center_North.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Grinch_House.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Denman_Mountain.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Fall_Clove_South.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Broadstreet_Hollow.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Alpaca_Ridge.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bear_Spring.pdf'},4W,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Herrick_Hollow.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Deer_Kill_Creek.pdf'},3C,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Crescent_Valley.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Hemlock_Knolls.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Campbell_Road.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Deer_Run.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Cross_Road.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Dunraven_Day_Use_Area.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Hobart_Hill.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Covered_Bridge.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Barnum_Road.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Conesville.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Archie_Elliott_Road.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Halcott_Center.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Churchill_Mountain.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Four_Corners.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Airport_Road.pdf'},4R,No Permit Required
+{'url': 'https://www1.nyc.gov/assets/dep/downloads/pdf/recreation/angler-maps/Cross_River.pdf'},3S,Fishing Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Croton_Falls_Outlet.pdf'},,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Covert_Hollow.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Basin_Clove.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Devasego.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bell_Hill.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Brodhead.pdf'},3C,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Dean_Pond.pdf'},3N,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Elk_Creek.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Chipmunk_Hollow.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Cave_Mountain.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/East_Branch_Delaware.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/East_Brook.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Brush_Ridge.pdf'},4R,No Permit Required
+{'url': 'https://www1.nyc.gov/assets/dep/downloads/pdf/recreation/angler-maps/Cannonsville.pdf'},4O,Fishing Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bump_Mountain.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Crystal_Creek.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/East_Branch_Outlet.pdf'},,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Beaches_Corner.pdf'},3A,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Beaver_Hill.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/East_Windham.pdf'},4R,No Permit Required
+{'url': 'https://www1.nyc.gov/assets/dep/downloads/pdf/recreation/angler-maps/Ashokan.pdf'},3C,Fishing Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Fish_Hollow.pdf'},4O,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Angle_Fly.pdf'},3S,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Bear_Kill_Headwaters.pdf'},4P,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Amawalk_Outlet.pdf'},,Access by Permit Only
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Cozy_Hollow.pdf'},4R,No Permit Required
+{'url': 'http://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Blue_Hill.pdf'},3A,No Permit Required

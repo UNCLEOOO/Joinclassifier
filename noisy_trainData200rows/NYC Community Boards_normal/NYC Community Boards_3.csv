@@ -1,0 +1,61 @@
+cb_office_address,:@computed_region_f5dn_yrer,locationpoint,latitude,:@computed_region_efsh_h5xi,longitude
+30-50 Whitestone Expressway Flushing/Whitestone,22,"{'type': 'Point', 'coordinates': [-73.835639, 40.770483]}",40.770483,13832,-73.835639
+"900 South Ave Staten Island, NY 10314",30,"{'type': 'Point', 'coordinates': [-74.173997, 40.61431]}",40.61431,10700,-74.173997
+"219-41 Jamaica Avenue, Queens Village, NY 11428",63,"{'type': 'Point', 'coordinates': [-73.735032, 40.718636]}",40.718636,24338,-73.735032
+"1201 Surf Ave, Brookyn, 3rd Floor NY 11224",21,"{'type': 'Point', 'coordinates': [-73.979791, 40.575549]}",40.575549,18184,-73.979791
+"3024 3rd Ave. Bronx, NY 10455",49,"{'type': 'Point', 'coordinates': [-73.913373, 40.819717]}",40.819717,10933,-73.913373
+"61-23 Myrtle Ave., Middle Village",54,"{'type': 'Point', 'coordinates': [-73.893734, 40.700875]}",40.700875,15310,-73.893734
+"3 Washington Square Village, #1A, New York, NY",57,"{'type': 'Point', 'coordinates': [-73.998557, 40.727881]}",40.727881,12075,-73.998557
+"104-01 Metropolitan Ave., Forest Hills/Rego Park",40,"{'type': 'Point', 'coordinates': [-73.848564, 40.710102]}",40.710102,14786,-73.848564
+"250 W. 87th Street, New York, NY",20,"{'type': 'Point', 'coordinates': [-73.976245, 40.789078]}",40.789078,12421,-73.976245
+"424 West 33rd Street New York, NY",12,"{'type': 'Point', 'coordinates': [-73.997704, 40.753099]}",40.753099,11722,-73.997704
+"43-22 50th Ave., Woodside",53,"{'type': 'Point', 'coordinates': [-73.922363, 40.737749]}",40.737749,14787,-73.922363
+"2214 Bath Ave, Brooklyn, NY 11214",1,"{'type': 'Point', 'coordinates': [-73.996878, 40.598223]}",40.598223,17616,-73.996878
+"1243 Woodrow Road Staten Island, N. Y. 10309",15,"{'type': 'Point', 'coordinates': [-74.206175, 40.541857]}",40.541857,10696,-74.206175
+"1967 Turnbull Ave, Rm 7  Bronx, NY 10473",58,"{'type': 'Point', 'coordinates': [-73.856686, 40.823018]}",40.823018,11611,-73.856686
+"46-21 Little Neck Parkway, Little Neck, NY 11362",26,"{'type': 'Point', 'coordinates': [-73.734266, 40.770354]}",40.770354,14197,-73.734266
+"46-11 104th Street., Elmhurst",66,"{'type': 'Point', 'coordinates': [-73.859814, 40.746246]}",40.746246,14510,-73.859814
+"90-28 161st Street, Jamaica, NY 11432",41,"{'type': 'Point', 'coordinates': [-73.799274, 40.70519]}",40.70519,24340,-73.799274
+"197-15 Hillside Avenue, Hollis, NY 11423",25,"{'type': 'Point', 'coordinates': [-73.765169, 40.718496]}",40.718496,24332,-73.765169
+"450 7th Avenue, New York, NY",11,"{'type': 'Point', 'coordinates': [-73.990367, 40.751359]}",40.751359,11722,-73.990367
+"115-01 Lefferts Blvd, South Ozone Park, NY 11420",62,"{'type': 'Point', 'coordinates': [-73.81957, 40.676873]}",40.676873,24016,-73.81957
+"1426 Boston Rd Bronx, NY 10456",34,"{'type': 'Point', 'coordinates': [-73.897021, 40.833189]}",40.833189,10934,-73.897021
+"4201 4th Ave, Brooklyn, NY 11232",9,"{'type': 'Point', 'coordinates': [-74.008166, 40.650316]}",40.650316,13515,-74.008166
+"2155 University Avenue,BCC Campus Gould Hall - Room 200",24,"{'type': 'Point', 'coordinates': [-73.909343, 40.857857]}",40.857857,10931,-73.909343
+"127 Pennsylvania Avenue, 2nd Floor
+Brooklyn, New York 11207",45,"{'type': 'Point', 'coordinates': [-73.871091, 40.67588]}",40.67588,17215,-73.871091
+"1650 Selwyn Ave. Suite #11A  Bronx, NY 10457",50,"{'type': 'Point', 'coordinates': [-73.910407, 40.843248]}",40.843248,10935,-73.910407
+"1932 Arthur Avenue, Rm. 403-A Bronx, NY 10457",35,"{'type': 'Point', 'coordinates': [-73.893294, 40.845685]}",40.845685,10935,-73.893294
+"1 Centre Street New York, NY",56,"{'type': 'Point', 'coordinates': [-74.004181, 40.713001]}",40.713001,11728,-74.004181
+"444 Thomas Boyland Street, Rm. 103 Brooklyn, NY 11212",55,"{'type': 'Point', 'coordinates': [-73.913812, 40.670104]}",40.670104,17614,-73.913812
+"229A E. 204th St. Bronx, NY 10458",24,"{'type': 'Point', 'coordinates': [-73.885314, 40.874409]}",40.874409,10936,-73.885314
+"82-11 37th Ave., Jackson Heights",65,"{'type': 'Point', 'coordinates': [-73.884103, 40.749775]}",40.749775,14783,-73.884103
+"1097 Bergen Ave, Brooklyn, NY 11234",5,"{'type': 'Point', 'coordinates': [-73.916196, 40.628813]}",40.628813,13825,-73.916196
+"Queens Borough Hall, 120-55 Queens Blvd, Kew Gardens, NY 11424",46,"{'type': 'Point', 'coordinates': [-73.828838, 40.71398]}",40.71398,24333,-73.828838
+"435 Graham Avenue, Brooklyn, NY 11211",36,"{'type': 'Point', 'coordinates': [-73.944994, 40.718173]}",40.718173,17613,-73.944994
+"4101 White Plains Rd Bronx, NY 10466",29,"{'type': 'Point', 'coordinates': [-73.858862, 40.89074]}",40.89074,11275,-73.858862
+"3165 E Tremont Ave Bronx, NY 10461",43,"{'type': 'Point', 'coordinates': [-73.834306, 40.837337]}",40.837337,11270,-73.834306
+"5910 13th Ave, Brooklyn, NY 11219",2,"{'type': 'Point', 'coordinates': [-73.998083, 40.629302]}",40.629302,17621,-73.998083
+"1741 Colden Ave Bronx, NY 10462",59,"{'type': 'Point', 'coordinates': [-73.855711, 40.847348]}",40.847348,11271,-73.855711
+"5676 Riverdale Ave,  Suite 100 Bronx, NY 10471",48,"{'type': 'Point', 'coordinates': [-73.904259, 40.906226]}",40.906226,11609,-73.904259
+"45-02 Ditmars Blvd., Astoria",39,"{'type': 'Point', 'coordinates': [-73.903082, 40.770738]}",40.770738,16862,-73.903082
+"1420 Bushwick Avenue Brooklyn, NY 11207-1422",42,"{'type': 'Point', 'coordinates': [-73.909056, 40.684318]}",40.684318,17214,-73.909056
+"1291 St. Marks Avenue, Brooklyn, NY 11213",16,"{'type': 'Point', 'coordinates': [-73.926342, 40.673922]}",40.673922,17615,-73.926342
+"4112 Farragut Road Brooklyn, New York 11210",61,"{'type': 'Point', 'coordinates': [-73.937282, 40.636927]}",40.636927,17217,-73.937282
+"1664 Park Avenue New York, NY 10035",7,"{'type': 'Point', 'coordinates': [-73.942564, 40.800223]}",40.800223,13093,-73.942564
+215 West 125th Street,18,"{'type': 'Point', 'coordinates': [-73.948979, 40.809259]}",40.809259,12424,-73.948979
+"890 Nostrand Avenue, Brooklyn, NY 11225",17,"{'type': 'Point', 'coordinates': [-73.95072, 40.667628]}",40.667628,13509,-73.95072
+"350 Jay Street Brooklyn, NY 11201",68,"{'type': 'Point', 'coordinates': [-73.987249, 40.69351]}",40.69351,16865,-73.987249
+"59 East 4th Street, New York, NY",70,"{'type': 'Point', 'coordinates': [-73.990807, 40.726785]}",40.726785,11724,-73.990807
+"250 Baltic Street, Brooklyn, NY 11201",14,"{'type': 'Point', 'coordinates': [-73.994671, 40.686295]}",40.686295,16865,-73.994671
+"Kingsboro Community College, 2001 Oriental Boulevard, Room C124 Brooklyn, NY 11235",32,"{'type': 'Point', 'coordinates': [-73.93535, 40.577904]}",40.577904,13826,-73.93535
+"1 Edgewater Plaza Staten Island, NY 10305",4,"{'type': 'Point', 'coordinates': [-74.068717, 40.619035]}",40.619035,10692,-74.068717
+"530 West 166th Street New York, NY 10032",47,"{'type': 'Point', 'coordinates': [-73.939339, 40.839328]}",40.839328,13090,-73.939339
+"1931 Mott Avenue, Far Rockaway, NY 11691",51,"{'type': 'Point', 'coordinates': [-73.752344, 40.603937]}",40.603937,20529,-73.752344
+"1360 Fulton Street,  Brooklyn NY11216",69,"{'type': 'Point', 'coordinates': [-73.94593, 40.680186]}",40.680186,17618,-73.94593
+"505 Park Avenue New York, NY 10022",23,"{'type': 'Point', 'coordinates': [-73.969641, 40.763117]}",40.763117,12419,-73.969641
+"1029 E 163rd St. Bronx, NY 10459",8,"{'type': 'Point', 'coordinates': [-73.891801, 40.820992]}",40.820992,10937,-73.891801
+"211 East 43rd Street, New York, NY",71,"{'type': 'Point', 'coordinates': [-73.973458, 40.751238]}",40.751238,12079,-73.973458
+"810 East 16th St, Brooklyn, NY 11230",60,"{'type': 'Point', 'coordinates': [-73.961333, 40.629817]}",40.629817,13513,-73.961333
+"8119 5th Ave, Brooklyn, NY 11209",10,"{'type': 'Point', 'coordinates': [-74.024525, 40.624842]}",40.624842,17216,-74.024525
+"16-18 Old Broadway New York, NY 10027",37,"{'type': 'Point', 'coordinates': [-73.957204, 40.815433]}",40.815433,12424,-73.957204

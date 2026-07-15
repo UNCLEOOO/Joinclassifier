@@ -1,0 +1,201 @@
+prop_id,propnum,jurisdiction,zipcode,category,prop_name,precinct,council_district
+B121,B121,DPR,11225,Small Park,Dodger Playground,71.0,35
+B184,B184,DPR,11223,Small Park,Avenue R Mall,61.0,"44,47,48"
+B191,B191,DPR,11219,Small Park,Park,66.0,44
+BZ483,BZ483,DOT,11208,Greenstreet,GREENSTREET,75.0,42
+B152,B152,DPR,11219,Small Park,Rappaport Playground,66.0,43
+B211,B211,DPR,11223,Small Park,Lady Moody Triangle,61.0,47
+B129-01,B129,DPR,11224,Small Park,Kaiser Park,60.0,47
+B210Q,B210Q,DPR,"11209, 11228",Greenstreet,Park,68.0,43
+B147,B147,DPR,11234,Small Park,Monsignor Crawford Field,63.0,46
+B169-ZN03A,B169,DPR,11224,Large Park,Coney Island Beach & Boardwalk,60.0,47
+B126-ZN05,B126,DPR,11231,Large Park,Red Hook Recreation Area,76.0,38
+B163,B163,DPR,11208,Small Park,Sperandeo Brothers Playground,75.0,37
+B200,B200,DPR,11233,Small Park,Elizabeth Stroud Playground,81.0,36
+B208,B208,DPR,11229,Small Park,Pfc Norton Playground,61.0,46
+B082-01B,B082,DPR,11209,Small Park,Shore Park and Parkway,68.0,47
+BZ505,BZ505,DOT,11233,Greenstreet,GREENSTREET,73.0,41
+B210N,B210N,DPR,11220,Other,Park,72.0,38
+B167,B167,DPR,11211,Small Park,La Guardia Playground,90.0,34
+B113,B113,DPR,11201,Small Park,Plazas,84.0,
+B210G,B210G,DPR,11215,Small Park,Triangle Three Sixteen,72.0,38
+B113A,B113A,DPR,11201,Large Park,Cadman Plaza Park,84.0,33
+B173,B173,DPR,11234,Small Park,Fraser Square,63.0,45
+B179,B179,DPR/CDOT,11230,Small Park,Flatbush Malls,70.0,45
+B125-ZN02,B125,DPR,11214,Large Park,Calvert Vaux Park,60.0,47
+B169-ZN01B,B169,DPR,11235,Large Park,Coney Island Beach & Boardwalk,60.0,48
+B212,B212,DPR,11210,Small Park,Hot Spot Tot Lot,70.0,45
+B210U,B210U,DPR,11209,Other,Park,68.0,47
+B087-01,B087,DPR,11232,Small Park,Sunset Park,72.0,38
+B123,B123,DPR,11219,Small Park,Alben Square,66.0,44
+B166D-01,B166D,DPR,11234,Small Park,McGuire Fields,63.0,46
+B082-ZN02,B082,DPR,11209,Large Park,Shore Park and Parkway,68.0,47
+B222,B222,DPR,11201,Small Park,Pierrepont Playground,84.0,33
+B126-ZN02,B126,DPR,11231,Large Park,Red Hook Recreation Area,76.0,38
+B167A,B167A,DPR,11211,Small Park,La Guardia Playground,90.0,34
+B202,B202,DPR,11211,Small Park,Lithuania Square,90.0,34
+B210K,B210K,-,11220,,Park,72.0,
+B088-02,B088,DPR,11216,Small Park,Herbert Von King Park,79.0,36
+B089,B089,DPR,11238,Small Park,Lowry Triangle,77.0,35
+B125-ZN01,B125,DPR,11214,Large Park,Calvert Vaux Park,60.0,47
+B150-01,B150,DPR,11230,,Kolbert Playground,70.0,44
+B210V,B210V,DPR,11228,Other,Park,68.0,50
+B159,B159,DPR,11238,Large Park,Mount Prospect Park,78.0,35
+B210A,B210A,DPR,11220,Small Park,John Allen Payne Playground,72.0,47
+B126-ZN04,B126,DPR,11231,Large Park,Red Hook Recreation Area,76.0,38
+B210E,B210E,-,11232,,Park,72.0,
+B093,B093,DPR,11233,Small Park,Weeksville Playground,81.0,41
+B082,B082,DPR/CDOT,"11209, 11220",Large Park,Shore Park and Parkway,72.0,47
+B219,B219,DPR,11233,Small Park,Callahan-Kelly Playground,73.0,37
+B120,B120,-,11215,Small Park,Under The Tracks Playground (MTA PROPERTY),78.0,
+B113B,B113B,DPR,11201,Small Park,Korean War Veterans Plaza,84.0,33
+B095,B095,DPR,11215,Small Park,Ennis Playground,78.0,38
+B210W-03,B210W,DPR,11209,Playground,John J Carty Park,68.0,47
+B137,B137,DPR,11217,Small Park,Sixteen Sycamores Playground,84.0,33
+B166C,B166C,DPR,11214,Large Park,Coney Island Boat Basin,60.0,47
+B166-ZN01,B166,DPR,11209,Large Park,Belt Parkway/Shore Parkway,68.0,50
+B082-ZN04,B082,DPR,11209,Large Park,Shore Park and Parkway,68.0,47
+B145,B145,DPR,11217,Small Park,Thomas Greene Playground,78.0,39
+B210M,B210M,DPR,11220,Other,Park,68.0,47
+B160,B160,DPR,11223,Small Park,Ketchum Triangle,62.0,43
+B210H,B210H,DPR,11231,Small Park,Harold Ickes Playground,76.0,"38, 39"
+B153,B153,DPR/NYCHA,11233,Small Park,South Pacific Playground,73.0,41
+B146,B146,DPR,11220,Small Park,Quaker Parrot Park at the Dust Bowl,68.0,38
+B164,B164,DPR,11214,Small Park,Bath Beach Park,62.0,47
+B210J,B210J,DPR/DOE,11220,Small Park,Pena Herrera Playground,72.0,38
+B192A,B192A,DOE,11209,Large Park,Fort Hamilton Athletic Field,68.0,47
+B169-ZN06A,B169,DPR,11224,Large Park,Coney Island Beach & Boardwalk,60.0,47
+B169-ZN05B,B169,DPR,11224,Large Park,Coney Island Beach & Boardwalk,60.0,47
+B102,B102,DPR,11238,Small Park,Crispus Attucks Playground,88.0,35
+B214-02,B214,DPR,11207,Small Park,Linden Park,75.0,42
+B094,B094,DPR,11229,Small Park,Sgt. Joyce Kilmer Square,61.0,48
+B178,B178,DPR/CDOT,"11210, 11230",Small Park,Flatbush Malls,70.0,45
+B126A,B126A,DPR,11231,Small Park,Todd Triangle,76.0,38
+B132,B132,DPR,11206,Small Park,Gilbert Ramirez Park,90.0,34
+B169-ZN04B,B169,DPR,11224,Large Park,Coney Island Beach & Boardwalk,60.0,47
+B210O,B210O,DPR,11220,Other,Park,68.0,38
+B168,B168,DPR,11211,Small Park,Continental Army Plaza,90.0,34
+B126-ZN07,B126,DPR,11231,Large Park,Red Hook Recreation Area,76.0,38
+B131,B131,DPR/TRANSIT,11207,Small Park,Rudd Playground,83.0,37
+B194,B194,DPR,11206,Small Park,Harmony Triangle,90.0,33
+B210T,B210T,DPR,11209,Other,Park,68.0,43
+B175,B175,DPR,11204,Small Park,Dahill Triangle,62.0,44
+B118B,B118B,DPR,11231,Small Park,St. Mary's Park,76.0,39
+B118A,B118A,DPR,11231,Small Park,St. Mary's Park,76.0,39
+B166D,B166D,DPR,11234,Large Park,McGuire Fields,63.0,46
+B126-01,B126,DPR,11231,Small Park,Red Hook Recreation Area,76.0,38
+B100-02,B100-02,DOT,11204,Small Park,Bealin Square,62.0,43
+B210Q-BZ562,B210Q-BZ562,DOT,11209,Greenstreet,Coffey Square,68.0,38
+BZ506,BZ506,DOT,11233,Greenstreet,GREENSTREET,73.0,41
+B124,B124,DPR/DOE,11211,Small Park,William Sheridan Playground,90.0,34
+B210B,B210B,DPR,11232,Small Park,D'Emic Playground,72.0,38
+B117,B117,DPR,11206,Small Park,Lindsay Triangle,90.0,33
+B157,B157,DPR,11229,Small Park,Kelly Park Playground,61.0,48
+BZ507,BZ507,DOT,11237,Greenstreet,Heisser Triangle,83.0,37
+B169-ZN02B,B169,DPR,11224,Large Park,Coney Island Beach & Boardwalk,60.0,47
+B215,B215,DPR/DOE,11233,Small Park,Decatur Playground,81.0,36
+B140,B140,DPR/DOE,11216,Small Park,Banneker Playground,79.0,36
+B210S,B210S,DPR,11209,Other,Park,68.0,47
+B213,B213,DPR,11223,Small Park,Gravesend Triangle,61.0,44
+B162,B162,DPR,11219,Small Park,Brizzi Playground,66.0,38
+B082-ZN06,B082,DPR,11220,Large Park,Shore Park and Parkway,68.0,47
+B135,B135,DPR,11222,Small Park,Newtown Barge Playground,94.0,33
+B141,B141,DPR,11208,Small Park,City Line Park,75.0,37
+B169B,B169B,DPR,11224,Small Park,Poseidon Playground,60.0,47
+B100-01,B100,DPR,11204,Small Park,Seth Low Playground/ Bealin Square,62.0,43
+B166B,B166B,DPR,11235,Small Park,Homecrest Playground,61.0,48
+B088-03,B088,DPR,11216,Small Park,Herbert Von King Park,79.0,36
+B149B,B149B,DPR,11208,Small Park,Linwood Playground,75.0,42
+B210R,B210R,DPR,11209,Other,Park,68.0,43
+B210C,B210C,DPR,11231,Small Park,Cough Triangle,76.0,39
+B214-01,B214,DPR,11207,Small Park,Linden Park,75.0,42
+B196,B196,DPR,11211,Small Park,Pvt. Sonsire Triangle,94.0,33
+B129-ZN01,B129,DPR,11224,Large Park,Kaiser Park,60.0,47
+B150,B150,DPR,11230,Small Park,Kolbert Playground,70.0,44
+B169,B169,DPR,"11224, 11235",Large Park,Coney Island Beach & Boardwalk,60.0,"47, 48"
+B174,B174,DPR,11212,Small Park,Park,67.0,41
+B151,B151,DPR,11218,Small Park,Dome Playground,66.0,39
+B205,B205,DPR,11229,Small Park,Corporal Wiltshire Square,61.0,48
+B165A,B165A,DPR,11239,Other,Spring Creek Park,75.0,42
+B210I,B210I,DPR,11232,Small Park,Gonzalo Plasencia Playground,72.0,38
+B210P,B210P,DPR,11209,Small Park,Dan Ross Playground,68.0,43
+B207,B207,DPR,11234,Small Park,Sarsfield Playground,63.0,45
+B115,B115,DPR,11211,Small Park,Cohn Triangle,90.0,34
+B169C,B169C,-,11224,,Boardwalk Garden,60.0,
+B218,B218,DPR,11203,Small Park,Paerdegat Park,67.0,45
+B166E,B166E,DPR,11235,Small Park,Sixteen Lindens Triangle,61.0,48
+BZ502,BZ502,DOT,11223,Greenstreet,Mickey Kairey Garden,61.0,44
+B081,B081,-,11218,,Park,72.0,
+B182,B182,DPR,11212,Small Park,Howard Malls,73.0,41
+B159-01,B159,DPR,11238,Small Park,Mount Prospect Park,78.0,35
+B169-ZN02A,B169,DPR,11224,Large Park,Coney Island Beach & Boardwalk,60.0,47
+B161,B161,DPR,11238,Small Park,James Forten Playground,77.0,35
+B165,B165,DPR,"11208, 11414",Large Park,Spring Creek Park,75.0,42
+B169-ZN07A,B169,DPR,11224,Large Park,Coney Island Beach & Boardwalk,60.0,47
+B193,B193,DPR,11203,Small Park,Hamilton Metz Field,71.0,40
+B129-ZN02,B129,DPR,11224,Large Park,Kaiser Park,60.0,47
+B217,B217,DPR,11206,Small Park,Marcy Playground,79.0,36
+B129,B129,DPR,11224,Large Park,Kaiser Park,60.0,47
+B125-01,B125,DPR,11214,Small Park,Calvert Vaux Park,60.0,47
+B085,B085,DPR,11211,,Metropolitan Recreation Center,90.0,34
+B216,B216,DPR/DOE,11221,Small Park,Raymond Bush Playground,79.0,36
+B210W,B210W,DPR,11209,Large Park,John J Carty Park,68.0,47
+B139,B139,DPR,11221,Small Park,Heckscher Playground,83.0,37
+B176,B176,DPR,11234,Greenstreet,Trust Triangle,63.0,46
+B148,B148,DPR,11226,Small Park,Rolph Henry Playground,71.0,40
+B214,B214,DPR,11207,Large Park,Linden Park,75.0,42
+B154,B154,DPR,11211,Small Park,Berry Playground,90.0,34
+B169-ZN06B,B169,DPR,11224,Large Park,Coney Island Beach & Boardwalk,60.0,47
+B126-ZN06,B126,DPR,11231,Large Park,Red Hook Recreation Area,76.0,38
+B126-ZN03,B126,DPR,11231,Large Park,Red Hook Recreation Area,76.0,38
+B166C-ZN01,B166C,DPR,11214,Large Park,Coney Island Boat Basin,60.0,47
+B116,B116,DPR,11212,Small Park,Zion Triangle,73.0,41
+B198,B198,-,"11203, 11210, 11212, 11229, 11234",Small Park,Kings Highway Malls,70.0,
+B210D,B210D,DPR,"11215, 11232",Small Park,Park,72.0,38
+B082-ZN01,B082,DPR,11209,Large Park,Shore Park and Parkway,68.0,47
+B172,B172,DPR,11219,Small Park,Heffernan Triangle,66.0,38
+B220,B220,DPR,11205,Small Park,Washington Hall Park,88.0,35
+B082-02,B082,DPR,11209,Small Park,Shore Park and Parkway,68.0,47
+BZ503,BZ503,DOT,11228,Greenstreet,Greenstreet,68.0,50
+B113C,B113C,DPR,11201,Small Park,Columbus Park,84.0,33
+B169-ZN05A,B169,DPR,11224,Large Park,Coney Island Beach & Boardwalk,60.0,47
+B142,B142,DPR,11211,Small Park,Bedford Playground,90.0,34
+B088,B088,DPR,11216,Large Park,Herbert Von King Park,79.0,36
+B082-ZN05,B082,DPR,11209,Large Park,Shore Park and Parkway,68.0,47
+B130,B130,DPR,11218,Small Park,Greenwood Playground,72.0,39
+B155,B155,DPR,11208,Small Park,Triangle,75.0,42
+B192,B192,DPR/DOE,11209,Small Park,Russell Pedersen Playground,68.0,47
+B149A,B149A,DPR,11208,Small Park,Elton Playground,75.0,42
+B209,B209,DPR,11229,Small Park,Galapo Playground,61.0,48
+B082-ZN03,B082,DPR,11209,Large Park,Shore Park and Parkway,68.0,47
+B166,B166,DPR,"11208, 11209, 11214, 11223, 11228, 11234, 11235, 1",Large Park,Belt Parkway/Shore Parkway,75.0,"32, 42, 44, 46, 48, 50"
+B169-ZN07B,B169,DPR,11224,Large Park,Coney Island Beach & Boardwalk,60.0,47
+B090,B090,DPR,11211,Small Park,Sobel Playground,90.0,34
+B156,B156,DPR,11212,Small Park,Powell Playground,73.0,37
+B128,B128,DPR,11230,Small Park,Colonel David Marcus Playground,66.0,44
+B197,B197,DPR,11229,Small Park,Mellett Playground,61.0,48
+B210F,B210F,DPR,11231,Small Park,Admiral Triangle,76.0,39
+B190,B190,DPR,11234,Small Park,Barone Triangle,63.0,46
+B171,B171,DPR,11236,Small Park,Linden Sitting Area,67.0,41
+B169-ZN01A,B169,DPR,11235,Large Park,Coney Island Beach & Boardwalk,60.0,48
+B221,B221,DPR,11205,Small Park,Steuben Playground,88.0,33
+B126-ZN01,B126,DPR,11231,Large Park,Red Hook Recreation Area,76.0,38
+B092,B092,SDOT,,Small Park,McDonald Square,,
+B126,B126,DPR,11231,Large Park,Red Hook Recreation Area,76.0,38
+B180,B180,DPR,11230,Small Park,Flatbush Mall,70.0,45
+B166C-ZN02,B166C,DPR,11214,Large Park,Coney Island Boat Basin,60.0,47
+B158,B158,DPR,11214,Small Park,Garibaldi Playground,62.0,38
+B144,B144,DPR/DOE,11233,Small Park,Ocean Hill Playground,73.0,41
+BZ484,BZ484,DOT,11208,Greenstreet,GREENSTREET,75.0,42
+BZ485,BZ485,DOT,11208,Greenstreet,GREENSTREET,75.0,42
+B169-ZN03B,B169,DPR,11224,Large Park,Coney Island Beach & Boardwalk,60.0,47
+B127,B127,DPR/NYCHA,11206,Small Park,Martinez Playground,90.0,34
+B206,B206,DPR,11234,Small Park,Sunners Playground,63.0,45
+B169-ZN04A,B169,DPR,11224,Large Park,Coney Island Beach & Boardwalk,60.0,47
+B166-ZN02,B166,DPR,,Large Park,Belt Parkway/Shore Parkway,,47
+B210L,B210L,DPR,11220,Other,64th Street Community Garden,72.0,38
+B082-ZN07,B082,DPR,11209,Large Park,Shore Park and Parkway,68.0,47
+B125,B125,DPR,11214,Large Park,Calvert Vaux Park,60.0,47
+B169A,B169A,DPR,11235,Small Park,Brighton Playground,60.0,48
+B169-ZN07C,B169,DPR,11224,Large Park,Coney Island Beach & Boardwalk,60.0,47
+B087,B087,DPR,11232,Large Park,Sunset Park,72.0,38

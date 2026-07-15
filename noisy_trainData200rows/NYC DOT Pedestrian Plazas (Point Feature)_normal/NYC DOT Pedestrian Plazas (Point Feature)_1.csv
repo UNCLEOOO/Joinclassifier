@@ -1,0 +1,91 @@
+the_geom,plazaname,point_x,boroname,coundist,partner
+"{'type': 'Point', 'coordinates': [-73.93810792805198, 40.84608773992304]}",Plaza de Las Americas,1001373.87743,Manhattan,10,"Community League of the Heights, Inc. (CLOTH)"
+"{'type': 'Point', 'coordinates': [-73.918911869282, 40.86485149435139]}",Post Avenue Plaza,1006678.58279,Manhattan,10,Inwood Merchants Association
+"{'type': 'Point', 'coordinates': [-73.98910737800905, 40.74241727022627]}",Flatiron Plaza,987268.393459,Manhattan,"2, 3",Flatiron NoMad Partnership
+"{'type': 'Point', 'coordinates': [-73.9804713173478, 40.68857034245353]}",Fox Square Plaza,989665.857446,Brooklyn,35,Downtown Brooklyn Partnership
+"{'type': 'Point', 'coordinates': [-73.98891993953856, 40.74263451945487]}",Worth Square Plaza,987320.323439,Manhattan,2,NYC Department of Parks and Recreation/Madison Square Park Conservancy
+"{'type': 'Point', 'coordinates': [-73.95488364572503, 40.714228644519906]}",North 5th Plaza,996757.229681,Brooklyn,"34,33",NYC Department of Transportation
+"{'type': 'Point', 'coordinates': [-73.82793409553322, 40.76047038434627]}",Lippman Plaza,1031917.27011,Queens,20,Flushing BID
+"{'type': 'Point', 'coordinates': [-73.93946469860714, 40.83899315457707]}",Audubon Plaza,1001000.28178,Manhattan,10,NYC Department of Transportation
+"{'type': 'Point', 'coordinates': [-73.87429675659163, 40.829272249379436]}",Morrison Avenue Plaza,1019037.50096,Bronx,18,Youth Ministries for Peace and Justice
+"{'type': 'Point', 'coordinates': [-73.8622877408355, 40.74968964883503]}",Corona Plaza,1022406.49298,Queens,21,NYC Department of Transportation
+"{'type': 'Point', 'coordinates': [-73.89944408256581, 40.70062708984495]}",Herman Hochberg Plaza,1012131.95951,Queens,30,Myrtle Avenue Business Improvement District
+"{'type': 'Point', 'coordinates': [-73.89111178545583, 40.860649246489515]}",Fordham Plaza,1014369.8506,Bronx,15,NYC Department of Transportation
+"{'type': 'Point', 'coordinates': [-73.9945944466309, 40.71519424407022]}",Forsyth Plaza,985748.514755,Manhattan,1,Asian Americans for Equality
+"{'type': 'Point', 'coordinates': [-73.94860757552374, 40.82424599968602]}",Johnny Hartman Plaza,998473.575571,Manhattan,7,The Brotherhood Sister Sol
+"{'type': 'Point', 'coordinates': [-73.988603953046, 40.69233557489861]}",Willoughby Plaza,987410.268516,Brooklyn,33,Downtown Brooklyn Partnership
+"{'type': 'Point', 'coordinates': [-73.88421285915734, 40.7538199672836]}",34th Avenue Plaza,1016329.62636,Queens,25,34th Avenue Open Street Coalition
+"{'type': 'Point', 'coordinates': [-73.91948841791006, 40.66852130662184]}",Zion Triangle Plaza,1006584.8559,Brooklyn,41,NYC Department of Parks and Recreation/Pitkin Avenue Business Improvement District
+"{'type': 'Point', 'coordinates': [-73.74908447341386, 40.76864868087139]}",Douglaston Station Plaza,1053752.32826,Queens,19,Douglaston LDC
+"{'type': 'Point', 'coordinates': [-73.88774867951929, 40.88239517453956]}",James Baldwin Plaza,1015289.9746,Bronx,11,James Baldwin Outdoor Learning Center
+"{'type': 'Point', 'coordinates': [-73.77018257593953, 40.69614982333164]}",Murdock Plaza,1047977.57251,Queens,27,Addisleigh Park Civic Association
+"{'type': 'Point', 'coordinates': [-73.95417447418026, 40.72298162069042]}",Banker's Anchor Plaza,996952.158821,Brooklyn,33,North Brooklyn Parks Alliance
+"{'type': 'Point', 'coordinates': [-73.98789450790541, 40.74991999252464]}",Herald & Greeley Square Plaza,987604.107466,Manhattan,"3, 4",34th Street Partnership
+"{'type': 'Point', 'coordinates': [-73.98302727731017, 40.69009847766713]}",Albee Square Plaza,988956.909487,Brooklyn,33,Downtown Brooklyn Partnership
+"{'type': 'Point', 'coordinates': [-74.01047484947958, 40.70347352134007]}",Coenties Slip Plaza,981345.676408,Manhattan,1,Alliance for Downtown New York
+"{'type': 'Point', 'coordinates': [-73.9489763279508, 40.7175832877284]}",Frost Street Plaza,998394.153646,Brooklyn,34,NYC Department of Transportation
+"{'type': 'Point', 'coordinates': [-73.84189654602943, 40.840460728001595]}",Westchester Square Plaza,1027996.66828,Bronx,13,NYC Department of Transportation
+"{'type': 'Point', 'coordinates': [-73.99103742876777, 40.71451199267674]}",Division Street Plaza,986734.608122,Manhattan,1,Lower East Side Business Improvement District
+"{'type': 'Point', 'coordinates': [-73.91871008853838, 40.743180821581866]}",Bliss Plaza,1006775.53155,Queens,26,Sunnyside Shines Business Improvement District
+"{'type': 'Point', 'coordinates': [-73.98807810082006, 40.703239852657696]}",Pearl Street Plaza,987555.553307,Brooklyn,33,DUMBO Business Improvement District
+"{'type': 'Point', 'coordinates': [-73.98571727485331, 40.75764982181205]}",Times Square Plaza,988206.901235,Manhattan,"3, 4",Times Square Alliance
+"{'type': 'Point', 'coordinates': [-73.9871195903118, 40.753380317093395]}",Garment District Plaza,987818.630882,Manhattan,"3, 4",Garment District Alliance
+"{'type': 'Point', 'coordinates': [-73.90941576378255, 40.69995088108893]}",Venditti Square Plaza,1009367.28591,Queens,34,Myrtle Avenue Business Improvement District Queens
+"{'type': 'Point', 'coordinates': [-73.9908671430877, 40.73006959649501]}",Astor Place Plaza,986781.223876,Manhattan,2,Village Alliance
+"{'type': 'Point', 'coordinates': [-73.99170772073553, 40.75055193782478]}",33rd Street Plaza,986547.546464,Manhattan,3,Vornado/34th Street Partnership
+"{'type': 'Point', 'coordinates': [-73.9482781593629, 40.7502269641764]}",12th Street Plaza,998580.669184,Queens,26,VOREA Group
+"{'type': 'Point', 'coordinates': [-73.90851510263809, 40.66852734715221]}",Osborn Street Plaza,1009628.97884,Brooklyn,41,Brownsville Community Justice Center
+"{'type': 'Point', 'coordinates': [-74.0079525965079, 40.70767685138488]}",Louise Nevelson Plaza,982045.151449,Manhattan,1,Federal Reserve Bank of New York
+"{'type': 'Point', 'coordinates': [-73.91805390086148, 40.81561949150547]}",Roberto Clemente Plaza,1006932.67263,Bronx,"8,17",Third Avenue Business Improvement District
+"{'type': 'Point', 'coordinates': [-73.96204299246072, 40.6826316823279]}",Jitu Weusi Plaza,994777.491906,Brooklyn,35,Fulton Area Business (FAB) Alliance Business Improvement District
+"{'type': 'Point', 'coordinates': [-73.98302496777268, 40.74045847265918]}",25th Street Plaza,988953.994487,Manhattan,2,Baruch College
+"{'type': 'Point', 'coordinates': [-73.96387208245488, 40.69356913747857]}",Myrtle Avenue Plaza,994268.545058,Brooklyn,35,Myrtle Avenue Bkln Partnership (MARP)
+"{'type': 'Point', 'coordinates': [-73.9505356482062, 40.781550071535484]}",James Cagney Plaza,997948.738474,Manhattan,5,Friends of James Cagney Plaza
+"{'type': 'Point', 'coordinates': [-74.15380540847671, 40.63702739896404]}",Van Name/Van Pelt Plaza,941562.447446,Staten Island,49,NYC Department of Parks and Recreation
+"{'type': 'Point', 'coordinates': [-73.92964935010758, 40.85067457595213]}",185th Street Plaza,1003712.79663,Manhattan,10,Yeshiva University
+"{'type': 'Point', 'coordinates': [-73.99388256359416, 40.70279507018842]}",Old Fulton Plaza,985946.176795,Brooklyn,33,DUMBO Business Improvement District
+"{'type': 'Point', 'coordinates': [-73.94276224614762, 40.84247252347819]}",Haven Plaza,1000087.01317,Manhattan,10,Columbia University Medical Center
+"{'type': 'Point', 'coordinates': [-73.96164468622142, 40.655156429515785]}",Duane Joseph Plaza,994892.346557,Brooklyn,40,Flatbush Avenue Parkside/Empire Merchants Association
+"{'type': 'Point', 'coordinates': [-73.97869297096018, 40.64286523451943]}",Kensington Plaza,990163.093688,Brooklyn,39,Kensington Stewards
+"{'type': 'Point', 'coordinates': [-73.86324498940928, 40.67926746399219]}",Liberty Avenue Plaza,1022181.31958,"Brooklyn,Queens","37,32",NYC Department of Transportation
+"{'type': 'Point', 'coordinates': [-73.7535015382182, 40.603275074820644]}",Beach 20th Street Plaza,1052698.37139,Queens,31,Rockaway Development and Revitalization Corp
+"{'type': 'Point', 'coordinates': [-73.98658087445325, 40.699088718523505]}",Brooklyn Plaza,987970.917039,Brooklyn,33,NYC Department of Transportation
+"{'type': 'Point', 'coordinates': [-73.93928798969654, 40.80471436890052]}",125th Street Plaza,1001057.83359,Manhattan,"8,9",Uptown Grand Central
+"{'type': 'Point', 'coordinates': [-73.9607231604604, 40.66298440813679]}",Washington Empire Plaza,995146.760954,Brooklyn,40,I Am Caribbeing
+"{'type': 'Point', 'coordinates': [-73.9114818950886, 40.699762140094606]}",Wyckoff Plaza,1008794.45679,"Brooklyn,Queens","34,37",NYC Department of Transportation
+"{'type': 'Point', 'coordinates': [-73.94616140993175, 40.680475602747954]}",Marcy Avenue Plaza,999182.779853,Brooklyn,36,Bed Stuy Gateway Business Improvement District
+"{'type': 'Point', 'coordinates': [-73.95249018752236, 40.798674349536675]}",Malcolm X Plaza,997404.061123,Manhattan,9,Friends of Malcolm X Plaza
+"{'type': 'Point', 'coordinates': [-73.92426314045133, 40.74381778159431]}",Lowery Plaza,1005236.57398,Queens,26,Sunnyside Shines Business Improvement District
+"{'type': 'Point', 'coordinates': [-73.90758841352527, 40.66863745281728]}",Watkins Street Plaza,1009886.0108,Brooklyn,41,Brownsville Community Justice Center
+"{'type': 'Point', 'coordinates': [-74.00265517232617, 40.71106823075644]}",Brooklyn Bridge Arches Plaza,983513.89393,Manhattan,1,Gotham Park
+"{'type': 'Point', 'coordinates': [-74.00322393222392, 40.71284705442325]}",Municipal Plaza,983356.237581,Manhattan,1,NYC Department of Transportation
+"{'type': 'Point', 'coordinates': [-73.94806766181343, 40.63259171626162]}",Hillel Place Plaza,998664.400663,Brooklyn,45,Flatbush Nostrand Junction Business Improvement District
+"{'type': 'Point', 'coordinates': [-73.8888724228259, 40.75398832997579]}",78th Street Plaza,1015038.58498,Queens,25,NYC Department of Parks and Recreation
+"{'type': 'Point', 'coordinates': [-73.88306719662135, 40.66631175321807]}",New Lots Plaza,1016689.59897,Brooklyn,42,NYC Department of Transportation
+"{'type': 'Point', 'coordinates': [-73.9384178420599, 40.744223344231735]}",29th Street Plaza,1001314.22334,Queens,26,LaGuardia Community College
+"{'type': 'Point', 'coordinates': [-73.96371714350744, 40.71040496972048]}",George B. Post Plaza,994308.969983,Brooklyn,34,Aesthetic Urban Works
+"{'type': 'Point', 'coordinates': [-73.91870018075471, 40.69889142222654]}",Knickerbocker Plaza,1006793.25266,Brooklyn,37,NYC Department of Transportation
+"{'type': 'Point', 'coordinates': [-73.97909499785223, 40.640549592869014]}",Avenue C Plaza,990051.725177,Brooklyn,39,Naturally Occuring Cultural Districts
+"{'type': 'Point', 'coordinates': [-73.9233569559848, 40.82704389214369]}",Lou Gehrig Plaza,1005461.14592,Bronx,8,161st Street Business Improvement District
+"{'type': 'Point', 'coordinates': [-73.8809297241987, 40.701825600574786]}",Myrtle/Cooper Plaza,1017264.99024,Queens,30,Myrtle Avenue Business Improvement District Queens
+"{'type': 'Point', 'coordinates': [-73.99065927144957, 40.73667552250982]}",Union Square Plaza,986838.579984,Manhattan,"2, 3",NYC Department of Parks and Recreation/Union Sq Partnership
+"{'type': 'Point', 'coordinates': [-73.9536043198358, 40.82139188293364]}",Montefiore Plaza,997091.207101,Manhattan,7,NYC Department of Parks and Recreation
+"{'type': 'Point', 'coordinates': [-73.9994888051434, 40.73398467849834]}",Ruth Wittenberg Plaza,984391.672151,Manhattan,3,Village Alliance BID
+"{'type': 'Point', 'coordinates': [-73.97809231716224, 40.75276418418334]}",Vanderbilt Plaza,990319.772467,Manhattan,4,SL Green
+"{'type': 'Point', 'coordinates': [-73.8942177630098, 40.862172158563816]}",Bryan Park Plaza,1013510.02833,Bronx,15,NYC Department of Parks and Recreation
+"{'type': 'Point', 'coordinates': [-73.92768743803553, 40.86588951838883]}",Quisqueya Plaza,1004250.99133,Manhattan,10,Dyckman Gardens
+"{'type': 'Point', 'coordinates': [-73.94091019169423, 40.70356517935357]}",Humboldt Plaza,1000633.59341,Brooklyn,34,NYC Economic Development Corp.
+"{'type': 'Point', 'coordinates': [-73.97554591473981, 40.686943098111406]}",Fowler Square Plaza,991031.976889,Brooklyn,35,Fulton Area Business (FAB) Alliance Business Improvement District
+"{'type': 'Point', 'coordinates': [-73.89211362102212, 40.74707888228092]}",Diversity Plaza,1014143.69182,Queens,25,NYC Department of Transportation
+"{'type': 'Point', 'coordinates': [-73.95231573816906, 40.71735015890995]}",North 10th & Union Avenue Plaza,997468.490008,Brooklyn,33,North Brooklyn Parks Alliance
+"{'type': 'Point', 'coordinates': [-73.75405196129952, 40.60431130813048]}",Beach 21st Street Plaza,1052544.46875,Queens,31,Rockaway East Merchants Association
+"{'type': 'Point', 'coordinates': [-73.94666630156293, 40.7455856935937]}",46th Avenue Plaza,999028.299267,Queens,26,MoMA PS1
+"{'type': 'Point', 'coordinates': [-73.96837710491704, 40.68416701971113]}",Gates Avenue Plaza,993020.504733,Brooklyn,35,Fulton Area Business (FAB) Alliance Business Improvement District
+"{'type': 'Point', 'coordinates': [-73.99127477206584, 40.728164436445006]}",Cooper Square Plaza,986668.316449,Manhattan,2,Grace Church School
+"{'type': 'Point', 'coordinates': [-73.96467113467712, 40.68068810011044]}",Underhill Plaza,994048.854365,Brooklyn,35,Prospect Heights Neighborhood Development Council
+"{'type': 'Point', 'coordinates': [-74.00921530794243, 40.71589684950713]}",Bogardus Plaza,981695.381119,Manhattan,1,Friends of Bogardus Plaza
+"{'type': 'Point', 'coordinates': [-73.98687229069502, 40.71788517348163]}",Delancey Plaza,987889.085512,Manhattan,1,Lower East Side Business Improvement District
+"{'type': 'Point', 'coordinates': [-74.00587100871951, 40.74004469053589]}",Gansevoort Plaza,982623.059778,Manhattan,3,Meatpacking Improvement District
+"{'type': 'Point', 'coordinates': [-73.99794973339607, 40.71440270777124]}",Doyers Street Plaza,984818.376659,Manhattan,1,Chinatown Partnership
+"{'type': 'Point', 'coordinates': [-73.98167315335401, 40.76709492878102]}",Columbus Circle Plaza,989326.568965,Manhattan,4,NYC Department of Parks and Recreation/Central Park Conservancy
+"{'type': 'Point', 'coordinates': [-73.97796987774731, 40.75178744443264]}",Pershing Square Plaza,990353.785369,Manhattan,4,Grand Central Partnership (GCP)

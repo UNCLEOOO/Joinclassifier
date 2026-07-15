@@ -1,0 +1,201 @@
+use_of_subway_frequency,average_length_subway_ride,alternative_transport,collection_method,top_three_complaints,get_to_subway_via
+"Weekdays, Mon - Fri",60 - 90 min,Use another train,in person,"['Delays', 'High fares', 'Crime / Safety']",Bus
+Everyday / Almost everyday,40 - 60 min,Take a bus,in person,['Delays'],Walk
+Once a month,40 - 60 min,Wait for next train,in person,,Walk
+Everyday / Almost everyday,< 20 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'High fares']",Walk
+"Weekdays, Mon - Fri",< 20 min,Use another train,in person,"['Delays', 'Frequent route changes', 'Customer service']",Bus
+Everyday / Almost everyday,20 - 40 min,Use another train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Bus
+~5 days per week,20 - 40 min,Use another train,in person,"['Delays', 'Frequent route changes', 'High fares']",Walk
+Once a week,20 - 40 min,,in person,,Walk
+Everyday / Almost everyday,20 - 40 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'High fares']",Walk
+"Weekdays, Mon - Fri",40 - 60 min,Wait for next train,in person,"['Delays', 'Overcrowded trains', 'Lack of handicap access']",Walk
+"Weekdays, Mon - Fri",20 - 40 min,Wait for next train,in person,"['Delays', 'Customer service', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,20 - 40 min,Use another train,in person,"['Delays', 'High fares', 'Overcrowded trains']",Bus
+~5 days per week,60 - 90 min,Wait for next train,in person,"['Delays', 'High fares', 'Old trains']",Walk
+Everyday / Almost everyday,90 min - 2 hours,For-hire vehicle,in person,"['High fares', 'Station infrastructure', 'Lack of handicap access']",Bus
+~5 days per week,< 20 min,Wait for next train,in person,"['Delays', 'High fares', 'Old trains']",Walk
+Everyday / Almost everyday,20 - 40 min,Wait for next train,in person,['Overcrowded trains'],Walk
+Once a week,40 - 60 min,Wait for next train,in person,"['High fares', 'Customer service', 'Lack of handicap access']",Bus
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'Station infrastructure', 'Overcrowded trains']",Bus
+Everyday / Almost everyday,40 - 60 min,For-hire vehicle,in person,"['Delays', 'High fares', 'Overcrowded trains']",Walk
+"More than once a week, varies",40 - 60 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,20 - 40 min,Wait for next train,in person,"['Delays', 'Crime / Safety', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,20 - 40 min,Use another train,in person,"['Delays', 'Crime / Safety']",Walk
+~5 days per week,< 20 min,Use another train,in person,"['Crime / Safety', 'Station infrastructure', 'Old trains']",Walk
+"More than once a week, varies",20 - 40 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'High fares']",Bus
+"More than once a week, varies",60 - 90 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Customer service']",Walk
+~5 days per week,20 - 40 min,Wait for next train,in person,['Delays'],Walk
+Everyday / Almost everyday,60 - 90 min,Wait for next train,in person,"['Delays', 'High fares', 'Crime / Safety']",Walk
+Everyday / Almost everyday,20 - 40 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Crime / Safety']",Bus
+~5 days per week,60 - 90 min,Bike,in person,"['Delays', 'Frequent route changes']",Personal bike
+~5 days per week,20 - 40 min,Wait for next train,in person,"['Delays', 'Crime / Safety']",Bus
+~5 days per week,20 - 40 min,Wait for next train,in person,"['Delays', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,< 20 min,Use another train,in person,"['Delays', 'High fares', 'Customer service']",Walk
+Once a week,20 - 40 min,Wait for next train,in person,"['Delays', 'Old trains', 'Overcrowded trains']",Bus
+Everyday / Almost everyday,40 - 60 min,Take a bus,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Bus
+Everyday / Almost everyday,40 - 60 min,For-hire vehicle,in person,"['Delays', 'Frequent route changes', 'High fares']",Walk
+"More than once a week, varies",20 - 40 min,Take a bus,in person,,Walk
+Once a month,60 - 90 min,Wait for next train,in person,"['Crime / Safety', 'Station infrastructure', 'Lack of handicap access']",Walk
+Once a week,40 - 60 min,Take a bus,in person,"['Delays', 'Frequent route changes', 'Old trains']",Walk
+Almost never,< 20 min,For-hire vehicle,in person,,Walk
+"Weekdays, Mon - Fri",20 - 40 min,For-hire vehicle,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,20 - 40 min,Wait for next train,in person,['Overcrowded trains'],Walk
+Everyday / Almost everyday,< 20 min,Take a bus,in person,"['Delays', 'High fares', 'Station infrastructure']",Bus
+Everyday / Almost everyday,20 - 40 min,For-hire vehicle,in person,"['Frequent route changes', 'Station infrastructure', 'Lack of handicap access']",Bus
+"Weekdays, Mon - Fri",20 - 40 min,Take a bus,in person,"['Frequent route changes', 'Old trains', 'Lack of handicap access']",Bus
+Once a month,40 - 60 min,Use another train,in person,"['Customer service', 'Overcrowded trains']",Walk
+~5 days per week,90 min - 2 hours,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+"More than once a week, varies",< 20 min,Use another train,in person,"['Delays', 'High fares', 'Overcrowded trains']",Bus
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,40 - 60 min,Use another train,in person,"['Delays', 'Frequent route changes', 'High fares']",Walk
+Everyday / Almost everyday,20 - 40 min,Take a bus,in person,['Delays'],Walk
+~5 days per week,60 - 90 min,For-hire vehicle,in person,"['Delays', 'Frequent route changes']",Walk
+~5 days per week,40 - 60 min,Use another train,in person,"['Delays', 'High fares', 'Station infrastructure']",Walk
+Everyday / Almost everyday,40 - 60 min,Use another train,in person,"['Delays', 'High fares', 'Crime / Safety']",Walk
+,60 - 90 min,For-hire vehicle,in person,,Walk
+"More than once a week, varies",< 20 min,Take a bus,in person,"['Frequent route changes', 'Old trains', 'Overcrowded trains']",Walk
+"More than once a week, varies",20 - 40 min,Use another train,in person,"['Delays', 'High fares', 'Overcrowded trains']",Bus
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'High fares', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'High fares', 'Overcrowded trains']",Walk
+Once a week,40 - 60 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Path / NJ Transit
+Everyday / Almost everyday,< 20 min,Take a bus,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+Almost never,40 - 60 min,For-hire vehicle,in person,"['Delays', 'High fares', 'Lack of handicap access']",Bus
+Everyday / Almost everyday,20 - 40 min,Take a bus,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,20 - 40 min,Wait for next train,in person,"['Frequent route changes', 'Old trains', 'Lack of handicap access']",Walk
+"Weekdays, Mon - Fri",40 - 60 min,Take a bus,in person,['Delays'],Walk
+Everyday / Almost everyday,40 - 60 min,For-hire vehicle,in person,"['Delays', 'High fares', 'Lack of handicap access']",Walk
+Everyday / Almost everyday,< 20 min,Wait for next train,in person,"['Station infrastructure', 'Overcrowded trains']",Bus
+~5 days per week,20 - 40 min,Wait for next train,in person,['Delays'],Walk
+"More than once a week, varies",20 - 40 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+"Weekdays, Mon - Fri",20 - 40 min,Wait for next train,in person,"['Delays', 'Crime / Safety', 'Overcrowded trains']",Bus
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,20 - 40 min,For-hire vehicle,in person,"['High fares', 'Customer service', 'Old trains']",Bus
+Everyday / Almost everyday,< 20 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Crime / Safety']",Walk
+Everyday / Almost everyday,60 - 90 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,20 - 40 min,Wait for next train,in person,"['Delays', 'Overcrowded trains']",Walk
+"Weekdays, Mon - Fri",20 - 40 min,Use another train,in person,"['Delays', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,20 - 40 min,Wait for next train,in person,"['Customer service', 'Old trains']",Bus
+"Weekdays, Mon - Fri",40 - 60 min,Use another train,in person,"['Delays', 'Overcrowded trains']",Bus
+Once a month,60 - 90 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Station infrastructure']",Bus
+Everyday / Almost everyday,90 min - 2 hours,Wait for next train,in person,"['Delays', 'Overcrowded trains', 'Lack of handicap access']",Walk
+Everyday / Almost everyday,40 - 60 min,For-hire vehicle,in person,"['Delays', 'High fares', 'Lack of handicap access']",Walk
+"More than once a week, varies",40 - 60 min,Wait for next train,in person,"['Frequent route changes', 'Crime / Safety', 'Overcrowded trains']",Walk
+~5 days per week,,,in person,,
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+~5 days per week,40 - 60 min,Use another train,in person,"['Delays', 'High fares', 'Overcrowded trains']",Walk
+~5 days per week,20 - 40 min,Wait for next train,in person,['Delays'],Bus
+"Weekdays, Mon - Fri",40 - 60 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'High fares']",Walk
+Everyday / Almost everyday,60 - 90 min,Use another train,in person,['Delays'],Walk
+Once a week,< 20 min,Wait for next train,in person,,Walk
+"More than once a week, varies",20 - 40 min,Wait for next train,in person,['Delays'],Walk
+"More than once a week, varies",< 20 min,Wait for next train,in person,"['Delays', 'High fares', 'Old trains']",Walk
+Everyday / Almost everyday,20 - 40 min,Use another train,in person,"['Delays', 'Frequent route changes', 'Station infrastructure']",Walk
+Everyday / Almost everyday,20 - 40 min,Wait for next train,in person,"['Delays', 'Station infrastructure', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,< 20 min,Wait for next train,in person,['Delays'],Walk
+Everyday / Almost everyday,60 - 90 min,Wait for next train,in person,"['Delays', 'Customer service', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,40 - 60 min,Use another train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+Once a week,20 - 40 min,Wait for next train,in person,"['Delays', 'Crime / Safety', 'Station infrastructure']",Bus
+Everyday / Almost everyday,< 20 min,Use another train,in person,"['Delays', 'Crime / Safety', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,< 20 min,For-hire vehicle,in person,"['Delays', 'Frequent route changes', 'High fares']",Walk
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Old trains']",Walk
+Everyday / Almost everyday,20 - 40 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Station infrastructure']",Bus
+"Weekdays, Mon - Fri",20 - 40 min,Take a bus,in person,"['High fares', 'Crime / Safety', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,20 - 40 min,Take a bus,in person,"['Delays', 'Station infrastructure']",Bus
+"More than once a week, varies",20 - 40 min,Wait for next train,in person,"['Delays', 'Station infrastructure', 'Overcrowded trains']",Path / NJ Transit
+Everyday / Almost everyday,20 - 40 min,For-hire vehicle,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+~5 days per week,90 min - 2 hours,Wait for next train,in person,"['Delays', 'Station infrastructure', 'Overcrowded trains']",Bus
+Everyday / Almost everyday,20 - 40 min,Use another train,in person,"['Frequent route changes', 'High fares', 'Customer service']",Walk
+Everyday / Almost everyday,< 20 min,Take a bus,in person,"['High fares', 'Crime / Safety', 'Station infrastructure']",Walk
+Everyday / Almost everyday,60 - 90 min,Use another train,in person,"['Delays', 'Station infrastructure', 'Overcrowded trains']",Bus
+"Weekdays, Mon - Fri",,,in person,,Walk
+Everyday / Almost everyday,20 - 40 min,Wait for next train,in person,['Overcrowded trains'],Walk
+"More than once a week, varies",90 min - 2 hours,Walk,in person,"['Delays', 'Station infrastructure', 'Overcrowded trains']",Walk
+~5 days per week,20 - 40 min,For-hire vehicle,in person,"['Delays', 'Crime / Safety', 'Old trains']",Walk
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'High fares', 'Overcrowded trains']",Bus
+Everyday / Almost everyday,40 - 60 min,Take a bus,in person,"['Delays', 'Customer service', 'Old trains']",Walk
+Everyday / Almost everyday,40 - 60 min,Use another train,in person,"['Delays', 'Customer service']",Bus
+Almost never,20 - 40 min,Wait for next train,in person,"['Delays', 'Crime / Safety', 'Station infrastructure']",Walk
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'Customer service', 'Overcrowded trains']",Walk
+"Weekdays, Mon - Fri",20 - 40 min,Wait for next train,in person,"['Delays', 'High fares', 'Station infrastructure']",Walk
+"Weekdays, Mon - Fri",< 20 min,Take a bus,in person,['Crime / Safety'],Walk
+~5 days per week,40 - 60 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Customer service']",Walk
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'High fares', 'Overcrowded trains']",Walk
+~5 days per week,90 min - 2 hours,Walk,in person,"['Delays', 'Frequent route changes', 'High fares']",Citibike
+"Weekdays, Mon - Fri",< 20 min,Use another train,in person,"['Frequent route changes', 'High fares']",Walk
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'High fares', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,40 - 60 min,Use another train,in person,"['Delays', 'Station infrastructure', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'High fares', 'Overcrowded trains']",
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'High fares', 'Customer service']",Walk
+Once a month,60 - 90 min,Take a bus,in person,"['Frequent route changes', 'High fares', 'Customer service']",Bus
+Everyday / Almost everyday,20 - 40 min,Use another train,in person,"['Delays', 'High fares', 'Overcrowded trains']",Bus
+"Weekdays, Mon - Fri",< 20 min,Walk,in person,,Walk
+Everyday / Almost everyday,20 - 40 min,For-hire vehicle,in person,"['Delays', 'Frequent route changes', 'Station infrastructure']",Walk
+Everyday / Almost everyday,< 20 min,Walk,in person,"['Delays', 'Overcrowded trains']",Walk
+"More than once a week, varies",20 - 40 min,Take a bus,in person,['Overcrowded trains'],Bus
+Everyday / Almost everyday,< 20 min,Take a bus,in person,"['Delays', 'Station infrastructure', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,20 - 40 min,For-hire vehicle,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+"More than once a week, varies",40 - 60 min,Wait for next train,in person,"['Delays', 'Station infrastructure', 'Lack of handicap access']",Walk
+"Weekdays, Mon - Fri",20 - 40 min,Wait for next train,in person,"['Delays', 'Old trains', 'Overcrowded trains']",Bus
+Everyday / Almost everyday,20 - 40 min,For-hire vehicle,in person,"['Delays', 'Frequent route changes', 'Station infrastructure']",Walk
+Everyday / Almost everyday,20 - 40 min,Use another train,in person,"['Frequent route changes', 'Crime / Safety']",Walk
+"More than once a week, varies",40 - 60 min,Wait for next train,in person,"['Delays', 'High fares', 'Crime / Safety']",Walk
+Everyday / Almost everyday,20 - 40 min,Use another train,in person,"['Delays', 'Station infrastructure', 'Overcrowded trains']",Walk
+Once a week,40 - 60 min,Wait for next train,in person,"['Delays', 'High fares', 'Customer service']",Bus
+~5 days per week,20 - 40 min,For-hire vehicle,in person,"['Delays', 'High fares', 'Overcrowded trains']",Bus
+~5 days per week,60 - 90 min,Walk,in person,"['Delays', 'Frequent route changes', 'High fares']",Walk
+~5 days per week,40 - 60 min,Use another train,in person,"['Delays', 'Frequent route changes', 'Lack of handicap access']",Walk
+Once a week,,,in person,,
+"Weekdays, Mon - Fri",40 - 60 min,Take a bus,in person,"['Delays', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'Customer service']",Walk
+"Weekdays, Mon - Fri",40 - 60 min,Wait for next train,in person,"['Delays', 'High fares', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,40 - 60 min,For-hire vehicle,in person,"['Delays', 'Frequent route changes', 'High fares']",Walk
+Everyday / Almost everyday,< 20 min,Wait for next train,in person,"['Frequent route changes', 'Customer service', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,20 - 40 min,Use another train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Bus
+Everyday / Almost everyday,60 - 90 min,Wait for next train,in person,,Bus
+~5 days per week,40 - 60 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,20 - 40 min,Wait for next train,in person,"['Delays', 'Old trains', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,60 - 90 min,Use another train,in person,"['Delays', 'Station infrastructure', 'Old trains']",Walk
+"Weekdays, Mon - Fri",40 - 60 min,Take a bus,in person,"['Delays', 'Crime / Safety', 'Station infrastructure']",Taxi
+"Weekdays, Mon - Fri",60 - 90 min,Wait for next train,in person,"['Delays', 'Old trains', 'Overcrowded trains']",Bus
+"More than once a week, varies",20 - 40 min,Wait for next train,in person,"['Delays', 'Customer service', 'Station infrastructure']",Walk
+Everyday / Almost everyday,20 - 40 min,Take a bus,in person,"['Delays', 'Crime / Safety', 'Overcrowded trains']",Bus
+Everyday / Almost everyday,20 - 40 min,Use another train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Lack of handicap access']",Path / NJ Transit
+Once a month,20 - 40 min,Wait for next train,in person,['Overcrowded trains'],Walk
+~5 days per week,20 - 40 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,60 - 90 min,Use another train,in person,"['Delays', 'High fares', 'Overcrowded trains']",Bus
+Everyday / Almost everyday,40 - 60 min,For-hire vehicle,in person,"['Delays', 'Old trains', 'Lack of handicap access']",Walk
+Everyday / Almost everyday,< 20 min,Wait for next train,in person,"['Delays', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,20 - 40 min,Take a bus,in person,"['Delays', 'High fares', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'Customer service', 'Overcrowded trains']",Bus
+Everyday / Almost everyday,60 - 90 min,Wait for next train,in person,['Delays'],Bus
+Everyday / Almost everyday,60 - 90 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Crime / Safety']",Walk
+"More than once a week, varies",20 - 40 min,Wait for next train,in person,"['Delays', 'Crime / Safety', 'Overcrowded trains']",Walk
+~5 days per week,40 - 60 min,Use another train,in person,['Delays'],Walk
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'High fares', 'Station infrastructure']",Walk
+"More than once a week, varies",20 - 40 min,Use another train,in person,"['Delays', 'Crime / Safety']",Walk
+"Weekdays, Mon - Fri",90 min - 2 hours,Wait for next train,in person,"['Delays', 'High fares', 'Customer service']",Walk
+"More than once a week, varies",20 - 40 min,Wait for next train,in person,"['Delays', 'High fares', 'Station infrastructure']",Walk
+Everyday / Almost everyday,60 - 90 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Crime / Safety']",Bus
+Everyday / Almost everyday,20 - 40 min,For-hire vehicle,in person,"['Delays', 'Frequent route changes', 'Crime / Safety']",Walk
+~5 days per week,20 - 40 min,Use another train,in person,"['High fares', 'Crime / Safety', 'Overcrowded trains']",Walk
+~5 days per week,60 - 90 min,Wait for next train,in person,"['Delays', 'Crime / Safety']",Walk
+"Weekdays, Mon - Fri",40 - 60 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,40 - 60 min,For-hire vehicle,in person,"['Delays', 'Frequent route changes', 'Crime / Safety']",Walk
+Everyday / Almost everyday,20 - 40 min,Use another train,in person,"['Delays', 'Crime / Safety', 'Customer service']",Walk
+Once a month,40 - 60 min,Wait for next train,in person,['Delays'],Bus
+"More than once a week, varies",40 - 60 min,Wait for next train,in person,"['Frequent route changes', 'High fares', 'Station infrastructure']",Walk
+"Weekdays, Mon - Fri",40 - 60 min,Use another train,in person,"['Delays', 'Frequent route changes', 'High fares']",Walk
+"More than once a week, varies",20 - 40 min,Use another train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+~5 days per week,20 - 40 min,Wait for next train,in person,['Delays'],Walk
+"More than once a week, varies",40 - 60 min,Use another train,in person,"['Delays', 'Frequent route changes', 'Old trains']",Bus
+"Weekdays, Mon - Fri",20 - 40 min,Wait for next train,in person,['Delays'],Walk
+Everyday / Almost everyday,20 - 40 min,Wait for next train,in person,['Overcrowded trains'],Bus
+"Weekdays, Mon - Fri",20 - 40 min,Use another train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+Everyday / Almost everyday,40 - 60 min,Wait for next train,in person,"['Delays', 'Overcrowded trains', 'Lack of handicap access']",Walk
+"Weekdays, Mon - Fri",40 - 60 min,Wait for next train,in person,"['High fares', 'Overcrowded trains', 'Lack of handicap access']",Walk
+"Weekdays, Mon - Fri",20 - 40 min,Use another train,in person,"['Delays', 'High fares', 'Overcrowded trains']",Walk
+"More than once a week, varies",20 - 40 min,Wait for next train,in person,"['Delays', 'Frequent route changes', 'Overcrowded trains']",Walk
+Once a week,20 - 40 min,Wait for next train,in person,"['Delays', 'Customer service', 'Overcrowded trains']",Walk
+"More than once a week, varies",40 - 60 min,Wait for next train,in person,"['High fares', 'Crime / Safety']",Walk
+Once a month,40 - 60 min,For-hire vehicle,in person,"['Delays', 'Frequent route changes', 'High fares']",

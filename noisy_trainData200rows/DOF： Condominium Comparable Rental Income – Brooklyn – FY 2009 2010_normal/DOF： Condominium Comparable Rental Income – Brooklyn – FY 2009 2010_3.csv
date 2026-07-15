@@ -1,0 +1,201 @@
+brooklyn_condominium_property_address,comparable_rental_1_full_market_value,bin,_comparable_rental_1_boro_block_lot,comparable_rental_1_year_built,brooklyn_condominium_property_neighborhood,brooklyn_condominium_property_year_built,comparable_rental_2_building_classification,comparable_rental_1_total_units,comparable_rental_1_gross_income_per_sqft,community_board,nta,comparable_rental_1_building_classification
+444 12 STREET,2730000,3347745.0,3-01173-0001,1912,PARK SLOPE,1920,D1-ELEVATOR,72,11.71,6.0,Park Slope-Gowanus                                                         ,D1-ELEVATOR
+85 ADAMS STREET,9090000,3391222.0,3-00051-0012,2000,DOWNTOWN-FULTON FERRY,2006,D5-ELEVATOR,59,35.9,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D7-ELEVATOR
+452 BEDFORD AVENUE,424000,3059671.0,3-01824-0057,1910,BEDFORD STUYVESANT,0,C1-WALK-UP,12,14.46,1.0,North Side-South Side                                                      ,C1-WALK-UP
+84 FRONT STREET,9090000,3389054.0,3-00051-0012,2000,DOWNTOWN-FULTON FERRY,2006,D3-ELEVATOR,59,35.9,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D7-ELEVATOR
+79 BRIDGE STREET,5470000,3000141.0,3-00036-0016,1910,DOWNTOWN-FULTON FERRY,1920,D8-ELEVATOR,23,24.73,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D5-ELEVATOR
+130 PROSPECT PLACE,616000,3255806.0,3-01131-0003,1931,PROSPECT HEIGHTS,1920,,12,19.61,8.0,Prospect Heights                                                           ,C1-WALK-UP
+222 PARK PLACE,1420000,3350251.0,3-01148-0020,2001,PROSPECT HEIGHTS,0,,32,13.45,8.0,Prospect Heights                                                           ,D1-ELEVATOR
+53 61 SOUTH 8 STREET,1650000,,3-02322-0023,1910,WILLIAMSBURG-SOUTH,1999,,30,13.82,,,C1-WALK-UP
+505 COURT STREET,8180000,3397571.0,3-00476-0019,1917,CARROLL GARDENS,2006,C1-WALK-UP,60,28.1,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,C5-WALK-UP
+636 EASTERN PARKWAY,1710000,3324535.0,3-01282-0032,1916,CROWN HEIGHTS,1910,C1-WALK-UP,21,23.17,9.0,Crown Heights North                                                        ,C1-WALK-UP
+328 BERGEN STREET,3040000,3378225.0,3-00249-0030,1960,BOERUM HILL,2004,C1-WALK-UP,26,37.1,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,C7-WALK-UP
+94 SKILLMAN STREET,709000,3378326.0,3-01789-0033,1931,BEDFORD STUYVESANT,2002,,16,22.83,3.0,Bedford                                                                    ,C1-WALK-UP
+609 MYRTLE AVENUE,3480000,3392142.0,3-01957-0030,1932,BEDFORD STUYVESANT,2005,D1-ELEVATOR,41,22.36,3.0,Bedford                                                                    ,D5-ELEVATOR
+206 FRONT STREET,2750000,3391191.0,3-00042-0018,2002,DOWNTOWN-FULTON FERRY,2006,D5-ELEVATOR,26,22.32,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D8-ELEVATOR
+664 MYRTLE AVENUE,13800000,3259562.0,3-01691-0012,1974,BEDFORD STUYVESANT,2003,,287,21.23,3.0,Clinton Hill                                                               ,D1-ELEVATOR
+886 MYRTLE AVENUE,308000,3388856.0,3-01839-0011,1900,BEDFORD STUYVESANT,2006,,14,17.67,3.0,Bedford                                                                    ,C1-WALK-UP
+260 SKILLMAN STREET,1600000,3390791.0,3-01637-0001,1995,BEDFORD STUYVESANT,2006,,86,27.9,3.0,Bedford                                                                    ,D1-ELEVATOR
+90 SPENCER STREET,709000,3387583.0,3-01789-0033,1931,BEDFORD STUYVESANT,2004,,16,22.83,3.0,Bedford                                                                    ,C1-WALK-UP
+31 WASHINGTON STREET,9090000,3388012.0,3-00051-0012,2000,DOWNTOWN-FULTON FERRY,2001,D3-ELEVATOR,59,35.9,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D7-ELEVATOR
+60 STATE STREET,3050000,3348905.0,3-00226-0004,1940,BROOKLYN HEIGHTS,2001,D1-ELEVATOR,48,30.3,2.0,Brooklyn Heights-Cobble Hill                                               ,D3-ELEVATOR
+53 BOERUM PLACE,9090000,3350516.0,3-00051-0012,2000,DOWNTOWN-FULTON MALL,2003,D3-ELEVATOR,59,35.9,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D7-ELEVATOR
+529 CLINTON STREET,1020000,3250585.0,3-01093-0001,1920,CARROLL GARDENS,1900,C1-WALK-UP,16,19.26,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,C1-WALK-UP
+1365 CARROLL STREET,862000,3033695.0,3-01187-0064,1926,CROWN HEIGHTS,1930,,30,11.92,9.0,Crown Heights South                                                        ,C1-WALK-UP
+320 WASHINGTON AVENUE,865000,3329890.0,3-02593-0022,2005,CLINTON HILL,0,,11,14.81,2.0,Clinton Hill                                                               ,C1-WALK-UP
+582 THROOP AVENUE,234000,3052834.0,3-01970-0041,1930,BEDFORD STUYVESANT,1910,,12,8.77,3.0,Bedford                                                                    ,C1-WALK-UP
+4608 10 AVENUE,1620000,3338927.0,3-00714-0044,1906,BOROUGH PARK,1922,,32,16.01,12.0,Borough Park                                                               ,C7-WALK-UP
+195 SPENCER STREET,709000,3378319.0,3-01789-0033,1931,BEDFORD STUYVESANT,2004,C1-WALK-UP,16,22.83,3.0,Bedford                                                                    ,C1-WALK-UP
+231 15 STREET,1860000,3397589.0,3-01091-0040,1931,PARK SLOPE SOUTH,1931,D1-ELEVATOR,18,20.88,6.0,Park Slope-Gowanus                                                         ,D1-ELEVATOR
+191 SPENCER STREET,316000,3378321.0,3-01868-0061,1910,BEDFORD STUYVESANT,2004,,20,8.0,3.0,Bedford                                                                    ,C1-WALK-UP
+190 GARFIELD PLACE,2060000,3020720.0,3-01028-0066,1914,PARK SLOPE,1930,C1-WALK-UP,25,20.18,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+263 CLASSON AVENUE,1600000,3343740.0,3-01637-0001,1995,BEDFORD STUYVESANT,1920,D7-ELEVATOR,86,27.9,3.0,Clinton Hill                                                               ,D1-ELEVATOR
+47 LINCOLN PLACE,1020000,3019445.0,3-01093-0001,1920,PARK SLOPE,0,C1-WALK-UP,16,19.26,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+649 WASHINGTON AVENUE,647000,3388607.0,3-03261-0020,1931,CROWN HEIGHTS,2007,C1-WALK-UP,35,9.59,8.0,Prospect Heights                                                           ,C1-WALK-UP
+197 SPENCER STREET,316000,3378320.0,3-01868-0061,1910,BEDFORD STUYVESANT,2004,,20,8.0,3.0,Bedford                                                                    ,C1-WALK-UP
+42 SKILLMAN STREET,709000,3348881.0,3-01789-0033,1931,BEDFORD STUYVESANT,2004,,16,22.83,3.0,Bedford                                                                    ,C1-WALK-UP
+128 SKILLMAN STREET,242000,3348790.0,3-01830-0079,1900,BEDFORD STUYVESANT,2002,,11,17.25,3.0,Bedford                                                                    ,C1-WALK-UP
+233 GREENE AVENUE,865000,3055764.0,3-02593-0022,2005,CLINTON HILL,1905,,11,14.81,2.0,Clinton Hill                                                               ,C1-WALK-UP
+286 ST JOHNS PLACE,735000,3029356.0,3-00774-0059,1914,PROSPECT HEIGHTS,1912,C1-WALK-UP,16,17.51,8.0,Prospect Heights                                                           ,C1-WALK-UP
+446 MYRTLE AVENUE,779000,3054810.0,3-01917-0040,1915,CLINTON HILL,1900,C7-WALK-UP,16,14.44,2.0,Clinton Hill                                                               ,C1-WALK-UP
+442 ST MARK'S AVENUE,465000,3028631.0,3-01203-0001,1915,CROWN HEIGHTS,1931,,16,13.27,8.0,Crown Heights North                                                        ,C1-WALK-UP
+205 HICKS STREET,2760000,3255619.0,3-00235-0042,1910,BROOKLYN HEIGHTS,1900,,33,25.9,2.0,Brooklyn Heights-Cobble Hill                                               ,D1-ELEVATOR
+834 MYRTLE AVENUE,999000,3048638.0,3-01968-0032,1930,BEDFORD STUYVESANT,2003,,22,19.75,3.0,Bedford                                                                    ,C4-WALK-UP
+132 REMSEN STREET,836000,3002236.0,3-00253-0003,1900,BROOKLYN HEIGHTS,1900,C7-WALK-UP,12,31.7,2.0,Brooklyn Heights-Cobble Hill                                               ,C1-WALK-UP
+660 4 AVENUE,858000,3338700.0,3-00681-0052,1917,SUNSET PARK,1930,,24,16.18,7.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+20 TIFFANY PLACE,1390000,3391016.0,3-00330-0044,1989,COBBLE HILL-WEST,2006,D3-ELEVATOR,17,21.11,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,D9-ELEVATOR
+925 PACIFIC STREET,1860000,3391761.0,3-01091-0040,1931,CROWN HEIGHTS,2005,D2-ELEVATOR,18,20.88,8.0,Prospect Heights                                                           ,D1-ELEVATOR
+242 GREENE AVENUE,2340000,3391833.0,3-01892-0061,1946,CLINTON HILL,1930,,26,21.57,2.0,Clinton Hill                                                               ,C1-WALK-UP
+359 16 STREET,1570000,3391808.0,3-00975-0017,1920,PARK SLOPE SOUTH,2006,C4-WALK-UP,16,21.53,7.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+438 12 STREET,3000000,3330612.0,3-01081-0043,1920,PARK SLOPE,1999,D1-ELEVATOR,40,18.43,6.0,Park Slope-Gowanus                                                         ,D1-ELEVATOR
+970 KENT AVENUE,8050000,3388495.0,3-01925-0007,1935,BEDFORD STUYVESANT,0,,90,18.84,3.0,Clinton Hill                                                               ,D1-ELEVATOR
+1520 BEDFORD AVENUE,833000,3032183.0,3-01149-0006,1990,CROWN HEIGHTS,1931,,16,28.5,8.0,Crown Heights North                                                        ,C1-WALK-UP
+117 HOPKINSON AVENUE,565000,3041306.0,3-00814-0020,1983,OCEAN HILL,1995,,12,16.02,16.0,Ocean Hill                                                                 ,C1-WALK-UP
+13 IRVING PLACE,833000,3390208.0,3-01149-0006,1990,CLINTON HILL,2006,,16,28.5,2.0,Clinton Hill                                                               ,C1-WALK-UP
+1405 8 AVENUE,1930000,3026583.0,3-01028-0056,1914,PARK SLOPE,0,C1-WALK-UP,25,24.74,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+75 POPLAR STREET,7980000,3250373.0,3-00237-0054,1938,BROOKLYN HEIGHTS,1910,D7-ELEVATOR,67,27.4,2.0,Brooklyn Heights-Cobble Hill                                               ,D3-ELEVATOR
+29 TIFFANY PLACE,7520000,3345585.0,3-00275-0001,1926,COBBLE HILL-WEST,1930,D3-ELEVATOR,94,23.7,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,D7-ELEVATOR
+315 20 STREET,1290000,3388497.0,3-01063-0021,1920,SUNSET PARK,2004,D7-ELEVATOR,24,25.3,7.0,Sunset Park West                                                           ,D1-ELEVATOR
+419 CHAUNCEY STREET,343000,3040860.0,3-01471-0033,1910,OCEAN HILL,1906,,20,9.24,3.0,Stuyvesant Heights                                                         ,C1-WALK-UP
+57 FRONT STREET,2750000,3329418.0,3-00042-0018,2002,DOWNTOWN-FULTON FERRY,1899,D1-ELEVATOR,26,22.32,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D8-ELEVATOR
+569 CARROLL STREET,1290000,3350107.0,3-01063-0021,1920,PARK SLOPE,2003,D7-ELEVATOR,24,25.3,6.0,Park Slope-Gowanus                                                         ,D1-ELEVATOR
+770 LEFFERTS AVENUE,9060000,3346133.0,3-02145-0018,1995,FLATBUSH-NORTH,1998,,66,32.4,9.0,Prospect Lefferts Gardens-Wingate                                          ,D9-ELEVATOR
+192 DE GRAW STREET,2980000,3250426.0,3-00254-0081,1936,COBBLE HILL,1825,D3-ELEVATOR,51,18.25,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,D7-ELEVATOR
+630 UNION STREET,1350000,3020044.0,3-01085-0037,1920,PARK SLOPE,1915,C7-WALK-UP,30,16.12,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+249 16 STREET,1570000,3330589.0,3-00975-0017,1920,PARK SLOPE SOUTH,2003,,16,21.53,7.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+209 SPENCER STREET,316000,3331448.0,3-01868-0061,1910,BEDFORD STUYVESANT,2004,,20,8.0,3.0,Bedford                                                                    ,C1-WALK-UP
+340 11 STREET,1290000,3320218.0,3-01063-0021,1920,PARK SLOPE SOUTH,1991,D1-ELEVATOR,24,25.3,6.0,Park Slope-Gowanus                                                         ,D1-ELEVATOR
+42 MAIN STREET,2750000,3000085.0,3-00042-0018,2002,DOWNTOWN-FULTON FERRY,1910,D5-ELEVATOR,26,22.32,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D8-ELEVATOR
+441 7 AVENUE,818000,3026638.0,3-00949-0053,1920,PARK SLOPE SOUTH,0,C4-WALK-UP,11,24.15,7.0,Park Slope-Gowanus                                                         ,C7-WALK-UP
+163 PROSPECT PARK WEST,738000,3026339.0,3-00974-0059,1921,PARK SLOPE,1999,C1-WALK-UP,12,19.92,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+224 22 STREET,1040000,3342375.0,3-00657-0042,1910,SUNSET PARK,1995,C1-WALK-UP,37,18.37,7.0,Sunset Park West                                                           ,C7-WALK-UP
+755 40 STREET,1290000,3017909.0,3-01063-0021,1920,SUNSET PARK,2002,D7-ELEVATOR,24,25.3,7.0,Sunset Park East                                                           ,D1-ELEVATOR
+63 TIFFANY PLACE,6810000,3003593.0,3-00416-0017,1931,COBBLE HILL-WEST,1917,C1-WALK-UP,90,20.55,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,D5-ELEVATOR
+125 COURT STREET,25500000,3388736.0,3-00271-0001,2003,BOERUM HILL,2005,D6-ELEVATOR,364,24.19,2.0,Brooklyn Heights-Cobble Hill                                               ,D1-ELEVATOR
+35 MC DONALD AVENUE,3530000,3392302.0,3-01093-0038,1921,WINDSOR TERRACE,2006,D1-ELEVATOR,30,23.06,7.0,Windsor Terrace                                                            ,D1-ELEVATOR
+103 SKILLMAN STREET,709000,3251562.0,3-01789-0033,1931,BEDFORD STUYVESANT,2005,,16,22.83,3.0,Bedford                                                                    ,C1-WALK-UP
+124 BEDFORD AVENUE,661000,3061611.0,3-01778-0035,1931,BEDFORD STUYVESANT,0,C1-WALK-UP,16,19.51,1.0,North Side-South Side                                                      ,C1-WALK-UP
+805 BEDFORD AVENUE,709000,3387587.0,3-01789-0033,1931,BEDFORD STUYVESANT,2003,,16,22.83,3.0,Bedford                                                                    ,C1-WALK-UP
+653 HICKS STREET,7520000,3378223.0,3-00275-0001,1926,CARROLL GARDENS,2004,D3-ELEVATOR,94,23.7,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,D7-ELEVATOR
+64 COURT STREET,2760000,3002552.0,3-00235-0042,1910,BROOKLYN HEIGHTS,1921,D1-ELEVATOR,33,25.9,2.0,Brooklyn Heights-Cobble Hill                                               ,D1-ELEVATOR
+267 8 STREET,2360000,3388220.0,3-00945-0019,1920,PARK SLOPE,2004,C1-WALK-UP,25,27.4,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+504 CROWN STREET,862000,3034318.0,3-01187-0064,1926,CROWN HEIGHTS,1991,C1-WALK-UP,30,11.92,9.0,Crown Heights South                                                        ,C1-WALK-UP
+85 STUYVESANT AVENUE,364000,3043258.0,3-01810-0076,1910,BEDFORD STUYVESANT,0,,17,11.07,3.0,Stuyvesant Heights                                                         ,C7-WALK-UP
+172 STUYVESANT AVENUE,1010000,3044271.0,3-01974-0004,1900,BEDFORD STUYVESANT,0,,29,13.85,3.0,Stuyvesant Heights                                                         ,C1-WALK-UP
+95 VANDERBILT AVENUE,366000,3320065.0,3-01979-0039,1930,CLINTON HILL,1991,D2-ELEVATOR,12,10.38,2.0,Fort Greene                                                                ,C4-WALK-UP
+101 WILLOUGHBY STREET,40200000,3392184.0,3-00250-0030,1999,DOWNTOWN-METROTECH,0,D1-ELEVATOR,187,44.0,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D6-ELEVATOR
+866 EASTERN PARKWAY,833000,3378303.0,3-01149-0006,1990,CROWN HEIGHTS,2002,,16,28.5,9.0,Crown Heights North                                                        ,C1-WALK-UP
+156 SACKETT STREET,2750000,3348261.0,3-00042-0018,2002,COBBLE HILL-WEST,2000,D1-ELEVATOR,26,22.32,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,D8-ELEVATOR
+191 LUQUER STREET,2490000,3388738.0,3-00376-0023,2003,CARROLL GARDENS,0,D7-ELEVATOR,22,23.16,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,D1-ELEVATOR
+42 TIFFANY PLACE,2490000,3003591.0,3-00376-0023,2003,COBBLE HILL-WEST,0,D1-ELEVATOR,22,23.16,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,D1-ELEVATOR
+392 14 STREET,1290000,3350109.0,3-01063-0021,1920,PARK SLOPE,2001,D1-ELEVATOR,24,25.3,6.0,Park Slope-Gowanus                                                         ,D1-ELEVATOR
+313 23 STREET,2000000,3391196.0,3-00740-0006,1910,SUNSET PARK,2006,C7-WALK-UP,28,27.8,7.0,Sunset Park West                                                           ,C1-WALK-UP
+570 7 STREET,1020000,3390785.0,3-01093-0001,1920,PARK SLOPE,2006,C1-WALK-UP,16,19.26,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+1062 BERGEN STREET,885000,3030656.0,3-01281-0007,1905,CROWN HEIGHTS,1900,C1-WALK-UP,16,16.93,8.0,Crown Heights North                                                        ,C1-WALK-UP
+395 SMITH STREET,692000,3007961.0,3-00436-0022,1920,CARROLL GARDENS,0,C7-WALK-UP,16,17.06,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,C1-WALK-UP
+158 ATLANTIC AVENUE,1270000,3250408.0,3-00154-0040,1905,COBBLE HILL,1900,C1-WALK-UP,16,28.7,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,C7-WALK-UP
+1443 BEDFORD AVENUE,511000,3331886.0,3-01185-0052,1923,CROWN HEIGHTS,1989,C1-WALK-UP,19,9.55,8.0,Crown Heights North                                                        ,C1-WALK-UP
+376 PRESIDENT STREET,2980000,3347155.0,3-00254-0081,1936,GOWANUS,1938,D3-ELEVATOR,51,18.25,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,D7-ELEVATOR
+252 GREENE AVENUE,7180000,3056260.0,3-01946-0004,1905,CLINTON HILL,1930,,86,15.92,2.0,Clinton Hill                                                               ,D5-ELEVATOR
+357 9 STREET,3530000,3022136.0,3-01093-0038,1921,PARK SLOPE,1920,D1-ELEVATOR,30,23.06,6.0,Park Slope-Gowanus                                                         ,D1-ELEVATOR
+700 PACIFIC STREET,10700000,3027610.0,3-01156-0080,1930,PROSPECT HEIGHTS,2002,D1-ELEVATOR,150,15.67,8.0,Prospect Heights                                                           ,D5-ELEVATOR
+330 2 STREET,3530000,3347775.0,3-01093-0038,1921,PARK SLOPE,0,D1-ELEVATOR,30,23.06,6.0,Park Slope-Gowanus                                                         ,D1-ELEVATOR
+1 ROCKWELL PLACE,2260000,3058613.0,3-02044-0064,1900,FORT GREENE,1900,,48,15.18,2.0,Fort Greene                                                                ,C1-WALK-UP
+306 2 STREET,2860000,3020921.0,3-01089-0001,1905,PARK SLOPE,2004,C7-WALK-UP,32,20.93,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+279 PROSPECT AVENUE,2090000,3325161.0,3-01078-0016,1920,PARK SLOPE SOUTH,0,D1-ELEVATOR,47,14.55,7.0,Park Slope-Gowanus                                                         ,D1-ELEVATOR
+55 POPLAR STREET,5470000,3255616.0,3-00036-0016,1910,BROOKLYN HEIGHTS,1910,D3-ELEVATOR,23,24.73,2.0,Brooklyn Heights-Cobble Hill                                               ,D5-ELEVATOR
+1 HANSON PLACE,40200000,3059183.0,3-00250-0030,1999,FORT GREENE,1927,D1-ELEVATOR,187,44.0,2.0,Fort Greene                                                                ,D6-ELEVATOR
+346 NEW YORK AVENUE,511000,3033569.0,3-01185-0052,1923,CROWN HEIGHTS,1920,,19,9.55,9.0,Crown Heights South                                                        ,C1-WALK-UP
+50 BRIDGE STREET,5470000,3395987.0,3-00036-0016,1910,DOWNTOWN-FULTON FERRY,1904,D8-ELEVATOR,23,24.73,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D5-ELEVATOR
+246 SUMPTER STREET,1620000,3041541.0,3-00714-0044,1906,OCEAN HILL,0,C1-WALK-UP,32,16.01,16.0,Ocean Hill                                                                 ,C7-WALK-UP
+425 14 STREET,1570000,3026501.0,3-00975-0017,1920,PARK SLOPE,1910,C1-WALK-UP,16,21.53,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+9204 AVENUE N,1180000,3234286.0,3-08144-0020,1929,CANARSIE,1900,,40,10.38,18.0,Canarsie                                                                   ,C1-WALK-UP
+421 ADELPHI STREET,1920000,3329555.0,3-02045-0053,2005,FORT GREENE,0,C7-WALK-UP,26,14.99,2.0,Fort Greene                                                                ,D9-ELEVATOR
+831 43 STREET,914000,3255748.0,3-05351-0008,1930,BOROUGH PARK,1987,C1-WALK-UP,20,17.1,12.0,Sunset Park East                                                           ,C1-WALK-UP
+111 SKILLMAN STREET,393000,3054756.0,3-01866-0021,1931,BEDFORD STUYVESANT,2003,C1-WALK-UP,12,14.47,3.0,Bedford                                                                    ,C1-WALK-UP
+11 TERRACE PLACE,1040000,3391755.0,3-00657-0042,1910,WINDSOR TERRACE,2006,C1-WALK-UP,37,18.37,7.0,Windsor Terrace                                                            ,C7-WALK-UP
+605 EAST NEW YORK AVENUE,4360000,3347531.0,3-05154-0047,1963,FLATBUSH-NORTH,0,,96,13.58,9.0,Prospect Lefferts Gardens-Wingate                                          ,D1-ELEVATOR
+762 EMPIRE BOULEVARD,1350000,3341518.0,3-01426-0007,1926,FLATBUSH-NORTH,0,,42,12.37,9.0,Crown Heights South                                                        ,C7-WALK-UP
+645 LEFFERTS AVENUE,1220000,3038418.0,3-04630-0001,1926,FLATBUSH-NORTH,1925,,42,12.88,9.0,Crown Heights South                                                        ,C1-WALK-UP
+365 MARION STREET,478000,3041108.0,3-01464-0043,1910,OCEAN HILL,1995,C1-WALK-UP,13,11.54,16.0,Ocean Hill                                                                 ,C7-WALK-UP
+367 CLASSON AVENUE,709000,3390793.0,3-01789-0033,1931,BEDFORD STUYVESANT,2006,,16,22.83,3.0,Bedford                                                                    ,C1-WALK-UP
+100 STERLING PLACE,3530000,3320670.0,3-01093-0038,1921,PARK SLOPE,0,D1-ELEVATOR,30,23.06,6.0,Park Slope-Gowanus                                                         ,D1-ELEVATOR
+417 HART STREET,308000,3391823.0,3-01839-0011,1900,BEDFORD STUYVESANT,2005,C1-WALK-UP,14,17.67,3.0,Stuyvesant Heights                                                         ,C1-WALK-UP
+296 COLUMBIA STREET,1000000,3005007.0,3-00311-0036,1900,COBBLE HILL-WEST,0,C1-WALK-UP,13,26.8,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,C1-WALK-UP
+133 STERLING PLACE,1600000,3391533.0,3-01637-0001,1995,PARK SLOPE,0,D1-ELEVATOR,86,27.9,6.0,Prospect Heights                                                           ,D1-ELEVATOR
+69 SOUTH OXFORD STREET,1170000,3058927.0,3-02101-0062,1930,FORT GREENE,1931,D9-ELEVATOR,26,13.66,2.0,Fort Greene                                                                ,D9-ELEVATOR
+560 STATE STREET,7980000,3388494.0,3-00237-0054,1938,BOERUM HILL,1990,D7-ELEVATOR,67,27.4,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D3-ELEVATOR
+320 23 STREET,2000000,3391195.0,3-00740-0006,1910,SUNSET PARK,2006,C7-WALK-UP,28,27.8,7.0,Sunset Park West                                                           ,C1-WALK-UP
+560 7 AVENUE,1040000,3017220.0,3-00657-0042,1910,SUNSET PARK,2004,C1-WALK-UP,37,18.37,7.0,Sunset Park West                                                           ,C7-WALK-UP
+501 HICKS STREET,3450000,3003731.0,3-00310-0003,1870,COBBLE HILL,1922,C1-WALK-UP,72,17.28,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,C1-WALK-UP
+555 CROWN STREET,1140000,3251086.0,3-01363-0078,1926,CROWN HEIGHTS,1922,C1-WALK-UP,40,9.35,9.0,Crown Heights South                                                        ,C1-WALK-UP
+675 SACKETT STREET,5790000,3337419.0,3-01156-0015,1930,PARK SLOPE,0,D1-ELEVATOR,70,28.4,6.0,Park Slope-Gowanus                                                         ,D5-ELEVATOR
+44 BUTLER PLACE,2410000,3251011.0,3-00297-0019,1900,PROSPECT HEIGHTS,1925,,48,16.94,8.0,Prospect Heights                                                           ,C1-WALK-UP
+180 STERLING PLACE,1570000,3024401.0,3-00975-0017,1920,PARK SLOPE,1915,,16,21.53,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+319 18 STREET,2000000,3378431.0,3-00740-0006,1910,SUNSET PARK,2004,,28,27.8,7.0,Sunset Park West                                                           ,C1-WALK-UP
+351 26 AVENUE,1040000,,3-00657-0042,1910,SUNSET PARK,2006,C1-WALK-UP,37,18.37,,,C7-WALK-UP
+5 GATES AVENUE,1920000,3055961.0,3-02045-0053,2005,FORT GREENE,0,C7-WALK-UP,26,14.99,2.0,Clinton Hill                                                               ,D9-ELEVATOR
+354 2 STREET,4400000,3387684.0,3-00958-0017,2002,PARK SLOPE,0,,36,58.0,6.0,Park Slope-Gowanus                                                         ,D1-ELEVATOR
+10208 KANE STREET,4350000,,3-00265-0006,1917,COBBLE HILL-WEST,1921,D3-ELEVATOR,43,17.38,,,D1-ELEVATOR
+189 FRANKLIN AVENUE,709000,3388745.0,3-01789-0033,1931,BEDFORD STUYVESANT,2006,,16,22.83,3.0,Clinton Hill                                                               ,C1-WALK-UP
+78 SPENCER STREET,709000,3387577.0,3-01789-0033,1931,BEDFORD STUYVESANT,2003,,16,22.83,3.0,Bedford                                                                    ,C1-WALK-UP
+110 LIVINGSTON STREET,40200000,3002642.0,3-00250-0030,1999,DOWNTOWN-FULTON MALL,1926,D1-ELEVATOR,187,44.0,2.0,Brooklyn Heights-Cobble Hill                                               ,D6-ELEVATOR
+100 JAY STREET,9250000,3391186.0,3-00051-0001,1914,DOWNTOWN-FULTON FERRY,2006,D6-ELEVATOR,104,18.9,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D5-ELEVATOR
+1569 WEST 7 STREET,1620000,3388768.0,3-00714-0044,1906,GRAVESEND,2005,,32,16.01,11.0,Bensonhurst East                                                           ,C7-WALK-UP
+318 WARREN STREET,7980000,3006318.0,3-00237-0054,1938,BOERUM HILL,1910,D7-ELEVATOR,67,27.4,6.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D3-ELEVATOR
+225 EASTERN PARKWAY,3700000,3029651.0,3-01192-0085,1930,CROWN HEIGHTS,0,,97,10.17,8.0,Crown Heights North                                                        ,D7-ELEVATOR
+381 CARLTON AVENUE,9090000,3388333.0,3-00051-0012,2000,FORT GREENE,2003,,59,35.9,2.0,Fort Greene                                                                ,D7-ELEVATOR
+689 MYRTLE AVENUE,1590000,3048420.0,3-01843-0020,1931,BEDFORD STUYVESANT,0,C1-WALK-UP,58,9.11,3.0,Bedford                                                                    ,C7-WALK-UP
+794 ST JOHN'S PLACE,515000,3032229.0,3-02875-0056,1920,CROWN HEIGHTS,1910,C1-WALK-UP,12,21.1,8.0,Crown Heights North                                                        ,C1-WALK-UP
+544 5 AVENUE,2090000,3023674.0,3-01078-0016,1920,PARK SLOPE SOUTH,1925,D1-ELEVATOR,47,14.55,6.0,Park Slope-Gowanus                                                         ,D1-ELEVATOR
+472 BAINBRIDGE STREET,3460000,3040847.0,3-01467-0001,1973,OCEAN HILL,1992,C1-WALK-UP,72,13.17,3.0,Stuyvesant Heights                                                         ,C1-WALK-UP
+259 21 STREET,6770000,3017415.0,3-01156-0090,1930,SUNSET PARK,1904,D5-ELEVATOR,83,31.6,7.0,Sunset Park West                                                           ,D5-ELEVATOR
+159 CARLTON AVENUE,937000,3251652.0,3-02073-0035,1915,FORT GREENE,1987,C1-WALK-UP,16,16.22,2.0,Fort Greene                                                                ,C1-WALK-UP
+876 BEDFORD AVENUE,709000,3394735.0,3-01789-0033,1931,BEDFORD STUYVESANT,2004,,16,22.83,3.0,Bedford                                                                    ,C1-WALK-UP
+618 DEAN STREET,1480000,3027863.0,3-01160-0032,1931,PROSPECT HEIGHTS,1930,,24,19.95,8.0,Prospect Heights                                                           ,C1-WALK-UP
+401 HICKS STREET,5990000,3335989.0,3-00305-0001,1870,COBBLE HILL,2004,C7-WALK-UP,114,16.75,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,C1-WALK-UP
+936 FULTON STREET,1120000,3057630.0,3-01946-0030,1905,CLINTON HILL,0,D5-ELEVATOR,15,27.1,2.0,Clinton Hill                                                               ,C1-WALK-UP
+69 CARROLL STREET,2490000,3391751.0,3-00376-0023,2003,COBBLE HILL-WEST,2005,,22,23.16,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,D1-ELEVATOR
+1838 WEST 13 STREET,8050000,3388770.0,3-01925-0007,1935,CLINTON HILL,2005,,90,18.84,11.0,Bensonhurst East                                                           ,D1-ELEVATOR
+24 6 AVENUE,616000,,3-01131-0003,1931,PROSPECT HEIGHTS,1940,C1-WALK-UP,12,19.61,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+1 MAIN STREET,25500000,3346104.0,3-00271-0001,2003,DOWNTOWN-FULTON FERRY,1913,D6-ELEVATOR,364,24.19,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D1-ELEVATOR
+176 JOHNSON STREET,7520000,3058206.0,3-00275-0001,1926,DOWNTOWN-METROTECH,1926,D3-ELEVATOR,94,23.7,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D7-ELEVATOR
+636 PACIFIC STREET,2080000,,3-01153-0010,1930,PROSPECT HEIGHTS,1926,,35,15.97,,,C1-WALK-UP
+60 TIFFANY PLACE,7520000,3388737.0,3-00275-0001,1926,COBBLE HILL-WEST,0,D3-ELEVATOR,94,23.7,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,D7-ELEVATOR
+34 BUTLER PLACE,2750000,3388742.0,3-00042-0018,2002,PROSPECT HEIGHTS,2005,C1-WALK-UP,26,22.32,8.0,Prospect Heights                                                           ,D8-ELEVATOR
+460 FLUSHING AVENUE,1620000,3348619.0,3-00714-0044,1906,BEDFORD STUYVESANT,0,,32,16.01,3.0,Bedford                                                                    ,C7-WALK-UP
+145 PARK PLACE,4710000,3018945.0,3-00958-0007,2002,PARK SLOPE,1925,D5-ELEVATOR,25,32.8,6.0,Prospect Heights                                                           ,D1-ELEVATOR
+393 DEAN STREET,2360000,3378231.0,3-00945-0019,1920,PARK SLOPE,2004,C1-WALK-UP,25,27.4,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+372 15 STREET,2200000,3350114.0,3-00965-0071,1920,PARK SLOPE SOUTH,2004,C1-WALK-UP,32,21.31,7.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+430 CLINTON AVENUE,3260000,3055968.0,3-01979-0024,1931,CLINTON HILL,1930,C1-WALK-UP,45,20.93,2.0,Clinton Hill                                                               ,D1-ELEVATOR
+273 ALBANY AVENUE,885000,3388744.0,3-01281-0007,1905,CROWN HEIGHTS,1906,C1-WALK-UP,16,16.93,8.0,Crown Heights North                                                        ,C1-WALK-UP
+1113 5 AVENUE,2090000,,3-01078-0016,1920,PARK SLOPE,1922,D1-ELEVATOR,47,14.55,,,D1-ELEVATOR
+120 BOERUM PLACE,5550000,3341560.0,3-02310-0004,1910,BOERUM HILL,1916,C5-WALK-UP,42,26.1,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,C1-WALK-UP
+52 3 AVENUE,1530000,3389079.0,3-00278-0015,1900,BOERUM HILL,2005,C7-WALK-UP,22,21.01,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,C7-WALK-UP
+529 COURT STREET,3160000,3391418.0,3-00254-0013,1917,CARROLL GARDENS,2005,D1-ELEVATOR,36,27.3,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,D1-ELEVATOR
+300 8 STREET,2170000,3022124.0,3-00928-0013,1920,PARK SLOPE,1914,D5-ELEVATOR,45,15.36,6.0,Park Slope-Gowanus                                                         ,D1-ELEVATOR
+344 DE GRAW STREET,2490000,3348504.0,3-00376-0023,2003,CARROLL GARDENS,2000,D1-ELEVATOR,22,23.16,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,D1-ELEVATOR
+163 SKILLMAN STREET,308000,3391321.0,3-01839-0011,1900,BEDFORD STUYVESANT,2003,,14,17.67,3.0,Clinton Hill                                                               ,C1-WALK-UP
+64 7 AVENUE,1000000,3019673.0,3-01058-0042,1910,PARK SLOPE,1931,C1-WALK-UP,19,17.8,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+107 SKILLMAN STREET,709000,3054757.0,3-01789-0033,1931,BEDFORD STUYVESANT,2004,,16,22.83,3.0,Bedford                                                                    ,C1-WALK-UP
+25 BERGEN STREET,3810000,3002841.0,3-00178-0016,1928,BOERUM HILL,1910,D7-ELEVATOR,60,27.2,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D1-ELEVATOR
+82 SPENCER STREET,709000,3387579.0,3-01789-0033,1931,BEDFORD STUYVESANT,2003,,16,22.83,3.0,Bedford                                                                    ,C1-WALK-UP
+937 UNION STREET,3000000,3349056.0,3-01081-0043,1920,PARK SLOPE,2003,D5-ELEVATOR,40,18.43,6.0,Park Slope-Gowanus                                                         ,D1-ELEVATOR
+723 MAC DONOUGH STREET,478000,3040192.0,3-01464-0043,1910,OCEAN HILL,1910,C1-WALK-UP,13,11.54,16.0,Ocean Hill                                                                 ,C7-WALK-UP
+1738 UNION STREET,1300000,3037794.0,3-01280-0022,1923,CROWN HEIGHTS,1921,C1-WALK-UP,28,15.31,9.0,Crown Heights North                                                        ,C1-WALK-UP
+1206 PACIFIC STREET,1830000,3029986.0,3-01311-0038,1925,CROWN HEIGHTS,1915,,38,12.25,8.0,Crown Heights North                                                        ,C1-WALK-UP
+358 COURT STREET,893000,3004582.0,3-00366-0028,1900,CARROLL GARDENS,1890,C1-WALK-UP,15,20.55,6.0,Carroll Gardens-Columbia Street-Red Hook                                   ,C7-WALK-UP
+173 SMITH STREET,2980000,3006148.0,3-00254-0081,1936,BOERUM HILL,1915,D3-ELEVATOR,51,18.25,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D7-ELEVATOR
+30 MAIN STREET,9250000,3335867.0,3-00051-0001,1914,DOWNTOWN-FULTON FERRY,1910,D5-ELEVATOR,104,18.9,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D5-ELEVATOR
+415 CARLTON AVENUE,1920000,3251605.0,3-02045-0053,2005,FORT GREENE,0,C7-WALK-UP,26,14.99,2.0,Fort Greene                                                                ,D9-ELEVATOR
+330 PROSPECT PLACE,1530000,3028863.0,3-01176-0015,1914,PROSPECT HEIGHTS,1931,C7-WALK-UP,40,12.45,8.0,Prospect Heights                                                           ,C1-WALK-UP
+70 WASHINGTON STREET,9250000,3388734.0,3-00051-0001,1914,DOWNTOWN-FULTON FERRY,1916,D1-ELEVATOR,104,18.9,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D5-ELEVATOR
+632 11 STREET,1020000,3026362.0,3-01093-0001,1920,PARK SLOPE,1921,C1-WALK-UP,16,19.26,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+387 ADELPHI STREET,937000,3329554.0,3-02073-0033,1915,FORT GREENE,0,C1-WALK-UP,16,16.22,2.0,Fort Greene                                                                ,C1-WALK-UP
+99 4 AVENUE,857000,3250767.0,3-01178-0072,1912,PARK SLOPE,1986,C1-WALK-UP,24,16.7,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+145 PROSPECT PARK WEST,2200000,3026085.0,3-00965-0071,1920,PARK SLOPE,2002,C1-WALK-UP,32,21.31,6.0,Park Slope-Gowanus                                                         ,C1-WALK-UP
+556 STATE STREET,6090000,3388709.0,3-00193-0050,1999,BOERUM HILL,2006,D9-ELEVATOR,46,30.2,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D9-ELEVATOR
+74 SPENCER STREET,709000,3048412.0,3-01789-0033,1931,BEDFORD STUYVESANT,2003,,16,22.83,3.0,Bedford                                                                    ,C1-WALK-UP
+806 WASHINGTON AVENUE,1000000,3029405.0,3-01158-0021,1931,PROSPECT HEIGHTS,1910,C1-WALK-UP,16,16.34,8.0,Prospect Heights                                                           ,C1-WALK-UP
+255 EASTERN PARKWAY,1720000,3029652.0,3-01190-0001,1928,CROWN HEIGHTS,1924,D7-ELEVATOR,78,8.29,8.0,Crown Heights North                                                        ,D1-ELEVATOR
+4 WATER STREET,9090000,3000078.0,3-00051-0012,2000,DOWNTOWN-FULTON FERRY,2007,D3-ELEVATOR,59,35.9,2.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ,D7-ELEVATOR

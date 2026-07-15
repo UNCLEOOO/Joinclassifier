@@ -1,0 +1,9 @@
+city,street_homeless_population,general_population,ratio_of_unsheltered_homeless_to_general_population
+"{'human_address': '{""address"": """", ""city"": ""Boston"", ""state"": """", ""zip"": """"}'}",219,609023,"1 in 2,781 "
+"{'human_address': '{""address"": """", ""city"": ""New York City"", ""state"": """", ""zip"": """"}'}",3111,8363710,"1 in 2,688 "
+"{'human_address': '{""address"": """", ""city"": ""Los Angeles, CA"", ""state"": """", ""zip"": """"}'}",24915,3833995,1 in 154 
+"{'human_address': '{""address"": """", ""city"": ""Seattle, WA"", ""state"": """", ""zip"": """"}'}",1986,598541,1 in 301 
+"{'human_address': '{""address"": """", ""city"": ""Washington, DC"", ""state"": """", ""zip"": """"}'}",321,591833,"1 in 1,844 "
+"{'human_address': '{""address"": """", ""city"": ""Miami, FL"", ""state"": """", ""zip"": """"}'}",411,413201,1 in 1005 
+"{'human_address': '{""address"": """", ""city"": ""San Francisco, CA"", ""state"": """", ""zip"": """"}'}",2709,808976,1 in 299 
+"{'human_address': '{""address"": """", ""city"": ""Chicago, IL"", ""state"": """", ""zip"": """"}'}",1576,2853114,"1 in 1,810 "

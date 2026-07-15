@@ -1,0 +1,201 @@
+street_address,longitude,bble,isps_2,designated_telecom_utility_space,new_service_providers,fiber_connection,satellite_fixed_wireless_connection,isps_1,latitude-borough
+120-55 QUEENS BOULEVARD,-73.828601,4022740002.0,No, shared,None available,Yes,No,3,40.713329-Queens
+43 CHAMBERS STREET,-74.005234,1001530001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.713676-Manhattan
+65 EAST 55 STREET,-73.972642,1012910028.0,,Dedicated room,Yes,Yes,Yes,5 or more,40.760718-Manhattan
+2 PENN PLAZA,-73.991345,1007819002.0,"Verizon,TW Telecom,Time Warner Cable,Sidera,Lightpath,Level(3),Direct TV,Cogent,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.750017-Manhattan
+225 LIBERTY STREET,-74.015673,1000160125.0,"Verizon,Time Warner Cable,Lightpath,Lightower,Cogent,AT&T,Abovenet","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.711537-Manhattan
+912 BROADWAY,-73.989658,,"Verizon,Time Warner Cable","Combination of open, shared, and dedicated  space",Yes,No,Yes,2,40.739548-Manhattan
+10 Rockefeller Plaza,-73.979165,1012640005.0,"RGTS,Time Warner Cable,Verizon",Dedicated room,Yes,Yes,No,3,40.758104-Manhattan
+160 ADAMS STREET,-73.988615,3000850006.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.699033-Brooklyn
+500 8 AVENUE,-73.992904,1007850001.0,"Verizon,TW Telecom,Time Warner Cable,Broadview",Hallway/Open Space,Yes,Yes,No,4,40.752943-Manhattan
+346 BROADWAY,-74.004163,1001700006.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.716696-Manhattan
+50 Rockefeller  Plaza,-73.97823,1012660001.0,"RGTS,Time Warner Cable,Verizon",Dedicated room,Yes,Yes,No,3,40.75938-Manhattan
+620 AVENUE OF THE AMERIC,,1008200001.0,"Other,Verizon",Dedicated room,Yes,Yes,Yes,3,nan-Manhattan
+888 7 AVENUE,-73.980416,1010280029.0,"Zayo,Verizon,TW Telecom,Time Warner Cable,Direct TV,Cogent,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.765015-Manhattan
+601 WEST 26 STREET,-74.005955,1006720001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.750934-Manhattan
+126 EAST 56 STREET,-73.970151,1013100063.0,"Verizon,Time Warner Cable,Cogent",Dedicated room,Yes,Yes,No,3,40.760465-Manhattan
+964 3 AVENUE,-73.967133,1013120041.0,"Verizon,Time Warner Cable,Lightpath,Direct TV,Cogent","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.76072-Manhattan
+245 PARK AVENUE,-73.975683,,"Verizon,Time Warner Cable,Lightpath,Level(3),Cogent,Abovenet",Dedicated room,Yes,Yes,No,5 or more,40.754826-Manhattan
+24 WHITEHALL STREET,-74.013092,1000090029.0,"Other,Zayo,XO Communications,Verizon,Time Warner Cable,Sidera,Reliance,Lightower,Cogent,AT&T",Dedicated room,Yes,Yes,Yes,5 or more,40.703446-Manhattan
+488 MADISON AVENUE,-73.974855,1012870014.0,"Broadview,XO Communications,Signal Point,Towerstream,Time Warner Cable,Verizon,Covad",Hallway/Open Space,Yes,Yes,No,5 or more,40.758888-Manhattan
+215 PARK AVENUE SOUTH,-73.988713,1008730067.0,"Verizon,Time Warner Cable,Lightower,Broadview","Combination of open, shared, and dedicated  space",No capability available,Yes,Yes,4,40.736963-Manhattan
+1412 BROADWAY,-73.987046,1008150014.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.753711-Manhattan
+100 EAST 45 STREET,-73.97555,1012800090.0,"Cogent,TW Telecom,Verizon,Other",Common (shared) room,Yes,Yes,No,4,40.753739-Manhattan
+351 JAY STREET,-73.987256,3001470004.0,"Verizon,Time Warner Cable,Lightpath,Lightower,Cogent,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.692882-Brooklyn
+1440 BROADWAY,-73.986761,,"Other,Verizon,Time Warner Cable,Sprint,Lightpath,Lightower,Level(3),Eureka,Direct TV,Cogent,Broadview,AT&T,Abovenet","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.754611-Manhattan
+345 ADAMS STREET,-73.988915,3001401202.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.6934-Brooklyn
+1 LIBERTY PLAZA,-74.011102,1000627501.0,"Zayo,Verizon,Time Warner Cable,Lightower,Cogent,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.70943-Manhattan
+133 CENTRE STREET,-74.000747,1001970017.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.717036-Manhattan
+45 MONROE PLACE,-73.992802,3002370001.0,,"Combination of open, shared, and dedicated  space",Yes,No,No,1,40.695822-Brooklyn
+304 PARK AVENUE SOUTH,-73.986507,1008510041.0,"XO Communications,Verizon,Time Warner Cable",Hallway/Open Space,Yes,Yes,No,3,40.740006-Manhattan
+355 LEXINGTON AVENUE,-73.976909,1012950023.0,"Verizon,Time Warner Cable,Cogent",Dedicated room,Yes,Yes,Yes,3,40.750245-Manhattan
+323 HUDSON STREET,-74.007425,1005970062.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.726711-Manhattan
+300 MADISON AVENUE,-73.979712,,"Verizon,Time Warner Cable,Sprint,Lightpath,Lightower,AT&T",Dedicated room,Yes,Yes,No,5 or more,40.752236-Manhattan
+613 MADISON AVENUE,-73.971789,1012940046.0,"Cablevision,AT&T,Time Warner Cable,Verizon","Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.763054-Manhattan
+100 West 33rd Street,-73.988675,1008080040.0,"Verizon,TW Telecom,Time Warner Cable,Lightpath,Lightower",Common (shared) room,Yes,Yes,Yes,5 or more,40.7493-Manhattan
+630 Flushing Avenue,-73.948449,3017200001.0,"Other,Verizon,Towerstream","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,4,40.699963-Brooklyn
+340 MADISON AVENUE,-73.978513,1012780014.0,,Dedicated room,Yes,Yes,Yes,5 or more,40.753869-Manhattan
+360 ADAMS STREET,-73.988904,3001390020.0,,Dedicated room,Yes,Yes,No,2,40.694122-Brooklyn
+240 WEST 35 STREET,-73.991377,1007840064.0,"Verizon,Time Warner Cable",Common (shared) room,Yes,Yes,No,2,40.752171-Manhattan
+280 BROADWAY,-74.006089,1001531001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.714417-Manhattan
+149 5 AVENUE,-73.990441,1008500001.0,,Common (shared) room,Yes,Yes,No,5 or more,40.74035-Manhattan
+WATER STREET,,5005230001.0,,"Combination of open, shared, and dedicated  space",Yes,No,No,1,nan-Staten Island
+597 MADISON AVENUE,-73.972237,1012930026.0,"Verizon,RCN,Everest Broadband,Direct TV","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,3,40.762445-Manhattan
+260 BROADWAY,-74.00672,1001351001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.713696-Manhattan
+630 3 AVENUE,-73.975165,1012950040.0,"Verizon,Time Warner Cable,SignalPoint,Cogent,Broadview","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.749798-Manhattan
+883 CASTLETON AVENUE,-74.111712,5001590065.0,,"Combination of open, shared, and dedicated  space",Yes,No,No,1,40.634751-Staten Island
+650 5 AVENUE,-73.976544,1012670041.0,"Other,Verizon,Time Warner Cable,AT&T",Dedicated room,Yes,Yes,No,5 or more,40.759789-Manhattan
+210 JORALEMON STREET,-73.990491,3002661001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.692459-Brooklyn
+18 RICHMOND TERRACE,-74.075772,5000070012.0,No, shared,None available,No,No,1,40.643004-Staten Island
+145 WEST 30 STREET,-73.990934,1008060009.0,Verizon,Hallway/Open Space,Yes,No,No,2,40.747837-Manhattan
+756 BROADWAY,-73.992326,1005540001.0,"Verizon,TW Telecom,Time Warner Cable,RCN,Lightower,Direct TV,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.730675-Manhattan
+140 WEST 57 STREET,-73.978719,1010090050.0,"Eureka,Time Warner Cable,Verizon",Hallway/Open Space,No capability available,No,No,3,40.764952-Manhattan
+100 GOLD STREET,-74.004007,1000940025.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.710353-Manhattan
+512 MADISON AVENUE,-73.974165,1012890014.0,none,No,,No,No,Yes,40.759838-Manhattan
+645 5th Avenue,-73.976407,1012877501.0,"Time Warner Cable,Verizon,Zayo",Dedicated room,Yes,Yes,No,3,40.759133-Manhattan
+307 WEST 38 STREET,-73.992175,,"Verizon,Time Warner Cable,Rainbow Broadband,MegaPath,Broadview","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.754946-Manhattan
+350 PARK AVENUE,-73.973231,1012870033.0,"Verizon,Time Warner Cable,Lightpath,Direct TV,Cogent","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,4,40.758224-Manhattan
+390 KENT AVENUE,-73.968348,3024670001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,1,40.711246-Brooklyn
+40 WALL STREET,-74.009875,1000430002.0,"Other,XO Communications,Verizon,Time Warner Cable,Cogent,AT&T",Dedicated room,Yes,Yes,No,5 or more,40.706625-Manhattan
+1230 Avenue of the Americ,,,"RGTS,Time Warner Cable,Verizon",Dedicated room,Yes,Yes,No,3,nan-Manhattan
+395 LEXINGTON AVENUE,-73.97593,1012970023.0,"Lightower,Cogent,AT&T,zColo,Time Warner Cable,Verizon","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.751587-Manhattan
+460 LEXINGTON AVENUE,-73.97459,1013000014.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.753467-Manhattan
+1501 BROADWAY,-73.986193,1010150029.0,"Verizon,Time Warner Cable,MegaPath","Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.757103-Manhattan
+1 WHITEHALL STREET,-74.013164,1000100023.0,"AT&T,Verizon,Time Warner Cable,Cogent",Dedicated room,Yes,Yes,No,4,40.703973-Manhattan
+750 3 AVENUE,-73.972309,1013010033.0,"Cogent,Other,Cablevision,Time Warner Cable,Verizon","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.753722-Manhattan
+666 5 AVENUE,-73.976421,1012681102.0,"Zayo,Verizon FIOS,Verizon,Time Warner Cable,Rainbow Broadband,Lightpath,Lightower,Cogent","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.760549-Manhattan
+155 WATER STREET,-73.987864,3000290016.0,"Verizon,Lightower",Dedicated room,Yes,Yes,No,2,40.703147-Brooklyn
+230 PARK AVENUE,-73.975951,1013000001.0,Verizon,Dedicated room,Yes,Yes,No,1,40.754508-Manhattan
+257 PARK AVENUE SOUTH,-73.987536,1008760006.0,"Verizon FIOS,Verizon,Time Warner Cable,Eureka",Dedicated room,Yes,Yes,No,3,40.738574-Manhattan
+35 WEST 36 STREET,-73.985487,1008380021.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.750518-Manhattan
+330 WEST 34 STREET,-73.994503,1007570054.0,"Verizon,Time Warner Cable,Direct TV,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,4,40.752619-Manhattan
+330 MADISON AVENUE,-73.978871,1012770014.0,"Verizon,TW Telecom,Time Warner Cable,Lightpath,Level(3),Direct TV,Cogent","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.753383-Manhattan
+20 BROAD STREET,-74.011033,1000230050.0,"Verizon,Time Warner Cable,RCN,Direct TV,Cogent,AT&T",Dedicated room,Yes,Yes,Yes,5 or more,40.706553-Manhattan
+12 HOWARD STREET,-74.000014,1002330026.0,"Verizon,Time Warner Cable","Combination of open, shared, and dedicated  space",Yes,No,No,2,40.719281-Manhattan
+55 BROADWAY,-74.012631,1000200016.0,none,,,Yes,No,4,40.706638-Manhattan
+350 WEST 31 STREET,-73.996286,1007540068.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.750893-Manhattan
+90 PARK AVENUE,-73.978865,1008690034.0,"Verizon,Time Warner Cable,Reliance,RCN,Lightpath,Level(3),Direct TV",Dedicated room,Yes,Yes,Yes,5 or more,40.750504-Manhattan
+1350 AVENUE OF THE AMERIC,,1012700071.0,"Broadview,Zayo,Time Warner Cable,Verizon,Cogent,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,nan-Manhattan
+30 Rockefeller Plaza,-73.978692,1012657501.0,"RGTS,Time Warner Cable,Verizon,Cogent,Abovenet","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.758754-Manhattan
+600 5 AVENUE,-73.977946,1012640030.0,"Abovenet,RGTS,Time Warner Cable,Verizon",Dedicated room,Yes,Yes,No,4,40.75753-Manhattan
+142 EAST 121 STREET,-73.939518,1017690045.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.801904-Manhattan
+120 WEST 45 STREET,-73.983544,1009970041.0,"Verizon,TW Telecom,Time Warner Cable,Cogent,Broadview,AT&T",Common (shared) room,No capability available,Yes,No,5 or more,40.757117-Manhattan
+41 EAST 51 STREET,-73.974722,1012870028.0,"Other,Zayo,Verizon,Time Warner Cable,Reliance,Lightower,Cogent,AT&T",Hallway/Open Space,Yes,Yes,No,5 or more,40.758323-Manhattan
+85 BROAD STREET,-74.011559,1000290001.0,"Verizon,TW Telecom,Time Warner Cable,AT&T",Dedicated room,Yes,Yes,No,4,40.704215-Manhattan
+4101 WHITE PLAINS ROAD,-73.858862,2048320009.0,,"Combination of open, shared, and dedicated  space",Yes,No,No,2,40.89074-Bronx
+141 SOUTH 5 STREET,-73.96279,,"Cablevision,AT&T",Dedicated room,Yes,Yes,No,2,40.711044-Brooklyn
+909 3 AVENUE,-73.968618,1013280001.0,"Verizon,Time Warner Cable,RCN,Lightpath,Lightower,Direct TV,Cogent,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.758744-Manhattan
+295 Lafayette Street,-73.995761,1005107502.0,"Towerstream,Verizon,Cogent",Common (shared) room,Yes,Yes,Yes,4,40.724537-Manhattan
+1280 AVENUE OF THE AMERIC,,1012670001.0,"Zayo,Verizon,TW Telecom,Time Warner Cable,Lightpath,Lightower,Level(3),Direct TV,Cogent,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,nan-Manhattan
+689 5 AVENUE,-73.975295,1012900001.0,"Verizon,Time Warner Cable,Direct TV","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,2,40.761131-Manhattan
+21 WEST 46 STREET,-73.979967,1012620024.0,"Other,XO Communications,Verizon,TW Telecom","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.756435-Manhattan
+666 3 AVENUE,-73.974252,1012970033.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.751049-Manhattan
+600 LEXINGTON AVENUE,-73.971322,1013070014.0,"Lightower,Cogent,Time Warner Cable,Verizon","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.757943-Manhattan
+53 WEST 36 STREET,-73.985798,1008380012.0,"Verizon FIOS,Verizon,Time Warner Cable","Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.750648-Manhattan
+220 EAST 42 STREET,-73.973256,1013150024.0,"Other,Verizon,Time Warner Cable,Cogent,AT&T,Abovenet",Common (shared) room,No capability available,Yes,No,5 or more,40.750256-Manhattan
+853 BROADWAY,-73.99081,,"Wave 2 Wave,Verizon,Time Warner Cable,Cogent,AT&T",Dedicated room,Yes,Yes,No,5 or more,40.734646-Manhattan
+535 MADISON AVENUE,-73.973454,1012900021.0,Other,Dedicated room,Yes,Yes,Yes,5 or more,40.760354-Manhattan
+100 BROADWAY,-74.011373,1000460003.0,"Zayo,Verizon,TW Telecom,Time Warner Cable,Direct TV,AT&T","Combination of open, shared, and dedicated  space",,Yes,Yes,3,40.70814-Manhattan
+851 GRAND CONCOURSE,-73.923131,2024680001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.825999-Bronx
+1270 AVENUE OF THE AMERIC,,,"RGTS,Time Warner Cable,Verizon,Cogent,Abovenet",Dedicated room,Yes,Yes,No,5 or more,nan-Manhattan
+80 CENTRE STREET,-74.00189,1001660027.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.715447-Manhattan
+413 MADISON AVENUE,-73.976383,1012840021.0,"Verizon,Time Warner Cable,Cogent",Dedicated room,Yes,Yes,No,3,40.756753-Manhattan
+14 READE STREET,-74.004675,1001540023.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.714127-Manhattan
+111 CENTRE STREET,-74.001277,1001690010.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,1,40.716317-Manhattan
+200 LIBERTY STREET,-74.015442,1000160120.0,"Zayo,Verizon,Time Warner Cable,Sidera,Level(3),Cogent,AT&T",Dedicated room,Yes,Yes,No,5 or more,40.711425-Manhattan
+63 MADISON AVENUE,-73.98607,,"Verizon FIOS,Verizon,Time Warner Cable,Lightpath,Lexent,Broadview","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.743478-Manhattan
+369 PARK AVENUE SOUTH,-73.984814,1008820003.0,"Verizon,Time Warner Cable,Rainbow Broadband,OCG,Cogent",Hallway/Open Space,Yes,Yes,Yes,5 or more,40.742295-Manhattan
+553 5 AVENUE,-73.979152,1012810069.0,"Verizon,Time Warner Cable,SignalPoint,Lightower,Cogent","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.755842-Manhattan
+231 EAST 161 STREET,-73.919984,2024440001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,1,40.826076-Bronx
+399 7 AVENUE,-73.99162,1008070001.0,"Verizon,Time Warner Cable,Everest Broadband,Cogent","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.749611-Manhattan
+198 EAST 161 STREET,-73.921024,2024430094.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,4,40.826354-Bronx
+771 10 AVENUE,-73.99082,,Century Link,Dedicated room,Yes,Yes,Yes,3,40.766032-Manhattan
+44 WALL STREET,-74.009738,1000430001.0,"Verizon,Time Warner Cable,Lightpath,Cogent,Broadview,Abovenet",Common (shared) room,Yes,Yes,No,5 or more,40.70654-Manhattan
+2 LAFAYETTE STREET,-74.003586,1001550001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,4,40.713723-Manhattan
+200 PARK AVENUE,-73.976557,1012809010.0,"Lightower,AT&T,Time Warner Cable,Cogent,Verizon",Dedicated room,Yes,Yes,Yes,5 or more,40.754162-Manhattan
+23 CHAMBERS STREET,-74.004509,1001530024.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.713347-Manhattan
+555 WEST 57 STREET,-73.990927,1010860001.0,"Lightower,Time Warner Cable,Verizon","Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.770125-Manhattan
+7 WEST 34 STREET,-73.985138,1008360026.0,"Verizon,Time Warner Cable","Combination of open, shared, and dedicated  space",Yes,No,No,2,40.74869-Manhattan
+321 WEST 44 STREET,-73.989669,1010350017.0,"Verizon FIOS,Verizon,Time Warner Cable,Broadview,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.75889-Manhattan
+75 9th Ave,-74.004713,1007130001.0,"Other,Verizon",Dedicated room,Yes,Yes,Yes,3,40.741876-Manhattan
+1675 BROADWAY,-73.983073,1010240015.0,"Other,Zayo,Verizon,Time Warner Cable,Reliance,Cogent,AT&T,Abovenet","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.762963-Manhattan
+1515 BROADWAY,-73.985804,1010160036.0,"Other,Verizon,Time Warner Cable,Lightpath,Cablevision,AT&T",Common (shared) room,Yes,Yes,Yes,5 or more,40.757636-Manhattan
+100 EAST 42 STREET,-73.977074,1012960001.0,"Verizon,Time Warner Cable,Cogent,Cablevision,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.751862-Manhattan
+640 5 AVENUE,-73.977122,1012670034.0,"Verizon,TW Telecom,Time Warner Cable,Sidera,Level(3),Direct TV","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,3,40.759432-Manhattan
+75 CENTRE STREET,-74.00206,1001680032.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.715249-Manhattan
+850 3 AVENUE,-73.969976,1013060033.0,"Other,Verizon","Combination of open, shared, and dedicated  space",No capability available,Yes,Yes,3,40.756924-Manhattan
+1185 AVENUE OF THE AMERIC,,1009990029.0,"Other,Lightower,Level(3),Time Warner Cable,Verizon,Cogent,AT&T",Dedicated room,Yes,Yes,Yes,5 or more,nan-Manhattan
+1180 AVENUE OF THE AMER,-73.982176,1012620001.0,"Verizon,Time Warner Cable,Lightower,Cogent",Common (shared) room,Yes,Yes,No,4,40.757479-Manhattan
+25-10 COURT SQUARE,-73.943466,4000830001.0,,"Combination of open, shared, and dedicated  space",Yes,No,No,2,40.746059-Queens
+280 MADISON AVENUE,-73.980301,1008690061.0,"Other,Verizon FIOS,Verizon,Time Warner Cable",Hallway/Open Space,Yes,Yes,No,3,40.751432-Manhattan
+1240 BROADWAY,-73.988278,1008330011.0,"Verizon,Time Warner Cable,Lightpath,Lightower,Cogent,AT&T",Common (shared) room,Yes,Yes,No,5 or more,40.747648-Manhattan
+217 EAST 161 STREET,-73.920461,2024540001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.826216-Bronx
+2 WALL STREET,-74.011632,1000460001.0,"Verizon FIOS,Verizon,Time Warner Cable,SignalPoint,RCN,Cogent,Broadview,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.707725-Manhattan
+300 PARK AVENUE,-73.974271,1012850036.0,"Lightyear,Abovenet,Level(3),Windstream,Internap,Zayo,AT&T,Time Warner Cable,Verizon,Cogent","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.756802-Manhattan
+1370 BROADWAY,-73.987505,1008120049.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,4,40.752048-Manhattan
+125-01 QUEENS BOULEVARD,-73.826292,4096530001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.712357-Queens
+841 BROADWAY,-73.990896,1005650015.0,"Wave 2 Wave,Verizon,Cogent","Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.734243-Manhattan
+225 JORALEMON STREET,-73.990228,3001390001.0,,"Combination of open, shared, and dedicated  space",Yes,No,No,1,40.692432-Brooklyn
+314 WEST 54 STREET,-73.984997,1010440022.0,,Dedicated room,Yes,No,No,2,40.765082-Manhattan
+88-11 SUTPHIN BOULEVARD,-73.809151,4096910001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,Yes,2,40.704623-Queens
+180 MAIDEN LANE,-74.004873,1000370023.0,"AT&T,Other,Time Warner Cable,Verizon","Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.705308-Manhattan
+67 TARGEE STREET,-74.083403,5005420009.0,,Dedicated room,Yes,Yes,No,1,40.625509-Staten Island
+825 8 AVENUE,-73.986275,1010400029.0,"Verizon FIOS,Verizon,TW Telecom,Time Warner Cable,Sidera,Rainbow Broadband,Lightpath,Covad,Cogent,Broadview,AT&T,Abovenet","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.762074-Manhattan
+866 United Nations Plaza,-73.966834,1013600001.0,,,,No,No,,40.752925-Manhattan
+250 Park Ave South,-73.987818,1008480043.0,"Verizon FIOS,Verizon,Time Warner Cable,Lightpath",Hallway/Open Space,Yes,Yes,No,3,40.738231-Manhattan
+89-19 SUTPHIN BOULEVARD,-73.808682,4096800001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.703603-Queens
+1730 BROADWAY,-73.982174,1010270020.0,"Verizon,TW Telecom,Time Warner Cable,Level(3),Direct TV,Cogent,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.764843-Manhattan
+110 EAST 42 STREET,-73.976944,1012961001.0,"Verizon,Time Warner Cable,Cogent,AT&T","Combination of open, shared, and dedicated  space",No capability available,Yes,No,4,40.751807-Manhattan
+100 RICHMOND TERRACE,-74.07723,5000090022.0,,"Combination of open, shared, and dedicated  space",Yes,No,No,1,40.644935-Staten Island
+109 LEONARD STREET,-74.003189,1001710031.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.716473-Manhattan
+894 7 AVENUE,-73.980268,1010280033.0,"Time Warner Cable,Verizon",Hallway/Open Space,No capability available,No,No,2,40.765219-Manhattan
+1120 GRAND CONCOURSE,-73.919644,2024620039.0,,Dedicated room,Yes,No,No,2,40.832249-Bronx
+206 WEST 34 STREET,-73.991013,1007830070.0,"Verizon,TW Telecom,Time Warner Cable,Sidera,Lightpath,Level(3),Cogent,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.751148-Manhattan
+566 LEXINGTON AVENUE,-73.972145,1013050060.0,"Everest Broadband,Time Warner Cable,Verizon,Cogent",Dedicated room,Yes,Yes,No,4,40.756815-Manhattan
+375 PEARL STREET,-74.001125,1001137501.0,"Other,Zayo,XO Communications,Windstream,Verizon,Sidera,OCG,Lightpath,Lightower,Level(3)",Dedicated room,Yes,Yes,No,5 or more,40.710207-Manhattan
+771 10 AVENUE,-73.99082,1999999999.0,AT&T,Dedicated room,Yes,Yes,No,5 or more,40.766032-Manhattan
+2 PARK AVENUE,-73.982092,1008620029.0,"XO Communications,Windstream,Verizon,TW Telecom,Time Warner Cable,Cogent,AT&T",Hallway/Open Space,Yes,Yes,No,5 or more,40.746077-Manhattan
+151-02 JAMAICA AVENUE,-73.803261,4100930001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,1,40.702455-Queens
+370 LEXINGTON AVENUE,-73.976641,1012950058.0,"Other,Verizon FIOS,Verizon,Time Warner Cable,Cogent,Broadview","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.750646-Manhattan
+40 FULTON STREET,-74.004411,1000750021.0,"Verizon,Time Warner Cable,Direct TV,Cogent",Dedicated room,Yes,Yes,Yes,4,40.707904-Manhattan
+1114 AVENUE OF THE AMERIC,,,"Verizon,Time Warner Cable,Lightpath,Lightower,Cogent,AT&T,Abovenet","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,nan-Manhattan
+1120 AVENUE OF THE AMERIC,,1012590001.0,"Zayo,Verizon,Time Warner Cable,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,No,4,nan-Manhattan
+381 PARK AVENUE SOUTH,-73.984641,1008820085.0,"Verizon,Time Warner Cable,OCG,Cogent",Hallway/Open Space,Yes,Yes,No,4,40.742534-Manhattan
+100 5 AVENUE,-73.992992,1008177502.0,"Windstream,Verizon,TW Telecom,Time Warner Cable,Level(3),Broadview,Abovenet",Dedicated room,Yes,Yes,No,5 or more,40.736881-Manhattan
+1 WATER STREET,-74.012742,1000041010.0,"Zayo,Verizon,Time Warner Cable,Lightpath,Lightower,Cogent,AT&T","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.702444-Manhattan
+551 5 AVENUE,-73.979318,1012810001.0,"Time Warner Cable,Verizon",Common (shared) room,Yes,No,No,2,40.755617-Manhattan
+915 BROADWAY,-73.989654,1008490070.0,"Verizon FIOS,Verizon,TW Telecom,Towerstream,Time Warner Cable,Abovenet","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.739644-Manhattan
+10 RICHMOND TERRACE,-74.075201,5000070001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.642197-Staten Island
+253 BROADWAY,-74.007063,1001341001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.713265-Manhattan
+117 CHRYSTIE STREET,-73.993546,1004230022.0,,"Combination of open, shared, and dedicated  space",Yes,No,No,1,40.718719-Manhattan
+11 WEST 42 STREET,-73.981599,1012580021.0,"Cogent,TW Telecom,Cablevision,Verizon","Combination of open, shared, and dedicated  space",Yes,Yes,No,4,40.75379-Manhattan
+1680 BROADWAY,-73.983005,1010240038.0,"Verizon,Time Warner Cable,Earthlink,Covad,Cogent,Broadview,AT&T",Common (shared) room,Yes,Yes,Yes,5 or more,40.763034-Manhattan
+919 3 AVENUE,-73.968333,1013290001.0,"Verizon,Time Warner Cable,Cogent,Broadview","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.759136-Manhattan
+363 HUDSON STREET,-74.007194,1005990064.0,"Verizon,Cogent,Fibernet",Dedicated room,Yes,Yes,No,2,40.72816-Manhattan
+370 7 AVENUE,-73.992244,1007800036.0,"TW Telecom,AT&T,Time Warner Cable,Verizon","Combination of open, shared, and dedicated  space",Yes,Yes,No,4,40.74879-Manhattan
+875 AVENUE OF THE AMERIC,,1008070039.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,nan-Manhattan
+530 5 AVENUE,-73.979877,1012600034.0,"Verizon,Time Warner Cable,Lightpath","Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.754879-Manhattan
+130 STUYVESANT PLACE,-74.076874,5000080070.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.642891-Staten Island
+1932 ARTHUR AVENUE,-73.893294,2029470018.0,,"Combination of open, shared, and dedicated  space",,Yes,No,4,40.845685-Bronx
+280 PARK AVENUE,-73.974831,1012840033.0,"Zayo,Verizon,TW Telecom,Time Warner Cable,Lightpath,Direct TV,Cogent","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,5 or more,40.756023-Manhattan
+150 West 56 Street,-73.979734,1010087503.0,"Abovenet,RCN,Teleport Communications,Verizon,Eureka",Yes,,No,No,Yes,40.764505-Manhattan
+100 CENTRE STREET,-74.001425,1001670001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.716084-Manhattan
+120 SCHERMERHORN STREET,-73.988923,3001690017.0,,"Combination of open, shared, and dedicated  space",Yes,No,No,2,40.690074-Brooklyn
+5 EAST 52 STREET,-73.975916,1012880007.0,"Verizon,Time Warner Cable,Cablevision,AT&T",Common (shared) room,Yes,Yes,No,3,40.75964-Manhattan
+485 LEXINGTON AVENUE,-73.973994,1013010023.0,"Verizon,Time Warner Cable,Lightower,Cogent,AT&T,Abovenet","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.754244-Manhattan
+100 CHURCH STREET,-74.00949,1001250020.0,"RCN,Time Warner Cable,Lightower,AT&T,Verizon","Combination of open, shared, and dedicated  space",Yes,Yes,No,4,40.712968-Manhattan
+330 JAY STREET,-73.987198,3001401001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.694495-Brooklyn
+162 5 AVENUE,-73.990459,1008230037.0,"Verizon,Time Warner Cable,OCG",Dedicated room,Yes,Yes,No,3,40.740358-Manhattan
+27 MADISON AVENUE,-73.986821,1008550001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,1,40.742232-Manhattan
+560 LEXINGTON AVENUE,-73.972264,1013050013.0,"Other,Verizon,Reliance,Cogent",Common (shared) room,Yes,Yes,Yes,4,40.756651-Manhattan
+3100 47 AVENUE,-73.935652,4002810001.0,"Verizon,Time Warner Cable,Eureka,AT&T",Hallway/Open Space,Yes,Yes,No,4,40.74306-Queens
+45 Rockefeller Plaza,-73.978335,,"RGTS,Time Warner Cable,Verizon,Cogent,Abovenet",Dedicated room,Yes,Yes,No,5 or more,40.759204-Manhattan
+250 VESEY PLACE,,1000160150.0,"Zayo,Verizon,Time Warner Cable,Lightower,AT&T",Dedicated room,Yes,Yes,No,5 or more,nan-Manhattan
+1330 6 Avenue,-73.978803,1012690001.0,"XO Communications,Time Warner Cable,Verizon,AT&T,Zayo",Dedicated room,Yes,Yes,No,4,40.762103-Manhattan
+16 WALKER STREET,-74.004978,1001920001.0,"Other,Zayo,XO Communications,Verizon,TW Telecom,Towerstream,Time Warner Cable,Sprint,Reliance,RCN,Rainbow Broadband,OCG,Lightpath,Lightower,Level(3),Cogent,Century Link,AT&T,Abovenet",Dedicated room,Yes,Yes,Yes,5 or more,40.719753-Manhattan
+345 PARK AVENUE,-73.973246,1013060001.0,"Sprint,Zayo,AT&T,Reliance Globalcom,Verizon,Time Warner Cable,Cogent","Combination of open, shared, and dedicated  space",Yes,Yes,No,5 or more,40.758171-Manhattan
+1 CENTRE STREET,-74.004181,1001210001.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.713001-Manhattan
+420 LEXINGTON AVENUE,-73.975464,1012800060.0,"Cogent,Cablevision,Other,Time Warner Cable,Verizon",Common (shared) room,Yes,Yes,No,5 or more,40.752262-Manhattan
+259 5 AVENUE,-73.987008,1008580078.0,"Verizon FIOS,Verizon,Time Warner Cable,Lightower","Combination of open, shared, and dedicated  space",Yes,Yes,No,3,40.745059-Manhattan
+474 PEARL STREET,-74.001035,1001600021.0,,"Combination of open, shared, and dedicated  space",Yes,Yes,No,2,40.713353-Manhattan
+112 West 34th Street,-73.988454,1008090053.0,"none,none,none,none,none","Combination of open, shared, and dedicated  space",Yes,Yes,Yes,4,40.750063-Manhattan
